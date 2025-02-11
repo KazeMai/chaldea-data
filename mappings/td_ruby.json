@@ -125,6 +125,13 @@
     "NA": "Kuchiyose, Ibukidaimyoujin-Engi",
     "KR": "공수・이부키 다이묘진 엔기"
   },
+  "くろひめものがたり・かみながし": {
+    "JP": null,
+    "CN": "Kurohime Monogatari Kaminagashi",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "けんじゅつむそう・けんぜんいちにょ": {
     "JP": null,
     "CN": "Kenjutsumusou Kenzenichinyo",
@@ -190,7 +197,7 @@
   },
   "ごおうはんてん・じんらいふうれつ": {
     "JP": null,
-    "CN": "Goouhanten Jinraifuuretsu",
+    "CN": "Goouhanntenn Jinnraihuuretsu",
     "TW": null,
     "NA": "Ox-King Reversal - Frenzied Tempest",
     "KR": null
@@ -554,7 +561,7 @@
   },
   "ひけん・ひよくせんよう": {
     "JP": null,
-    "CN": "Hiken Hiyokusenyou",
+    "CN": "Hikenn Hiyokusennyou",
     "TW": null,
     "NA": "Hidden Sword: Soaring Flash",
     "KR": null
@@ -736,7 +743,7 @@
   },
   "れっしじゅんめい・ふしゃくしんみょう": {
     "JP": null,
-    "CN": "Resshijunmei Fushakushinmyou",
+    "CN": "Resshijunnmei Fushakushinnmyou",
     "TW": null,
     "NA": "Selfless Liberator - Ātma-Parityāga",
     "KR": null
@@ -1437,9 +1444,9 @@
   "クルージーン・セタンタ": {
     "JP": null,
     "CN": "Cruadin Setanta",
-    "TW": null,
+    "TW": "Cruadin Setanta",
     "NA": "Cruadín Sétanta",
-    "KR": null
+    "KR": "크루딘 세탄타"
   },
   "クロケア・モース": {
     "JP": null,
@@ -1669,7 +1676,7 @@
     "JP": null,
     "CN": "Зажигание Aŋra Mainiuu",
     "TW": "Зажигание Aŋra Mainiuu",
-    "NA": "Zazhiganiye Angra Mainyu",
+    "NA": "Zazhiganiye, Aŋra Mainiiu",
     "KR": "자지가니예 앙리 마유"
   },
   "ザバーニーヤ": {
@@ -2071,6 +2078,13 @@
     "NA": "Durindana",
     "KR": "두린다나"
   },
+  "ドラゴンファンタズム": {
+    "JP": null,
+    "CN": "Dragon Phantasm",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ドリームランズ": {
     "JP": null,
     "CN": "Dreamlands",
@@ -2109,7 +2123,7 @@
   "ナンム・ドゥルアンキ": {
     "JP": null,
     "CN": "Nammu Duranki",
-    "TW": null,
+    "TW": "Nammu Duranki",
     "NA": "Nammu Duranki",
     "KR": "남무 두르안키"
   },
@@ -2131,7 +2145,7 @@
     "JP": null,
     "CN": "Neferu Swen Anubis",
     "TW": "Neferu Swen Anubis",
-    "NA": "Neferu Suen Anubis",
+    "NA": "Neferu Swen Anubis",
     "KR": "네페루 수엔 아누비스"
   },
   "ノブナガ・ＴＨＥ・ロックンロール": {
@@ -2291,9 +2305,9 @@
   "フィニス・フングス": {
     "JP": null,
     "CN": "Finis Fungus",
-    "TW": null,
+    "TW": "Finis Fungus",
     "NA": "Finis Fungus",
-    "KR": null
+    "KR": "피니스 풍구스"
   },
   "フェアリーテイル・エルジェーベト": {
     "JP": null,
@@ -2501,9 +2515,9 @@
   "ベイバロン・ドムス・アウレア": {
     "JP": null,
     "CN": "Babalon Domus Aurea",
-    "TW": null,
+    "TW": "Babalon Domus Aurea",
     "NA": "Babalon Domus Aurea",
-    "KR": null
+    "KR": "베이발론 도무스 아우레아"
   },
   "ベルレフォーン": {
     "JP": null,
@@ -2640,7 +2654,7 @@
   },
   "マーブルファンタズム・ハッピーヴァース": {
     "JP": null,
-    "CN": null,
+    "CN": "Marble Phantasm Happy-Verse",
     "TW": null,
     "NA": null,
     "KR": null
@@ -2728,6 +2742,13 @@
     "TW": "Yucatan Regalo de Navidad",
     "NA": "Yucatán Regalo de Navidad",
     "KR": "유카탄 레갈로 데 나비다"
+  },
+  "ユートピー・ピュルガトワール": {
+    "JP": null,
+    "CN": "Utopie Purgatoire",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ライ・ライク・ヴォーティガーン": {
     "JP": null,
@@ -2966,6 +2987,13 @@
     "TW": "Viy Viy Viy",
     "NA": "Viy Viy Viy",
     "KR": "비이・비이・비이"
+  },
+  "ヴィスコンティ・アセンツァ": {
+    "JP": null,
+    "CN": "Visconti Asenza",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ヴィ・ヴィクテス": {
     "JP": null,

@@ -35,6 +35,9 @@
     "startedAt": 1522832400,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 100,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_000100/img_questmap_000100.png",
@@ -158,6 +161,16 @@
         "targetId": 100100,
         "value": 3,
         "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.3で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -358,6 +371,15 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -868,6 +890,16 @@
         "value": 2,
         "closedMessage": "第四特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点クリアで開放可能",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -1270,6 +1302,16 @@
         "value": 2,
         "closedMessage": "第一特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点クリアで開放可能",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -1335,6 +1377,24 @@
         "value": 3,
         "closedMessage": "第二特異点をクリア＆霊基再臨2段階目＆絆Lv.3で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100201,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -1391,6 +1451,15 @@
         "targetId": 100600,
         "value": 4,
         "closedMessage": "霊基再臨2段階目＆絆Lv.4で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100601,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -1481,6 +1550,14 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91200101,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -1556,6 +1633,15 @@
         "eventId": 80446,
         "startedAt": 1696237200,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.1で開放",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -1788,6 +1874,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 101,
@@ -2072,6 +2161,23 @@
         "eventId": 80376,
         "startedAt": 1652864400,
         "endedAt": 1656561599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点クリアで開放可能",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100801,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -2786,6 +2892,15 @@
         "eventId": 80376,
         "startedAt": 1652864400,
         "endedAt": 1656561599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点クリアで開放可能",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -3095,6 +3210,25 @@
         "value": 3,
         "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.3で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -3386,9 +3520,18 @@
         "condId": 1000115,
         "closedMessage": "第一特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
         "overlayClosedMessage": "第一特異点をクリアで開放",
-        "eventId": 80470,
-        "startedAt": 1709110800,
-        "endedAt": 1710320399
+        "eventId": 80516,
+        "startedAt": 1735722000,
+        "endedAt": 1738335599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点クリアで開放可能",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -3491,6 +3634,16 @@
         "value": 1,
         "closedMessage": "第一特異点をクリア＆霊基再臨1段階目＆絆Lv.1で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点クリアで開放可能",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -3552,6 +3705,16 @@
         "targetId": 200900,
         "value": 2,
         "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第三特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -4635,6 +4798,9 @@
     "startedAt": 1522832400,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 102,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_000102/img_questmap_000102.png",
@@ -4793,6 +4959,24 @@
         "targetId": 100500,
         "value": 5,
         "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点クリアで開放可能",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100502,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -5025,6 +5209,16 @@
         "value": 2,
         "closedMessage": "第二特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -5079,6 +5273,24 @@
         "targetId": 100500,
         "value": 2,
         "closedMessage": "第二特異点をクリア＆霊基再臨2段階目＆絆Lv.2で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100501,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -6388,6 +6600,15 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -6449,6 +6670,24 @@
         "targetId": 101800,
         "value": 4,
         "closedMessage": "第二特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91101801,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -6903,6 +7142,25 @@
         "targetId": 201200,
         "value": 2,
         "closedMessage": "第二特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第二特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -8063,6 +8321,15 @@
         "eventId": 80446,
         "startedAt": 1695891600,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第三特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -8476,6 +8743,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 103,
@@ -9148,6 +9418,25 @@
         "value": 5,
         "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "第四特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -9654,6 +9943,23 @@
         "eventId": 80446,
         "startedAt": 1696237200,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91200202,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -10276,6 +10582,16 @@
         "value": 3,
         "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.3で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "第三特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -10752,6 +11068,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 104,
@@ -11648,6 +11967,15 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000632,
+        "closedMessage": "第六特異点クリアで開放可能",
+        "overlayClosedMessage": "第六特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -12408,6 +12736,23 @@
         "eventId": 80446,
         "startedAt": 1696237200,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨2段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91200201,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -12463,6 +12808,24 @@
         "targetId": 200500,
         "value": 4,
         "closedMessage": "第四特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91200501,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -12639,6 +13002,16 @@
         "targetId": 201100,
         "value": 3,
         "closedMessage": "第四特異点をクリア＆霊基再臨2段階目＆絆Lv.3で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨2段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -13041,6 +13414,16 @@
         "value": 3,
         "closedMessage": "第四特異点をクリア＆霊基再臨1段階目＆絆Lv.3で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点クリアで開放可能",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -13229,6 +13612,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 105,
@@ -14403,6 +14789,24 @@
         "value": 5,
         "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91200901,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -14464,6 +14868,25 @@
         "targetId": 201000,
         "value": 4,
         "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.4で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "第五特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2, 3, 4, 5, 6],
       "phasesWithEnemies": [1, 2, 3, 4, 5, 6],
@@ -15183,6 +15606,15 @@
         "eventId": 80398,
         "startedAt": 1662541200,
         "endedAt": 1663127999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点クリアで開放可能",
+        "overlayClosedMessage": "第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -16035,6 +16467,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 106,
@@ -17433,6 +17868,24 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨2段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨2段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "終局特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -18564,6 +19017,15 @@
         "eventId": 80503,
         "startedAt": 1730451600,
         "endedAt": 1732978799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -19154,6 +19616,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 107,
@@ -21752,6 +22217,16 @@
         "targetId": 202000,
         "closedMessage": "第七特異点をクリア＆霊基再臨2段階目で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000722,
+        "closedMessage": "第七特異点をクリア＆霊基再臨2段階目で開放",
+        "overlayClosedMessage": "第七特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -22674,6 +23149,12 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
+  }, {
+    "id": 1,
+    "questType": "event"
   }],
   "maps": [{
     "id": 108,
@@ -24346,6 +24827,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 201,
@@ -26275,6 +26759,9 @@
     "startedAt": 1522832400,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 20201,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_020201/img_questmap_020201.png",
@@ -28148,6 +28635,9 @@
     "targetId": 3000008,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 20301,
@@ -30024,6 +30514,9 @@
     "startedAt": 1522832400,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 20401,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_020401/img_questmap_020401.png",
@@ -31415,6 +31908,9 @@
     "startedAt": 1514710800,
     "endedAt": 1893510000
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 300,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_000300/img_questmap_000300.png",
@@ -31779,6 +32275,9 @@
     "targetId": 3000125,
     "startedAt": 1522832400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 301,
@@ -34807,6 +35306,9 @@
     "startedAt": 1531920600,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 30201,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_030201/img_questmap_030201.png",
@@ -37164,6 +37666,9 @@
     "startedAt": 1543323600,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 30301,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_030301/img_questmap_030301.png",
@@ -39353,6 +39858,9 @@
     "value": 2,
     "startedAt": 1560600000,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 30401,
@@ -43240,6 +43748,9 @@
     "targetId": 3000008,
     "startedAt": 1576670400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 30501,
@@ -47604,6 +48115,9 @@
     "startedAt": 1586347200,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 30601,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_030601/img_questmap_030601.png",
@@ -50969,6 +51483,9 @@
     "startedAt": 1607072400,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 30701,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_030701/img_questmap_030701.png",
@@ -53415,6 +53932,9 @@
     "targetId": 3001009,
     "startedAt": 1628067600,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 30801,
@@ -59592,6 +60112,9 @@
     "startedAt": 1640941200,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 309,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_000309/img_questmap_000309.png",
@@ -59753,6 +60276,9 @@
     "targetId": 3001222,
     "startedAt": 1654086600,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 31001,
@@ -62890,6 +63416,9 @@
     "targetId": 10081510,
     "startedAt": 1675162800,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 31101,
@@ -70752,6 +71281,9 @@
     "startedAt": 1687078800,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 400,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_000400/img_questmap_000400.png",
@@ -70870,6 +71402,9 @@
     "startedAt": 1687078800,
     "endedAt": 1893423600
   }],
+  "groups": [{
+    "id": 1
+  }],
   "maps": [{
     "id": 401,
     "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_000401/img_questmap_000401.png",
@@ -70941,9 +71476,9 @@
       "chapterId": 401,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71012,9 +71547,9 @@
       "chapterId": 401,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71082,9 +71617,9 @@
       "chapterId": 401,
       "chapterSubId": 3,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71114,9 +71649,9 @@
       "chapterId": 953,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71184,9 +71719,9 @@
       "chapterId": 401,
       "chapterSubId": 4,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71224,9 +71759,9 @@
       "chapterId": 401,
       "chapterSubId": 5,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71364,9 +71899,9 @@
       "chapterId": 932,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71396,9 +71931,9 @@
       "chapterId": 932,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71466,9 +72001,9 @@
       "chapterId": 866,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71537,9 +72072,9 @@
       "chapterId": 866,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71659,9 +72194,9 @@
       "chapterId": 907,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71699,9 +72234,9 @@
       "chapterId": 1005,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71739,9 +72274,9 @@
       "chapterId": 1005,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71779,9 +72314,9 @@
       "chapterId": 896,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71819,9 +72354,9 @@
       "chapterId": 953,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71859,9 +72394,9 @@
       "chapterId": 907,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71929,9 +72464,9 @@
       "chapterId": 896,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "questClear",
@@ -71999,9 +72534,9 @@
       "chapterId": 1372,
       "chapterSubId": 1,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "commonRelease",
@@ -72031,9 +72566,9 @@
       "chapterId": 1372,
       "chapterSubId": 2,
       "gifts": [{
-        "id": 478,
+        "id": 483,
         "objectId": 50,
-        "num": 10
+        "num": 20
       }],
       "releaseConditions": [{
         "type": "commonRelease",
@@ -72205,6 +72740,9 @@
     "targetId": 4000217,
     "startedAt": 1687078800,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 402,
@@ -74154,6 +74692,85 @@
       "noticeAt": 1687078800,
       "openedAt": 1687078800,
       "closedAt": 1893423600
+    }, {
+      "id": 94140705,
+      "name": "第14節 進行度3 リコレクションクエスト(3/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 40268,
+      "warId": 402,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000217
+      }, {
+        "type": "questClear",
+        "targetId": 94140703,
+        "closedMessage": "「第12節 進行度1 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "「第12節 進行度1 リコレクションクエスト」クリア\n＆1月13日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414070510",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414070510.txt"
+        }]
+      }],
+      "priority": 94140696,
+      "noticeAt": 1736672400,
+      "openedAt": 1736758800,
+      "closedAt": 1738335599
+    }, {
+      "id": 94140706,
+      "name": "第14節 進行度3 スーパーリコレクションクエスト(3/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 40268,
+      "warId": 402,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000217
+      }, {
+        "type": "questClear",
+        "targetId": 94140705,
+        "closedMessage": "「第14節 進行度3 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414070610",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414070610.txt"
+        }]
+      }],
+      "priority": 94140695,
+      "noticeAt": 1736758800,
+      "openedAt": 1736758800,
+      "closedAt": 1738335599
     }]
   }, {
     "id": 40269,
@@ -74388,6 +75005,80 @@
       "noticeAt": 1687078800,
       "openedAt": 1687078800,
       "closedAt": 1893423600
+    }, {
+      "id": 94140701,
+      "name": "第10節 進行度2 リコレクションクエスト(1/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "83",
+      "spotId": 40275,
+      "warId": 402,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000217
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414070110",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414070110.txt"
+        }]
+      }],
+      "priority": 94140700,
+      "noticeAt": 1736586000,
+      "openedAt": 1736586000,
+      "closedAt": 1738335599
+    }, {
+      "id": 94140702,
+      "name": "第10節 進行度2 スーパーリコレクションクエスト(1/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 40275,
+      "warId": 402,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000217
+      }, {
+        "type": "questClear",
+        "targetId": 94140701,
+        "closedMessage": "「第10節 進行度2 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414070210",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414070210.txt"
+        }]
+      }],
+      "priority": 94140699,
+      "noticeAt": 1736586000,
+      "openedAt": 1736586000,
+      "closedAt": 1738335599
     }]
   }, {
     "id": 40276,
@@ -74466,6 +75157,85 @@
       "noticeAt": 1687078800,
       "openedAt": 1687078800,
       "closedAt": 1893423600
+    }, {
+      "id": 94140703,
+      "name": "第12節 進行度1 リコレクションクエスト(2/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "85",
+      "spotId": 40277,
+      "warId": 402,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000217
+      }, {
+        "type": "questClear",
+        "targetId": 94140701,
+        "closedMessage": "「第10節 進行度2 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "「第10節 進行度2 リコレクションクエスト」クリア\n＆1月12日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414070310",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414070310.txt"
+        }]
+      }],
+      "priority": 94140698,
+      "noticeAt": 1736586000,
+      "openedAt": 1736672400,
+      "closedAt": 1738335599
+    }, {
+      "id": 94140704,
+      "name": "第12節 進行度1 スーパーリコレクションクエスト(2/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 40277,
+      "warId": 402,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000217
+      }, {
+        "type": "questClear",
+        "targetId": 94140703,
+        "closedMessage": "「第12節 進行度1 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414070410",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414070410.txt"
+        }]
+      }],
+      "priority": 94140697,
+      "noticeAt": 1736672400,
+      "openedAt": 1736672400,
+      "closedAt": 1738335599
     }]
   }, {
     "id": 40278,
@@ -75026,6 +75796,9 @@
     "targetId": 4000326,
     "startedAt": 1710932400,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 40301,
@@ -75635,6 +76408,170 @@
       "noticeAt": 1710932400,
       "openedAt": 1710932400,
       "closedAt": 1893423600
+    }, {
+      "id": 94142103,
+      "name": "第二十二節 進行度7 リコレクションクエスト(2/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 40302,
+      "warId": 403,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000326
+      }, {
+        "type": "questClear",
+        "targetId": 94142101,
+        "closedMessage": "「第十七節 進行度4 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "「第十七節 進行度4 リコレクションクエスト」クリア\n＆2月2日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414210310",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210310.txt"
+        }, {
+          "scriptId": "9414210311",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210311.txt"
+        }]
+      }],
+      "priority": 94142098,
+      "noticeAt": 1738400400,
+      "openedAt": 1738486800,
+      "closedAt": 1740754799
+    }, {
+      "id": 94142104,
+      "name": "第二十二節 進行度7 スーパーリコレクションクエスト(2/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 40302,
+      "warId": 403,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000326
+      }, {
+        "type": "questClear",
+        "targetId": 94142103,
+        "closedMessage": "「第二十二節 進行度7 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414210410",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210410.txt"
+        }, {
+          "scriptId": "9414210411",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210411.txt"
+        }]
+      }],
+      "priority": 94142097,
+      "noticeAt": 1738486800,
+      "openedAt": 1738486800,
+      "closedAt": 1740754799
+    }, {
+      "id": 94142105,
+      "name": "第二十五節 進行度2 リコレクションクエスト(3/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "85",
+      "spotId": 40302,
+      "warId": 403,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000326
+      }, {
+        "type": "questClear",
+        "targetId": 94142103,
+        "closedMessage": "「第二十二節 進行度7 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "「第二十二節 進行度7 リコレクションクエスト」クリア\n＆2月3日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414210510",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210510.txt"
+        }]
+      }],
+      "priority": 94142096,
+      "noticeAt": 1738486800,
+      "openedAt": 1738573200,
+      "closedAt": 1740754799
+    }, {
+      "id": 94142106,
+      "name": "第二十五節 進行度2 スーパーリコレクションクエスト(3/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 40302,
+      "warId": 403,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000326
+      }, {
+        "type": "questClear",
+        "targetId": 94142105,
+        "closedMessage": "「第二十五節 進行度2 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414210610",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210610.txt"
+        }]
+      }],
+      "priority": 94142095,
+      "noticeAt": 1738573200,
+      "openedAt": 1738573200,
+      "closedAt": 1740754799
     }]
   }, {
     "id": 40303,
@@ -76152,6 +77089,86 @@
       "noticeAt": 1710932400,
       "openedAt": 1710932400,
       "closedAt": 1893423600
+    }, {
+      "id": 94142101,
+      "name": "第十七節 進行度4 リコレクションクエスト(1/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "83",
+      "spotId": 40303,
+      "warId": 403,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000326
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414210110",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210110.txt"
+        }, {
+          "scriptId": "9414210111",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210111.txt"
+        }]
+      }],
+      "priority": 94142100,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1740754799
+    }, {
+      "id": 94142102,
+      "name": "第十七節 進行度4 スーパーリコレクションクエスト(1/3)",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "actConsumeBattleWin", "notRetrievable", "recollection"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 40303,
+      "warId": 403,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000326
+      }, {
+        "type": "questClear",
+        "targetId": 94142101,
+        "closedMessage": "「第十七節 進行度4 リコレクションクエスト」クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414210210",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210210.txt"
+        }, {
+          "scriptId": "9414210211",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414210211.txt"
+        }]
+      }],
+      "priority": 94142099,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1740754799
     }]
   }, {
     "id": 40304,
@@ -77750,27 +78767,6 @@
   "startType": "quest",
   "targetId": 4000401,
   "lastQuestId": 4000426,
-  "releaseConditions": [{
-    "priority": 9000,
-    "condType": "commonRelease",
-    "condId": 10100701,
-    "warDisplayType": "open"
-  }, {
-    "priority": 10000,
-    "condType": "commonRelease",
-    "condId": 10101601,
-    "warDisplayType": "close"
-  }, {
-    "priority": 11000,
-    "condType": "commonRelease",
-    "condId": 10099502,
-    "warDisplayType": "close"
-  }, {
-    "priority": 20000,
-    "condType": "commonRelease",
-    "condId": 10099501,
-    "warDisplayType": "hide"
-  }],
   "warAdds": [{
     "warId": 404,
     "type": "baseMapId",
@@ -77867,6 +78863,9 @@
     "value": 1,
     "startedAt": 1726822800,
     "endedAt": 1893423600
+  }],
+  "groups": [{
+    "id": 1
   }],
   "maps": [{
     "id": 40401,
@@ -78522,7 +79521,7 @@
       "id": 4000404,
       "name": "幕間",
       "type": "main",
-      "flags": ["noBattle"],
+      "flags": ["noBattle", "noDisplayRemain"],
       "consume": 0,
       "afterClear": "close",
       "recommendLv": "1",
@@ -78555,14 +79554,14 @@
         }]
       }],
       "priority": 4000397,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000415,
       "name": "幕間２",
       "type": "main",
-      "flags": ["noBattle"],
+      "flags": ["noBattle", "noDisplayRemain"],
       "consume": 0,
       "afterClear": "close",
       "recommendLv": "1",
@@ -78595,14 +79594,14 @@
         }]
       }],
       "priority": 4000386,
-      "noticeAt": 1726045200,
-      "openedAt": 1726045200,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000421,
       "name": "幕間４",
       "type": "main",
-      "flags": ["noBattle"],
+      "flags": ["noBattle", "noDisplayRemain"],
       "consume": 0,
       "afterClear": "close",
       "recommendLv": "1",
@@ -78635,9 +79634,103 @@
         }]
       }],
       "priority": 4000380,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040401,
+      "name": "トップ・オブ・ザ・ムーン",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 22,
+      "afterClear": "repeatLast",
+      "recommendLv": "82",
+      "spotId": 40401,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 1,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000374,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040450,
+      "name": "霊基獲得クエスト 岸波白野(男性)",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "90",
+      "spotId": 40401,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 50,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/3.png",
+      "gifts": [{
+        "id": 321321,
+        "type": "servant",
+        "objectId": 2300700,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }, {
+        "type": "commonRelease",
+        "targetId": 10141201
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 93040450,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040451,
+      "name": "霊基獲得クエスト 岸波白野(女性)",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "90",
+      "spotId": 40401,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 51,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/3.png",
+      "gifts": [{
+        "id": 321322,
+        "type": "servant",
+        "objectId": 2300800,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }, {
+        "type": "commonRelease",
+        "targetId": 10141202
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 93040449,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40403,
@@ -78648,7 +79741,36 @@
     "y": 1076.0,
     "nameOfsY": -4,
     "questOfsX": 44,
-    "questOfsY": -89
+    "questOfsY": -89,
+    "quests": [{
+      "id": 93040402,
+      "name": "ムーン・ストリート",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "78",
+      "spotId": 40403,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 2,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000373,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40404,
     "mapId": 40401,
@@ -78663,7 +79785,7 @@
       "id": 4000402,
       "name": "マッド・ローラン ～裸のデスドバイ～",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -78735,9 +79857,37 @@
         }]
       }],
       "priority": 4000399,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040403,
+      "name": "コンピューティング・シティ",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "78",
+      "spotId": 40404,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 3,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000372,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40405,
@@ -78748,7 +79898,36 @@
     "y": 1375.0,
     "nameOfsY": -1,
     "questOfsX": 41,
-    "questOfsY": -92
+    "questOfsY": -92,
+    "quests": [{
+      "id": 93040404,
+      "name": "ラグジュアリー・ビュッフェ",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "75",
+      "spotId": 40405,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 4,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000371,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40406,
     "mapId": 40401,
@@ -78763,7 +79942,7 @@
       "id": 4000403,
       "name": "七人のラスボス",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 23,
       "afterClear": "close",
       "recommendLv": "80",
@@ -78829,9 +80008,9 @@
         }]
       }],
       "priority": 4000398,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40407,
@@ -78842,7 +80021,36 @@
     "y": 792.0,
     "nameOfsY": -4,
     "questOfsX": 36,
-    "questOfsY": -56
+    "questOfsY": -56,
+    "quests": [{
+      "id": 93040405,
+      "name": "ワームズ・サンドボックス",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "77",
+      "spotId": 40407,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 5,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000370,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40408,
     "mapId": 40401,
@@ -78857,7 +80065,7 @@
       "id": 4000405,
       "name": "オールド・ドバイの休日（Ⅰ）",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 23,
       "afterClear": "close",
       "recommendLv": "80",
@@ -78932,14 +80140,14 @@
         }]
       }],
       "priority": 4000396,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000406,
       "name": "ライオン・スカイ ～恐怖の機械化帝国～",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 22,
       "afterClear": "close",
       "recommendLv": "73",
@@ -79011,14 +80219,14 @@
         }]
       }],
       "priority": 4000395,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000407,
       "name": "電気狐は甘やかしの夢を見るか？",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 25,
       "afterClear": "close",
       "recommendLv": "90",
@@ -79102,14 +80310,14 @@
         }]
       }],
       "priority": 4000394,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000408,
       "name": "インヴェイダー・バニー",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -79178,14 +80386,14 @@
         }]
       }],
       "priority": 4000393,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000409,
       "name": "オールド・ドバイの休日（Ⅱ）",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 23,
       "afterClear": "close",
       "recommendLv": "79",
@@ -79251,14 +80459,14 @@
         }]
       }],
       "priority": 4000392,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000410,
       "name": "ネペンテスのキス",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -79324,14 +80532,14 @@
         }]
       }],
       "priority": 4000391,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000411,
       "name": "地球の夏休み",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 23,
       "afterClear": "close",
       "recommendLv": "80",
@@ -79385,14 +80593,14 @@
         }]
       }],
       "priority": 4000390,
-      "noticeAt": 1726045200,
-      "openedAt": 1726045200,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000412,
       "name": "ブルー・オーシャン/ホワイト・バス",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 22,
       "afterClear": "close",
       "recommendLv": "73",
@@ -79455,14 +80663,14 @@
         }]
       }],
       "priority": 4000389,
-      "noticeAt": 1726045200,
-      "openedAt": 1726045200,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000413,
       "name": "ドゥームズ・デイ",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 25,
       "afterClear": "close",
       "recommendLv": "90",
@@ -79546,14 +80754,14 @@
         }]
       }],
       "priority": 4000388,
-      "noticeAt": 1726045200,
-      "openedAt": 1726045200,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000418,
       "name": "幕間３",
       "type": "main",
-      "flags": ["noBattle"],
+      "flags": ["noBattle", "noDisplayRemain"],
       "consume": 0,
       "afterClear": "close",
       "recommendLv": "1",
@@ -79586,14 +80794,14 @@
         }]
       }],
       "priority": 4000383,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000419,
       "name": "○○○と不思議の海・前編",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 25,
       "afterClear": "close",
       "recommendLv": "90",
@@ -79665,9 +80873,37 @@
         }]
       }],
       "priority": 4000382,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040406,
+      "name": "ムーン・ウォーキング",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "78",
+      "spotId": 40408,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 6,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000369,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40409,
@@ -79678,7 +80914,36 @@
     "y": 1460.0,
     "nameOfsY": -14,
     "questOfsX": 35,
-    "questOfsY": -84
+    "questOfsY": -84,
+    "quests": [{
+      "id": 93040407,
+      "name": "マシーナリー・タウン",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "79",
+      "spotId": 40409,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 7,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000368,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40410,
     "mapId": 40401,
@@ -79693,7 +80958,7 @@
       "id": 4000414,
       "name": "注文が大きいケーキ店",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -79771,14 +81036,14 @@
         }]
       }],
       "priority": 4000387,
-      "noticeAt": 1726045200,
-      "openedAt": 1726045200,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000416,
       "name": "月面最大の決戦",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -79862,14 +81127,14 @@
         }]
       }],
       "priority": 4000385,
-      "noticeAt": 1726045200,
-      "openedAt": 1726045200,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000420,
       "name": "キアラと不思議の海・後編",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -79953,9 +81218,37 @@
         }]
       }],
       "priority": 4000381,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040408,
+      "name": "ムーン・ショッピング",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "80",
+      "spotId": 40410,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 8,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000367,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40411,
@@ -79966,7 +81259,36 @@
     "y": 1072.0,
     "nameOfsY": -3,
     "questOfsX": 35,
-    "questOfsY": -59
+    "questOfsY": -59,
+    "quests": [{
+      "id": 93040409,
+      "name": "ムーン・クルージング",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "76",
+      "spotId": 40411,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 9,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000366,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40412,
     "mapId": 40401,
@@ -79976,7 +81298,36 @@
     "y": 752.0,
     "nameOfsY": -7,
     "questOfsX": 36,
-    "questOfsY": -55
+    "questOfsY": -55,
+    "quests": [{
+      "id": 93040410,
+      "name": "スター・ピッキング",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "80",
+      "spotId": 40412,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 10,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000365,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40413,
     "mapId": 40401,
@@ -80016,7 +81367,36 @@
     "y": 1470.0,
     "nameOfsY": 1,
     "questOfsX": 41,
-    "questOfsY": -65
+    "questOfsY": -65,
+    "quests": [{
+      "id": 93040411,
+      "name": "ケーキテーブル・ガーデン",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 21,
+      "afterClear": "repeatLast",
+      "recommendLv": "78",
+      "spotId": 40416,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 11,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000364,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40417,
     "mapId": 40401,
@@ -80056,7 +81436,36 @@
     "y": 614.0,
     "nameOfsY": -12,
     "questOfsX": 37,
-    "questOfsY": -78
+    "questOfsY": -78,
+    "quests": [{
+      "id": 93040413,
+      "name": "ムーンバス・アイランド",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 22,
+      "afterClear": "repeatLast",
+      "recommendLv": "81",
+      "spotId": 40420,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 13,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000362,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
   }, {
     "id": 40421,
     "mapId": 40401,
@@ -80091,7 +81500,7 @@
       "id": 4000425,
       "name": "Wonderer",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -80149,9 +81558,37 @@
         }]
       }],
       "priority": 4000376,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040414,
+      "name": "ムーン・ドバイ・ファウンテン",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 22,
+      "afterClear": "repeatLast",
+      "recommendLv": "83",
+      "spotId": 40423,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 14,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000361,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40424,
@@ -80177,7 +81614,7 @@
       "id": 4000422,
       "name": "消灯",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -80227,14 +81664,14 @@
         }]
       }],
       "priority": 4000379,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000423,
       "name": "流れよ我が涙、とＡＩは言った。",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 25,
       "afterClear": "close",
       "recommendLv": "90",
@@ -80315,9 +81752,9 @@
         }]
       }],
       "priority": 4000378,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40439,
@@ -80371,7 +81808,7 @@
       "id": 4000417,
       "name": "アース・フォール",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 23,
       "afterClear": "close",
       "recommendLv": "80",
@@ -80448,9 +81885,37 @@
         }]
       }],
       "priority": 4000384,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 93040412,
+      "name": "ファンタズム・パレード",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 22,
+      "afterClear": "repeatLast",
+      "recommendLv": "82",
+      "spotId": 40442,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 12,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000363,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40443,
@@ -80466,7 +81931,7 @@
       "id": 4000424,
       "name": "アーキタイプ・インセプション",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -80535,9 +82000,9 @@
         }]
       }],
       "priority": 4000377,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }, {
     "id": 40444,
@@ -80570,6 +82035,45 @@
     "questOfsX": 33,
     "questOfsY": -97
   }, {
+    "id": 40447,
+    "mapId": 40401,
+    "name": "特別航路",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter0404/QMap_Cap0404_Atlas/spot_040407.png",
+    "x": 1344.0,
+    "y": 1653.0,
+    "nameOfsY": -4,
+    "questOfsX": 36,
+    "questOfsY": -56,
+    "quests": [{
+      "id": 93040415,
+      "name": "セレブリティ・ボート",
+      "type": "free",
+      "flags": ["displayLoopmark"],
+      "consume": 22,
+      "afterClear": "repeatLast",
+      "recommendLv": "83",
+      "spotId": 40447,
+      "warId": 404,
+      "chapterId": 404,
+      "chapterSubId": 15,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/6.png",
+      "gifts": [{
+        "id": 101,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 93040412
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 4000360,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }]
+  }, {
     "id": 40499,
     "mapId": 40401,
     "name": "",
@@ -80579,7 +82083,7 @@
       "id": 4000401,
       "name": "月に囚われたＡＩ",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 5,
       "afterClear": "close",
       "recommendLv": "90",
@@ -80606,11 +82110,11 @@
         "num": 2
       }],
       "releaseConditions": [{
-        "type": "questClear",
-        "targetId": 4000100
+        "type": "none",
+        "targetId": 0
       }, {
         "type": "questClear",
-        "targetId": 94099513
+        "targetId": 4000100
       }, {
         "type": "date",
         "targetId": 0,
@@ -80654,14 +82158,14 @@
         }]
       }],
       "priority": 4000400,
-      "noticeAt": 1724835600,
-      "openedAt": 1724835600,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }, {
       "id": 4000426,
       "name": "エピローグ",
       "type": "main",
-      "flags": ["actConsumeBattleWin"],
+      "flags": ["noDisplayRemain", "actConsumeBattleWin"],
       "consume": 24,
       "afterClear": "close",
       "recommendLv": "82",
@@ -80702,9 +82206,9 @@
         }]
       }],
       "priority": 4000375,
-      "noticeAt": 1726822800,
-      "openedAt": 1726822800,
-      "closedAt": 1730347199
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }],
   "spotRoads": [{
@@ -81067,6 +82571,16 @@
     "dispCondType": "useItemTime",
     "dispCondType2": "useItemTime",
     "activeCondType": "useItemTime"
+  }, {
+    "id": 40437,
+    "warId": 404,
+    "mapId": 40401,
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter0404/QMap_Cap0404_Atlas/img_road0404_00.png",
+    "srcSpotId": 40442,
+    "dstSpotId": 40447,
+    "dispCondType": "useItemTime",
+    "dispCondType2": "useItemTime",
+    "activeCondType": "useItemTime"
   }]
 }, {
   "id": 405,
@@ -81101,8 +82615,6 @@
     "priority": 2,
     "overwriteId": 406,
     "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/questboard_cap_closed_406.png",
-    "condType": "questClear",
-    "targetId": 94099513,
     "startedAt": 1710932400,
     "endedAt": 1893423600
   }]
@@ -94149,6 +95661,278 @@
       "noticeAt": 1733389200,
       "openedAt": 1733389200,
       "closedAt": 1893423600
+    }, {
+      "id": 94139901,
+      "name": "強化クエスト ゴルゴーン 2",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 21,
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012504,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012504,
+        "type": "questRewardIcon",
+        "objectId": 9,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94040504
+      }, {
+        "type": "svtLimit",
+        "targetId": 1100400,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 1100400
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140753,
+      "noticeAt": 1737622800,
+      "openedAt": 1737622800,
+      "closedAt": 1893423600
+    }, {
+      "id": 94139902,
+      "name": "強化クエスト メドゥーサ 3",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 20,
+      "afterClear": "close",
+      "recommendLv": "70",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012504,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012504,
+        "type": "questRewardIcon",
+        "objectId": 9,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94026508
+      }, {
+        "type": "svtLimit",
+        "targetId": 400100,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 400100
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140752,
+      "noticeAt": 1736931600,
+      "openedAt": 1736931600,
+      "closedAt": 1893423600
+    }, {
+      "id": 94140101,
+      "name": "強化クエスト 鬼一法眼",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 21,
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012504,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012504,
+        "type": "questRewardIcon",
+        "objectId": 9,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "svtLimit",
+        "targetId": 604100,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 604100
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140101,
+      "noticeAt": 1736154000,
+      "openedAt": 1736154000,
+      "closedAt": 1893423600
+    }, {
+      "id": 94140750,
+      "name": "強化クエスト カーマ",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 23,
+      "afterClear": "close",
+      "recommendLv": "90",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012503,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012503,
+        "type": "questRewardIcon",
+        "objectId": 8,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "svtLimit",
+        "targetId": 603700,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 603700
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140751,
+      "noticeAt": 1736758800,
+      "openedAt": 1736758800,
+      "closedAt": 1893423600
+    }, {
+      "id": 94140751,
+      "name": "強化クエスト 蘭陵王",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 21,
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012504,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012504,
+        "type": "questRewardIcon",
+        "objectId": 9,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "svtLimit",
+        "targetId": 103600,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 103600
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140750,
+      "noticeAt": 1736758800,
+      "openedAt": 1736758800,
+      "closedAt": 1893423600
+    }, {
+      "id": 94142150,
+      "name": "強化クエスト アントニオ・サリエリ",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 20,
+      "afterClear": "close",
+      "recommendLv": "70",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012503,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012503,
+        "type": "questRewardIcon",
+        "objectId": 8,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "svtLimit",
+        "targetId": 1100600,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 1100600
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140754,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
+    }, {
+      "id": 94142151,
+      "name": "強化クエスト 平景清",
+      "type": "event",
+      "flags": ["noDisplayRemain"],
+      "consume": 23,
+      "afterClear": "close",
+      "recommendLv": "90",
+      "spotId": 99001,
+      "warId": 1001,
+      "gifts": [{
+        "id": 94012504,
+        "objectId": 2,
+        "num": 2
+      }, {
+        "id": 94012504,
+        "type": "questRewardIcon",
+        "objectId": 9,
+        "num": 0
+      }],
+      "releaseConditions": [{
+        "type": "svtLimit",
+        "targetId": 1101000,
+        "value": 4,
+        "closedMessage": "霊基再臨{0}段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 1101000
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2, 3],
+      "priority": 94140755,
+      "noticeAt": 1738400400,
+      "openedAt": 1738400400,
+      "closedAt": 1893423600
     }]
   }]
 }, {
@@ -95669,6 +97453,24 @@
         "value": 5,
         "closedMessage": "第二特異点をクリア＆霊基再臨2段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100101,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -95730,6 +97532,16 @@
         "targetId": 100700,
         "value": 1,
         "closedMessage": "第六特異点をクリア＆霊基再臨2段階目＆絆Lv.1で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000632,
+        "closedMessage": "第六特異点クリアで開放可能",
+        "overlayClosedMessage": "第六特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3, 4, 5],
       "phasesWithEnemies": [1, 2, 3, 4, 5],
@@ -95802,6 +97614,24 @@
         "value": 5,
         "closedMessage": "終局特異点をクリア＆霊基再臨4段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点クリアで開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91100901,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -95863,6 +97693,16 @@
         "value": 5,
         "closedMessage": "終局特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点クリアで開放",
+        "overlayClosedMessage": "終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
+      }],
       "phases": [1],
       "phasesWithEnemies": [1],
       "phaseScripts": [{
@@ -95908,6 +97748,16 @@
         "targetId": 101400,
         "value": 3,
         "closedMessage": "第四特異点をクリア＆霊基再臨2段階目＆絆Lv.3で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点クリアで開放可能",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -95971,6 +97821,16 @@
         "value": 3,
         "closedMessage": "第二特異点をクリア＆霊基再臨1段階目＆絆Lv.3で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000215,
+        "closedMessage": "第二特異点クリアで開放可能",
+        "overlayClosedMessage": "第二特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -96026,6 +97886,24 @@
         "value": 5,
         "closedMessage": "第五特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点クリアで開放可能",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91101802,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -96078,6 +97956,16 @@
         "value": 5,
         "closedMessage": "特異点Fをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1],
       "phasesNoBattle": [2],
@@ -96127,6 +98015,16 @@
         "targetId": 102900,
         "value": 5,
         "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2],
@@ -96200,6 +98098,15 @@
         "eventId": 80482,
         "startedAt": 1718787600,
         "endedAt": 1719979199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点クリアで開放",
+        "overlayClosedMessage": "終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -96282,6 +98189,23 @@
         "eventId": 80482,
         "startedAt": 1718787600,
         "endedAt": 1719979199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91103001,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -96367,6 +98291,15 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 3],
@@ -96449,6 +98382,15 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点クリアで開放可能",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -96572,6 +98514,15 @@
         "eventId": 80376,
         "startedAt": 1652864400,
         "endedAt": 1656561599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 2000316,
+        "closedMessage": "亜種特異点Ⅲをクリアで開放",
+        "overlayClosedMessage": "亜種特異点Ⅲをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -96656,9 +98607,18 @@
         "condId": 1000011,
         "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.3で開放",
         "overlayClosedMessage": "特異点Fをクリアで開放",
-        "eventId": 80470,
-        "startedAt": 1709110800,
-        "endedAt": 1710320399
+        "eventId": 80516,
+        "startedAt": 1735722000,
+        "endedAt": 1738335599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -96737,6 +98697,15 @@
         "eventId": 80510,
         "startedAt": 1733043600,
         "endedAt": 1735657199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000320,
+        "closedMessage": "Lostbelt No.3クリアで開放",
+        "overlayClosedMessage": "Lostbelt No.3クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736154000,
+        "endedAt": 1736740799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [2, 3],
@@ -96875,6 +98844,15 @@
         "eventId": 80398,
         "startedAt": 1662541200,
         "endedAt": 1663127999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000531,
+        "closedMessage": "Lostbelt No.5 アトランティスをクリアで開放",
+        "overlayClosedMessage": "Lostbelt No.5 アトランティスをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 3, 4],
@@ -96946,6 +98924,16 @@
         "targetId": 104100,
         "value": 3,
         "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.3で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -97033,6 +99021,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -97092,6 +99089,16 @@
         "targetId": 104600,
         "value": 5,
         "closedMessage": "地獄界曼荼羅 平安京をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000716,
+        "closedMessage": "地獄界曼荼羅 平安京をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "地獄界曼荼羅 平安京クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2],
@@ -97194,6 +99201,15 @@
         "eventId": 80499,
         "startedAt": 1732784400,
         "endedAt": 1733889599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000218,
+        "closedMessage": "Lostbelt No.2をクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.2クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1736758800,
+        "endedAt": 1737345599
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [2, 3],
@@ -97256,6 +99272,15 @@
         "type": "svtGet",
         "targetId": 200900
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91200902,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -97313,6 +99338,24 @@
         "targetId": 201100,
         "value": 5,
         "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91201101,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -97407,6 +99450,25 @@
         "value": 2,
         "closedMessage": "第六特異点をクリア＆絆Lv.2で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000632,
+        "closedMessage": "第六特異点をクリア＆絆Lv.2で開放",
+        "overlayClosedMessage": "第六特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000632,
+        "closedMessage": "第六特異点をクリア＆絆Lv.2で開放",
+        "overlayClosedMessage": "第六特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -97479,6 +99541,23 @@
         "eventId": 80446,
         "startedAt": 1695891600,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91201501,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3, 4, 5],
       "phasesWithEnemies": [1, 2, 3, 4, 5],
@@ -97554,6 +99633,16 @@
         "value": 5,
         "closedMessage": "亜種特異点Ⅰをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 2000118,
+        "closedMessage": "亜種特異点Ⅰをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "亜種特異点Ⅰをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -97621,6 +99710,24 @@
         "value": 3,
         "closedMessage": "終局特異点をクリア＆霊基再臨3段階目＆絆Lv.3で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91202001,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆終局特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
       "phaseScripts": [{
@@ -97684,6 +99791,16 @@
         "targetId": 202100,
         "value": 5,
         "closedMessage": "亜種特異点Ⅲをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 2000316,
+        "closedMessage": "亜種特異点Ⅲをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "亜種特異点Ⅲクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -97757,6 +99874,24 @@
         "eventId": 80416,
         "startedAt": 1669280400,
         "endedAt": 1669780799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "亜種特異点Ⅰをクリア＆Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "亜種特異点Ⅰをクリア＆Lostbelt No.3 プロローグクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 2000118,
+        "closedMessage": "亜種特異点Ⅰをクリア＆Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "亜種特異点Ⅰをクリア＆Lostbelt No.3 プロローグクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -97843,6 +99978,23 @@
         "eventId": 80416,
         "startedAt": 1669280400,
         "endedAt": 1669780799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3001222,
+        "closedMessage": "死想顕現界域 トラオムをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆死想顕現界域 トラオムをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91202301,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆死想顕現界域 トラオムをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [2],
@@ -97979,6 +100131,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -98035,6 +100196,15 @@
         "eventId": 80368,
         "startedAt": 1648630800,
         "endedAt": 1649217599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [2, 3],
@@ -98108,6 +100278,15 @@
         "eventId": 80398,
         "startedAt": 1662541200,
         "endedAt": 1663127999
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -98186,6 +100365,24 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [2, 3, 4],
@@ -98355,6 +100552,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 3000531,
+        "closedMessage": "Lostbelt No.5 アトランティスをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.5 アトランティスをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -98415,6 +100621,15 @@
         "eventId": 80482,
         "startedAt": 1718787600,
         "endedAt": 1719979199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨3段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -98486,6 +100701,23 @@
         "eventId": 80482,
         "startedAt": 1718787600,
         "endedAt": 1719979199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 3000716,
+        "closedMessage": "地獄界曼荼羅 平安京をクリア＆霊基再臨3段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆地獄界曼荼羅 平安京をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 91204001,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆地獄界曼荼羅 平安京をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -98548,6 +100780,15 @@
         "eventId": 80499,
         "startedAt": 1732698000,
         "endedAt": 1733889599
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [2, 3, 4],
@@ -98630,9 +100871,18 @@
         "condId": 1000011,
         "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.3で開放",
         "overlayClosedMessage": "特異点Fをクリアで開放",
-        "eventId": 80499,
-        "startedAt": 1732957200,
-        "endedAt": 1733889599
+        "eventId": 80516,
+        "startedAt": 1735722000,
+        "endedAt": 1738335599
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨1段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2, 3, 4, 5],
       "phasesWithEnemies": [2, 3, 4],
@@ -98717,6 +100967,24 @@
         "eventId": 80499,
         "startedAt": 1732870800,
         "endedAt": 1733889599
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737968400,
+        "endedAt": 1738555199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1738573200,
+        "endedAt": 1739159999
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2],
@@ -100375,6 +102643,34 @@
       "priority": 669489,
       "noticeAt": 1717146000,
       "openedAt": 1717146000,
+      "closedAt": 1893423600
+    }, {
+      "id": 91305701,
+      "name": "霊基解放クエスト ビショーネ",
+      "type": "friendship",
+      "flags": ["noDisplayRemain"],
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "70",
+      "spotId": 99003,
+      "warId": 1003,
+      "chapterId": 1,
+      "chapterSubId": 1,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/40.png",
+      "releaseConditions": [{
+        "type": "svtLimit",
+        "targetId": 305700,
+        "value": 3,
+        "closedMessage": "霊基再臨3段階目で開放"
+      }, {
+        "type": "svtGet",
+        "targetId": 305700
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 669429,
+      "noticeAt": 1737536400,
+      "openedAt": 1737536400,
       "closedAt": 1893423600
     }, {
       "id": 91400302,
@@ -104711,9 +107007,9 @@
         "condId": 1000011,
         "closedMessage": "特異点Fをクリア＆霊基再臨3段階目＆絆Lv.4で開放",
         "overlayClosedMessage": "特異点Fをクリアで開放",
-        "eventId": 80470,
-        "startedAt": 1709110800,
-        "endedAt": 1710320399
+        "eventId": 80516,
+        "startedAt": 1735722000,
+        "endedAt": 1738335599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -104792,17 +107088,17 @@
         "condId": 3001009,
         "closedMessage": "Lostbelt No.6 アヴァロン・ル・フェクリア＆霊基再臨3段階目＆絆Lv.5で開放",
         "overlayClosedMessage": "一つ前の幕間の物語をクリア＆Lostbelt No.6をクリアで開放",
-        "eventId": 80470,
-        "startedAt": 1709110800,
-        "endedAt": 1710320399
+        "eventId": 80516,
+        "startedAt": 1735722000,
+        "endedAt": 1738335599
       }, {
         "priority": 1,
         "condType": "questClear",
         "condId": 91603701,
         "overlayClosedMessage": "一つ前の幕間の物語をクリア＆Lostbelt No.6をクリアで開放",
-        "eventId": 80470,
-        "startedAt": 1709110800,
-        "endedAt": 1710320399
+        "eventId": 80516,
+        "startedAt": 1735722000,
+        "endedAt": 1738335599
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [3],
@@ -106018,6 +108314,15 @@
         "eventId": 80446,
         "startedAt": 1696237200,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000115,
+        "closedMessage": "第一特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第一特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -106097,6 +108402,23 @@
         "eventId": 80446,
         "startedAt": 1696237200,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91900101,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -106174,6 +108496,23 @@
         "eventId": 80446,
         "startedAt": 1696237200,
         "endedAt": 1696478399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91900102,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆第四特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -106232,6 +108571,16 @@
         "targetId": 900200,
         "value": 4,
         "closedMessage": "第五特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 1000522,
+        "closedMessage": "第五特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "第五特異点クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -106301,6 +108650,33 @@
         "targetId": 900200,
         "value": 5,
         "closedMessage": "亜種特異点Ⅲをクリア＆Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "亜種特異点Ⅲをクリア＆Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "亜種特異点Ⅲをクリアで開放＆Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 2000316,
+        "closedMessage": "亜種特異点Ⅲをクリア＆Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "亜種特異点Ⅲをクリアで開放＆Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 91900201,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア\n＆亜種特異点Ⅲをクリアで開放＆Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -106372,6 +108748,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -106447,6 +108832,15 @@
         "eventId": 80382,
         "startedAt": 1655888400,
         "endedAt": 1656475199
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000320,
+        "closedMessage": "Lostbelt No.3をクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.3クリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -106518,6 +108912,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80519,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグクリアで開放",
+        "eventId": 80519,
+        "startedAt": 1737363600,
+        "endedAt": 1737950399
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -106601,6 +109004,15 @@
         "eventId": 80496,
         "startedAt": 1728464400,
         "endedAt": 1729655999
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨2段階目＆絆Lv.4で開放",
+        "overlayClosedMessage": "終局特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1739178000,
+        "endedAt": 1739764799
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -106668,6 +109080,16 @@
         "targetId": 1000700,
         "value": 5,
         "closedMessage": "終局特異点をクリア＆霊基再臨4段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨4段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "終局特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1739178000,
+        "endedAt": 1739764799
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -106752,9 +109174,9 @@
         "condId": 1000822,
         "closedMessage": "終局特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
         "overlayClosedMessage": "終局特異点をクリアで開放",
-        "eventId": 80415,
-        "startedAt": 1668070800,
-        "endedAt": 1668657599
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -106824,17 +109246,17 @@
         "condId": 3001101,
         "closedMessage": "非霊長生存圏をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
         "overlayClosedMessage": "一つ前の幕間の物語をクリア＆非霊長生存圏をクリアで開放",
-        "eventId": 80415,
-        "startedAt": 1668070800,
-        "endedAt": 1668657599
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }, {
         "priority": 1,
         "condType": "questClear",
         "condId": 911100201,
         "overlayClosedMessage": "一つ前の幕間の物語をクリア＆非霊長生存圏をクリアで開放",
-        "eventId": 80415,
-        "startedAt": 1668070800,
-        "endedAt": 1668657599
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [2, 3],
@@ -106917,9 +109339,9 @@
         "condId": 1000722,
         "closedMessage": "第七特異点をクリア＆霊基再臨2段階目＆絆Lv.2で開放",
         "overlayClosedMessage": "第七特異点をクリアで開放",
-        "eventId": 80446,
-        "startedAt": 1695891600,
-        "endedAt": 1696478399
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -107012,17 +109434,17 @@
         "condId": 2000118,
         "closedMessage": "亜種特異点Ⅰをクリア＆霊基再臨4段階目＆絆Lv.5で開放",
         "overlayClosedMessage": "一つ前の幕間の物語をクリア＆亜種特異点Ⅰをクリアで開放",
-        "eventId": 80446,
-        "startedAt": 1695891600,
-        "endedAt": 1696478399
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }, {
         "priority": 2,
         "condType": "questClear",
         "condId": 911100301,
         "overlayClosedMessage": "一つ前の幕間の物語をクリア＆亜種特異点Ⅰをクリアで開放",
-        "eventId": 80446,
-        "startedAt": 1695891600,
-        "endedAt": 1696478399
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -107082,6 +109504,16 @@
         "value": 5,
         "closedMessage": "第七特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放"
       }],
+      "releaseOverwrites": [{
+        "priority": 80524,
+        "condType": "questClear",
+        "condId": 1000722,
+        "closedMessage": "第七特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "第七特異点をクリアで開放",
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
+      }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
       "phaseScripts": [{
@@ -107136,6 +109568,16 @@
         "targetId": 1100500,
         "value": 5,
         "closedMessage": "亜種特異点Ⅰをクリア＆霊基再臨3段階目＆絆Lv.5で開放"
+      }],
+      "releaseOverwrites": [{
+        "priority": 80524,
+        "condType": "questClear",
+        "condId": 2000118,
+        "closedMessage": "亜種特異点Ⅰをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "亜種特異点Ⅰをクリアで開放",
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -107207,9 +109649,9 @@
         "condId": 3000303,
         "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨4段階目＆絆Lv.5で開放",
         "overlayClosedMessage": "Lostbelt No.3 プロローグをクリアで開放",
-        "eventId": 80365,
-        "startedAt": 1646816400,
-        "endedAt": 1647403199
+        "eventId": 80524,
+        "startedAt": 1738400400,
+        "endedAt": 1740754799
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -110633,6 +113075,38 @@
     "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/chaldea_category_80483.png",
     "startedAt": 1730883600,
     "endedAt": 1732075199
+  }, {
+    "warId": 9999,
+    "type": "banner",
+    "priority": 80490,
+    "overwriteId": 80490,
+    "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/chaldea_category_80490.png",
+    "startedAt": 1735657200,
+    "endedAt": 1736913599
+  }, {
+    "warId": 9999,
+    "type": "banner",
+    "priority": 80491,
+    "overwriteId": 80513,
+    "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/chaldea_category_80513.png",
+    "startedAt": 1736154000,
+    "endedAt": 1737298799
+  }, {
+    "warId": 9999,
+    "type": "banner",
+    "priority": 80499,
+    "overwriteId": 80499,
+    "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/chaldea_category_80499.png",
+    "startedAt": 1736326800,
+    "endedAt": 1737518399
+  }, {
+    "warId": 9999,
+    "type": "banner",
+    "priority": 80502,
+    "overwriteId": 80502,
+    "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/chaldea_category_80502.png",
+    "startedAt": 1738746000,
+    "endedAt": 1739937599
   }, {
     "warId": 9999,
     "type": "banner",
@@ -123228,6 +125702,7 @@
       "id": 94021701,
       "name": "「冬のファラオ大感謝祭」開催記念クエスト",
       "type": "event",
+      "flags": ["noDisplayRemain"],
       "consume": 5,
       "afterClear": "close",
       "recommendLv": "20",
@@ -123246,12 +125721,16 @@
       }, {
         "type": "date",
         "targetId": 0
+      }, {
+        "type": "purchaseShop",
+        "targetId": 6001031
       }],
       "phases": [1, 2],
-      "priority": -1,
-      "noticeAt": 1519203600,
-      "openedAt": 1519203600,
-      "closedAt": 1520395199
+      "phasesWithEnemies": [1, 2],
+      "priority": 94021701,
+      "noticeAt": 1736326800,
+      "openedAt": 1736326800,
+      "closedAt": 1893423600
     }, {
       "id": 94023801,
       "name": "謎特異点Ⅰ ベーカー街からの脱出 開催記念クエスト",
@@ -126143,6 +128622,7 @@
       "id": 94045701,
       "name": "「FGO カルデアパークキャラバン 2019-2020」開催記念クエスト",
       "type": "event",
+      "flags": ["noDisplayRemain"],
       "consume": 5,
       "afterClear": "close",
       "recommendLv": "15",
@@ -126161,12 +128641,16 @@
       }, {
         "type": "date",
         "targetId": 0
+      }, {
+        "type": "purchaseShop",
+        "targetId": 6001033
       }],
       "phases": [1],
+      "phasesWithEnemies": [1],
       "priority": 94045798,
-      "noticeAt": 1577178000,
-      "openedAt": 1577178000,
-      "closedAt": 1577804399
+      "noticeAt": 1736326800,
+      "openedAt": 1736326800,
+      "closedAt": 1893423600
     }, {
       "id": 94046401,
       "name": "亜種特異点Ⅰコミック発売記念クエスト",
@@ -128338,6 +130822,7 @@
       "id": 94055801,
       "name": "「FGO ウィンターキャラバン オンライン 2021」配信記念クエスト",
       "type": "event",
+      "flags": ["noDisplayRemain"],
       "consume": 5,
       "afterClear": "close",
       "recommendLv": "15",
@@ -128356,13 +130841,16 @@
       }, {
         "type": "date",
         "targetId": 0
+      }, {
+        "type": "purchaseShop",
+        "targetId": 6001034
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
       "priority": 94055801,
-      "noticeAt": 1610701200,
-      "openedAt": 1610701200,
-      "closedAt": 1611287999
+      "noticeAt": 1736326800,
+      "openedAt": 1736326800,
+      "closedAt": 1893423600
     }, {
       "id": 94056801,
       "name": "「Fate/Grand Order Memories Ⅲ」発売記念クエスト",
@@ -133246,6 +135734,175 @@
       "noticeAt": 1733389200,
       "openedAt": 1733389200,
       "closedAt": 1733975999
+    }, {
+      "id": 94140001,
+      "name": "リチャードⅠ世体験クエスト",
+      "type": "event",
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "15",
+      "spotId": 999999,
+      "warId": 9999,
+      "gifts": [{
+        "id": 15000,
+        "objectId": 4001,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140099,
+      "noticeAt": 1735657200,
+      "openedAt": 1735657200,
+      "closedAt": 1736913599
+    }, {
+      "id": 94140002,
+      "name": "魔術礼装クエスト・ウィンターカジュアル",
+      "type": "event",
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "15",
+      "spotId": 999999,
+      "warId": 9999,
+      "gifts": [{
+        "id": 700691,
+        "type": "equip",
+        "objectId": 410,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140098,
+      "noticeAt": 1735657200,
+      "openedAt": 1735657200,
+      "closedAt": 1736913599
+    }, {
+      "id": 94140803,
+      "name": "ルーラーお試しクエスト",
+      "type": "event",
+      "consume": 0,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 999999,
+      "warId": 9999,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140803,
+      "noticeAt": 1737363600,
+      "openedAt": 1737363600,
+      "closedAt": 1737950399
+    }, {
+      "id": 94140804,
+      "name": "アーチャーお試しクエスト〔Ⅰ〕",
+      "type": "event",
+      "consume": 0,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 999999,
+      "warId": 9999,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140804,
+      "noticeAt": 1737968400,
+      "openedAt": 1737968400,
+      "closedAt": 1738555199
+    }, {
+      "id": 94140805,
+      "name": "アーチャーお試しクエスト〔Ⅱ〕",
+      "type": "event",
+      "consume": 0,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 999999,
+      "warId": 9999,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140805,
+      "noticeAt": 1738573200,
+      "openedAt": 1738573200,
+      "closedAt": 1739159999
+    }, {
+      "id": 94140806,
+      "name": "アルターエゴお試しクエスト",
+      "type": "event",
+      "consume": 0,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 999999,
+      "warId": 9999,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011,
+        "closedMessage": "特異点Fクリアで開放可能"
+      }, {
+        "type": "date",
+        "targetId": 0
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140806,
+      "noticeAt": 1739178000,
+      "openedAt": 1739178000,
+      "closedAt": 1739764799
     }]
   }]
 }, {

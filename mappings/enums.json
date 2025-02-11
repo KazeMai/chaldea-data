@@ -1517,6 +1517,13 @@
       "TW": null,
       "NA": null,
       "KR": null
+    },
+    "questUseRewardAddItem": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
     }
   },
   "event_work_type": {
@@ -1663,9 +1670,9 @@
       "KR": null
     },
     "exchangeSvtCoin": {
-      "JP": null,
-      "CN": null,
-      "TW": null,
+      "JP": "サーヴァントコイン(補填分)を交換",
+      "CN": "从者币(补偿)交换",
+      "TW": "從者幣(填補)交換",
       "NA": null,
       "KR": null
     }
@@ -2286,7 +2293,7 @@
     "random": {
       "JP": null,
       "CN": "随机",
-      "TW": null,
+      "TW": "隨機",
       "NA": "Random",
       "KR": null
     },
@@ -2445,6 +2452,13 @@
       "KR": null
     },
     "changeThinking": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "battleEndNotRelatedSurvivalStatusInstantly": {
       "JP": null,
       "CN": null,
       "TW": null,
@@ -3798,6 +3812,13 @@
       "TW": null,
       "NA": null,
       "KR": null
+    },
+    "commonReleaseId": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
     }
   },
   "svt_obtain": {
@@ -3946,7 +3967,7 @@
     "regionSpecific": {
       "JP": null,
       "CN": "*区服特供",
-      "TW": null,
+      "TW": "區服限定",
       "NA": "Region Specific",
       "KR": null
     },
@@ -4992,7 +5013,7 @@
     "gainNpTargetSum": {
       "JP": "NP増加(ターゲット数)",
       "CN": "NP增加(目标数)",
-      "TW": null,
+      "TW": "NP增加(目標數)",
       "NA": "Charge NP per Target ",
       "KR": null
     },

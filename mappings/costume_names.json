@@ -114,7 +114,7 @@
   "イノセントフラワー": {
     "JP": null,
     "CN": "无暇之花",
-    "TW": "無暇之花",
+    "TW": "無瑕之花",
     "NA": "Innocent Flower",
     "KR": null
   },
@@ -311,7 +311,7 @@
     "JP": null,
     "CN": "特拉特拉乌基的守卫",
     "TW": "特拉特拉烏基的守衛",
-    "NA": "Keeper of Tlatlauqui",
+    "NA": "Tlatlauhqui's Guard",
     "KR": "틀라틀라우키의 파수꾼"
   },
   "ニンキガル": {
@@ -358,7 +358,7 @@
   },
   "ムリアン": {
     "JP": null,
-    "CN": null,
+    "CN": "缪瑞恩",
     "TW": "姆莉安",
     "NA": "Murian",
     "KR": null
@@ -451,7 +451,7 @@
     "JP": null,
     "CN": "眼镜灵衣：闪耀于终焉的彩虹",
     "TW": "眼鏡靈衣：於盡頭閃耀的彩虹",
-    "NA": "Glasses Spiritron Dress: Rainbow Shining at the End of Time ",
+    "NA": "Glasses Spiritron Dress: Rainbow Shining at the End of Time",
     "KR": "종말에 빛나는 채홍"
   },
   "メガネ霊衣：織田金縁丸眼鏡": {
@@ -750,7 +750,7 @@
   },
   "決別のバルーンライト": {
     "JP": null,
-    "CN": null,
+    "CN": "诀别的气球灯",
     "TW": "訣別的氣球燈",
     "NA": null,
     "KR": null
@@ -856,7 +856,7 @@
   "簡易霊衣：イノセントフラワー": {
     "JP": null,
     "CN": "简易灵衣：无瑕之花",
-    "TW": "簡易靈衣：無暇之花",
+    "TW": "簡易靈衣：無瑕之花",
     "NA": null,
     "KR": null
   },
@@ -885,7 +885,7 @@
     "JP": null,
     "CN": "简易灵衣：豹人",
     "TW": "簡易靈衣：豹人",
-    "NA": "Jaguar Man",
+    "NA": "Simple Spiritron Dress: Jaguar Warrior",
     "KR": "간이영의: 재규어맨"
   },
   "簡易霊衣：テクニカ・マスカラ": {
@@ -1088,14 +1088,14 @@
     "JP": null,
     "CN": "简易灵衣：NFF兔女郎",
     "TW": "簡易靈衣：NFF兔女郎",
-    "NA": "NFF Bunny",
+    "NA": "Simple Spiritron Dress: NFF Bunny",
     "KR": "간이영의: NFF 버니"
   },
   "終末に輝く彩虹": {
     "JP": null,
     "CN": "闪耀于终焉的彩虹",
     "TW": "於盡頭閃耀的彩虹",
-    "NA": "Rainbow Shining at the End of Time ",
+    "NA": "Rainbow Shining at the End of Time",
     "KR": "종말에 빛나는 채홍"
   },
   "織田金縁丸眼鏡": {

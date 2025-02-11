@@ -136,7 +136,7 @@
     "JP": null,
     "CN": "Lostbelt No.7\n黄金树海纪行 纳维·米克特兰",
     "TW": "Lostbelt No.7\n黃金樹海紀行 太陽紀．米克特蘭",
-    "NA": "Lostbelt No.7\nGolden Sea of Trees, Nahui Mictlān",
+    "NA": "Lostbelt No.7: Golden Sea of Trees, Nahui Mictlān",
     "KR": "Lostbelt No.7\n황금수해기행 나우이 믹틀란"
   },
   "Lostbelt No.?": {
@@ -316,7 +316,7 @@
   },
   "スペース・ファンタズムーン　アナザー・クリスマス": {
     "JP": null,
-    "CN": null,
+    "CN": "Space Phantasmoon 另一个圣诞节",
     "TW": "太空・幻想之月　另一個聖誕節",
     "NA": null,
     "KR": null
@@ -407,7 +407,7 @@
   },
   "バレンタイン2024 ～チョコレート・リバーのその先に～": {
     "JP": null,
-    "CN": "情人节2024 ～在巧克力之河的前方～",
+    "CN": "情人节2025 ～前往巧克力之河的尽头～",
     "TW": "情人節2024 ～在巧克力之河的彼端～",
     "NA": "Valentine's 2024 - Beyond the Chocolate River",
     "KR": null
@@ -486,7 +486,7 @@
     "JP": null,
     "CN": "若安小姐与未确认之爱 粉碎☆LOVE LOVE HEART大石像",
     "TW": "瓊安小姐與未確認之愛 粉碎☆LOVE LOVE HEART大石像",
-    "NA": "Miss Johanna and Unconfirmed Love - Break it Down☆The Great Lovey-Dovey Heart Stone Statue",
+    "NA": "Johanna and the Unidentified Love:\nSmash 'em Up☆Love, Lovers, and the Great Stone Statue",
     "KR": "요한나 씨와 미확인의 사랑 부숴라☆러브러브 하트 대석상"
   },
   "リヨイベ": {
@@ -703,7 +703,7 @@
     "JP": null,
     "CN": "奏章 序",
     "TW": "奏章 序",
-    "NA": "Ordeal Call - Prologue",
+    "NA": "Ordeal Call Prologue",
     "KR": "주장 프롤로그"
   },
   "奏章／Ordeal Call": {
@@ -1224,12 +1224,19 @@
     "NA": "Inner World of the Imaginary Number Compass, Paper Moon",
     "KR": null
   },
+  "蛇竜這行大地ランドサーペント": {
+    "JP": null,
+    "CN": null,
+    "TW": "蛇龍大地Serpent",
+    "NA": null,
+    "KR": null
+  },
   "螺旋証明世界 リリムハーロット": {
     "JP": null,
     "CN": "螺旋证明世界 Lilim Harlot",
     "TW": "螺旋證明世界 Lilim Harlot",
     "NA": "Spiral Testimonial World, Lilim Harlot",
-    "KR": null
+    "KR": "나선증명세계 릴림 할롯"
   },
   "西部絢爛賭場ラスベガス": {
     "JP": null,
@@ -1265,6 +1272,13 @@
     "TW": "閃耀吧！ 聖杯演唱會！！ ～鶴的偶像報恩～",
     "NA": "Bedazzled! Grail Concert! Crane Returns an Idol's Favor",
     "KR": "빛나라! 그레일 라이브!! ~학의 아이돌 은혜 갚기~"
+  },
+  "輪転双蛇円環ウロボロス": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "連続活劇神話 ミシシッピ・ミササイザーズ": {
     "JP": null,

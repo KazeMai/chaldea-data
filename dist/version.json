@@ -1,79 +1,79 @@
 {
-  "timestamp": 1735067524,
-  "utc": "2024-12-24T19:12:04",
-  "minimalApp": "2.5.12",
+  "timestamp": 1739192403,
+  "utc": "2025-02-10T13:00:03",
+  "minimalApp": "2.5.18",
   "files": {
     "items.json": {
       "key": "items",
       "filename": "items.json",
-      "size": 877626,
-      "hash": "913c0f",
-      "minSize": 770795,
-      "minHash": "ed2c75",
-      "timestamp": 1735058911
+      "size": 888134,
+      "hash": "81e36f",
+      "minSize": 779625,
+      "minHash": "fc1ec4",
+      "timestamp": 1738401513
     },
     "entities.json": {
       "key": "entities",
       "filename": "entities.json",
-      "size": 1616936,
-      "hash": "b868a6",
-      "minSize": 1219322,
-      "minHash": "5bf127",
-      "timestamp": 1735058911
+      "size": 1634737,
+      "hash": "6a4359",
+      "minSize": 1232353,
+      "minHash": "984c96",
+      "timestamp": 1737710322
     },
     "bgms.json": {
       "key": "bgms",
       "filename": "bgms.json",
-      "size": 470388,
-      "hash": "3a3bcc",
-      "minSize": 390353,
-      "minHash": "9e1639",
-      "timestamp": 1735058911
+      "size": 472308,
+      "hash": "e80ff2",
+      "minSize": 392097,
+      "minHash": "54334b",
+      "timestamp": 1736933373
     },
     "servants.1.json": {
       "key": "servants",
       "filename": "servants.1.json",
-      "size": 1694017,
-      "hash": "d2e1ad",
-      "minSize": 1128914,
-      "minHash": "c66663",
-      "timestamp": 1735058911
+      "size": 1711428,
+      "hash": "c242ac",
+      "minSize": 1140526,
+      "minHash": "c043f6",
+      "timestamp": 1738515926
     },
     "servants.2.json": {
       "key": "servants",
       "filename": "servants.2.json",
-      "size": 1616669,
-      "hash": "e50150",
-      "minSize": 1074981,
-      "minHash": "00c380",
-      "timestamp": 1735058911
+      "size": 1639149,
+      "hash": "5a5b06",
+      "minSize": 1089816,
+      "minHash": "4d0052",
+      "timestamp": 1738515926
     },
     "servants.3.json": {
       "key": "servants",
       "filename": "servants.3.json",
-      "size": 1701292,
-      "hash": "42f255",
-      "minSize": 1129869,
-      "minHash": "bd7b34",
-      "timestamp": 1735058911
+      "size": 1719348,
+      "hash": "8c26e5",
+      "minSize": 1141956,
+      "minHash": "4ce3a8",
+      "timestamp": 1738515926
     },
     "servants.4.json": {
       "key": "servants",
       "filename": "servants.4.json",
-      "size": 1517175,
-      "hash": "e718c6",
-      "minSize": 1013499,
-      "minHash": "38de60",
-      "timestamp": 1735058911
+      "size": 1543107,
+      "hash": "cdbc10",
+      "minSize": 1030580,
+      "minHash": "794490",
+      "timestamp": 1738515926
     },
     "servants.5.json": {
       "key": "servants",
       "filename": "servants.5.json",
-      "size": 432608,
-      "hash": "4d1509",
-      "minSize": 283028,
-      "minHash": "63997a",
-      "timestamp": 1735063663
+      "size": 479535,
+      "hash": "1b04cc",
+      "minSize": 313931,
+      "minHash": "dd6cef",
+      "timestamp": 1738747188
     },
     "craftEssences.1.json": {
       "key": "craftEssences",
@@ -114,65 +114,65 @@
     "craftEssences.5.json": {
       "key": "craftEssences",
       "filename": "craftEssences.5.json",
-      "size": 203785,
-      "hash": "7434d4",
-      "minSize": 145711,
-      "minHash": "802a5e",
-      "timestamp": 1735058911
+      "size": 227078,
+      "hash": "5360f1",
+      "minSize": 162294,
+      "minHash": "324dd8",
+      "timestamp": 1737710322
     },
     "commandCodes.json": {
       "key": "commandCodes",
       "filename": "commandCodes.json",
-      "size": 152256,
-      "hash": "b24bf4",
-      "minSize": 129564,
-      "minHash": "0cbee9",
-      "timestamp": 1733911505
+      "size": 155882,
+      "hash": "c7e0ae",
+      "minSize": 132702,
+      "minHash": "a01281",
+      "timestamp": 1736933373
     },
     "mysticCodes.json": {
       "key": "mysticCodes",
       "filename": "mysticCodes.json",
-      "size": 40776,
-      "hash": "d6fd37",
-      "minSize": 33071,
-      "minHash": "bde600",
-      "timestamp": 1720847859
+      "size": 42537,
+      "hash": "db01dc",
+      "minSize": 34497,
+      "minHash": "ceab95",
+      "timestamp": 1735659863
     },
     "exchangeTickets.json": {
       "key": "exchangeTickets",
       "filename": "exchangeTickets.json",
-      "size": 10264,
-      "hash": "102bb6",
-      "minSize": 7812,
-      "minHash": "35adca",
-      "timestamp": 1732979786
+      "size": 10526,
+      "hash": "3e5992",
+      "minSize": 8014,
+      "minHash": "e66815",
+      "timestamp": 1738337169
     },
     "enemyMasters.json": {
       "key": "enemyMasters",
       "filename": "enemyMasters.json",
-      "size": 17597,
-      "hash": "262eaf",
-      "minSize": 15367,
-      "minHash": "2b5bab",
-      "timestamp": 1726824560
+      "size": 18845,
+      "hash": "b7c2ee",
+      "minSize": 16438,
+      "minHash": "8a76f5",
+      "timestamp": 1737451168
     },
     "classBoards.json": {
       "key": "classBoards",
       "filename": "classBoards.json",
-      "size": 419205,
-      "hash": "85ed7d",
-      "minSize": 267756,
-      "minHash": "3c4b7c",
-      "timestamp": 1730348432
+      "size": 419296,
+      "hash": "9b44f6",
+      "minSize": 267847,
+      "minHash": "6c5249",
+      "timestamp": 1738401513
     },
     "masterMissions.json": {
       "key": "masterMissions",
       "filename": "masterMissions.json",
-      "size": 55622,
-      "hash": "1939ef",
-      "minSize": 43670,
-      "minHash": "8496e7",
-      "timestamp": 1734880859
+      "size": 59950,
+      "hash": "8b2924",
+      "minSize": 47085,
+      "minHash": "ef4487",
+      "timestamp": 1739114760
     },
     "mappingData.1.json": {
       "key": "mappingData",
@@ -204,11 +204,11 @@
     "mappingPatch.json": {
       "key": "mappingPatch",
       "filename": "mappingPatch.json",
-      "size": 1097306,
-      "hash": "61b0eb",
-      "minSize": 948998,
-      "minHash": "c2194b",
-      "timestamp": 1735067524
+      "size": 1469635,
+      "hash": "e368f4",
+      "minSize": 1281740,
+      "minHash": "323732",
+      "timestamp": 1739192403
     },
     "events.1.json": {
       "key": "events",
@@ -240,38 +240,38 @@
     "events.4.json": {
       "key": "events",
       "filename": "events.4.json",
-      "size": 4084927,
-      "hash": "b6880b",
-      "minSize": 2985072,
-      "minHash": "86c54b",
-      "timestamp": 1735058911
+      "size": 4191925,
+      "hash": "0cfae3",
+      "minSize": 3062389,
+      "minHash": "b78dfb",
+      "timestamp": 1738747188
     },
     "events.5.json": {
       "key": "events",
       "filename": "events.5.json",
-      "size": 1870300,
-      "hash": "eed8d9",
-      "minSize": 1314441,
-      "minHash": "f79b59",
-      "timestamp": 1733911505
+      "size": 1954541,
+      "hash": "6735b2",
+      "minSize": 1373885,
+      "minHash": "a70017",
+      "timestamp": 1739179217
     },
     "wars.1.json": {
       "key": "wars",
       "filename": "wars.1.json",
-      "size": 3709382,
-      "hash": "f2f238",
-      "minSize": 2587199,
-      "minHash": "352100",
-      "timestamp": 1734880859
+      "size": 3794022,
+      "hash": "9101ea",
+      "minSize": 2648284,
+      "minHash": "fa6d83",
+      "timestamp": 1739179217
     },
     "wars.2.json": {
       "key": "wars",
       "filename": "wars.2.json",
-      "size": 2266564,
-      "hash": "bad159",
-      "minSize": 1543647,
-      "minHash": "31466d",
-      "timestamp": 1735058911
+      "size": 2291613,
+      "hash": "8bdb12",
+      "minSize": 1561159,
+      "minHash": "7a8693",
+      "timestamp": 1738574326
     },
     "wars.3.json": {
       "key": "wars",
@@ -294,74 +294,74 @@
     "wars.5.json": {
       "key": "wars",
       "filename": "wars.5.json",
-      "size": 4378061,
-      "hash": "4f5d6b",
-      "minSize": 3108931,
-      "minHash": "00ae28",
-      "timestamp": 1733390204
+      "size": 4586159,
+      "hash": "5b03c7",
+      "minSize": 3255557,
+      "minHash": "8f34c2",
+      "timestamp": 1738574326
     },
     "dropData.json": {
       "key": "dropData",
       "filename": "dropData.json",
-      "size": 1134038,
-      "hash": "786944",
-      "minSize": 599080,
-      "minHash": "afe06c",
-      "timestamp": 1735067524
+      "size": 1158709,
+      "hash": "8879df",
+      "minSize": 612428,
+      "minHash": "385dd6",
+      "timestamp": 1739192403
     },
     "questPhases.1.json": {
       "key": "questPhases",
       "filename": "questPhases.1.json",
-      "size": 1016391,
-      "hash": "8c6ca5",
-      "minSize": 580048,
-      "minHash": "79b74f",
-      "timestamp": 1730725177
+      "size": 1017434,
+      "hash": "554163",
+      "minSize": 580039,
+      "minHash": "74bc8a",
+      "timestamp": 1738966670
     },
     "questPhases.2.json": {
       "key": "questPhases",
       "filename": "questPhases.2.json",
-      "size": 1111522,
-      "hash": "c87367",
-      "minSize": 628143,
-      "minHash": "2ca55b",
-      "timestamp": 1730725177
+      "size": 1110785,
+      "hash": "18a381",
+      "minSize": 627406,
+      "minHash": "67581f",
+      "timestamp": 1738966670
     },
     "questPhases.3.json": {
       "key": "questPhases",
       "filename": "questPhases.3.json",
-      "size": 1059085,
-      "hash": "ee0702",
-      "minSize": 605833,
-      "minHash": "3f94da",
-      "timestamp": 1730725177
+      "size": 1105813,
+      "hash": "c38d2a",
+      "minSize": 631196,
+      "minHash": "801b4f",
+      "timestamp": 1738966670
     },
     "questPhases.4.json": {
       "key": "questPhases",
       "filename": "questPhases.4.json",
-      "size": 32817,
-      "hash": "e99ad4",
-      "minSize": 18849,
-      "minHash": "bca26b",
-      "timestamp": 1729915699
+      "size": 158610,
+      "hash": "2fe9e2",
+      "minSize": 91365,
+      "minHash": "33fcb1",
+      "timestamp": 1738966670
     },
     "extraMasterMission.json": {
       "key": "extraMasterMission",
       "filename": "extraMasterMission.json",
-      "size": 1463503,
-      "hash": "6a4780",
-      "minSize": 1172735,
-      "minHash": "396833",
-      "timestamp": 1734599831
+      "size": 1472764,
+      "hash": "0ca50d",
+      "minSize": 1180735,
+      "minHash": "01e12a",
+      "timestamp": 1738401513
     },
     "questGroups.json": {
       "key": "questGroups",
       "filename": "questGroups.json",
-      "size": 1053683,
-      "hash": "e46507",
-      "minSize": 807157,
-      "minHash": "5f29e4",
-      "timestamp": 1735058911
+      "size": 1061329,
+      "hash": "a216eb",
+      "minSize": 813025,
+      "minHash": "e9fd05",
+      "timestamp": 1739179217
     },
     "questPhaseDetails.1.json": {
       "key": "questPhaseDetails",
@@ -375,29 +375,29 @@
     "questPhaseDetails.2.json": {
       "key": "questPhaseDetails",
       "filename": "questPhaseDetails.2.json",
-      "size": 470704,
-      "hash": "86a018",
-      "minSize": 354921,
-      "minHash": "444630",
-      "timestamp": 1733911505
+      "size": 470520,
+      "hash": "45196a",
+      "minSize": 354783,
+      "minHash": "285868",
+      "timestamp": 1736327942
     },
     "questPhaseDetails.3.json": {
       "key": "questPhaseDetails",
       "filename": "questPhaseDetails.3.json",
-      "size": 755361,
-      "hash": "e8ff12",
-      "minSize": 569183,
-      "minHash": "72193c",
-      "timestamp": 1733911505
+      "size": 755180,
+      "hash": "11d73a",
+      "minSize": 569047,
+      "minHash": "81e95b",
+      "timestamp": 1736327942
     },
     "questPhaseDetails.4.json": {
       "key": "questPhaseDetails",
       "filename": "questPhaseDetails.4.json",
-      "size": 248029,
-      "hash": "fe5d45",
-      "minSize": 185506,
-      "minHash": "fb81f6",
-      "timestamp": 1735058911
+      "size": 279398,
+      "hash": "afba3f",
+      "minSize": 207977,
+      "minHash": "0e270d",
+      "timestamp": 1739179217
     },
     "mstGacha.1.json": {
       "key": "mstGacha",
@@ -411,29 +411,29 @@
     "mstGacha.2.json": {
       "key": "mstGacha",
       "filename": "mstGacha.2.json",
-      "size": 106848,
-      "hash": "c68734",
-      "minSize": 94072,
-      "minHash": "7a5322",
-      "timestamp": 1735058911
+      "size": 133149,
+      "hash": "2ff94b",
+      "minSize": 116933,
+      "minHash": "1096cb",
+      "timestamp": 1739179217
     },
     "campaigns.json": {
       "key": "campaigns",
       "filename": "campaigns.json",
-      "size": 11349,
-      "hash": "68d7bf",
-      "minSize": 9919,
-      "minHash": "59eb54",
-      "timestamp": 1734958739
+      "size": 60820,
+      "hash": "0d1ae0",
+      "minSize": 53604,
+      "minHash": "e26f5d",
+      "timestamp": 1738933044
     },
     "constData.json": {
       "key": "constData",
       "filename": "constData.json",
-      "size": 208106,
-      "hash": "e68f40",
-      "minSize": 148878,
-      "minHash": "b775f7",
-      "timestamp": 1735060677
+      "size": 209806,
+      "hash": "b48e2c",
+      "minSize": 149913,
+      "minHash": "564b5a",
+      "timestamp": 1738401513
     },
     "wiki.servants.1.json": {
       "key": "wiki.servants",
@@ -474,146 +474,146 @@
     "wiki.servants.5.json": {
       "key": "wiki.servants",
       "filename": "wiki.servants.5.json",
-      "size": 172686,
-      "hash": "635fd1",
-      "minSize": 170284,
-      "minHash": "92194c",
-      "timestamp": 1735067524
+      "size": 180271,
+      "hash": "2345a5",
+      "minSize": 177774,
+      "minHash": "2594d7",
+      "timestamp": 1739192403
     },
     "wiki.craftEssences.1.json": {
       "key": "wiki.craftEssences",
       "filename": "wiki.craftEssences.1.json",
-      "size": 1042246,
-      "hash": "775d40",
-      "minSize": 1013490,
-      "minHash": "31e6fe",
-      "timestamp": 1733911505
+      "size": 1042261,
+      "hash": "e6dc49",
+      "minSize": 1013503,
+      "minHash": "9bab38",
+      "timestamp": 1737982707
     },
     "wiki.craftEssences.2.json": {
       "key": "wiki.craftEssences",
       "filename": "wiki.craftEssences.2.json",
-      "size": 1107908,
-      "hash": "440f71",
-      "minSize": 1078406,
-      "minHash": "3f8957",
-      "timestamp": 1734599831
+      "size": 1107907,
+      "hash": "3357b0",
+      "minSize": 1078405,
+      "minHash": "77be6c",
+      "timestamp": 1737623917
     },
     "wiki.craftEssences.3.json": {
       "key": "wiki.craftEssences",
       "filename": "wiki.craftEssences.3.json",
-      "size": 1219124,
-      "hash": "eaf403",
-      "minSize": 1189410,
-      "minHash": "1e2e66",
-      "timestamp": 1732180539
+      "size": 1219123,
+      "hash": "45f91e",
+      "minSize": 1189409,
+      "minHash": "bcfdcb",
+      "timestamp": 1736230711
     },
     "wiki.craftEssences.4.json": {
       "key": "wiki.craftEssences",
       "filename": "wiki.craftEssences.4.json",
-      "size": 1013464,
-      "hash": "cd41d4",
-      "minSize": 987390,
-      "minHash": "f79df0",
-      "timestamp": 1735058911
+      "size": 1046175,
+      "hash": "75394e",
+      "minSize": 1019671,
+      "minHash": "06d460",
+      "timestamp": 1739192403
     },
     "wiki.craftEssences.5.json": {
       "key": "wiki.craftEssences",
       "filename": "wiki.craftEssences.5.json",
-      "size": 174128,
-      "hash": "614ba4",
-      "minSize": 167251,
-      "minHash": "0e342e",
-      "timestamp": 1735067524
+      "size": 197567,
+      "hash": "b4da7d",
+      "minSize": 189725,
+      "minHash": "47cfb3",
+      "timestamp": 1738161269
     },
     "wiki.commandCodes.json": {
       "key": "wiki.commandCodes",
       "filename": "wiki.commandCodes.json",
-      "size": 254750,
-      "hash": "a35331",
-      "minSize": 245860,
-      "minHash": "2cdf81",
-      "timestamp": 1735058911
+      "size": 260731,
+      "hash": "fcb5ed",
+      "minSize": 251655,
+      "minHash": "cad920",
+      "timestamp": 1738930741
     },
     "wiki.events.1.json": {
       "key": "wiki.events",
       "filename": "wiki.events.1.json",
-      "size": 468740,
-      "hash": "93a29b",
-      "minSize": 371758,
-      "minHash": "f41bac",
-      "timestamp": 1735067524
+      "size": 490637,
+      "hash": "c5b45e",
+      "minSize": 388293,
+      "minHash": "663ef9",
+      "timestamp": 1739179217
     },
     "wiki.events.2.json": {
       "key": "wiki.events",
       "filename": "wiki.events.2.json",
-      "size": 189926,
-      "hash": "b03ea4",
-      "minSize": 166364,
-      "minHash": "6e7f85",
-      "timestamp": 1734958739
+      "size": 218332,
+      "hash": "64973c",
+      "minSize": 189734,
+      "minHash": "1a6382",
+      "timestamp": 1738933044
     },
     "wiki.wars.json": {
       "key": "wiki.wars",
       "filename": "wiki.wars.json",
-      "size": 17132,
-      "hash": "ef98af",
-      "minSize": 15291,
-      "minHash": "b86002",
-      "timestamp": 1733324623
+      "size": 19253,
+      "hash": "747d80",
+      "minSize": 17030,
+      "minHash": "7d3543",
+      "timestamp": 1735563501
     },
     "wiki.summons.1.json": {
       "key": "wiki.summons",
       "filename": "wiki.summons.1.json",
-      "size": 173935,
-      "hash": "eb2f92",
-      "minSize": 129172,
-      "minHash": "94be9b",
-      "timestamp": 1733324623
+      "size": 222762,
+      "hash": "7ac671",
+      "minSize": 163642,
+      "minHash": "6818fa",
+      "timestamp": 1735563501
     },
     "wiki.summons.2.json": {
       "key": "wiki.summons",
       "filename": "wiki.summons.2.json",
-      "size": 590717,
-      "hash": "43c227",
-      "minSize": 408038,
-      "minHash": "af8ba7",
-      "timestamp": 1733324623
+      "size": 809965,
+      "hash": "35931a",
+      "minSize": 556644,
+      "minHash": "171dbb",
+      "timestamp": 1735563501
     },
     "wiki.summons.3.json": {
       "key": "wiki.summons",
       "filename": "wiki.summons.3.json",
-      "size": 683619,
-      "hash": "5cfd5a",
-      "minSize": 477001,
-      "minHash": "ee5b7a",
-      "timestamp": 1733324623
+      "size": 906246,
+      "hash": "6263f9",
+      "minSize": 630435,
+      "minHash": "c8144e",
+      "timestamp": 1735563501
     },
     "wiki.summons.4.json": {
       "key": "wiki.summons",
       "filename": "wiki.summons.4.json",
-      "size": 576288,
-      "hash": "872b57",
-      "minSize": 409168,
-      "minHash": "60819b",
-      "timestamp": 1733324623
+      "size": 766457,
+      "hash": "df9132",
+      "minSize": 541608,
+      "minHash": "024c55",
+      "timestamp": 1735407472
     },
     "wiki.summons.5.json": {
       "key": "wiki.summons",
       "filename": "wiki.summons.5.json",
-      "size": 418149,
-      "hash": "54c409",
-      "minSize": 301615,
-      "minHash": "8fa888",
-      "timestamp": 1734699494
+      "size": 636288,
+      "hash": "107ab6",
+      "minSize": 456122,
+      "minHash": "f129e8",
+      "timestamp": 1738760283
     },
     "wiki.summons.6.json": {
       "key": "wiki.summons",
       "filename": "wiki.summons.6.json",
-      "size": 18895,
-      "hash": "84ae03",
-      "minSize": 14966,
-      "minHash": "8b3c9f",
-      "timestamp": 1733324623
+      "size": 112813,
+      "hash": "b093ba",
+      "minSize": 83753,
+      "minHash": "6e8ce7",
+      "timestamp": 1739192403
     },
     "wiki.webcrowMapping.json": {
       "key": "wiki.webcrowMapping",
@@ -627,29 +627,29 @@
     "baseTds.json": {
       "key": "baseTds",
       "filename": "baseTds.json",
-      "size": 2330333,
-      "hash": "e4f510",
-      "minSize": 1541872,
-      "minHash": "d5ad5d",
-      "timestamp": 1735058911
+      "size": 2359229,
+      "hash": "84505d",
+      "minSize": 1561509,
+      "minHash": "0c6103",
+      "timestamp": 1738487840
     },
     "baseSkills.json": {
       "key": "baseSkills",
       "filename": "baseSkills.json",
-      "size": 5820262,
-      "hash": "1975ef",
-      "minSize": 4254054,
-      "minHash": "ae3b4e",
-      "timestamp": 1735058911
+      "size": 5897396,
+      "hash": "083dce",
+      "minSize": 4309845,
+      "minHash": "9b957f",
+      "timestamp": 1738487840
     },
     "baseFunctions.json": {
       "key": "baseFunctions",
       "filename": "baseFunctions.json",
-      "size": 1464585,
-      "hash": "be3f73",
-      "minSize": 1168872,
-      "minHash": "885509",
-      "timestamp": 1735058911
+      "size": 1476503,
+      "hash": "589cce",
+      "minSize": 1178442,
+      "minHash": "ad33d4",
+      "timestamp": 1738413739
     }
   }
 }

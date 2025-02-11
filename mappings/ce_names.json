@@ -86,7 +86,7 @@
   "December 23rd": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "December 23rd",
     "NA": null,
     "KR": null
   },
@@ -233,7 +233,7 @@
   "Fate/stay night REMASTERED": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "Fate/stay night REMASTERED",
     "NA": null,
     "KR": null
   },
@@ -338,7 +338,7 @@
   "U FOU キャッチャー": {
     "JP": null,
     "CN": "U FOU 娃娃机",
-    "TW": "幽芙獵手",
+    "TW": "U FOU 娃娃機",
     "NA": "U FOU Catcher",
     "KR": "U FOU 캐처"
   },
@@ -387,7 +387,7 @@
   "waiting in the sky": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "waiting in the sky",
     "NA": null,
     "KR": null
   },
@@ -402,7 +402,7 @@
     "JP": null,
     "CN": "「FGO 藤丸立香想不明白」Season2",
     "TW": "「FGO 搞不懂的藤丸立香」Season2",
-    "NA": "\"FGO You've Lost Ritsuka Fujimaru\" Season 2",
+    "NA": "\"You've Lost Ritsuka Fujimaru\" Season 2",
     "KR": null
   },
   "『昏い森の優しい雨』": {
@@ -423,7 +423,7 @@
     "JP": null,
     "CN": "证明你的学力",
     "TW": "證明你的學術能力",
-    "NA": "Your Scholarship Certification",
+    "NA": "Your Scholarly Diploma",
     "KR": "당신의 학력을 증명한다"
   },
   "あの夏に見た、純白の": {
@@ -444,7 +444,7 @@
     "JP": null,
     "CN": "于那遥远之夜",
     "TW": "在那遙遠的夜晚裡",
-    "NA": "Night from a Long Time Ago",
+    "NA": "That Faraway Night",
     "KR": "어느 먼 밤의 날에"
   },
   "あまいもの": {
@@ -640,7 +640,7 @@
     "JP": null,
     "CN": "帅气的鲜红色（？）领带",
     "TW": "帥氣的鮮紅色（？）領帶",
-    "NA": "Stylish Deep Crimson? Necktie",
+    "NA": "Dandy Crimson (?) Necktie",
     "KR": "멋진 진홍색(?) 넥타이"
   },
   "かるであ草子": {
@@ -815,7 +815,7 @@
     "JP": null,
     "CN": "那是一瞬间的事",
     "TW": "那是一瞬間的事情",
-    "NA": "Something that Happened Instantly",
+    "NA": "It Was Just a Moment",
     "KR": "그것은 한순간에 생긴 일"
   },
   "それは光の片隅で": {
@@ -990,7 +990,7 @@
     "JP": null,
     "CN": "橡子巧克力",
     "TW": "橡子巧克力",
-    "NA": "Acorn Choco",
+    "NA": "Chocolate Acorns",
     "KR": "도토리 초콜릿"
   },
   "なつのあめ": {
@@ -1004,7 +1004,7 @@
     "JP": null,
     "CN": "这是什么？",
     "TW": "這是什麼？",
-    "NA": "I Wonder what this is?",
+    "NA": "What's This?",
     "KR": "뭘까?"
   },
   "なんのへんてつもないちょこ": {
@@ -1018,7 +1018,7 @@
     "JP": null,
     "CN": "起始的时间",
     "TW": "起始的時間",
-    "NA": "Beginning of Time",
+    "NA": "The Starting Hour",
     "KR": "시작의 시간"
   },
   "はじめてのバレンタイン": {
@@ -1039,7 +1039,7 @@
     "JP": null,
     "CN": "附带悄悄话语音的巧克力",
     "TW": "附帶悄悄話語音的巧克力",
-    "NA": "Chocolate with Whisper-Voice",
+    "NA": "Chocolates and ASMR",
     "KR": "소곤소곤 보이스 첨부 초콜릿"
   },
   "ひみつ会社 アサシン": {
@@ -1242,7 +1242,7 @@
     "JP": null,
     "CN": "阿兹特兰·我的家",
     "TW": "阿茲特蘭．我的家",
-    "NA": "Aztlán My Home",
+    "NA": "Aztlán, My Home",
     "KR": "아스틀란・마이홈"
   },
   "アズ・ユー・ウィッシュ": {
@@ -1704,7 +1704,7 @@
     "JP": null,
     "CN": "Ehre-Gandr",
     "TW": "Ehre-Gandr",
-    "NA": "Ehre-Gandr",
+    "NA": "Ele-Gandr",
     "KR": "엘레간드"
   },
   "オアシス・ナイト": {
@@ -1724,7 +1724,7 @@
   "オペラ・イン・アーケード": {
     "JP": null,
     "CN": "街机中的歌剧",
-    "TW": "Opera in Arcade",
+    "TW": "街機中的歌劇",
     "NA": "Opera in Arcade",
     "KR": "오페라 인 아케이드"
   },
@@ -1753,7 +1753,7 @@
     "JP": null,
     "CN": "Orbit Radiance Thing",
     "TW": "Orbit Radiance Thing",
-    "NA": "Orbit Radiance Thing",
+    "NA": "Orbit Radiant Thing",
     "KR": "오비트 래디언스 씽"
   },
   "オールウェイ・バーン": {
@@ -2222,7 +2222,7 @@
     "JP": null,
     "CN": "对僵尸有特效的巧克力麻薯",
     "TW": "對殭屍有特效的巧克力麻糬",
-    "NA": "Jiangshi-Beneficial Choco-Mochi",
+    "NA": "Anti-Jiāngshī Chocolate Mochi",
     "KR": "강시에게 효과적인 초코떡"
   },
   "キョンシー・アタック": {
@@ -2236,7 +2236,7 @@
     "JP": null,
     "CN": "冻得硬邦邦的运动饮料",
     "TW": "凍得硬梆梆的運動飲料",
-    "NA": "Icy-Cold Sports Drink",
+    "NA": "Frozen Sports Drinks",
     "KR": "꽁꽁 얼린 스포츠 드링크"
   },
   "キング・ジョーカー・ジャック": {
@@ -2383,7 +2383,7 @@
     "JP": null,
     "CN": "蜡笔巧克力与绘画",
     "TW": "蠟筆巧克力與繪畫",
-    "NA": "Crayon Choco and Doodle",
+    "NA": "Crayon Chocolates and Drawing",
     "KR": "크레용 초콜릿과 그림"
   },
   "クロスビッキの魔法姫と怪物": {
@@ -2452,7 +2452,7 @@
   "グレート・マザー": {
     "JP": null,
     "CN": "伟大的母亲",
-    "TW": "偉大之母",
+    "TW": "偉大的母親",
     "NA": "Great Mother",
     "KR": "그레이트 마더"
   },
@@ -2596,9 +2596,16 @@
     "NA": "A Thousand Nights",
     "KR": "사우전드 나이츠"
   },
+  "サッカやろうぜ！": {
+    "JP": null,
+    "CN": "踢足球咯！",
+    "TW": "踢足球囉！",
+    "NA": null,
+    "KR": null
+  },
   "サテライトステーション23-24": {
     "JP": null,
-    "CN": "卫星基站23-24",
+    "CN": "卫星基站24-25",
     "TW": "衛星站23-24",
     "NA": "Satellite Station 23-24",
     "KR": null
@@ -2697,7 +2704,7 @@
   "サービス・ゲームス": {
     "JP": null,
     "CN": "Service Games",
-    "TW": "招待遊戲",
+    "TW": "Service Games",
     "NA": "Service Games",
     "KR": "서비스 게임즈"
   },
@@ -2715,6 +2722,13 @@
     "NA": "The Souq",
     "KR": null
   },
+  "ザ・トレジャー": {
+    "JP": null,
+    "CN": "财宝",
+    "TW": "寶藏",
+    "NA": null,
+    "KR": null
+  },
   "シャイタンの腕": {
     "JP": null,
     "CN": "撒但之腕",
@@ -2726,7 +2740,7 @@
     "JP": null,
     "CN": "闪耀若安巧克力",
     "TW": "閃耀瓊安巧克力",
-    "NA": "Shining Johanna Choco",
+    "NA": "Shining Johanna Chocolate",
     "KR": "샤이닝 요한나 초콜릿"
   },
   "シャイニー・ゴッデス": {
@@ -2824,7 +2838,7 @@
     "JP": null,
     "CN": "巧克力妖精国",
     "TW": "巧克力妖精國",
-    "NA": "Chocolat Faerie Kingdom",
+    "NA": "Chocolate Faerie Britain",
     "KR": "쇼콜라 요정국"
   },
   "シラノ・ド・ベルジュラック": {
@@ -3188,7 +3202,7 @@
     "JP": null,
     "CN": "附智能机变形功能的小为朝",
     "TW": "附智慧型手機變形功能的小為朝",
-    "NA": "Mini Tametomo with Smartphone-Transformation Feature",
+    "NA": "Mini Tametomo with Smartphone Capability",
     "KR": "스마트폰 변형 기능이 있는 미니 타메토모"
   },
   "スムース・セーリング": {
@@ -3263,7 +3277,7 @@
   },
   "セルフ・ギアス・スクロール": {
     "JP": null,
-    "CN": "自我束缚卷轴",
+    "CN": "自我强制证文",
     "TW": "自我束縛卷軸",
     "NA": "Self Geas Scroll",
     "KR": "셀프 기어스 스크롤"
@@ -3503,21 +3517,21 @@
     "JP": null,
     "CN": "巧克力子弹",
     "TW": "巧克力子彈",
-    "NA": "Choco Bullet",
+    "NA": "Chocolate Bullets",
     "KR": "초콜릿 불릿"
   },
   "チョコ・パイナップル": {
     "JP": null,
     "CN": "巧克力手榴弹",
     "TW": "巧克力手榴彈",
-    "NA": "Choco Pineapple",
+    "NA": "Chocolate Pineapples",
     "KR": "초콜릿 파인애플"
   },
   "チョコ・ミサイル": {
     "JP": null,
     "CN": "巧克力导弹",
     "TW": "巧克力導彈",
-    "NA": "Choco Missile",
+    "NA": "Chocolate Missile",
     "KR": "초콜릿 미사일"
   },
   "チョコ・ラフティング": {
@@ -3574,6 +3588,13 @@
     "CN": "御主的一日",
     "TW": "御主的一日",
     "NA": "Day of Master",
+    "KR": null
+  },
+  "デザート・メイデン": {
+    "JP": null,
+    "CN": "沙漠少女",
+    "TW": "沙漠少女",
+    "NA": null,
     "KR": null
   },
   "デッパツ活動写真館": {
@@ -3742,7 +3763,7 @@
     "CN": "暮景冥想",
     "TW": "熹微的冥想",
     "NA": "Twilight Meditation",
-    "KR": null
+    "KR": "트와일라이트 메디테이션"
   },
   "トワイライト・メモリー": {
     "JP": null,
@@ -3958,7 +3979,7 @@
     "JP": null,
     "CN": "蜂鸟是秘密房间",
     "TW": "蜂鳥是秘密房間",
-    "NA": "Hummingbird for a Secret Chamber",
+    "NA": "Hummingbirds To Open a Secret Room",
     "KR": "벌새의 비밀의 방"
   },
   "ハッピー×3・オーダー": {
@@ -4056,7 +4077,7 @@
     "JP": null,
     "CN": "Half Moon：Earth",
     "TW": "Half Moon：Earth",
-    "NA": "Half-Moon Half-Earth",
+    "NA": "Half-Moon: EARTH",
     "KR": "하프문 : 어스"
   },
   "バステニャンＸ号": {
@@ -4432,8 +4453,8 @@
   },
   "ファンタズムロッド・麗華": {
     "JP": null,
-    "CN": null,
-    "TW": "幻影之棒・麗華",
+    "CN": "幻想魔杖·丽华",
+    "TW": "幻想魔杖・麗華",
     "NA": null,
     "KR": null
   },
@@ -4443,6 +4464,13 @@
     "TW": "魅影之夜",
     "NA": "Phantom Night",
     "KR": "팬텀 나이트"
+  },
+  "ファースト・カリグラフィー": {
+    "JP": null,
+    "CN": "走笔迎春",
+    "TW": "走筆迎春",
+    "NA": null,
+    "KR": null
   },
   "ファースト・サンライズ": {
     "JP": null,
@@ -4672,7 +4700,7 @@
     "JP": null,
     "CN": "蓝色鲁鲁夏威味刨冰",
     "TW": "藍色魯魯夏威口味刨冰",
-    "NA": "Blue Luluhawa-Flavoured Shaved Ice",
+    "NA": "Blue Luluhawaii Flavored Shaved Ice",
     "KR": "블루 룰루하와맛 빙수"
   },
   "ブレイン・ストーミング": {
@@ -4969,6 +4997,13 @@
     "NA": "We Never Summon: Bokushou",
     "KR": "우리는 소환을 못해!"
   },
+  "マイ・リトル・ドラゴン": {
+    "JP": null,
+    "CN": "我的小小龙种",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "マカロニグラタン": {
     "JP": null,
     "CN": "焗通心粉",
@@ -5006,7 +5041,7 @@
   },
   "マジカルシオン": {
     "JP": null,
-    "CN": null,
+    "CN": "魔法希翁",
     "TW": "魔法少女紫苑",
     "NA": null,
     "KR": null
@@ -5042,7 +5077,7 @@
   "マッシュルーミング": {
     "JP": null,
     "CN": "菌菇主题房间",
-    "TW": "採集蘑菇",
+    "TW": "蕈菇主題房間",
     "NA": "Mushrooming",
     "KR": "머쉬루밍"
   },
@@ -5421,7 +5456,7 @@
     "JP": null,
     "CN": "爱之妄想",
     "TW": "愛之妄想",
-    "NA": "Love Delusion",
+    "NA": "Love's Delusion",
     "KR": "러브 딜루전"
   },
   "ラムセウム": {
@@ -5448,14 +5483,14 @@
   "ラン・オルタ・ラン！": {
     "JP": null,
     "CN": "Run Alter Run！",
-    "TW": "Run Alter Run!",
+    "TW": "Run Alter Run！",
     "NA": "Run Alter Run!",
     "KR": "런 얼터 런!"
   },
   "ラヴ・イット": {
     "JP": null,
     "CN": "Love it",
-    "TW": "Love It",
+    "TW": "Love it",
     "NA": "Love It",
     "KR": "러브 잇"
   },
@@ -5806,7 +5841,7 @@
     "JP": null,
     "CN": "一起，晒太阳",
     "TW": "一起，曬太陽",
-    "NA": "Let's Bask in the Sun Together",
+    "NA": "Sunbathing Together",
     "KR": "함께, 일광욕"
   },
   "一衣帯水": {
@@ -5885,6 +5920,13 @@
     "TW": "三重結界",
     "NA": "Threefold Barrier",
     "KR": "삼중결계"
+  },
+  "三頭の獅子、三つ影の娘達": {
+    "JP": null,
+    "CN": "三头狮子、三重影子的女儿们",
+    "TW": "三頭獅子，三重影子的女兒們",
+    "NA": null,
+    "KR": null
   },
   "不器用な歓び": {
     "JP": null,
@@ -6001,7 +6043,7 @@
   "乾いた拳": {
     "JP": null,
     "CN": "枯涸的拳",
-    "TW": "乾涸的拳",
+    "TW": "乾涸之拳",
     "NA": "Parched Fist",
     "KR": null
   },
@@ -6100,7 +6142,7 @@
     "JP": null,
     "CN": "仁义八行水馒头",
     "TW": "仁義八行水饅頭",
-    "NA": "Water Manjū of Eight Virtues",
+    "NA": "Mizu Manjyu of Eight Virtues",
     "KR": "인의팔행 물만주"
   },
   "今から間に合う家事セット": {
@@ -6198,7 +6240,7 @@
     "JP": null,
     "CN": "唯信吾神",
     "TW": "只信奉吾神",
-    "NA": "I Only Believe in the God I Worship",
+    "NA": "I Only Believe In My God",
     "KR": "믿는 것은 나의 신뿐"
   },
   "俺様生徒会": {
@@ -6212,7 +6254,7 @@
     "JP": null,
     "CN": "无法打倒之人",
     "TW": "無法打倒之人",
-    "NA": "The Undefeatable",
+    "NA": "Undefeatable",
     "KR": "쓰러뜨릴 수 없는 것"
   },
   "偉大なるわし様が選んだ最高の帯": {
@@ -6282,7 +6324,7 @@
     "JP": null,
     "CN": "兔人的诅咒",
     "TW": "兔人的詛咒",
-    "NA": "Curse of the Rabbitfolk",
+    "NA": "Curse of the Bunnyfolk",
     "KR": "토끼인간의 저주"
   },
   "八つ橋チョコ": {
@@ -6317,7 +6359,7 @@
     "JP": null,
     "CN": "共同制作中！",
     "TW": "共同製作中！",
-    "NA": "Still in Joint Production!",
+    "NA": "Collaboration in Progress!",
     "KR": "공동제작 중!"
   },
   "再会の宇宙へ": {
@@ -6770,7 +6812,7 @@
   },
   "咲初めに鶴": {
     "JP": null,
-    "CN": "鹤赏花初绽",
+    "CN": "初绽花中鹤",
     "TW": "鶴賞花初綻",
     "NA": "Crane Beginning to Blossom",
     "KR": null
@@ -6778,9 +6820,9 @@
   "唸る仔犬": {
     "JP": null,
     "CN": "低吼的幼犬",
-    "TW": "嗥叫的幼犬",
+    "TW": "低吼的幼犬",
     "NA": "Growling Puppy",
-    "KR": null
+    "KR": "으르렁대는 강아지"
   },
   "喝采の焔": {
     "JP": null,
@@ -7080,7 +7122,7 @@
     "JP": null,
     "CN": "大黑天的赠礼（肠胃药）",
     "TW": "大黑天的贈禮（腸胃藥）",
-    "NA": "Gift from Daikokuten (Digestive Medicine)",
+    "NA": "Gift from Daikokuten (Stomach Medicine)",
     "KR": "대흑천이 보내는 선물(위장약)"
   },
   "天に挿頭す": {
@@ -7255,7 +7297,7 @@
     "JP": null,
     "CN": "奋勉的弹药",
     "TW": "奮勉的彈藥",
-    "NA": "Strenuous Charge of Gunpowder",
+    "NA": "Gunpowder Cache",
     "KR": "분려의 장약"
   },
   "女神のきらめき": {
@@ -7274,7 +7316,7 @@
   },
   "女神の御籤": {
     "JP": null,
-    "CN": "女神之御签",
+    "CN": "女神的御签",
     "TW": "女神之御籤",
     "NA": "Goddesses' Fortune Slip",
     "KR": null
@@ -7288,7 +7330,7 @@
   },
   "妖精國お正月興行": {
     "JP": null,
-    "CN": "妖精国的正月公演",
+    "CN": "妖精国新年演出",
     "TW": "妖精國的正月公演",
     "NA": "Faerie Kingdom's New Year Show",
     "KR": null
@@ -7503,6 +7545,34 @@
     "NA": "Heaven Among the Mountains",
     "KR": "산속의 하늘"
   },
+  "巡霊の祝祭／伍": {
+    "JP": null,
+    "CN": "巡灵的祝祭／伍",
+    "TW": "巡靈的祝祭／伍",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭／参": {
+    "JP": null,
+    "CN": "巡灵的祝祭／叁",
+    "TW": "巡靈的祝祭／參",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭／壱": {
+    "JP": null,
+    "CN": "巡灵的祝祭／壹",
+    "TW": "巡靈的祝祭／壹",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭／弐": {
+    "JP": null,
+    "CN": "巡灵的祝祭／贰",
+    "TW": "巡靈的祝祭／貳",
+    "NA": null,
+    "KR": null
+  },
   "巡霊の祝祭／捌": {
     "JP": null,
     "CN": "巡灵的祝祭／捌",
@@ -7515,6 +7585,20 @@
     "CN": "巡灵的祝祭／柒",
     "TW": "巡靈的祝祭／柒",
     "NA": "Evocation Festival: Part 7",
+    "KR": null
+  },
+  "巡霊の祝祭／玖": {
+    "JP": null,
+    "CN": "巡灵的祝祭／玖",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭／肆": {
+    "JP": null,
+    "CN": "巡灵的祝祭／肆",
+    "TW": "巡靈的祝祭／肆",
+    "NA": null,
     "KR": null
   },
   "巡霊の祝祭／陸": {
@@ -7703,7 +7787,7 @@
     "JP": null,
     "CN": "后面座位的可爱家伙",
     "TW": "後面座位的可愛傢伙",
-    "NA": "The Cute Girl Seated behind Me",
+    "NA": "The Cutie Who Sits Behind Me",
     "KR": "뒷자리의 귀여운 녀석"
   },
   "徒なる影": {
@@ -7724,7 +7808,7 @@
     "JP": null,
     "CN": "倾注了心意的巧克力（附带说教）",
     "TW": "傾注心意的巧克力（附帶說教）",
-    "NA": "Sincere Chocolate (with Sermon Attached)",
+    "NA": "Heartfelt Chocolate (Lecture Included)",
     "KR": "마음을 담은 초콜릿(설교 포함)"
   },
   "心を留めるもの": {
@@ -7979,6 +8063,13 @@
     "NA": "Conquering the Great Sea of Stars",
     "KR": "우리가 정복하는 것은 별의 바다"
   },
+  "或る蛇を殺した槍": {
+    "JP": null,
+    "CN": "杀死了某条蛇的枪",
+    "TW": "刺殺某條蛇之槍",
+    "NA": null,
+    "KR": null
+  },
   "戦い終わって、剣は折れて": {
     "JP": null,
     "CN": "战已终，剑已折",
@@ -8011,7 +8102,7 @@
     "JP": null,
     "CN": "战士的面具",
     "TW": "戰士的面具",
-    "NA": "Mask of Warriors",
+    "NA": "A Warrior's Mask",
     "KR": "전사의 가면"
   },
   "戦神の軍帯": {
@@ -8032,7 +8123,7 @@
     "JP": null,
     "CN": "手工鱼龙巧克力",
     "TW": "手工魚龍巧克力",
-    "NA": "Handmade Ichthyo-Choco",
+    "NA": "Handmade Ichthyo-Chocolate",
     "KR": "수제 이크티오 초콜릿"
   },
   "手作りクッキーと物体Ｘ": {
@@ -8236,7 +8327,7 @@
     "CN": "摇篮之歌",
     "TW": "搖籃之歌",
     "NA": "Song of the Cradle",
-    "KR": null
+    "KR": "요람의 노래"
   },
   "摩天楼に輝く": {
     "JP": null,
@@ -8371,6 +8462,13 @@
     "NA": "Fortress of the Sun",
     "KR": "일륜의 성"
   },
+  "明けの光暈": {
+    "JP": null,
+    "CN": "黎明的光晕",
+    "TW": "黎明的光暈",
+    "NA": null,
+    "KR": null
+  },
   "昏き森淵の護符": {
     "JP": null,
     "CN": "昏暗森渊之护符",
@@ -8437,7 +8535,7 @@
   "春に咲く": {
     "JP": null,
     "CN": "春花绽放",
-    "TW": "春暖花開",
+    "TW": "春花綻放",
     "NA": "Bloom in Spring",
     "KR": "봄에 피다"
   },
@@ -8468,6 +8566,13 @@
     "TW": "望春",
     "NA": "Viewing Spring",
     "KR": "봄을 보다"
+  },
+  "春待つ君と": {
+    "JP": null,
+    "CN": "伴君候春来",
+    "TW": "伴君候春來",
+    "NA": null,
+    "KR": null
   },
   "春遠からじ": {
     "JP": null,
@@ -8851,7 +8956,7 @@
     "JP": null,
     "CN": "乐园的一杯",
     "TW": "樂園的一杯",
-    "NA": "One Glassful of Paradise",
+    "NA": "A Cup of Paradise",
     "KR": "낙원의 한 잔"
   },
   "概念礼装EXPカード：おかしな双子": {
@@ -8870,7 +8975,7 @@
   },
   "概念礼装EXPカード：おせちもいいんですけど": {
     "JP": null,
-    "CN": "概念礼装EXP卡：当年菜倒也不错就是了",
+    "CN": "概念礼装经验卡：御节料理虽好",
     "TW": "概念禮裝EXP卡：當年菜倒也不錯就是了",
     "NA": "CE EXP Card: Osechi is Fine too",
     "KR": null
@@ -8930,6 +9035,13 @@
     "TW": "概念禮裝EXP卡：歡迎來到邪馬臺國！",
     "NA": "CE EXP Card: Welcome to Yamataikoku!",
     "KR": "개념예장 EXP 카드: 어서오세요 야마타이국!"
+  },
+  "概念礼装EXPカード：カドゥケウス": {
+    "JP": null,
+    "CN": "概念礼装EXP卡：信使之杖",
+    "TW": "概念禮裝EXP卡：信使之杖",
+    "NA": null,
+    "KR": null
   },
   "概念礼装EXPカード：ドルセント・ショップ": {
     "JP": null,
@@ -9033,7 +9145,7 @@
     "JP": null,
     "CN": "概念礼装经验卡：只有我看得见的兔子",
     "TW": "概念禮裝EXP卡：只有我看得見的兔子",
-    "NA": "CE EXP Card: The Rabbit that Only I Can See",
+    "NA": "CE EXP Card: The Bunny Only I Can See",
     "KR": "개념예장 EXP 카드: 나에게만 보이는 토끼"
   },
   "概念礼装EXPカード：窮鼠": {
@@ -9145,7 +9257,7 @@
     "JP": null,
     "CN": "正月至少休息一下啦",
     "TW": "正月至少休息一下啦",
-    "NA": "At Least Get Some Rest During New Year",
+    "NA": "At Least Take the New Year Off",
     "KR": "정월 정도는 쉬어라"
   },
   "正月の神秘": {
@@ -9178,7 +9290,7 @@
   },
   "歳末の贈り物": {
     "JP": null,
-    "CN": null,
+    "CN": "岁末的礼物",
     "TW": "歲末的贈禮",
     "NA": null,
     "KR": null
@@ -9482,7 +9594,7 @@
     "CN": "混祸的爪饰",
     "TW": "混禍的爪飾",
     "NA": "Talisman of Razing Disaster",
-    "KR": null
+    "KR": "혼화의 발톱 장식"
   },
   "淹れ立てのコーヒー": {
     "JP": null,
@@ -9500,7 +9612,7 @@
   },
   "湊の一夜": {
     "JP": null,
-    "CN": "水畔的一夜",
+    "CN": "港湾一夜",
     "TW": "水畔的一夜",
     "NA": "One Night at the Port",
     "KR": null
@@ -10257,9 +10369,9 @@
   "神々の御饌": {
     "JP": null,
     "CN": "诸神的肴馔",
-    "TW": "眾神之御饌",
+    "TW": "諸神的御饌",
     "NA": "Food Offering for the Gods",
-    "KR": null
+    "KR": "신들의 어찬"
   },
   "神々の遺した愛": {
     "JP": null,
@@ -10349,7 +10461,7 @@
     "JP": null,
     "CN": "我的记录，我的念想",
     "TW": "我的記錄，我的想法",
-    "NA": "My Thoughts, My Records",
+    "NA": "My Record, My Feelings",
     "KR": "나의 기록, 나의 마음"
   },
   "私は誰だ？": {
@@ -10449,6 +10561,13 @@
     "TW": "龍之記憶",
     "NA": "Memories of the Dragon",
     "KR": "용의 기억"
+  },
+  "竜狩り": {
+    "JP": null,
+    "CN": "猎龙人",
+    "TW": "獵龍",
+    "NA": null,
+    "KR": null
   },
   "竜種": {
     "JP": null,
@@ -10594,7 +10713,7 @@
     "JP": null,
     "CN": "纯米大吟酿伊吹",
     "TW": "純米大吟釀伊吹",
-    "NA": "Junmai Daiginjō Ibuki",
+    "NA": "Junmai Daiginjou Ibuki",
     "KR": "준마이 다이긴조 이부키"
   },
   "素晴らしき飼葉桶": {
@@ -10644,7 +10763,7 @@
     "CN": "终末之火",
     "TW": "終末之火",
     "NA": "Terminus Fire",
-    "KR": null
+    "KR": "종말의 불"
   },
   "終焉、されど想いは続く": {
     "JP": null,
@@ -10811,7 +10930,7 @@
     "JP": null,
     "CN": "羽化之森",
     "TW": "羽化之森",
-    "NA": "Forest of Emergence",
+    "NA": "Forest of Eclosion",
     "KR": "우화의 숲"
   },
   "翡翠の髪状": {
@@ -10944,7 +11063,7 @@
     "JP": null,
     "CN": "圣职者的晚餐",
     "TW": "聖職者的晚餐",
-    "NA": "Enforcer's Last Supper",
+    "NA": "Clergyman's Dinner",
     "KR": "성직자의 만찬"
   },
   "胃袋で倒せ": {
@@ -11077,7 +11196,7 @@
     "JP": null,
     "CN": "珍惜绽放之雪",
     "TW": "珍惜綻放之雪",
-    "NA": "The Sacred Snow that Can Bloom",
+    "NA": "Precious Blossoms of Snow",
     "KR": "꽃피우는 눈은 존귀하니"
   },
   "花園の少女": {
@@ -13660,7 +13779,7 @@
     "JP": null,
     "CN": "莲子糖茶＆压根没打算送出的巧克力",
     "TW": "蓮子湯＆沒打算送出的巧克力",
-    "NA": "Lotus Seed Chè & Choco that Wasn't Supposed to be Given",
+    "NA": "Lotus Seed Chè & Chocolates Meant To Go Ungiven",
     "KR": "연밥 째&건넬 생각 없던 초콜릿"
   },
   "蓮花愛すは何人ぞ": {
@@ -13733,11 +13852,18 @@
     "NA": "Serpent-Entwined Rod",
     "KR": "뱀 지팡이"
   },
+  "蛇先輩s": {
+    "JP": null,
+    "CN": "蛇前辈s",
+    "TW": "蛇前輩s",
+    "NA": null,
+    "KR": null
+  },
   "蛇守の宝庫": {
     "JP": null,
     "CN": "蛇守的宝库",
     "TW": "蛇守的寶庫",
-    "NA": "Snake-Protected Treasury",
+    "NA": "Treasury of the Guardian Serpent",
     "KR": "사수의 보고"
   },
   "蛮崇の偽神像": {
@@ -13945,7 +14071,7 @@
   },
   "謎のネコG": {
     "JP": null,
-    "CN": null,
+    "CN": "谜之猫咪G",
     "TW": "謎之貓咪G",
     "NA": null,
     "KR": null
@@ -14209,6 +14335,13 @@
     "NA": "Last Will and Testament",
     "KR": "유언장"
   },
+  "遺跡を荒らす者": {
+    "JP": null,
+    "CN": "遗迹偷盗者",
+    "TW": "遺跡偷盜者",
+    "NA": null,
+    "KR": null
+  },
   "邪悪教典": {
     "JP": null,
     "CN": "邪恶教典",
@@ -14241,7 +14374,7 @@
     "JP": null,
     "CN": "绽放于原野之花",
     "TW": "綻放於原野之花",
-    "NA": "Like a Wild Flower",
+    "NA": "A Blooming Wildflower",
     "KR": "들판에 핀 꽃"
   },
   "野望の嚆矢": {
@@ -14563,7 +14696,7 @@
     "JP": null,
     "CN": "灵烂的洋馆",
     "TW": "靈爛的洋館",
-    "NA": "Soul-Festered Mansion",
+    "NA": "Spectral Manor",
     "KR": "영란의 양관"
   },
   "霧の情景": {
@@ -14682,7 +14815,7 @@
     "JP": null,
     "CN": "风车型巧克力与堂·吉诃德增补篇",
     "TW": "風車型巧克力和唐吉訶德補遺",
-    "NA": "Windmill Choco and Appendices of Don Quixote",
+    "NA": "Windmill Chocolate and Addendums to \"Don Quixote\"",
     "KR": "풍차형 초콜릿과 돈키호테 추보편"
   },
   "風雅たれ": {
@@ -14717,7 +14850,7 @@
     "JP": null,
     "CN": "身为骑士",
     "TW": "身為騎士",
-    "NA": "What a Knight Ought to be",
+    "NA": "As a Knight",
     "KR": "기사로서"
   },
   "騎士の矜持": {
@@ -14740,6 +14873,13 @@
     "TW": "骨刀（無銘）",
     "NA": "Bone Sword (Nameless)",
     "KR": "골도(무명)"
+  },
+  "高梨の宝刀": {
+    "JP": null,
+    "CN": "高梨的宝刀",
+    "TW": "高梨的寶刀",
+    "NA": null,
+    "KR": null
   },
   "高潔なる矛と盾": {
     "JP": null,
@@ -14899,7 +15039,7 @@
     "JP": null,
     "CN": "黄家的外套",
     "TW": "黃家的外套",
-    "NA": "Mantle of the Huang Clan",
+    "NA": "Huang Family Cloak",
     "KR": "황씨 가문의 외투"
   },
   "黄巾": {

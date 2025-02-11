@@ -13,6 +13,13 @@
     "NA": "Anniversary Blonde",
     "KR": "애니버서리 블론드"
   },
+  "ウィンターカジュアル": {
+    "JP": null,
+    "CN": "冬日便装",
+    "TW": "冬日便裝",
+    "NA": null,
+    "KR": null
+  },
   "カルデア・パスファインダー": {
     "JP": null,
     "CN": "迦勒底探险者",
@@ -71,7 +78,7 @@
   },
   "三咲高校学生服": {
     "JP": null,
-    "CN": "三咲高中校服",
+    "CN": "三咲高中学生服",
     "TW": "三咲高中校服",
     "NA": "Misaki High School Uniform",
     "KR": null
@@ -80,7 +87,7 @@
     "JP": null,
     "CN": "新春装束",
     "TW": "新春裝束",
-    "NA": "New Year's Attire",
+    "NA": "New Year's Wardrobe",
     "KR": "새해의 옷차림"
   },
   "晴れの新年": {

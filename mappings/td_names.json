@@ -52,7 +52,7 @@
     "JP": null,
     "CN": "依然存在的梦想之城",
     "TW": "至今猶存的夢想之城",
-    "NA": "Even Now, a Fortress of Past Visions",
+    "NA": "Lord Camelot",
     "KR": null
   },
   "いまは脆き夢想の城": {
@@ -1381,7 +1381,7 @@
   "夜のカフェテラス": {
     "JP": null,
     "CN": "夜晚露天咖啡座",
-    "TW": null,
+    "TW": "夜晚露天咖啡座",
     "NA": null,
     "KR": null
   },
@@ -1738,7 +1738,7 @@
   "希う淡き夢見し": {
     "JP": null,
     "CN": "渴盼中隐约得见的梦",
-    "TW": null,
+    "TW": "渴盼中隱約得見的夢",
     "NA": null,
     "KR": null
   },
@@ -2118,12 +2118,12 @@
     "CN": "拥抱融解的黄金剧场",
     "TW": "懷抱融解的黃金劇場",
     "NA": "Ingurgitating Golden Theatre",
-    "KR": null
+    "KR": "품어 녹이는 황금극장"
   },
   "拡がりゆく世界": {
     "JP": null,
     "CN": "扩张的世界",
-    "TW": null,
+    "TW": "擴張的世界",
     "NA": null,
     "KR": null
   },
@@ -2229,7 +2229,7 @@
     "JP": null,
     "CN": "星，自宇宙坠落",
     "TW": "星，自宇宙墜落",
-    "NA": "The Forthcoming Fall of a Star from the Space",
+    "NA": "Last Sun Xibalba",
     "KR": "별, 우주에서 떨어지다"
   },
   "星よ、輝きの道を征け": {
@@ -2323,12 +2323,26 @@
     "NA": "Artemis Agnós",
     "KR": "달의 여신의 무구한 사랑"
   },
+  "有鱗幻想": {
+    "JP": null,
+    "CN": "有鳞幻想",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "朧裏月十一式": {
     "JP": null,
     "CN": "胧里月十一式",
     "TW": "朧裏月十一式",
     "NA": "Oboro Urazuki, Eleven Forms",
     "KR": "오보로우라즈키 십일식"
+  },
+  "未蘭蛇竜・紋章咬合": {
+    "JP": null,
+    "CN": "米兰蛇龙·纹章咬合",
+    "TW": "米蘭蛇龍．紋章咬合",
+    "NA": null,
+    "KR": null
   },
   "来たれよ酷吏殭屍団": {
     "JP": null,
@@ -2354,7 +2368,7 @@
   "極星天球殻循環": {
     "JP": null,
     "CN": "极星天球壳循环",
-    "TW": null,
+    "TW": "極星天球殼循環",
     "NA": null,
     "KR": null
   },
@@ -2424,7 +2438,7 @@
   "毅き仔よ、創世の理に抗え": {
     "JP": null,
     "CN": "吾坚毅之子啊，必抗创世之理",
-    "TW": "堅毅吾子啊，必違創世之理",
+    "TW": "堅毅之子啊，抗衡創世之理吧",
     "NA": "O' Resolute Child, Defy the Laws of Creation",
     "KR": "굳센 아이여, 창세의 이치에 저항하라"
   },
@@ -2827,6 +2841,13 @@
     "NA": "Headlong Rush",
     "KR": "저돌맹진"
   },
+  "獅子吼よ詠え、颯颯たる煉獄を": {
+    "JP": null,
+    "CN": "咆吼吧狮子，吟咏那飒飒燃烧的炼狱吧",
+    "TW": "咆吼吧獅子，吟唱那颯颯燃燒的煉獄吧",
+    "NA": null,
+    "KR": null
+  },
   "王の号砲": {
     "JP": null,
     "CN": "王之号炮",
@@ -3090,7 +3111,7 @@
     "JP": null,
     "CN": "祈祷敬献给光辉荣耀之玉座",
     "TW": "祈禱敬獻於光輝榮耀之玉座",
-    "NA": "Offering Prayers for the Radiant Throne of Glory",
+    "NA": "Legendum Papa Thronus",
     "KR": "기도 올리는 눈부신 영광의 옥좌"
   },
   "祈誓たるは三重の貴壁": {
@@ -3228,8 +3249,8 @@
   },
   "空想具現化・万物の簒奪": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "空想具现化·万物之篡夺",
+    "TW": "空想具現化．萬物之篡奪",
     "NA": null,
     "KR": null
   },
@@ -3432,7 +3453,7 @@
   "縮みゆく世界": {
     "JP": null,
     "CN": "收缩的世界",
-    "TW": null,
+    "TW": "收縮的世界",
     "NA": null,
     "KR": null
   },
@@ -3454,7 +3475,7 @@
     "JP": null,
     "CN": "吾美丽的冥府，开启那道路吧",
     "TW": "吾美麗的冥府，開闢道路吧",
-    "NA": "Unseal the Path to My Beautiful Underworld",
+    "NA": "Neferu Swen Anubis",
     "KR": "아름다운 나의 명부, 그 길을 열어라"
   },
   "聖人連続拳": {
@@ -3558,9 +3579,9 @@
   "茸、聖なる御饌なれば": {
     "JP": null,
     "CN": "菇，既为神圣肴馔",
-    "TW": "蘑菇，若能為聖之御饌",
+    "TW": "蘑菇，若為聖之御饌",
     "NA": "When it Comes to Sacred Food Offerings, it's Mushrooms",
-    "KR": null
+    "KR": "버섯, 신성한 어찬이리니"
   },
   "荒れ狂う哀しき竜よ": {
     "JP": null,
@@ -3707,7 +3728,7 @@
     "CN": "斩断死辉之刃",
     "TW": "斬裂死輝之刃",
     "NA": "Shining Blade of Cleaving Death",
-    "KR": null
+    "KR": "갈라 찢는 죽음의 칼날"
   },
   "複式波動砲": {
     "JP": null,
@@ -3719,7 +3740,7 @@
   "観測せよ、主なき月の柩": {
     "JP": null,
     "CN": "去观测吧，无人主宰的月之棺",
-    "TW": null,
+    "TW": "去觀測吧，無人主宰的月之棺",
     "NA": null,
     "KR": null
   },
@@ -3733,7 +3754,7 @@
   "記録せよ、読み手なき月の柩": {
     "JP": null,
     "CN": "去记录吧，无人阅读的月之棺",
-    "TW": null,
+    "TW": "去記錄吧，無人閱讀的月之棺",
     "NA": null,
     "KR": null
   },
@@ -3985,7 +4006,7 @@
   "過分なる神秘の心臓": {
     "JP": null,
     "CN": "神秘过度的心脏",
-    "TW": null,
+    "TW": "神秘過度的心臟",
     "NA": null,
     "KR": null
   },
@@ -4042,7 +4063,7 @@
     "JP": null,
     "CN": "重启动心脏都市",
     "TW": "重啟動心臟都市",
-    "NA": "Heart of Mexico Twofold Booting Sequence",
+    "NA": "Ometeotl Tenochtitlan",
     "KR": "중기동 심장도시"
   },
   "金星神・火炎天主": {
@@ -4168,7 +4189,7 @@
     "JP": null,
     "CN": "零落泛滥的暗黑心脏",
     "TW": "零落氾濫的暗黑心臟",
-    "NA": "Overflowing Heart of Darkness",
+    "NA": "Zazhiganiye, Aŋra Mainiiu",
     "KR": "넘쳐흐르는 암흑심장"
   },
   "雷天日光・禍音星落火流錘": {
@@ -4373,6 +4394,13 @@
     "TW": "黃飛虎反五關．天化莫邪寶劍",
     "NA": "Huang Feihu's Five Checkpoint Resistance, Tianhua's Sword of Mo Ye",
     "KR": "황비호반오관・천화막야보검"
+  },
+  "黒姫物語・髪流": {
+    "JP": null,
+    "CN": "黑姬物语·发流",
+    "TW": "黑姬物語．髮流",
+    "NA": null,
+    "KR": null
   },
   "黒竜双剋勝利剣": {
     "JP": null,

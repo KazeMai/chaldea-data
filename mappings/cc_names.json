@@ -80,7 +80,7 @@
     "JP": null,
     "CN": "革新者之耳",
     "TW": "革新者之耳",
-    "NA": "Innovator Ear",
+    "NA": "Innovator Ears",
     "KR": "이노베이터・이어"
   },
   "オルレアンの乙女": {
@@ -92,7 +92,7 @@
   },
   "カプセルセイバードラゴン": {
     "JP": null,
-    "CN": "胶囊Saber龙",
+    "CN": "胶囊剑士龙",
     "TW": "膠囊劍士龍",
     "NA": "Capsule Saber Dragon",
     "KR": null
@@ -204,7 +204,7 @@
   },
   "ソラ渉る天元の花": {
     "JP": null,
-    "CN": "漂泊虚空的天元之花",
+    "CN": "涉越苍穹的天元之花",
     "TW": "漂泊虛空的天元之花",
     "NA": "The Flower at the Apex of Heaven that Transcends Void",
     "KR": null
@@ -377,6 +377,13 @@
     "NA": "Vive la France",
     "KR": "비브 라 프랑스"
   },
+  "不死殺しの刃": {
+    "JP": null,
+    "CN": "屠戮不死之刃",
+    "TW": "不死殺手之刃",
+    "NA": null,
+    "KR": null
+  },
   "久遠の鏡": {
     "JP": null,
     "CN": "久远之镜",
@@ -419,6 +426,13 @@
     "NA": "Faint Black Delusion's Command Seal",
     "KR": "어두운 망집의 영인"
   },
+  "伊吹山の御子": {
+    "JP": null,
+    "CN": "伊吹山的神子",
+    "TW": "伊吹山的神子",
+    "NA": null,
+    "KR": null
+  },
   "修補すべき全ての疵": {
     "JP": null,
     "CN": "万疵必应修补",
@@ -450,9 +464,9 @@
   "全知なる粘土板": {
     "JP": null,
     "CN": "全知的泥板",
-    "TW": "全知的黏土板",
+    "TW": "全知的泥板",
     "NA": "Omniscient Clay Tablet",
-    "KR": null
+    "KR": "전지의 점토판"
   },
   "八葉の鏡": {
     "JP": null,
@@ -703,7 +717,7 @@
     "JP": null,
     "CN": "浅眠炸弹",
     "TW": "淺眠炸彈",
-    "NA": "Drowsy Bomb",
+    "NA": "Ticktock Bomb",
     "KR": "졸고 있는 폭탄"
   },
   "心緋き臣下の令印": {
@@ -827,7 +841,7 @@
   },
   "武成王": {
     "JP": null,
-    "CN": null,
+    "CN": "武成王",
     "TW": "武成王",
     "NA": "Prince Wucheng",
     "KR": null
@@ -837,7 +851,7 @@
     "CN": "浪漫之枪",
     "TW": "浪漫之槍",
     "NA": "Romance that is in the Spear",
-    "KR": null
+    "KR": "낭만의 창"
   },
   "浮世蛸": {
     "JP": null,
@@ -871,7 +885,7 @@
     "JP": null,
     "CN": "无偿之爱的传道者",
     "TW": "無償之愛的傳道者",
-    "NA": "Evangelist of Unconditional Love",
+    "NA": "Preacher of Unconditional Love",
     "KR": "무상의 사랑의 전도자"
   },
   "無形の匣": {
@@ -968,9 +982,9 @@
   "碧き霊子の令印": {
     "JP": null,
     "CN": "碧色灵子的令印",
-    "TW": "青碧靈子的令印",
+    "TW": "碧色靈子的令印",
     "NA": "Azure Spiritron's Command Seal",
-    "KR": null
+    "KR": "푸른 영자의 영인"
   },
   "神打ちのめす鞭": {
     "JP": null,
@@ -995,7 +1009,7 @@
   },
   "窮地のお供": {
     "JP": null,
-    "CN": "困境的陪伴",
+    "CN": "困境之伴",
     "TW": "困境的陪伴",
     "NA": "Companion During a Predicament",
     "KR": null
@@ -1105,6 +1119,13 @@
     "NA": "Imaginary Number Compass",
     "KR": null
   },
+  "蛇遣いのマスク": {
+    "JP": null,
+    "CN": "蛇夫的面具",
+    "TW": "蛇使的面具",
+    "NA": null,
+    "KR": null
+  },
   "行き場なき愛の刃": {
     "JP": null,
     "CN": "流离失所的爱之刃",
@@ -1174,6 +1195,13 @@
     "TW": "隕鐵之鞴",
     "NA": "Meteor Iron Bellows",
     "KR": "운철의 풀무"
+  },
+  "障害たる蛇竜": {
+    "JP": null,
+    "CN": "化身障碍之蛇龙",
+    "TW": "障礙之蛇龍",
+    "NA": null,
+    "KR": null
   },
   "雀の宿の女将さん": {
     "JP": null,
@@ -1283,7 +1311,7 @@
   "鼠浄土の住人たち": {
     "JP": null,
     "CN": "鼠净土的居民们",
-    "TW": "鼠浄土的居民們",
+    "TW": "鼠淨土的居民們",
     "NA": null,
     "KR": null
   },

@@ -16005,9 +16005,57 @@
   "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_NP_161/BGM_NP_161.mp3",
   "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
 }, {
+  "id": 892,
+  "fileName": "BGM_EVENT_233",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_EVENT_233/BGM_EVENT_233.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 893,
+  "fileName": "BGM_BATTLE_290",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_BATTLE_290/BGM_BATTLE_290.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
   "id": 894,
   "fileName": "BGM_EVENT_234",
   "notReleased": true,
   "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_EVENT_234/BGM_EVENT_234.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 895,
+  "fileName": "BGM_BISCIONE_1",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_BISCIONE_1/BGM_BISCIONE_1.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 896,
+  "fileName": "BGM_BATTLE_291",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_BATTLE_291/BGM_BATTLE_291.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 897,
+  "fileName": "BGM_MAP_131",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_MAP_131/BGM_MAP_131.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 898,
+  "fileName": "BGM_NP_162",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_NP_162/BGM_NP_162.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 899,
+  "fileName": "BGM_NP_165",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_NP_165/BGM_NP_165.mp3",
+  "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
+}, {
+  "id": 900,
+  "fileName": "BGM_NP_166",
+  "notReleased": true,
+  "audioAsset": "https://static.atlasacademy.io/JP/Audio/Bgm/BGM_NP_166/BGM_NP_166.mp3",
   "logo": "https://static.atlasacademy.io/JP/MyRoomSound/soundlogo_001.png"
 }]

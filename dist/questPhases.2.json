@@ -33,7 +33,6 @@
   }, {
     "id": 2884
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 20802,
@@ -51,39 +50,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9705300,
-    "dropCount": 341,
-    "runs": 2281
+    "dropCount": 358,
+    "runs": 2376
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 226,
-    "runs": 2281
+    "dropCount": 237,
+    "runs": 2376
   }, {
     "type": "servant",
     "objectId": 9705500,
-    "dropCount": 110,
-    "runs": 2281
+    "dropCount": 114,
+    "runs": 2376
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 2264,
-    "runs": 2281
+    "dropCount": 2350,
+    "runs": 2376
   }, {
     "objectId": 6005,
-    "dropCount": 1020,
-    "runs": 2281
+    "dropCount": 1063,
+    "runs": 2376
   }, {
     "objectId": 6205,
-    "dropCount": 118,
-    "runs": 2281
+    "dropCount": 126,
+    "runs": 2376
   }, {
     "objectId": 6517,
-    "dropCount": 306,
-    "runs": 2281
+    "dropCount": 317,
+    "runs": 2376
   }, {
     "objectId": 6530,
-    "dropCount": 794,
-    "runs": 2281
+    "dropCount": 828,
+    "runs": 2376
   }],
   "stages": [{
     "wave": 1,
@@ -508,7 +507,6 @@
   "phaseIndividuality": [{
     "id": 2392
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 23500,
@@ -521,62 +519,62 @@
   "drops": [{
     "type": "servant",
     "objectId": 9703400,
-    "dropCount": 312,
-    "runs": 6262
+    "dropCount": 328,
+    "runs": 6549
   }, {
     "type": "servant",
     "objectId": 9705200,
-    "dropCount": 315,
-    "runs": 6262
+    "dropCount": 329,
+    "runs": 6549
   }, {
     "type": "servant",
     "objectId": 9705300,
-    "dropCount": 1246,
-    "runs": 6262
+    "dropCount": 1300,
+    "runs": 6549
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 308,
-    "runs": 6262
+    "dropCount": 329,
+    "runs": 6549
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1271,
-    "runs": 6262
+    "dropCount": 1330,
+    "runs": 6549
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 4961,
-    "runs": 6262
+    "dropCount": 5178,
+    "runs": 6549
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 2502,
-    "runs": 6262
+    "dropCount": 2612,
+    "runs": 6549
   }, {
     "objectId": 6005,
-    "dropCount": 567,
-    "runs": 6262
+    "dropCount": 590,
+    "runs": 6549
   }, {
     "objectId": 6102,
-    "dropCount": 524,
-    "runs": 6262
+    "dropCount": 550,
+    "runs": 6549
   }, {
     "objectId": 6105,
-    "dropCount": 1423,
-    "runs": 6262
+    "dropCount": 1485,
+    "runs": 6549
   }, {
     "objectId": 6205,
-    "dropCount": 227,
-    "runs": 6262
+    "dropCount": 236,
+    "runs": 6549
   }, {
     "objectId": 6511,
-    "dropCount": 2202,
-    "runs": 6262
+    "dropCount": 2304,
+    "runs": 6549
   }, {
     "objectId": 6520,
-    "dropCount": 1238,
-    "runs": 6262
+    "dropCount": 1304,
+    "runs": 6549
   }],
   "stages": [{
     "wave": 1,
@@ -1019,7 +1017,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker", "rider"],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 26000,
@@ -1033,38 +1030,38 @@
     "type": "servant",
     "objectId": 9704200,
     "dropCount": 158,
-    "runs": 554
+    "runs": 556
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 37,
-    "runs": 554
+    "runs": 556
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 660,
-    "runs": 554
+    "dropCount": 664,
+    "runs": 556
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 114,
-    "runs": 554
+    "runs": 556
   }, {
     "objectId": 6004,
-    "dropCount": 193,
-    "runs": 554
+    "dropCount": 194,
+    "runs": 556
   }, {
     "objectId": 6207,
     "dropCount": 38,
-    "runs": 554
+    "runs": 556
   }, {
     "objectId": 6507,
     "dropCount": 124,
-    "runs": 554
+    "runs": 556
   }, {
     "objectId": 6512,
     "dropCount": 248,
-    "runs": 554
+    "runs": 556
   }],
   "stages": [{
     "wave": 1,
@@ -1391,6 +1388,8 @@
       }, {
         "id": 1113
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 106
@@ -1510,7 +1509,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer"],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 26100,
@@ -1523,53 +1521,53 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702200,
-    "dropCount": 27,
-    "runs": 103
+    "dropCount": 28,
+    "runs": 109
   }, {
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 6,
-    "runs": 103
+    "dropCount": 8,
+    "runs": 109
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 9,
-    "runs": 103
+    "runs": 109
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 104,
-    "runs": 103
+    "dropCount": 110,
+    "runs": 109
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 44,
-    "runs": 103
+    "runs": 109
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 20,
-    "runs": 103
+    "runs": 109
   }, {
     "objectId": 6003,
-    "dropCount": 48,
-    "runs": 103
+    "dropCount": 52,
+    "runs": 109
   }, {
     "objectId": 6103,
     "dropCount": 21,
-    "runs": 103
+    "runs": 109
   }, {
     "objectId": 6501,
-    "dropCount": 21,
-    "runs": 103
+    "dropCount": 23,
+    "runs": 109
   }, {
     "objectId": 6502,
-    "dropCount": 17,
-    "runs": 103
+    "dropCount": 18,
+    "runs": 109
   }, {
     "objectId": 6519,
-    "dropCount": 17,
-    "runs": 103
+    "dropCount": 19,
+    "runs": 109
   }],
   "stages": [{
     "wave": 1,
@@ -2086,7 +2084,6 @@
   "individuality": [{
     "id": 2392
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 26200,
@@ -2102,53 +2099,53 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701200,
-    "dropCount": 50,
-    "runs": 288
+    "dropCount": 51,
+    "runs": 291
   }, {
     "type": "servant",
     "objectId": 9701300,
     "dropCount": 33,
-    "runs": 288
+    "runs": 291
   }, {
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 14,
-    "runs": 288
+    "runs": 291
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 289,
-    "runs": 288
+    "dropCount": 291,
+    "runs": 291
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 182,
-    "runs": 288
+    "dropCount": 185,
+    "runs": 291
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 60,
-    "runs": 288
+    "runs": 291
   }, {
     "objectId": 6001,
-    "dropCount": 126,
-    "runs": 288
+    "dropCount": 127,
+    "runs": 291
   }, {
     "objectId": 6101,
-    "dropCount": 50,
-    "runs": 288
+    "dropCount": 51,
+    "runs": 291
   }, {
     "objectId": 6201,
     "dropCount": 11,
-    "runs": 288
+    "runs": 291
   }, {
     "objectId": 6501,
-    "dropCount": 67,
-    "runs": 288
+    "dropCount": 68,
+    "runs": 291
   }, {
     "objectId": 6502,
     "dropCount": 125,
-    "runs": 288
+    "runs": 291
   }],
   "stages": [{
     "wave": 1,
@@ -2700,7 +2697,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker"],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 26400,
@@ -2713,49 +2709,49 @@
   "drops": [{
     "type": "servant",
     "objectId": 9707200,
-    "dropCount": 1117,
-    "runs": 5435
+    "dropCount": 1119,
+    "runs": 5449
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 572,
-    "runs": 5435
+    "dropCount": 573,
+    "runs": 5449
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 266,
-    "runs": 5435
+    "dropCount": 267,
+    "runs": 5449
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 4392,
-    "runs": 5435
+    "dropCount": 4405,
+    "runs": 5449
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 2170,
-    "runs": 5435
+    "dropCount": 2176,
+    "runs": 5449
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 1070,
-    "runs": 5435
+    "dropCount": 1075,
+    "runs": 5449
   }, {
     "objectId": 6007,
-    "dropCount": 1917,
-    "runs": 5435
+    "dropCount": 1921,
+    "runs": 5449
   }, {
     "objectId": 6107,
-    "dropCount": 616,
-    "runs": 5435
+    "dropCount": 620,
+    "runs": 5449
   }, {
     "objectId": 6207,
     "dropCount": 186,
-    "runs": 5435
+    "runs": 5449
   }, {
     "objectId": 6515,
-    "dropCount": 2597,
-    "runs": 5435
+    "dropCount": 2605,
+    "runs": 5449
   }],
   "stages": [{
     "wave": 1,
@@ -3196,7 +3192,6 @@
   }, {
     "id": 2392
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 26500,
@@ -3215,29 +3210,29 @@
     "type": "servant",
     "objectId": 9704300,
     "dropCount": 23,
-    "runs": 61
+    "runs": 62
   }, {
     "type": "servant",
     "objectId": 9704400,
     "dropCount": 4,
-    "runs": 61
+    "runs": 62
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 94,
-    "runs": 61
+    "dropCount": 97,
+    "runs": 62
   }, {
     "objectId": 6004,
     "dropCount": 36,
-    "runs": 61
+    "runs": 62
   }, {
     "objectId": 6503,
-    "dropCount": 27,
-    "runs": 61
+    "dropCount": 28,
+    "runs": 62
   }, {
     "objectId": 6505,
-    "dropCount": 20,
-    "runs": 61
+    "dropCount": 21,
+    "runs": 62
   }],
   "stages": [{
     "wave": 1,
@@ -3813,7 +3808,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["assassin"],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 26000,
@@ -3827,29 +3821,29 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 187,
-    "runs": 572
+    "runs": 573
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 598,
-    "runs": 572
+    "runs": 573
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 108,
-    "runs": 572
+    "runs": 573
   }, {
     "objectId": 6106,
-    "dropCount": 238,
-    "runs": 572
+    "dropCount": 239,
+    "runs": 573
   }, {
     "objectId": 6521,
-    "dropCount": 120,
-    "runs": 572
+    "dropCount": 121,
+    "runs": 573
   }, {
     "objectId": 6522,
     "dropCount": 247,
-    "runs": 572
+    "runs": 573
   }],
   "stages": [{
     "wave": 1,
@@ -4232,7 +4226,6 @@
   "individuality": [{
     "id": 2392
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 26700,
@@ -4249,24 +4242,24 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 32,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 115,
-    "runs": 71
+    "dropCount": 116,
+    "runs": 72
   }, {
     "objectId": 6106,
     "dropCount": 35,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 6505,
-    "dropCount": 26,
-    "runs": 71
+    "dropCount": 27,
+    "runs": 72
   }, {
     "objectId": 6522,
     "dropCount": 35,
-    "runs": 71
+    "runs": 72
   }],
   "stages": [{
     "wave": 1,
@@ -4799,7 +4792,6 @@
   "individuality": [{
     "id": 2073
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 27100,
@@ -4816,75 +4808,75 @@
     "type": "servant",
     "objectId": 9703200,
     "dropCount": 11,
-    "runs": 118
+    "runs": 119
   }, {
     "type": "servant",
     "objectId": 9703300,
     "dropCount": 14,
-    "runs": 118
+    "runs": 119
   }, {
     "type": "servant",
     "objectId": 9704200,
     "dropCount": 11,
-    "runs": 118
+    "runs": 119
   }, {
     "type": "servant",
     "objectId": 9704300,
-    "dropCount": 15,
-    "runs": 118
+    "dropCount": 16,
+    "runs": 119
   }, {
     "type": "servant",
     "objectId": 9704400,
     "dropCount": 4,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 50,
-    "runs": 118
+    "dropCount": 51,
+    "runs": 119
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 45,
-    "runs": 118
+    "dropCount": 46,
+    "runs": 119
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 76,
-    "runs": 118
+    "dropCount": 78,
+    "runs": 119
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 20,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6002,
     "dropCount": 18,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6004,
     "dropCount": 38,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6102,
     "dropCount": 12,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6104,
     "dropCount": 11,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6501,
     "dropCount": 16,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6502,
     "dropCount": 24,
-    "runs": 118
+    "runs": 119
   }, {
     "objectId": 6512,
     "dropCount": 72,
-    "runs": 118
+    "runs": 119
   }],
   "stages": [{
     "wave": 1,
@@ -5462,7 +5454,6 @@
   }, {
     "id": 2073
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 27000,
@@ -5480,53 +5471,53 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 45,
-    "runs": 321
+    "dropCount": 46,
+    "runs": 323
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 14,
-    "runs": 321
+    "runs": 323
   }, {
     "type": "servant",
     "objectId": 9703200,
-    "dropCount": 88,
-    "runs": 321
+    "dropCount": 89,
+    "runs": 323
   }, {
     "objectId": 1,
     "num": 15000,
     "dropCount": 355,
-    "runs": 321
+    "runs": 323
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 184,
-    "runs": 321
+    "dropCount": 185,
+    "runs": 323
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 64,
-    "runs": 321
+    "dropCount": 66,
+    "runs": 323
   }, {
     "objectId": 6002,
-    "dropCount": 136,
-    "runs": 321
+    "dropCount": 137,
+    "runs": 323
   }, {
     "objectId": 6103,
     "dropCount": 61,
-    "runs": 321
+    "runs": 323
   }, {
     "objectId": 6203,
     "dropCount": 10,
-    "runs": 321
+    "runs": 323
   }, {
     "objectId": 6501,
     "dropCount": 116,
-    "runs": 321
+    "runs": 323
   }, {
     "objectId": 6502,
     "dropCount": 88,
-    "runs": 321
+    "runs": 323
   }],
   "stages": [{
     "wave": 1,
@@ -6106,7 +6097,6 @@
   "individuality": [{
     "id": 2039
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 26300,
@@ -6123,33 +6113,33 @@
     "type": "servant",
     "objectId": 9703500,
     "dropCount": 2,
-    "runs": 69
+    "runs": 70
   }, {
     "type": "servant",
     "objectId": 9704300,
-    "dropCount": 23,
-    "runs": 69
+    "dropCount": 25,
+    "runs": 70
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 87,
-    "runs": 69
+    "runs": 70
   }, {
     "objectId": 6004,
     "dropCount": 28,
-    "runs": 69
+    "runs": 70
   }, {
     "objectId": 6202,
     "dropCount": 3,
-    "runs": 69
+    "runs": 70
   }, {
     "objectId": 6503,
     "dropCount": 19,
-    "runs": 69
+    "runs": 70
   }, {
     "objectId": 6531,
     "dropCount": 7,
-    "runs": 69
+    "runs": 70
   }],
   "stages": [{
     "wave": 1,
@@ -6516,6 +6506,8 @@
       }, {
         "id": 201
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 2019
@@ -6588,7 +6580,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker", "saber"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 26800,
@@ -6602,29 +6593,29 @@
     "type": "servant",
     "objectId": 9701200,
     "dropCount": 43,
-    "runs": 116
+    "runs": 118
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 25,
-    "runs": 116
+    "dropCount": 26,
+    "runs": 118
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 153,
-    "runs": 116
+    "dropCount": 156,
+    "runs": 118
   }, {
     "objectId": 6001,
-    "dropCount": 70,
-    "runs": 116
+    "dropCount": 73,
+    "runs": 118
   }, {
     "objectId": 6502,
     "dropCount": 53,
-    "runs": 116
+    "runs": 118
   }, {
     "objectId": 6505,
     "dropCount": 31,
-    "runs": 116
+    "runs": 118
   }],
   "stages": [{
     "wave": 1,
@@ -7168,7 +7159,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["caster"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 26000,
@@ -7181,40 +7171,40 @@
   "drops": [{
     "type": "servant",
     "objectId": 9705300,
-    "dropCount": 140,
-    "runs": 456
+    "dropCount": 144,
+    "runs": 477
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 77,
-    "runs": 456
+    "dropCount": 81,
+    "runs": 477
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 473,
-    "runs": 456
+    "dropCount": 489,
+    "runs": 477
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 309,
-    "runs": 456
+    "dropCount": 323,
+    "runs": 477
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 90,
-    "runs": 456
+    "dropCount": 92,
+    "runs": 477
   }, {
     "objectId": 6105,
-    "dropCount": 231,
-    "runs": 456
+    "dropCount": 243,
+    "runs": 477
   }, {
     "objectId": 6205,
-    "dropCount": 20,
-    "runs": 456
+    "dropCount": 21,
+    "runs": 477
   }, {
     "objectId": 6509,
-    "dropCount": 222,
-    "runs": 456
+    "dropCount": 231,
+    "runs": 477
   }],
   "stages": [{
     "wave": 1,
@@ -7682,8 +7672,6 @@
       }, {
         "id": 2
       }, {
-        "id": 104
-      }, {
         "id": 201
       }, {
         "id": 1004
@@ -7693,6 +7681,8 @@
         "id": 2001
       }, {
         "id": 2019
+      }, {
+        "id": 104
       }, {
         "id": 2113
       }],
@@ -7818,7 +7808,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "assassin"],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 30000,
@@ -7832,43 +7821,43 @@
     "type": "servant",
     "objectId": 9702300,
     "dropCount": 10,
-    "runs": 57
+    "runs": 59
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 4,
-    "runs": 57
+    "runs": 59
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 9,
-    "runs": 57
+    "runs": 59
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 55,
-    "runs": 57
+    "dropCount": 57,
+    "runs": 59
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 47,
-    "runs": 57
+    "dropCount": 49,
+    "runs": 59
   }, {
     "objectId": 6003,
     "dropCount": 21,
-    "runs": 57
+    "runs": 59
   }, {
     "objectId": 6006,
     "dropCount": 22,
-    "runs": 57
+    "runs": 59
   }, {
     "objectId": 6502,
-    "dropCount": 28,
-    "runs": 57
+    "dropCount": 30,
+    "runs": 59
   }, {
     "objectId": 6508,
     "dropCount": 10,
-    "runs": 57
+    "runs": 59
   }],
   "stages": [{
     "wave": 1,
@@ -8408,7 +8397,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "saber"],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 30010,
@@ -8422,47 +8410,47 @@
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 11,
-    "runs": 56
+    "runs": 58
   }, {
     "type": "servant",
     "objectId": 9702300,
     "dropCount": 22,
-    "runs": 56
+    "runs": 58
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 9,
-    "runs": 56
+    "runs": 58
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 44,
-    "runs": 56
+    "dropCount": 46,
+    "runs": 58
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 34,
-    "runs": 56
+    "dropCount": 35,
+    "runs": 58
   }, {
     "objectId": 6003,
     "dropCount": 12,
-    "runs": 56
+    "runs": 58
   }, {
     "objectId": 6101,
     "dropCount": 6,
-    "runs": 56
+    "runs": 58
   }, {
     "objectId": 6502,
-    "dropCount": 25,
-    "runs": 56
+    "dropCount": 26,
+    "runs": 58
   }, {
     "objectId": 6505,
-    "dropCount": 21,
-    "runs": 56
+    "dropCount": 22,
+    "runs": 58
   }, {
     "objectId": 6532,
     "dropCount": 9,
-    "runs": 56
+    "runs": 58
   }],
   "stages": [{
     "wave": 1,
@@ -9023,7 +9011,6 @@
   "individuality": [{
     "id": 2073
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 30110,
@@ -9040,38 +9027,38 @@
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 12,
-    "runs": 50
+    "runs": 52
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 21,
-    "runs": 50
+    "runs": 52
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 58,
-    "runs": 50
+    "dropCount": 61,
+    "runs": 52
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 43,
-    "runs": 50
+    "dropCount": 44,
+    "runs": 52
   }, {
     "objectId": 6006,
-    "dropCount": 22,
-    "runs": 50
+    "dropCount": 23,
+    "runs": 52
   }, {
     "objectId": 6101,
-    "dropCount": 11,
-    "runs": 50
+    "dropCount": 12,
+    "runs": 52
   }, {
     "objectId": 6508,
-    "dropCount": 17,
-    "runs": 50
+    "dropCount": 19,
+    "runs": 52
   }, {
     "objectId": 6532,
     "dropCount": 7,
-    "runs": 50
+    "runs": 52
   }],
   "stages": [{
     "wave": 1,
@@ -9634,7 +9621,6 @@
   "individuality": [{
     "id": 2392
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 30220,
@@ -9650,21 +9636,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 149,
-    "runs": 372
+    "dropCount": 152,
+    "runs": 379
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 593,
-    "runs": 372
+    "dropCount": 604,
+    "runs": 379
   }, {
     "objectId": 6101,
-    "dropCount": 168,
-    "runs": 372
+    "dropCount": 172,
+    "runs": 379
   }, {
     "objectId": 6532,
     "dropCount": 173,
-    "runs": 372
+    "runs": 379
   }],
   "stages": [{
     "wave": 1,
@@ -10149,7 +10135,6 @@
   "individuality": [{
     "id": 2121
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 14103,
@@ -10165,43 +10150,43 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 34,
-    "runs": 73
+    "dropCount": 35,
+    "runs": 77
   }, {
     "type": "servant",
     "objectId": 9703400,
-    "dropCount": 17,
-    "runs": 73
+    "dropCount": 18,
+    "runs": 77
   }, {
     "objectId": 1,
     "num": 10000,
-    "dropCount": 81,
-    "runs": 73
+    "dropCount": 87,
+    "runs": 77
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 45,
-    "runs": 73
+    "dropCount": 46,
+    "runs": 77
   }, {
     "objectId": 6001,
-    "dropCount": 23,
-    "runs": 73
+    "dropCount": 24,
+    "runs": 77
   }, {
     "objectId": 6101,
     "dropCount": 12,
-    "runs": 73
+    "runs": 77
   }, {
     "objectId": 6505,
-    "dropCount": 25,
-    "runs": 73
+    "dropCount": 26,
+    "runs": 77
   }, {
     "objectId": 6516,
-    "dropCount": 34,
-    "runs": 73
+    "dropCount": 37,
+    "runs": 77
   }, {
     "objectId": 6532,
-    "dropCount": 19,
-    "runs": 73
+    "dropCount": 20,
+    "runs": 77
   }],
   "stages": [{
     "wave": 1,
@@ -10822,7 +10807,6 @@
   "phaseIndividuality": [{
     "id": 2392
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 30310,
@@ -10835,38 +10819,43 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 14,
-    "runs": 58
+    "dropCount": 19,
+    "runs": 71
+  }, {
+    "type": "servant",
+    "objectId": 9702500,
+    "dropCount": 1,
+    "runs": 71
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 11,
-    "runs": 58
+    "dropCount": 14,
+    "runs": 71
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 66,
-    "runs": 58
+    "dropCount": 74,
+    "runs": 71
   }, {
     "objectId": 6101,
-    "dropCount": 20,
-    "runs": 58
+    "dropCount": 26,
+    "runs": 71
   }, {
     "objectId": 6203,
-    "dropCount": 2,
-    "runs": 58
+    "dropCount": 3,
+    "runs": 71
   }, {
     "objectId": 6505,
-    "dropCount": 15,
-    "runs": 58
+    "dropCount": 19,
+    "runs": 71
   }, {
     "objectId": 6531,
-    "dropCount": 5,
-    "runs": 58
+    "dropCount": 6,
+    "runs": 71
   }, {
     "objectId": 6532,
-    "dropCount": 18,
-    "runs": 58
+    "dropCount": 22,
+    "runs": 71
   }],
   "stages": [{
     "wave": 1,
@@ -11061,6 +11050,8 @@
       }, {
         "id": 201
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 2019
@@ -11068,6 +11059,8 @@
         "id": 2076
       }, {
         "id": 101
+      }, {
+        "id": 2943
       }],
       "skills": {
         "skillId1": 961157,
@@ -11345,7 +11338,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker", "saber"],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 30500,
@@ -11359,42 +11351,42 @@
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 85,
-    "runs": 348
+    "runs": 350
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 96,
-    "runs": 348
+    "runs": 350
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 328,
-    "runs": 348
+    "dropCount": 331,
+    "runs": 350
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 68,
-    "runs": 348
+    "runs": 350
   }, {
     "objectId": 6101,
     "dropCount": 108,
-    "runs": 348
+    "runs": 350
   }, {
     "objectId": 6107,
     "dropCount": 29,
-    "runs": 348
+    "runs": 350
   }, {
     "objectId": 6505,
-    "dropCount": 105,
-    "runs": 348
+    "dropCount": 106,
+    "runs": 350
   }, {
     "objectId": 6515,
-    "dropCount": 92,
-    "runs": 348
+    "dropCount": 93,
+    "runs": 350
   }, {
     "objectId": 6532,
     "dropCount": 92,
-    "runs": 348
+    "runs": 350
   }],
   "stages": [{
     "wave": 1,
@@ -11892,7 +11884,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 14102,
@@ -11909,43 +11900,43 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 472,
-    "runs": 1770
+    "dropCount": 473,
+    "runs": 1773
   }, {
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 329,
-    "runs": 1770
+    "dropCount": 330,
+    "runs": 1773
   }, {
     "type": "servant",
     "objectId": 9707500,
     "dropCount": 77,
-    "runs": 1770
+    "runs": 1773
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 1797,
-    "runs": 1770
+    "dropCount": 1801,
+    "runs": 1773
   }, {
     "objectId": 6101,
-    "dropCount": 503,
-    "runs": 1770
+    "dropCount": 504,
+    "runs": 1773
   }, {
     "objectId": 6207,
     "dropCount": 63,
-    "runs": 1770
+    "runs": 1773
   }, {
     "objectId": 6505,
-    "dropCount": 557,
-    "runs": 1770
+    "dropCount": 559,
+    "runs": 1773
   }, {
     "objectId": 6529,
     "dropCount": 221,
-    "runs": 1770
+    "runs": 1773
   }, {
     "objectId": 6532,
-    "dropCount": 400,
-    "runs": 1770
+    "dropCount": 401,
+    "runs": 1773
   }],
   "stages": [{
     "wave": 1,
@@ -12443,7 +12434,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 30400,
@@ -12460,33 +12450,33 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 61,
-    "runs": 173
+    "runs": 176
   }, {
     "type": "servant",
     "objectId": 9706500,
     "dropCount": 10,
-    "runs": 173
+    "runs": 176
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 234,
-    "runs": 173
+    "dropCount": 239,
+    "runs": 176
   }, {
     "objectId": 6006,
     "dropCount": 81,
-    "runs": 173
+    "runs": 176
   }, {
     "objectId": 6206,
     "dropCount": 5,
-    "runs": 173
+    "runs": 176
   }, {
     "objectId": 6508,
-    "dropCount": 48,
-    "runs": 173
+    "dropCount": 52,
+    "runs": 176
   }, {
     "objectId": 6540,
     "dropCount": 23,
-    "runs": 173
+    "runs": 176
   }],
   "stages": [{
     "wave": 1,
@@ -12949,7 +12939,6 @@
   }, {
     "id": 2884
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 20802,
@@ -12967,21 +12956,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704300,
-    "dropCount": 453,
-    "runs": 1080
+    "dropCount": 463,
+    "runs": 1104
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 1970,
-    "runs": 1080
+    "dropCount": 2012,
+    "runs": 1104
   }, {
     "objectId": 6004,
-    "dropCount": 543,
-    "runs": 1080
+    "dropCount": 559,
+    "runs": 1104
   }, {
     "objectId": 6502,
-    "dropCount": 600,
-    "runs": 1080
+    "dropCount": 611,
+    "runs": 1104
   }],
   "stages": [{
     "wave": 1,
@@ -13492,7 +13481,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 33100,
@@ -13508,34 +13496,34 @@
   "drops": [{
     "type": "servant",
     "objectId": 9705500,
-    "dropCount": 153,
-    "runs": 3049
+    "dropCount": 154,
+    "runs": 3056
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 776,
-    "runs": 3049
+    "runs": 3056
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 3043,
-    "runs": 3049
+    "dropCount": 3045,
+    "runs": 3056
   }, {
     "objectId": 6106,
     "dropCount": 865,
-    "runs": 3049
+    "runs": 3056
   }, {
     "objectId": 6205,
     "dropCount": 145,
-    "runs": 3049
+    "runs": 3056
   }, {
     "objectId": 6517,
     "dropCount": 395,
-    "runs": 3049
+    "runs": 3056
   }, {
     "objectId": 6533,
-    "dropCount": 1387,
-    "runs": 3049
+    "dropCount": 1390,
+    "runs": 3056
   }],
   "stages": [{
     "wave": 1,
@@ -13946,7 +13934,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 33000,
@@ -13962,21 +13949,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 1458,
-    "runs": 4097
+    "dropCount": 1480,
+    "runs": 4180
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 5795,
-    "runs": 4097
+    "dropCount": 5908,
+    "runs": 4180
   }, {
     "objectId": 6105,
-    "dropCount": 1654,
-    "runs": 4097
+    "dropCount": 1686,
+    "runs": 4180
   }, {
     "objectId": 6501,
-    "dropCount": 1733,
-    "runs": 4097
+    "dropCount": 1765,
+    "runs": 4180
   }],
   "stages": [{
     "wave": 1,
@@ -14396,7 +14383,6 @@
   }, {
     "id": 2884
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 21232,
@@ -14415,38 +14401,38 @@
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 27,
-    "runs": 157
+    "runs": 159
   }, {
     "type": "servant",
     "objectId": 9706300,
-    "dropCount": 39,
-    "runs": 157
+    "dropCount": 40,
+    "runs": 159
   }, {
     "objectId": 1,
     "num": 10000,
-    "dropCount": 171,
-    "runs": 157
+    "dropCount": 172,
+    "runs": 159
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 117,
-    "runs": 157
+    "dropCount": 120,
+    "runs": 159
   }, {
     "objectId": 6006,
     "dropCount": 44,
-    "runs": 157
+    "runs": 159
   }, {
     "objectId": 6105,
     "dropCount": 37,
-    "runs": 157
+    "runs": 159
   }, {
     "objectId": 6501,
     "dropCount": 37,
-    "runs": 157
+    "runs": 159
   }, {
     "objectId": 6522,
     "dropCount": 71,
-    "runs": 157
+    "runs": 159
   }],
   "stages": [{
     "wave": 1,
@@ -14981,7 +14967,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 33100,
@@ -14998,48 +14983,48 @@
     "type": "servant",
     "objectId": 9706300,
     "dropCount": 11,
-    "runs": 58
+    "runs": 62
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 10,
-    "runs": 58
+    "runs": 62
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 3,
-    "runs": 58
+    "runs": 62
   }, {
     "objectId": 1,
     "num": 10000,
-    "dropCount": 57,
-    "runs": 58
+    "dropCount": 60,
+    "runs": 62
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 25,
-    "runs": 58
+    "dropCount": 27,
+    "runs": 62
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 9,
-    "runs": 58
+    "dropCount": 11,
+    "runs": 62
   }, {
     "objectId": 6006,
-    "dropCount": 14,
-    "runs": 58
+    "dropCount": 16,
+    "runs": 62
   }, {
     "objectId": 6007,
-    "dropCount": 18,
-    "runs": 58
+    "dropCount": 19,
+    "runs": 62
   }, {
     "objectId": 6522,
-    "dropCount": 28,
-    "runs": 58
+    "dropCount": 31,
+    "runs": 62
   }, {
     "objectId": 6533,
-    "dropCount": 30,
-    "runs": 58
+    "dropCount": 33,
+    "runs": 62
   }],
   "stages": [{
     "wave": 1,
@@ -15622,7 +15607,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 33100,
@@ -15638,35 +15622,35 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 405,
-    "runs": 1473
+    "dropCount": 435,
+    "runs": 1562
   }, {
     "type": "servant",
     "objectId": 9702400,
-    "dropCount": 303,
-    "runs": 1473
+    "dropCount": 317,
+    "runs": 1562
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1478,
-    "runs": 1473
+    "dropCount": 1572,
+    "runs": 1562
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 1184,
-    "runs": 1473
+    "dropCount": 1250,
+    "runs": 1562
   }, {
     "objectId": 6003,
-    "dropCount": 653,
-    "runs": 1473
+    "dropCount": 693,
+    "runs": 1562
   }, {
     "objectId": 6103,
-    "dropCount": 329,
-    "runs": 1473
+    "dropCount": 348,
+    "runs": 1562
   }, {
     "objectId": 6514,
-    "dropCount": 682,
-    "runs": 1473
+    "dropCount": 726,
+    "runs": 1562
   }],
   "stages": [{
     "wave": 1,
@@ -16207,7 +16191,6 @@
   }, {
     "id": 2884
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 33200,
@@ -16225,44 +16208,44 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704300,
-    "dropCount": 19,
-    "runs": 58
+    "dropCount": 20,
+    "runs": 62
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 7,
-    "runs": 58
+    "dropCount": 8,
+    "runs": 62
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 6,
-    "runs": 58
+    "dropCount": 7,
+    "runs": 62
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 96,
-    "runs": 58
+    "dropCount": 99,
+    "runs": 62
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 12,
-    "runs": 58
+    "dropCount": 13,
+    "runs": 62
   }, {
     "objectId": 6004,
-    "dropCount": 17,
-    "runs": 58
+    "dropCount": 18,
+    "runs": 62
   }, {
     "objectId": 6007,
     "dropCount": 17,
-    "runs": 58
+    "runs": 62
   }, {
     "objectId": 6502,
     "dropCount": 20,
-    "runs": 58
+    "runs": 62
   }, {
     "objectId": 6533,
     "dropCount": 30,
-    "runs": 58
+    "runs": 62
   }],
   "stages": [{
     "wave": 1,
@@ -16825,7 +16808,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 33400,
@@ -16842,39 +16824,39 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 164,
-    "runs": 1105
+    "runs": 1108
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 267,
-    "runs": 1105
+    "runs": 1108
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 63,
-    "runs": 1105
+    "runs": 1108
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 917,
-    "runs": 1105
+    "dropCount": 919,
+    "runs": 1108
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1102,
-    "runs": 1105
+    "dropCount": 1104,
+    "runs": 1108
   }, {
     "objectId": 6007,
-    "dropCount": 445,
-    "runs": 1105
+    "dropCount": 446,
+    "runs": 1108
   }, {
     "objectId": 6106,
     "dropCount": 196,
-    "runs": 1105
+    "runs": 1108
   }, {
     "objectId": 6533,
-    "dropCount": 833,
-    "runs": 1105
+    "dropCount": 837,
+    "runs": 1108
   }],
   "stages": [{
     "wave": 1,
@@ -17489,7 +17471,6 @@
   }, {
     "id": 2073
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 20801,
@@ -17508,38 +17489,38 @@
     "type": "servant",
     "objectId": 9704300,
     "dropCount": 41,
-    "runs": 165
+    "runs": 167
   }, {
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 25,
-    "runs": 165
+    "runs": 167
   }, {
     "objectId": 1,
     "num": 15000,
     "dropCount": 154,
-    "runs": 165
+    "runs": 167
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 104,
-    "runs": 165
+    "dropCount": 105,
+    "runs": 167
   }, {
     "objectId": 6004,
-    "dropCount": 46,
-    "runs": 165
+    "dropCount": 48,
+    "runs": 167
   }, {
     "objectId": 6105,
     "dropCount": 25,
-    "runs": 165
+    "runs": 167
   }, {
     "objectId": 6501,
-    "dropCount": 28,
-    "runs": 165
+    "dropCount": 29,
+    "runs": 167
   }, {
     "objectId": 6502,
-    "dropCount": 76,
-    "runs": 165
+    "dropCount": 77,
+    "runs": 167
   }],
   "stages": [{
     "wave": 1,
@@ -18003,7 +17984,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 33100,
@@ -18019,39 +17999,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 10,
-    "runs": 76
+    "dropCount": 12,
+    "runs": 79
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 12,
-    "runs": 76
+    "dropCount": 13,
+    "runs": 79
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 77,
-    "runs": 76
+    "dropCount": 83,
+    "runs": 79
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 46,
-    "runs": 76
+    "dropCount": 47,
+    "runs": 79
   }, {
     "objectId": 6007,
     "dropCount": 16,
-    "runs": 76
+    "runs": 79
   }, {
     "objectId": 6105,
-    "dropCount": 8,
-    "runs": 76
+    "dropCount": 9,
+    "runs": 79
   }, {
     "objectId": 6501,
-    "dropCount": 24,
-    "runs": 76
+    "dropCount": 25,
+    "runs": 79
   }, {
     "objectId": 6533,
     "dropCount": 37,
-    "runs": 76
+    "runs": 79
   }],
   "stages": [{
     "wave": 1,
@@ -18577,7 +18557,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["caster", "saber"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 29600,
@@ -18590,39 +18569,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701300,
-    "dropCount": 236,
-    "runs": 541
+    "dropCount": 239,
+    "runs": 547
   }, {
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 22,
-    "runs": 541
+    "runs": 547
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 864,
-    "runs": 541
+    "dropCount": 870,
+    "runs": 547
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 96,
-    "runs": 541
+    "runs": 547
   }, {
     "objectId": 6001,
-    "dropCount": 228,
-    "runs": 541
+    "dropCount": 230,
+    "runs": 547
   }, {
     "objectId": 6105,
     "dropCount": 54,
-    "runs": 541
+    "runs": 547
   }, {
     "objectId": 6512,
-    "dropCount": 244,
-    "runs": 541
+    "dropCount": 249,
+    "runs": 547
   }, {
     "objectId": 6523,
-    "dropCount": 118,
-    "runs": 541
+    "dropCount": 119,
+    "runs": 547
   }],
   "stages": [{
     "wave": 1,
@@ -19146,7 +19125,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer"],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 39000,
@@ -19160,39 +19138,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 34,
-    "runs": 77
+    "dropCount": 36,
+    "runs": 79
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 7,
-    "runs": 77
+    "runs": 79
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 126,
-    "runs": 77
+    "dropCount": 131,
+    "runs": 79
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 14,
-    "runs": 77
+    "runs": 79
   }, {
     "objectId": 6003,
-    "dropCount": 33,
-    "runs": 77
+    "dropCount": 34,
+    "runs": 79
   }, {
     "objectId": 6103,
     "dropCount": 4,
-    "runs": 77
+    "runs": 79
   }, {
     "objectId": 6519,
     "dropCount": 15,
-    "runs": 77
+    "runs": 79
   }, {
     "objectId": 6527,
-    "dropCount": 30,
-    "runs": 77
+    "dropCount": 31,
+    "runs": 79
   }],
   "stages": [{
     "wave": 1,
@@ -19687,7 +19665,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 39310,
@@ -19703,35 +19680,35 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701300,
-    "dropCount": 992,
-    "runs": 5344
+    "dropCount": 1040,
+    "runs": 5580
   }, {
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 270,
-    "runs": 5344
+    "dropCount": 283,
+    "runs": 5580
   }, {
     "type": "servant",
     "objectId": 9706300,
-    "dropCount": 1022,
-    "runs": 5344
+    "dropCount": 1065,
+    "runs": 5580
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 9661,
-    "runs": 5344
+    "dropCount": 10049,
+    "runs": 5580
   }, {
     "objectId": 6001,
-    "dropCount": 1527,
-    "runs": 5344
+    "dropCount": 1595,
+    "runs": 5580
   }, {
     "objectId": 6006,
-    "dropCount": 1240,
-    "runs": 5344
+    "dropCount": 1292,
+    "runs": 5580
   }, {
     "objectId": 6534,
-    "dropCount": 3977,
-    "runs": 5344
+    "dropCount": 4143,
+    "runs": 5580
   }],
   "stages": [{
     "wave": 1,
@@ -20265,7 +20242,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "berserker"],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 39100,
@@ -20278,39 +20254,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 17,
-    "runs": 64
+    "dropCount": 20,
+    "runs": 68
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 2,
-    "runs": 64
+    "runs": 68
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 11,
-    "runs": 64
+    "runs": 68
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 121,
-    "runs": 64
+    "dropCount": 129,
+    "runs": 68
   }, {
     "objectId": 6003,
     "dropCount": 21,
-    "runs": 64
+    "runs": 68
   }, {
     "objectId": 6007,
-    "dropCount": 14,
-    "runs": 64
+    "dropCount": 15,
+    "runs": 68
   }, {
     "objectId": 6526,
     "dropCount": 14,
-    "runs": 64
+    "runs": 68
   }, {
     "objectId": 6527,
-    "dropCount": 24,
-    "runs": 64
+    "dropCount": 26,
+    "runs": 68
   }],
   "stages": [{
     "wave": 1,
@@ -20801,7 +20777,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "saber"],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 39010,
@@ -20815,39 +20790,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701300,
-    "dropCount": 27,
-    "runs": 69
+    "dropCount": 28,
+    "runs": 72
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 3,
-    "runs": 69
+    "runs": 72
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 109,
-    "runs": 69
+    "dropCount": 114,
+    "runs": 72
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 12,
-    "runs": 69
+    "dropCount": 13,
+    "runs": 72
   }, {
     "objectId": 6001,
-    "dropCount": 32,
-    "runs": 69
+    "dropCount": 33,
+    "runs": 72
   }, {
     "objectId": 6103,
-    "dropCount": 5,
-    "runs": 69
+    "dropCount": 6,
+    "runs": 72
   }, {
     "objectId": 6519,
     "dropCount": 12,
-    "runs": 69
+    "runs": 72
   }, {
     "objectId": 6534,
-    "dropCount": 31,
-    "runs": 69
+    "dropCount": 35,
+    "runs": 72
   }],
   "stages": [{
     "wave": 1,
@@ -21363,7 +21338,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["archer", "berserker"],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 39200,
@@ -21377,38 +21351,38 @@
     "type": "servant",
     "objectId": 9703300,
     "dropCount": 23,
-    "runs": 134
+    "runs": 137
   }, {
     "type": "servant",
     "objectId": 9703400,
     "dropCount": 9,
-    "runs": 134
+    "runs": 137
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 21,
-    "runs": 134
+    "dropCount": 22,
+    "runs": 137
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 216,
-    "runs": 134
+    "dropCount": 224,
+    "runs": 137
   }, {
     "objectId": 6002,
-    "dropCount": 41,
-    "runs": 134
+    "dropCount": 42,
+    "runs": 137
   }, {
     "objectId": 6107,
-    "dropCount": 43,
-    "runs": 134
+    "dropCount": 44,
+    "runs": 137
   }, {
     "objectId": 6502,
-    "dropCount": 37,
-    "runs": 134
+    "dropCount": 38,
+    "runs": 137
   }, {
     "objectId": 6534,
-    "dropCount": 60,
-    "runs": 134
+    "dropCount": 61,
+    "runs": 137
   }],
   "stages": [{
     "wave": 1,
@@ -21940,7 +21914,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 39030,
@@ -21958,38 +21931,38 @@
     "type": "servant",
     "objectId": 9701300,
     "dropCount": 26,
-    "runs": 118
+    "runs": 120
   }, {
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 4,
-    "runs": 118
+    "runs": 120
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 28,
-    "runs": 118
+    "dropCount": 30,
+    "runs": 120
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 212,
-    "runs": 118
+    "dropCount": 213,
+    "runs": 120
   }, {
     "objectId": 6001,
     "dropCount": 34,
-    "runs": 118
+    "runs": 120
   }, {
     "objectId": 6007,
     "dropCount": 27,
-    "runs": 118
+    "runs": 120
   }, {
     "objectId": 6526,
-    "dropCount": 26,
-    "runs": 118
+    "dropCount": 28,
+    "runs": 120
   }, {
     "objectId": 6534,
-    "dropCount": 52,
-    "runs": 118
+    "dropCount": 53,
+    "runs": 120
   }],
   "stages": [{
     "wave": 1,
@@ -22498,7 +22471,6 @@
   "individuality": [{
     "id": 2073
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 39400,
@@ -22514,39 +22486,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 13,
-    "runs": 94
+    "dropCount": 14,
+    "runs": 97
   }, {
     "type": "servant",
     "objectId": 9706300,
-    "dropCount": 14,
-    "runs": 94
+    "dropCount": 16,
+    "runs": 97
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 8,
-    "runs": 94
+    "dropCount": 9,
+    "runs": 97
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 160,
-    "runs": 94
+    "dropCount": 166,
+    "runs": 97
   }, {
     "objectId": 6003,
     "dropCount": 20,
-    "runs": 94
+    "runs": 97
   }, {
     "objectId": 6006,
-    "dropCount": 21,
-    "runs": 94
+    "dropCount": 23,
+    "runs": 97
   }, {
     "objectId": 6527,
-    "dropCount": 47,
-    "runs": 94
+    "dropCount": 48,
+    "runs": 97
   }, {
     "objectId": 6534,
     "dropCount": 47,
-    "runs": 94
+    "runs": 97
   }],
   "stages": [{
     "wave": 1,
@@ -23073,7 +23045,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "assassin"],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 39200,
@@ -23087,38 +23058,38 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 17,
-    "runs": 341
+    "runs": 344
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 146,
-    "runs": 341
+    "dropCount": 148,
+    "runs": 344
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 530,
-    "runs": 341
+    "dropCount": 539,
+    "runs": 344
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 62,
-    "runs": 341
+    "runs": 344
   }, {
     "objectId": 6103,
-    "dropCount": 27,
-    "runs": 341
+    "dropCount": 28,
+    "runs": 344
   }, {
     "objectId": 6106,
     "dropCount": 166,
-    "runs": 341
+    "runs": 344
   }, {
     "objectId": 6519,
     "dropCount": 73,
-    "runs": 341
+    "runs": 344
   }, {
     "objectId": 6535,
     "dropCount": 101,
-    "runs": 341
+    "runs": 344
   }],
   "stages": [{
     "wave": 1,
@@ -23714,7 +23685,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["avenger", "archer", "assassin"],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 39300,
@@ -23728,42 +23698,42 @@
     "type": "servant",
     "objectId": 9703300,
     "dropCount": 4,
-    "runs": 72
+    "runs": 74
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 16,
-    "runs": 72
+    "dropCount": 17,
+    "runs": 74
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 44,
-    "runs": 72
+    "dropCount": 47,
+    "runs": 74
   }, {
     "objectId": 1,
     "num": 20000,
     "dropCount": 66,
-    "runs": 72
+    "runs": 74
   }, {
     "objectId": 6002,
     "dropCount": 16,
-    "runs": 72
+    "runs": 74
   }, {
     "objectId": 6106,
-    "dropCount": 19,
-    "runs": 72
+    "dropCount": 20,
+    "runs": 74
   }, {
     "objectId": 6505,
     "dropCount": 16,
-    "runs": 72
+    "runs": 74
   }, {
     "objectId": 6534,
-    "dropCount": 18,
-    "runs": 72
+    "dropCount": 19,
+    "runs": 74
   }, {
     "objectId": 6535,
     "dropCount": 18,
-    "runs": 72
+    "runs": 74
   }],
   "stages": [{
     "wave": 1,
@@ -24384,7 +24354,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 11400,
@@ -24401,38 +24370,38 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 6,
-    "runs": 64
+    "runs": 66
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 12,
-    "runs": 64
+    "dropCount": 14,
+    "runs": 66
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 59,
-    "runs": 64
+    "dropCount": 61,
+    "runs": 66
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 74,
-    "runs": 64
+    "dropCount": 77,
+    "runs": 66
   }, {
     "objectId": 6007,
     "dropCount": 18,
-    "runs": 64
+    "runs": 66
   }, {
     "objectId": 6106,
     "dropCount": 15,
-    "runs": 64
+    "runs": 66
   }, {
     "objectId": 6526,
     "dropCount": 15,
-    "runs": 64
+    "runs": 66
   }, {
     "objectId": 6535,
-    "dropCount": 15,
-    "runs": 64
+    "dropCount": 17,
+    "runs": 66
   }],
   "stages": [{
     "wave": 1,
@@ -24988,7 +24957,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker", "assassin"],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 29400,
@@ -25001,43 +24969,43 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706300,
-    "dropCount": 29,
-    "runs": 114
+    "dropCount": 49,
+    "runs": 163
   }, {
     "type": "servant",
     "objectId": 9706500,
-    "dropCount": 3,
-    "runs": 114
+    "dropCount": 6,
+    "runs": 163
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 25,
-    "runs": 114
+    "dropCount": 31,
+    "runs": 163
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 132,
-    "runs": 114
+    "dropCount": 195,
+    "runs": 163
   }, {
     "objectId": 6006,
-    "dropCount": 45,
-    "runs": 114
+    "dropCount": 65,
+    "runs": 163
   }, {
     "objectId": 6206,
-    "dropCount": 6,
-    "runs": 114
+    "dropCount": 10,
+    "runs": 163
   }, {
     "objectId": 6505,
-    "dropCount": 34,
-    "runs": 114
+    "dropCount": 47,
+    "runs": 163
   }, {
     "objectId": 6531,
-    "dropCount": 14,
-    "runs": 114
+    "dropCount": 20,
+    "runs": 163
   }, {
     "objectId": 6534,
-    "dropCount": 42,
-    "runs": 114
+    "dropCount": 55,
+    "runs": 163
   }],
   "stages": [{
     "wave": 1,
@@ -25520,6 +25488,8 @@
       }, {
         "id": 201
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 2019
@@ -25597,7 +25567,6 @@
   "individuality": [{
     "id": 2392
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 39600,
@@ -25614,21 +25583,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 272,
-    "runs": 570
+    "dropCount": 286,
+    "runs": 616
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1062,
-    "runs": 570
+    "dropCount": 1141,
+    "runs": 616
   }, {
     "objectId": 6106,
-    "dropCount": 279,
-    "runs": 570
+    "dropCount": 304,
+    "runs": 616
   }, {
     "objectId": 6535,
-    "dropCount": 260,
-    "runs": 570
+    "dropCount": 287,
+    "runs": 616
   }],
   "stages": [{
     "wave": 1,
@@ -26232,7 +26201,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["caster", "assassin", "lancer"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 39020,
@@ -26246,48 +26214,48 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 9,
-    "runs": 68
+    "dropCount": 10,
+    "runs": 70
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 13,
-    "runs": 68
+    "dropCount": 14,
+    "runs": 70
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 16,
-    "runs": 68
+    "runs": 70
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 47,
-    "runs": 68
+    "dropCount": 48,
+    "runs": 70
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 55,
-    "runs": 68
+    "dropCount": 57,
+    "runs": 70
   }, {
     "objectId": 6003,
-    "dropCount": 19,
-    "runs": 68
+    "dropCount": 20,
+    "runs": 70
   }, {
     "objectId": 6106,
-    "dropCount": 15,
-    "runs": 68
+    "dropCount": 16,
+    "runs": 70
   }, {
     "objectId": 6505,
     "dropCount": 21,
-    "runs": 68
+    "runs": 70
   }, {
     "objectId": 6527,
     "dropCount": 23,
-    "runs": 68
+    "runs": 70
   }, {
     "objectId": 6535,
     "dropCount": 20,
-    "runs": 68
+    "runs": 70
   }],
   "stages": [{
     "wave": 1,
@@ -26870,7 +26838,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker", "assassin"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 11402,
@@ -26883,39 +26850,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 240,
-    "runs": 722
+    "dropCount": 241,
+    "runs": 724
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 40,
-    "runs": 722
+    "runs": 724
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 945,
-    "runs": 722
+    "dropCount": 948,
+    "runs": 724
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 148,
-    "runs": 722
+    "runs": 724
   }, {
     "objectId": 6106,
-    "dropCount": 299,
-    "runs": 722
+    "dropCount": 301,
+    "runs": 724
   }, {
     "objectId": 6207,
     "dropCount": 25,
-    "runs": 722
+    "runs": 724
   }, {
     "objectId": 6507,
-    "dropCount": 138,
-    "runs": 722
+    "dropCount": 139,
+    "runs": 724
   }, {
     "objectId": 6535,
-    "dropCount": 214,
-    "runs": 722
+    "dropCount": 215,
+    "runs": 724
   }],
   "stages": [{
     "wave": 1,
@@ -27328,6 +27295,8 @@
       }, {
         "id": 1113
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 106
@@ -27455,7 +27424,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 42000,
@@ -27471,43 +27439,43 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 41,
-    "runs": 228
+    "dropCount": 42,
+    "runs": 230
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 65,
-    "runs": 228
+    "dropCount": 66,
+    "runs": 230
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 309,
-    "runs": 228
+    "dropCount": 312,
+    "runs": 230
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 37,
-    "runs": 228
+    "runs": 230
   }, {
     "objectId": 6006,
-    "dropCount": 127,
-    "runs": 228
+    "dropCount": 128,
+    "runs": 230
   }, {
     "objectId": 6106,
     "dropCount": 15,
-    "runs": 228
+    "runs": 230
   }, {
     "objectId": 6502,
-    "dropCount": 75,
-    "runs": 228
+    "dropCount": 76,
+    "runs": 230
   }, {
     "objectId": 6505,
     "dropCount": 88,
-    "runs": 228
+    "runs": 230
   }, {
     "objectId": 6528,
     "dropCount": 29,
-    "runs": 228
+    "runs": 230
   }],
   "stages": [{
     "wave": 1,
@@ -28027,7 +27995,6 @@
   }, {
     "id": 2073
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 42100,
@@ -28045,34 +28012,34 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 14,
-    "runs": 74
+    "dropCount": 15,
+    "runs": 76
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 9,
-    "runs": 74
+    "runs": 76
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 110,
-    "runs": 74
+    "dropCount": 114,
+    "runs": 76
   }, {
     "objectId": 6006,
-    "dropCount": 19,
-    "runs": 74
+    "dropCount": 20,
+    "runs": 76
   }, {
     "objectId": 6107,
     "dropCount": 19,
-    "runs": 74
+    "runs": 76
   }, {
     "objectId": 6502,
     "dropCount": 27,
-    "runs": 74
+    "runs": 76
   }, {
     "objectId": 6537,
     "dropCount": 24,
-    "runs": 74
+    "runs": 76
   }],
   "stages": [{
     "wave": 1,
@@ -28515,7 +28482,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 42200,
@@ -28534,30 +28500,30 @@
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 59,
-    "runs": 365
+    "runs": 368
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 61,
-    "runs": 365
+    "runs": 368
   }, {
     "objectId": 1,
     "num": 20000,
     "dropCount": 294,
-    "runs": 365
+    "runs": 368
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 215,
-    "runs": 365
+    "dropCount": 220,
+    "runs": 368
   }, {
     "objectId": 6107,
-    "dropCount": 182,
-    "runs": 365
+    "dropCount": 184,
+    "runs": 368
   }, {
     "objectId": 6537,
     "dropCount": 153,
-    "runs": 365
+    "runs": 368
   }],
   "stages": [{
     "wave": 1,
@@ -29042,7 +29008,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 42300,
@@ -29059,38 +29024,38 @@
     "type": "servant",
     "objectId": 9704400,
     "dropCount": 25,
-    "runs": 102
+    "runs": 104
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 22,
-    "runs": 102
+    "dropCount": 23,
+    "runs": 104
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 85,
-    "runs": 102
+    "dropCount": 87,
+    "runs": 104
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 100,
-    "runs": 102
+    "runs": 104
   }, {
     "objectId": 6006,
     "dropCount": 35,
-    "runs": 102
+    "runs": 104
   }, {
     "objectId": 6104,
-    "dropCount": 37,
-    "runs": 102
+    "dropCount": 39,
+    "runs": 104
   }, {
     "objectId": 6502,
     "dropCount": 35,
-    "runs": 102
+    "runs": 104
   }, {
     "objectId": 6536,
     "dropCount": 32,
-    "runs": 102
+    "runs": 104
   }],
   "stages": [{
     "wave": 1,
@@ -29655,7 +29620,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker"],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 39100,
@@ -29669,38 +29633,38 @@
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 80,
-    "runs": 383
+    "runs": 384
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 62,
-    "runs": 383
+    "runs": 384
   }, {
     "objectId": 1,
     "num": 20000,
     "dropCount": 309,
-    "runs": 383
+    "runs": 384
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 241,
-    "runs": 383
+    "dropCount": 242,
+    "runs": 384
   }, {
     "objectId": 6107,
     "dropCount": 149,
-    "runs": 383
+    "runs": 384
   }, {
     "objectId": 6207,
     "dropCount": 16,
-    "runs": 383
+    "runs": 384
   }, {
     "objectId": 6515,
     "dropCount": 122,
-    "runs": 383
+    "runs": 384
   }, {
     "objectId": 6537,
     "dropCount": 95,
-    "runs": 383
+    "runs": 384
   }],
   "stages": [{
     "wave": 1,
@@ -30163,7 +30127,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 42500,
@@ -30179,21 +30142,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 280,
-    "runs": 695
+    "dropCount": 283,
+    "runs": 700
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 1244,
-    "runs": 695
+    "dropCount": 1254,
+    "runs": 700
   }, {
     "objectId": 6104,
-    "dropCount": 373,
-    "runs": 695
+    "dropCount": 376,
+    "runs": 700
   }, {
     "objectId": 6536,
-    "dropCount": 325,
-    "runs": 695
+    "dropCount": 327,
+    "runs": 700
   }],
   "stages": [{
     "wave": 1,
@@ -30811,7 +30774,6 @@
   }, {
     "id": 2073
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 42100,
@@ -30829,39 +30791,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 53,
-    "runs": 1132
+    "dropCount": 57,
+    "runs": 1213
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 271,
-    "runs": 1132
+    "dropCount": 285,
+    "runs": 1213
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 1129,
-    "runs": 1132
+    "dropCount": 1212,
+    "runs": 1213
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 229,
-    "runs": 1132
+    "dropCount": 240,
+    "runs": 1213
   }, {
     "objectId": 6106,
-    "dropCount": 114,
-    "runs": 1132
+    "dropCount": 120,
+    "runs": 1213
   }, {
     "objectId": 6107,
-    "dropCount": 500,
-    "runs": 1132
+    "dropCount": 539,
+    "runs": 1213
   }, {
     "objectId": 6528,
-    "dropCount": 225,
-    "runs": 1132
+    "dropCount": 242,
+    "runs": 1213
   }, {
     "objectId": 6537,
-    "dropCount": 320,
-    "runs": 1132
+    "dropCount": 343,
+    "runs": 1213
   }],
   "stages": [{
     "wave": 1,
@@ -31276,7 +31238,6 @@
   }, {
     "id": 2121
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 42700,
@@ -31294,39 +31255,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 12,
-    "runs": 84
+    "dropCount": 13,
+    "runs": 86
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 9,
-    "runs": 84
+    "runs": 86
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 73,
-    "runs": 84
+    "dropCount": 77,
+    "runs": 86
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 75,
-    "runs": 84
+    "dropCount": 77,
+    "runs": 86
   }, {
     "objectId": 6104,
-    "dropCount": 26,
-    "runs": 84
+    "dropCount": 27,
+    "runs": 86
   }, {
     "objectId": 6107,
     "dropCount": 16,
-    "runs": 84
+    "runs": 86
   }, {
     "objectId": 6536,
     "dropCount": 36,
-    "runs": 84
+    "runs": 86
   }, {
     "objectId": 6537,
     "dropCount": 27,
-    "runs": 84
+    "runs": 86
   }],
   "stages": [{
     "wave": 1,
@@ -31935,7 +31896,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["rider", "assassin"],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 42030,
@@ -31948,39 +31908,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 505,
-    "runs": 1539
+    "dropCount": 507,
+    "runs": 1542
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 85,
-    "runs": 1539
+    "runs": 1542
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 2210,
-    "runs": 1539
+    "dropCount": 2212,
+    "runs": 1542
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 319,
-    "runs": 1539
+    "dropCount": 320,
+    "runs": 1542
   }, {
     "objectId": 6104,
-    "dropCount": 614,
-    "runs": 1539
+    "dropCount": 615,
+    "runs": 1542
   }, {
     "objectId": 6106,
     "dropCount": 139,
-    "runs": 1539
+    "runs": 1542
   }, {
     "objectId": 6528,
     "dropCount": 280,
-    "runs": 1539
+    "runs": 1542
   }, {
     "objectId": 6536,
     "dropCount": 455,
-    "runs": 1539
+    "runs": 1542
   }],
   "stages": [{
     "wave": 1,
@@ -32520,7 +32480,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "berserker"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 42030,
@@ -32534,34 +32493,34 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 22,
-    "runs": 104
+    "runs": 105
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 25,
-    "runs": 104
+    "runs": 105
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 60,
-    "runs": 104
+    "runs": 105
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 61,
-    "runs": 104
+    "runs": 105
   }, {
     "objectId": 6107,
     "dropCount": 60,
-    "runs": 104
+    "runs": 105
   }, {
     "objectId": 6505,
     "dropCount": 36,
-    "runs": 104
+    "runs": 105
   }, {
     "objectId": 6537,
-    "dropCount": 31,
-    "runs": 104
+    "dropCount": 33,
+    "runs": 105
   }],
   "stages": [{
     "wave": 1,
@@ -33072,7 +33031,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["saber", "rider"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 42400,
@@ -33085,34 +33043,34 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701500,
-    "dropCount": 112,
-    "runs": 2224
+    "dropCount": 113,
+    "runs": 2227
   }, {
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 858,
-    "runs": 2224
+    "dropCount": 859,
+    "runs": 2227
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 3622,
-    "runs": 2224
+    "dropCount": 3627,
+    "runs": 2227
   }, {
     "objectId": 6104,
-    "dropCount": 956,
-    "runs": 2224
+    "dropCount": 957,
+    "runs": 2227
   }, {
     "objectId": 6201,
     "dropCount": 96,
-    "runs": 2224
+    "runs": 2227
   }, {
     "objectId": 6518,
     "dropCount": 278,
-    "runs": 2224
+    "runs": 2227
   }, {
     "objectId": 6536,
     "dropCount": 655,
-    "runs": 2224
+    "runs": 2227
   }],
   "stages": [{
     "wave": 1,
@@ -33715,7 +33673,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 46000,
@@ -33731,44 +33688,44 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702300,
-    "dropCount": 16,
-    "runs": 62
+    "dropCount": 19,
+    "runs": 64
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 17,
-    "runs": 62
+    "runs": 64
   }, {
     "type": "servant",
     "objectId": 9704300,
     "dropCount": 8,
-    "runs": 62
+    "runs": 64
   }, {
     "type": "servant",
     "objectId": 9704400,
     "dropCount": 6,
-    "runs": 62
+    "runs": 64
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 132,
-    "runs": 62
+    "dropCount": 133,
+    "runs": 64
   }, {
     "objectId": 6003,
     "dropCount": 18,
-    "runs": 62
+    "runs": 64
   }, {
     "objectId": 6004,
     "dropCount": 9,
-    "runs": 62
+    "runs": 64
   }, {
     "objectId": 6510,
-    "dropCount": 12,
-    "runs": 62
+    "dropCount": 13,
+    "runs": 64
   }, {
     "objectId": 6527,
     "dropCount": 21,
-    "runs": 62
+    "runs": 64
   }],
   "stages": [{
     "wave": 1,
@@ -34279,7 +34236,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 46020,
@@ -34296,43 +34252,43 @@
     "type": "servant",
     "objectId": 9702300,
     "dropCount": 21,
-    "runs": 114
+    "runs": 116
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 23,
-    "runs": 114
+    "runs": 116
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 20,
-    "runs": 114
+    "runs": 116
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 131,
-    "runs": 114
+    "dropCount": 134,
+    "runs": 116
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 71,
-    "runs": 114
+    "dropCount": 72,
+    "runs": 116
   }, {
     "objectId": 6003,
-    "dropCount": 25,
-    "runs": 114
+    "dropCount": 26,
+    "runs": 116
   }, {
     "objectId": 6107,
     "dropCount": 12,
-    "runs": 114
+    "runs": 116
   }, {
     "objectId": 6527,
     "dropCount": 51,
-    "runs": 114
+    "runs": 116
   }, {
     "objectId": 6537,
-    "dropCount": 35,
-    "runs": 114
+    "dropCount": 36,
+    "runs": 116
   }],
   "stages": [{
     "wave": 1,
@@ -34812,7 +34768,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 20100,
@@ -34829,33 +34784,33 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 30,
-    "runs": 67
+    "runs": 69
   }, {
     "type": "servant",
     "objectId": 9706500,
-    "dropCount": 1,
-    "runs": 67
+    "dropCount": 2,
+    "runs": 69
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 107,
-    "runs": 67
+    "dropCount": 111,
+    "runs": 69
   }, {
     "objectId": 6006,
-    "dropCount": 36,
-    "runs": 67
+    "dropCount": 37,
+    "runs": 69
   }, {
     "objectId": 6206,
     "dropCount": 1,
-    "runs": 67
+    "runs": 69
   }, {
     "objectId": 6502,
     "dropCount": 28,
-    "runs": 67
+    "runs": 69
   }, {
     "objectId": 6531,
-    "dropCount": 7,
-    "runs": 67
+    "dropCount": 8,
+    "runs": 69
   }],
   "stages": [{
     "wave": 1,
@@ -35255,6 +35210,8 @@
       }, {
         "id": 201
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 2019
@@ -35328,7 +35285,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 46100,
@@ -35345,47 +35301,47 @@
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 13,
-    "runs": 69
+    "runs": 71
   }, {
     "type": "servant",
     "objectId": 9704300,
-    "dropCount": 18,
-    "runs": 69
+    "dropCount": 19,
+    "runs": 71
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 6,
-    "runs": 69
+    "dropCount": 7,
+    "runs": 71
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 66,
-    "runs": 69
+    "dropCount": 68,
+    "runs": 71
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 42,
-    "runs": 69
+    "dropCount": 43,
+    "runs": 71
   }, {
     "objectId": 6004,
     "dropCount": 17,
-    "runs": 69
+    "runs": 71
   }, {
     "objectId": 6107,
     "dropCount": 10,
-    "runs": 69
+    "runs": 71
   }, {
     "objectId": 6505,
     "dropCount": 21,
-    "runs": 69
+    "runs": 71
   }, {
     "objectId": 6510,
     "dropCount": 16,
-    "runs": 69
+    "runs": 71
   }, {
     "objectId": 6537,
     "dropCount": 11,
-    "runs": 69
+    "runs": 71
   }],
   "stages": [{
     "wave": 1,
@@ -35866,6 +35822,7 @@
           "id": 543350,
           "num": 2,
           "svtId": 103600,
+          "strengthStatus": 1,
           "priority": 1,
           "condLimitCount": 1
         },
@@ -35994,7 +35951,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 46110,
@@ -36011,47 +35967,47 @@
     "type": "servant",
     "objectId": 9703400,
     "dropCount": 4,
-    "runs": 68
+    "runs": 69
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 17,
-    "runs": 68
+    "runs": 69
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 11,
-    "runs": 68
+    "runs": 69
   }, {
     "objectId": 1,
     "num": 20000,
     "dropCount": 68,
-    "runs": 68
+    "runs": 69
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 30,
-    "runs": 68
+    "runs": 69
   }, {
     "objectId": 6102,
     "dropCount": 5,
-    "runs": 68
+    "runs": 69
   }, {
     "objectId": 6107,
     "dropCount": 15,
-    "runs": 68
+    "runs": 69
   }, {
     "objectId": 6505,
-    "dropCount": 22,
-    "runs": 68
+    "dropCount": 23,
+    "runs": 69
   }, {
     "objectId": 6537,
     "dropCount": 15,
-    "runs": 68
+    "runs": 69
   }, {
     "objectId": 6539,
-    "dropCount": 7,
-    "runs": 68
+    "dropCount": 8,
+    "runs": 69
   }],
   "stages": [{
     "wave": 1,
@@ -36572,7 +36528,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 46100,
@@ -36589,52 +36544,52 @@
     "type": "servant",
     "objectId": 9702300,
     "dropCount": 29,
-    "runs": 71
+    "runs": 72
   }, {
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 19,
-    "runs": 71
+    "runs": 72
   }, {
     "type": "servant",
     "objectId": 9703400,
     "dropCount": 10,
-    "runs": 71
+    "runs": 72
   }, {
     "type": "servant",
     "objectId": 9704400,
     "dropCount": 19,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 58,
-    "runs": 71
+    "dropCount": 60,
+    "runs": 72
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 29,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 6003,
     "dropCount": 12,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 6102,
     "dropCount": 9,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 6505,
     "dropCount": 16,
-    "runs": 71
+    "runs": 72
   }, {
     "objectId": 6527,
-    "dropCount": 27,
-    "runs": 71
+    "dropCount": 28,
+    "runs": 72
   }, {
     "objectId": 6539,
     "dropCount": 16,
-    "runs": 71
+    "runs": 72
   }],
   "stages": [{
     "wave": 1,
@@ -37172,7 +37127,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 46200,
@@ -37189,38 +37143,38 @@
     "type": "servant",
     "objectId": 9703400,
     "dropCount": 51,
-    "runs": 292
+    "runs": 293
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 57,
-    "runs": 292
+    "runs": 293
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 228,
-    "runs": 292
+    "dropCount": 229,
+    "runs": 293
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 182,
-    "runs": 292
+    "runs": 293
   }, {
     "objectId": 6102,
-    "dropCount": 42,
-    "runs": 292
+    "dropCount": 43,
+    "runs": 293
   }, {
     "objectId": 6106,
     "dropCount": 71,
-    "runs": 292
+    "runs": 293
   }, {
     "objectId": 6538,
     "dropCount": 85,
-    "runs": 292
+    "runs": 293
   }, {
     "objectId": 6539,
     "dropCount": 66,
-    "runs": 292
+    "runs": 293
   }],
   "stages": [{
     "wave": 1,
@@ -37704,7 +37658,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 46110,
@@ -37721,38 +37674,38 @@
     "type": "servant",
     "objectId": 9703400,
     "dropCount": 23,
-    "runs": 113
+    "runs": 114
   }, {
     "type": "servant",
     "objectId": 9704300,
-    "dropCount": 28,
-    "runs": 113
+    "dropCount": 29,
+    "runs": 114
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 121,
-    "runs": 113
+    "dropCount": 124,
+    "runs": 114
   }, {
     "objectId": 1,
     "num": 30000,
     "dropCount": 91,
-    "runs": 113
+    "runs": 114
   }, {
     "objectId": 6004,
     "dropCount": 29,
-    "runs": 113
+    "runs": 114
   }, {
     "objectId": 6102,
     "dropCount": 21,
-    "runs": 113
+    "runs": 114
   }, {
     "objectId": 6510,
     "dropCount": 40,
-    "runs": 113
+    "runs": 114
   }, {
     "objectId": 6539,
     "dropCount": 21,
-    "runs": 113
+    "runs": 114
   }],
   "stages": [{
     "wave": 1,
@@ -38334,7 +38287,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 46030,
@@ -38351,38 +38303,38 @@
     "type": "servant",
     "objectId": 9704300,
     "dropCount": 20,
-    "runs": 64
+    "runs": 65
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 11,
-    "runs": 64
+    "runs": 65
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 59,
-    "runs": 64
+    "dropCount": 60,
+    "runs": 65
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 55,
-    "runs": 64
+    "dropCount": 56,
+    "runs": 65
   }, {
     "objectId": 6004,
     "dropCount": 18,
-    "runs": 64
+    "runs": 65
   }, {
     "objectId": 6106,
     "dropCount": 14,
-    "runs": 64
+    "runs": 65
   }, {
     "objectId": 6510,
     "dropCount": 23,
-    "runs": 64
+    "runs": 65
   }, {
     "objectId": 6538,
     "dropCount": 16,
-    "runs": 64
+    "runs": 65
   }],
   "stages": [{
     "wave": 1,
@@ -38918,7 +38870,6 @@
   }, {
     "id": 2392
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 46300,
@@ -38936,48 +38887,48 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702400,
-    "dropCount": 34,
-    "runs": 193
+    "dropCount": 35,
+    "runs": 195
   }, {
     "type": "servant",
     "objectId": 9703400,
     "dropCount": 27,
-    "runs": 193
+    "runs": 195
   }, {
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 53,
-    "runs": 193
+    "runs": 195
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 201,
-    "runs": 193
+    "dropCount": 203,
+    "runs": 195
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 129,
-    "runs": 193
+    "dropCount": 131,
+    "runs": 195
   }, {
     "objectId": 6102,
     "dropCount": 32,
-    "runs": 193
+    "runs": 195
   }, {
     "objectId": 6106,
-    "dropCount": 47,
-    "runs": 193
+    "dropCount": 48,
+    "runs": 195
   }, {
     "objectId": 6505,
     "dropCount": 61,
-    "runs": 193
+    "runs": 195
   }, {
     "objectId": 6538,
     "dropCount": 48,
-    "runs": 193
+    "runs": 195
   }, {
     "objectId": 6539,
     "dropCount": 30,
-    "runs": 193
+    "runs": 195
   }],
   "stages": [{
     "wave": 1,
@@ -39591,7 +39542,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["assassin"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 29700,
@@ -39604,21 +39554,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 387,
-    "runs": 812
+    "dropCount": 388,
+    "runs": 813
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1451,
-    "runs": 812
+    "dropCount": 1453,
+    "runs": 813
   }, {
     "objectId": 6106,
     "dropCount": 427,
-    "runs": 812
+    "runs": 813
   }, {
     "objectId": 6538,
     "dropCount": 342,
-    "runs": 812
+    "runs": 813
   }],
   "stages": [{
     "wave": 1,
@@ -40164,7 +40114,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 54010,
@@ -40183,39 +40132,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702400,
-    "dropCount": 80,
-    "runs": 469
+    "dropCount": 81,
+    "runs": 479
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 135,
-    "runs": 469
+    "dropCount": 138,
+    "runs": 479
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 463,
-    "runs": 469
+    "dropCount": 478,
+    "runs": 479
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 301,
-    "runs": 469
+    "dropCount": 306,
+    "runs": 479
   }, {
     "objectId": 6007,
-    "dropCount": 137,
-    "runs": 469
+    "dropCount": 141,
+    "runs": 479
   }, {
     "objectId": 6103,
-    "dropCount": 70,
-    "runs": 469
+    "dropCount": 73,
+    "runs": 479
   }, {
     "objectId": 6519,
-    "dropCount": 96,
-    "runs": 469
+    "dropCount": 99,
+    "runs": 479
   }, {
     "objectId": 6541,
-    "dropCount": 153,
-    "runs": 469
+    "dropCount": 155,
+    "runs": 479
   }],
   "stages": [{
     "wave": 1,
@@ -40792,7 +40741,6 @@
   }, {
     "id": 2392
   }],
-  "qp": 9880,
   "exp": 18888,
   "bond": 735,
   "battleBgId": 54200,
@@ -40810,48 +40758,48 @@
   "drops": [{
     "type": "servant",
     "objectId": 9703400,
-    "dropCount": 45,
-    "runs": 189
+    "dropCount": 46,
+    "runs": 196
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 14,
-    "runs": 189
+    "dropCount": 17,
+    "runs": 196
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 47,
-    "runs": 189
+    "dropCount": 49,
+    "runs": 196
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 226,
-    "runs": 189
+    "dropCount": 234,
+    "runs": 196
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 72,
-    "runs": 189
+    "dropCount": 74,
+    "runs": 196
   }, {
     "objectId": 6007,
-    "dropCount": 61,
-    "runs": 189
+    "dropCount": 64,
+    "runs": 196
   }, {
     "objectId": 6105,
-    "dropCount": 22,
-    "runs": 189
+    "dropCount": 23,
+    "runs": 196
   }, {
     "objectId": 6501,
     "dropCount": 39,
-    "runs": 189
+    "runs": 196
   }, {
     "objectId": 6505,
-    "dropCount": 66,
-    "runs": 189
+    "dropCount": 68,
+    "runs": 196
   }, {
     "objectId": 6541,
-    "dropCount": 48,
-    "runs": 189
+    "dropCount": 49,
+    "runs": 196
   }],
   "stages": [{
     "wave": 1,
@@ -41515,7 +41463,6 @@
   "individuality": [{
     "id": 2884
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 20100,
@@ -41532,38 +41479,38 @@
     "type": "servant",
     "objectId": 9706400,
     "dropCount": 255,
-    "runs": 1706
+    "runs": 1708
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 422,
-    "runs": 1706
+    "runs": 1708
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 1672,
-    "runs": 1706
+    "dropCount": 1674,
+    "runs": 1708
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 1004,
-    "runs": 1706
+    "dropCount": 1005,
+    "runs": 1708
   }, {
     "objectId": 6007,
     "dropCount": 482,
-    "runs": 1706
+    "runs": 1708
   }, {
     "objectId": 6106,
     "dropCount": 284,
-    "runs": 1706
+    "runs": 1708
   }, {
     "objectId": 6521,
     "dropCount": 412,
-    "runs": 1706
+    "runs": 1708
   }, {
     "objectId": 6541,
-    "dropCount": 467,
-    "runs": 1706
+    "dropCount": 468,
+    "runs": 1708
   }],
   "stages": [{
     "wave": 1,
@@ -42138,7 +42085,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 13210,
@@ -42155,42 +42101,42 @@
     "type": "servant",
     "objectId": 9702500,
     "dropCount": 6,
-    "runs": 228
+    "runs": 231
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 33,
-    "runs": 228
+    "runs": 231
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 80,
-    "runs": 228
+    "runs": 231
   }, {
     "objectId": 1,
     "num": 10000,
-    "dropCount": 233,
-    "runs": 228
+    "dropCount": 236,
+    "runs": 231
   }, {
     "objectId": 6007,
-    "dropCount": 61,
-    "runs": 228
+    "dropCount": 65,
+    "runs": 231
   }, {
     "objectId": 6203,
     "dropCount": 13,
-    "runs": 228
+    "runs": 231
   }, {
     "objectId": 6505,
-    "dropCount": 84,
-    "runs": 228
+    "dropCount": 85,
+    "runs": 231
   }, {
     "objectId": 6522,
-    "dropCount": 86,
-    "runs": 228
+    "dropCount": 87,
+    "runs": 231
   }, {
     "objectId": 6542,
     "dropCount": 31,
-    "runs": 228
+    "runs": 231
   }],
   "stages": [{
     "wave": 1,
@@ -42440,6 +42386,8 @@
         "id": 2000
       }, {
         "id": 2002
+      }, {
+        "id": 1110
       }, {
         "id": 2040
       }, {
@@ -42764,7 +42712,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 54000,
@@ -42783,39 +42730,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 22,
-    "runs": 197
+    "dropCount": 30,
+    "runs": 292
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 52,
-    "runs": 197
+    "dropCount": 84,
+    "runs": 292
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 217,
-    "runs": 197
+    "dropCount": 299,
+    "runs": 292
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 124,
-    "runs": 197
+    "dropCount": 177,
+    "runs": 292
   }, {
     "objectId": 6007,
-    "dropCount": 54,
-    "runs": 197
+    "dropCount": 78,
+    "runs": 292
   }, {
     "objectId": 6104,
-    "dropCount": 54,
-    "runs": 197
+    "dropCount": 80,
+    "runs": 292
   }, {
     "objectId": 6507,
-    "dropCount": 44,
-    "runs": 197
+    "dropCount": 66,
+    "runs": 292
   }, {
     "objectId": 6541,
-    "dropCount": 64,
-    "runs": 197
+    "dropCount": 100,
+    "runs": 292
   }],
   "stages": [{
     "wave": 1,
@@ -43053,6 +43000,8 @@
       }, {
         "id": 2005
       }, {
+        "id": 1110
+      }, {
         "id": 2040
       }, {
         "id": 2019
@@ -43259,6 +43208,8 @@
       }, {
         "id": 2005
       }, {
+        "id": 1110
+      }, {
         "id": 2040
       }, {
         "id": 2019
@@ -43326,6 +43277,8 @@
         "id": 2000
       }, {
         "id": 2005
+      }, {
+        "id": 1110
       }, {
         "id": 2040
       }, {
@@ -43404,7 +43357,6 @@
   }, {
     "id": 2121
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 54410,
@@ -43423,33 +43375,33 @@
     "type": "servant",
     "objectId": 9702500,
     "dropCount": 178,
-    "runs": 3611
+    "runs": 3636
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 1066,
-    "runs": 3611
+    "dropCount": 1073,
+    "runs": 3636
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 4385,
-    "runs": 3611
+    "dropCount": 4418,
+    "runs": 3636
   }, {
     "objectId": 6007,
-    "dropCount": 1238,
-    "runs": 3611
+    "dropCount": 1246,
+    "runs": 3636
   }, {
     "objectId": 6203,
-    "dropCount": 185,
-    "runs": 3611
+    "dropCount": 187,
+    "runs": 3636
   }, {
     "objectId": 6541,
-    "dropCount": 1047,
-    "runs": 3611
+    "dropCount": 1053,
+    "runs": 3636
   }, {
     "objectId": 6542,
-    "dropCount": 507,
-    "runs": 3611
+    "dropCount": 514,
+    "runs": 3636
   }],
   "stages": [{
     "wave": 1,
@@ -43890,6 +43842,8 @@
       }, {
         "id": 2002
       }, {
+        "id": 1110
+      }, {
         "id": 2040
       }, {
         "id": 2019
@@ -43959,7 +43913,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["berserker"],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 54600,
@@ -43972,35 +43925,35 @@
   "drops": [{
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 671,
-    "runs": 1725
+    "dropCount": 750,
+    "runs": 1939
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 79,
-    "runs": 1725
+    "dropCount": 89,
+    "runs": 1939
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 2804,
-    "runs": 1725
+    "dropCount": 3130,
+    "runs": 1939
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 349,
-    "runs": 1725
+    "dropCount": 400,
+    "runs": 1939
   }, {
     "objectId": 6007,
-    "dropCount": 781,
-    "runs": 1725
+    "dropCount": 887,
+    "runs": 1939
   }, {
     "objectId": 6107,
-    "dropCount": 96,
-    "runs": 1725
+    "dropCount": 112,
+    "runs": 1939
   }, {
     "objectId": 6541,
-    "dropCount": 774,
-    "runs": 1725
+    "dropCount": 867,
+    "runs": 1939
   }],
   "stages": [{
     "wave": 1,
@@ -44648,7 +44601,6 @@
   }, {
     "id": 2392
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 54100,
@@ -44667,47 +44619,47 @@
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 48,
-    "runs": 204
+    "runs": 206
   }, {
     "type": "servant",
     "objectId": 9707300,
     "dropCount": 59,
-    "runs": 204
+    "runs": 206
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 13,
-    "runs": 204
+    "runs": 206
   }, {
     "objectId": 1,
     "num": 10000,
-    "dropCount": 275,
-    "runs": 204
+    "dropCount": 276,
+    "runs": 206
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 44,
-    "runs": 204
+    "dropCount": 45,
+    "runs": 206
   }, {
     "objectId": 6007,
     "dropCount": 67,
-    "runs": 204
+    "runs": 206
   }, {
     "objectId": 6107,
     "dropCount": 11,
-    "runs": 204
+    "runs": 206
   }, {
     "objectId": 6505,
-    "dropCount": 60,
-    "runs": 204
+    "dropCount": 61,
+    "runs": 206
   }, {
     "objectId": 6522,
-    "dropCount": 64,
-    "runs": 204
+    "dropCount": 65,
+    "runs": 206
   }, {
     "objectId": 6541,
     "dropCount": 38,
-    "runs": 204
+    "runs": 206
   }],
   "stages": [{
     "wave": 1,
@@ -45233,35 +45185,41 @@
       }, {
         "id": 1
       }, {
-        "id": 104
-      }, {
         "id": 201
-      }, {
-        "id": 302
-      }, {
-        "id": 305
-      }, {
-        "id": 1000
-      }, {
-        "id": 2001
-      }, {
-        "id": 2000
-      }, {
-        "id": 2040
-      }, {
-        "id": 2008
       }, {
         "id": 2011
       }, {
         "id": 2037
       }, {
-        "id": 2858
+        "id": 302
       }, {
-        "id": 2466
+        "id": 305
+      }, {
+        "id": 2008
+      }, {
+        "id": 1000
+      }, {
+        "id": 2001
+      }, {
+        "id": 403
+      }, {
+        "id": 2000
+      }, {
+        "id": 1110
+      }, {
+        "id": 2040
       }, {
         "id": 2114
       }, {
+        "id": 2466
+      }, {
         "id": 2631
+      }, {
+        "id": 2780
+      }, {
+        "id": 2858
+      }, {
+        "id": 104
       }, {
         "id": 1122
       }],
@@ -45419,7 +45377,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 54020,
@@ -45437,37 +45394,37 @@
     "type": "servant",
     "objectId": 9702500,
     "dropCount": 106,
-    "runs": 2269
+    "runs": 2272
   }, {
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 752,
-    "runs": 2269
+    "runs": 2272
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 1441,
-    "runs": 2269
+    "dropCount": 1443,
+    "runs": 2272
   }, {
     "objectId": 6105,
-    "dropCount": 345,
-    "runs": 2269
+    "dropCount": 346,
+    "runs": 2272
   }, {
     "objectId": 6203,
     "dropCount": 104,
-    "runs": 2269
+    "runs": 2272
   }, {
     "objectId": 6501,
     "dropCount": 422,
-    "runs": 2269
+    "runs": 2272
   }, {
     "objectId": 6505,
-    "dropCount": 862,
-    "runs": 2269
+    "dropCount": 863,
+    "runs": 2272
   }, {
     "objectId": 6542,
     "dropCount": 235,
-    "runs": 2269
+    "runs": 2272
   }],
   "stages": [{
     "wave": 1,
@@ -45636,6 +45593,8 @@
         "id": 2000
       }, {
         "id": 2002
+      }, {
+        "id": 1110
       }, {
         "id": 2040
       }, {
@@ -45888,7 +45847,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 54000,
@@ -45908,29 +45866,29 @@
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 852,
-    "runs": 2546
+    "runs": 2550
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 2570,
-    "runs": 2546
+    "dropCount": 2574,
+    "runs": 2550
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 1067,
-    "runs": 2546
+    "dropCount": 1069,
+    "runs": 2550
   }, {
     "objectId": 6105,
     "dropCount": 1197,
-    "runs": 2546
+    "runs": 2550
   }, {
     "objectId": 6501,
-    "dropCount": 561,
-    "runs": 2546
+    "dropCount": 564,
+    "runs": 2550
   }, {
     "objectId": 6523,
-    "dropCount": 535,
-    "runs": 2546
+    "dropCount": 536,
+    "runs": 2550
   }],
   "stages": [{
     "wave": 1,
@@ -46423,7 +46381,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 58700,
@@ -46441,44 +46398,44 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701300,
-    "dropCount": 485,
-    "runs": 2433
+    "dropCount": 553,
+    "runs": 2793
   }, {
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 239,
-    "runs": 2433
+    "dropCount": 283,
+    "runs": 2793
   }, {
     "type": "servant",
     "objectId": 9704500,
-    "dropCount": 126,
-    "runs": 2433
+    "dropCount": 151,
+    "runs": 2793
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 1993,
-    "runs": 2433
+    "dropCount": 2282,
+    "runs": 2793
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 977,
-    "runs": 2433
+    "dropCount": 1130,
+    "runs": 2793
   }, {
     "objectId": 6001,
-    "dropCount": 933,
-    "runs": 2433
+    "dropCount": 1075,
+    "runs": 2793
   }, {
     "objectId": 6204,
-    "dropCount": 112,
-    "runs": 2433
+    "dropCount": 135,
+    "runs": 2793
   }, {
     "objectId": 6526,
-    "dropCount": 683,
-    "runs": 2433
+    "dropCount": 785,
+    "runs": 2793
   }, {
     "objectId": 6544,
-    "dropCount": 316,
-    "runs": 2433
+    "dropCount": 358,
+    "runs": 2793
   }],
   "stages": [{
     "wave": 1,
@@ -46874,7 +46831,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 58300,
@@ -46893,42 +46849,42 @@
     "type": "servant",
     "objectId": 9703500,
     "dropCount": 1,
-    "runs": 76
+    "runs": 79
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 14,
-    "runs": 76
+    "dropCount": 15,
+    "runs": 79
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 14,
-    "runs": 76
+    "dropCount": 15,
+    "runs": 79
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 129,
-    "runs": 76
+    "dropCount": 132,
+    "runs": 79
   }, {
     "objectId": 6106,
-    "dropCount": 15,
-    "runs": 76
+    "dropCount": 16,
+    "runs": 79
   }, {
     "objectId": 6107,
     "dropCount": 17,
-    "runs": 76
+    "runs": 79
   }, {
     "objectId": 6202,
     "dropCount": 5,
-    "runs": 76
+    "runs": 79
   }, {
     "objectId": 6531,
     "dropCount": 8,
-    "runs": 76
+    "runs": 79
   }, {
     "objectId": 6543,
     "dropCount": 27,
-    "runs": 76
+    "runs": 79
   }],
   "stages": [{
     "wave": 1,
@@ -47471,6 +47427,8 @@
       }, {
         "id": 201
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 2019
@@ -47546,7 +47504,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 58000,
@@ -47562,35 +47519,35 @@
   "drops": [{
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 69,
-    "runs": 212
+    "dropCount": 86,
+    "runs": 251
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 10,
-    "runs": 212
+    "dropCount": 13,
+    "runs": 251
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 344,
-    "runs": 212
+    "dropCount": 399,
+    "runs": 251
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 56,
-    "runs": 212
+    "dropCount": 64,
+    "runs": 251
   }, {
     "objectId": 6107,
-    "dropCount": 113,
-    "runs": 212
+    "dropCount": 124,
+    "runs": 251
   }, {
     "objectId": 6507,
-    "dropCount": 45,
-    "runs": 212
+    "dropCount": 57,
+    "runs": 251
   }, {
     "objectId": 6543,
-    "dropCount": 62,
-    "runs": 212
+    "dropCount": 80,
+    "runs": 251
   }],
   "stages": [{
     "wave": 1,
@@ -48133,6 +48090,8 @@
       }, {
         "id": 1113
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 106
@@ -48202,7 +48161,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 58100,
@@ -48218,34 +48176,34 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 312,
-    "runs": 920
+    "dropCount": 313,
+    "runs": 924
   }, {
     "type": "servant",
     "objectId": 9705500,
     "dropCount": 91,
-    "runs": 920
+    "runs": 924
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1319,
-    "runs": 920
+    "dropCount": 1323,
+    "runs": 924
   }, {
     "objectId": 6101,
-    "dropCount": 331,
-    "runs": 920
+    "dropCount": 332,
+    "runs": 924
   }, {
     "objectId": 6205,
-    "dropCount": 61,
-    "runs": 920
+    "dropCount": 63,
+    "runs": 924
   }, {
     "objectId": 6525,
     "dropCount": 144,
-    "runs": 920
+    "runs": 924
   }, {
     "objectId": 6543,
-    "dropCount": 271,
-    "runs": 920
+    "dropCount": 275,
+    "runs": 924
   }],
   "stages": [{
     "wave": 1,
@@ -48844,7 +48802,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 58510,
@@ -48862,38 +48819,38 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 23,
-    "runs": 126
+    "dropCount": 24,
+    "runs": 131
   }, {
     "type": "servant",
     "objectId": 9701500,
     "dropCount": 6,
-    "runs": 126
+    "runs": 131
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 142,
-    "runs": 126
+    "dropCount": 154,
+    "runs": 131
   }, {
     "objectId": 6101,
     "dropCount": 46,
-    "runs": 126
+    "runs": 131
   }, {
     "objectId": 6201,
     "dropCount": 9,
-    "runs": 126
+    "runs": 131
   }, {
     "objectId": 6505,
-    "dropCount": 43,
-    "runs": 126
+    "dropCount": 45,
+    "runs": 131
   }, {
     "objectId": 6518,
-    "dropCount": 13,
-    "runs": 126
+    "dropCount": 14,
+    "runs": 131
   }, {
     "objectId": 6543,
     "dropCount": 33,
-    "runs": 126
+    "runs": 131
   }],
   "stages": [{
     "wave": 1,
@@ -49461,7 +49418,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 58310,
@@ -49480,38 +49436,38 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 5,
-    "runs": 98
+    "runs": 105
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 36,
-    "runs": 98
+    "dropCount": 38,
+    "runs": 105
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 121,
-    "runs": 98
+    "dropCount": 130,
+    "runs": 105
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 32,
-    "runs": 98
+    "dropCount": 36,
+    "runs": 105
   }, {
     "objectId": 6103,
-    "dropCount": 21,
-    "runs": 98
+    "dropCount": 22,
+    "runs": 105
   }, {
     "objectId": 6105,
-    "dropCount": 49,
-    "runs": 98
+    "dropCount": 53,
+    "runs": 105
   }, {
     "objectId": 6509,
-    "dropCount": 29,
-    "runs": 98
+    "dropCount": 34,
+    "runs": 105
   }, {
     "objectId": 6539,
-    "dropCount": 17,
-    "runs": 98
+    "dropCount": 18,
+    "runs": 105
   }],
   "stages": [{
     "wave": 1,
@@ -50056,7 +50012,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 58010,
@@ -50073,52 +50028,52 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 2,
-    "runs": 107
+    "runs": 110
   }, {
     "type": "servant",
     "objectId": 9703400,
-    "dropCount": 25,
-    "runs": 107
+    "dropCount": 26,
+    "runs": 110
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 28,
-    "runs": 107
+    "dropCount": 29,
+    "runs": 110
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 5,
-    "runs": 107
+    "runs": 110
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 128,
-    "runs": 107
+    "dropCount": 130,
+    "runs": 110
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 19,
-    "runs": 107
+    "runs": 110
   }, {
     "objectId": 6103,
     "dropCount": 3,
-    "runs": 107
+    "runs": 110
   }, {
     "objectId": 6107,
     "dropCount": 32,
-    "runs": 107
+    "runs": 110
   }, {
     "objectId": 6505,
     "dropCount": 29,
-    "runs": 107
+    "runs": 110
   }, {
     "objectId": 6539,
-    "dropCount": 24,
-    "runs": 107
+    "dropCount": 25,
+    "runs": 110
   }, {
     "objectId": 6543,
     "dropCount": 23,
-    "runs": 107
+    "runs": 110
   }],
   "stages": [{
     "wave": 1,
@@ -50721,7 +50676,6 @@
   "individuality": [{
     "id": 2039
   }],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 58750,
@@ -50737,39 +50691,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704500,
-    "dropCount": 141,
-    "runs": 3223
+    "dropCount": 144,
+    "runs": 3294
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 782,
-    "runs": 3223
+    "dropCount": 798,
+    "runs": 3294
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 290,
-    "runs": 3223
+    "dropCount": 297,
+    "runs": 3294
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 4511,
-    "runs": 3223
+    "dropCount": 4606,
+    "runs": 3294
   }, {
     "objectId": 6107,
-    "dropCount": 1226,
-    "runs": 3223
+    "dropCount": 1252,
+    "runs": 3294
   }, {
     "objectId": 6204,
-    "dropCount": 148,
-    "runs": 3223
+    "dropCount": 153,
+    "runs": 3294
   }, {
     "objectId": 6543,
-    "dropCount": 969,
-    "runs": 3223
+    "dropCount": 991,
+    "runs": 3294
   }, {
     "objectId": 6544,
-    "dropCount": 446,
-    "runs": 3223
+    "dropCount": 454,
+    "runs": 3294
   }],
   "stages": [{
     "wave": 1,
@@ -51324,7 +51278,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["saber", "assassin", "berserker"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 58600,
@@ -51337,44 +51290,44 @@
   "drops": [{
     "type": "servant",
     "objectId": 9701400,
-    "dropCount": 42,
-    "runs": 231
+    "dropCount": 59,
+    "runs": 348
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 49,
-    "runs": 231
+    "dropCount": 69,
+    "runs": 348
   }, {
     "type": "servant",
     "objectId": 9707300,
-    "dropCount": 18,
-    "runs": 231
+    "dropCount": 26,
+    "runs": 348
   }, {
     "type": "servant",
     "objectId": 9707400,
-    "dropCount": 7,
-    "runs": 231
+    "dropCount": 12,
+    "runs": 348
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 426,
-    "runs": 231
+    "dropCount": 633,
+    "runs": 348
   }, {
     "objectId": 6101,
-    "dropCount": 45,
-    "runs": 231
+    "dropCount": 63,
+    "runs": 348
   }, {
     "objectId": 6106,
-    "dropCount": 42,
-    "runs": 231
+    "dropCount": 59,
+    "runs": 348
   }, {
     "objectId": 6107,
-    "dropCount": 40,
-    "runs": 231
+    "dropCount": 60,
+    "runs": 348
   }, {
     "objectId": 6543,
-    "dropCount": 115,
-    "runs": 231
+    "dropCount": 162,
+    "runs": 348
   }],
   "stages": [{
     "wave": 1,
@@ -51980,7 +51933,6 @@
   "individuality": [{
     "id": 2038
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 20300,
@@ -51996,39 +51948,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 30,
-    "runs": 92
+    "dropCount": 35,
+    "runs": 101
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 7,
-    "runs": 92
+    "runs": 101
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 114,
-    "runs": 92
+    "dropCount": 129,
+    "runs": 101
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 17,
-    "runs": 92
+    "dropCount": 22,
+    "runs": 101
   }, {
     "objectId": 6105,
-    "dropCount": 62,
-    "runs": 92
+    "dropCount": 68,
+    "runs": 101
   }, {
     "objectId": 6107,
     "dropCount": 9,
-    "runs": 92
+    "runs": 101
   }, {
     "objectId": 6507,
-    "dropCount": 18,
-    "runs": 92
+    "dropCount": 20,
+    "runs": 101
   }, {
     "objectId": 6509,
-    "dropCount": 21,
-    "runs": 92
+    "dropCount": 25,
+    "runs": 101
   }],
   "stages": [{
     "wave": 1,
@@ -52447,6 +52399,8 @@
       }, {
         "id": 1113
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 106
@@ -52580,7 +52534,6 @@
   }, {
     "id": 2392
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 60000,
@@ -52598,25 +52551,25 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702400,
-    "dropCount": 294,
-    "runs": 1396
+    "dropCount": 305,
+    "runs": 1482
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 1110,
-    "runs": 1396
+    "dropCount": 1180,
+    "runs": 1482
   }, {
     "objectId": 6103,
-    "dropCount": 484,
-    "runs": 1396
+    "dropCount": 510,
+    "runs": 1482
   }, {
     "objectId": 6539,
-    "dropCount": 303,
-    "runs": 1396
+    "dropCount": 321,
+    "runs": 1482
   }, {
     "objectId": 6546,
-    "dropCount": 295,
-    "runs": 1396
+    "dropCount": 317,
+    "runs": 1482
   }],
   "stages": [{
     "wave": 1,
@@ -52921,7 +52874,6 @@
   }, {
     "id": 2392
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 60010,
@@ -52940,38 +52892,38 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 105,
-    "runs": 1038
+    "runs": 1040
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 369,
-    "runs": 1038
+    "dropCount": 370,
+    "runs": 1040
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 1448,
-    "runs": 1038
+    "dropCount": 1453,
+    "runs": 1040
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 419,
-    "runs": 1038
+    "dropCount": 420,
+    "runs": 1040
   }, {
     "objectId": 6103,
-    "dropCount": 167,
-    "runs": 1038
+    "dropCount": 169,
+    "runs": 1040
   }, {
     "objectId": 6106,
     "dropCount": 427,
-    "runs": 1038
+    "runs": 1040
   }, {
     "objectId": 6545,
     "dropCount": 308,
-    "runs": 1038
+    "runs": 1040
   }, {
     "objectId": 6546,
     "dropCount": 232,
-    "runs": 1038
+    "runs": 1040
   }],
   "stages": [{
     "wave": 1,
@@ -53575,7 +53527,6 @@
   }, {
     "id": 2884
   }],
-  "qp": 10140,
   "exp": 20056,
   "bond": 755,
   "battleBgId": 60500,
@@ -53594,47 +53545,47 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 69,
-    "runs": 667
+    "runs": 669
   }, {
     "type": "servant",
     "objectId": 9707200,
     "dropCount": 158,
-    "runs": 667
+    "runs": 669
   }, {
     "type": "servant",
     "objectId": 9707400,
     "dropCount": 44,
-    "runs": 667
+    "runs": 669
   }, {
     "objectId": 1,
     "num": 15000,
-    "dropCount": 684,
-    "runs": 667
+    "dropCount": 686,
+    "runs": 669
   }, {
     "objectId": 1,
     "num": 50000,
-    "dropCount": 536,
-    "runs": 667
+    "dropCount": 537,
+    "runs": 669
   }, {
     "objectId": 6007,
-    "dropCount": 190,
-    "runs": 667
+    "dropCount": 191,
+    "runs": 669
   }, {
     "objectId": 6103,
     "dropCount": 113,
-    "runs": 667
+    "runs": 669
   }, {
     "objectId": 6207,
     "dropCount": 52,
-    "runs": 667
+    "runs": 669
   }, {
     "objectId": 6515,
-    "dropCount": 202,
-    "runs": 667
+    "dropCount": 203,
+    "runs": 669
   }, {
     "objectId": 6546,
     "dropCount": 133,
-    "runs": 667
+    "runs": 669
   }],
   "stages": [{
     "wave": 1,
@@ -54185,7 +54136,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["lancer", "assassin"],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 60200,
@@ -54199,38 +54149,38 @@
     "type": "servant",
     "objectId": 9702400,
     "dropCount": 21,
-    "runs": 400
+    "runs": 404
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 147,
-    "runs": 400
+    "dropCount": 149,
+    "runs": 404
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 506,
-    "runs": 400
+    "dropCount": 512,
+    "runs": 404
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 71,
-    "runs": 400
+    "runs": 404
   }, {
     "objectId": 6103,
     "dropCount": 37,
-    "runs": 400
+    "runs": 404
   }, {
     "objectId": 6106,
-    "dropCount": 163,
-    "runs": 400
+    "dropCount": 165,
+    "runs": 404
   }, {
     "objectId": 6539,
-    "dropCount": 85,
-    "runs": 400
+    "dropCount": 88,
+    "runs": 404
   }, {
     "objectId": 6545,
-    "dropCount": 129,
-    "runs": 400
+    "dropCount": 130,
+    "runs": 404
   }],
   "stages": [{
     "wave": 1,
@@ -54767,7 +54717,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["saber", "archer", "assassin"],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 60800,
@@ -54781,42 +54730,42 @@
     "type": "servant",
     "objectId": 9701400,
     "dropCount": 55,
-    "runs": 218
+    "runs": 222
   }, {
     "type": "servant",
     "objectId": 9703500,
     "dropCount": 15,
-    "runs": 218
+    "runs": 222
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 67,
-    "runs": 218
+    "dropCount": 68,
+    "runs": 222
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 287,
-    "runs": 218
+    "dropCount": 292,
+    "runs": 222
   }, {
     "objectId": 6106,
     "dropCount": 71,
-    "runs": 218
+    "runs": 222
   }, {
     "objectId": 6202,
     "dropCount": 8,
-    "runs": 218
+    "runs": 222
   }, {
     "objectId": 6505,
-    "dropCount": 65,
-    "runs": 218
+    "dropCount": 67,
+    "runs": 222
   }, {
     "objectId": 6531,
-    "dropCount": 22,
-    "runs": 218
+    "dropCount": 23,
+    "runs": 222
   }, {
     "objectId": 6545,
     "dropCount": 55,
-    "runs": 218
+    "runs": 222
   }],
   "stages": [{
     "wave": 1,
@@ -55345,6 +55294,8 @@
       }, {
         "id": 201
       }, {
+        "id": 1110
+      }, {
         "id": 2005
       }, {
         "id": 2019
@@ -55420,7 +55371,6 @@
   "individuality": [{
     "id": 2392
   }],
-  "qp": 10400,
   "exp": 21256,
   "bond": 775,
   "battleBgId": 60100,
@@ -55436,39 +55386,39 @@
   "drops": [{
     "type": "servant",
     "objectId": 9702400,
-    "dropCount": 370,
-    "runs": 3434
+    "dropCount": 371,
+    "runs": 3436
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 1180,
-    "runs": 3434
+    "dropCount": 1182,
+    "runs": 3436
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 4733,
-    "runs": 3434
+    "dropCount": 4735,
+    "runs": 3436
   }, {
     "objectId": 1,
     "num": 50000,
     "dropCount": 1328,
-    "runs": 3434
+    "runs": 3436
   }, {
     "objectId": 6103,
     "dropCount": 580,
-    "runs": 3434
+    "runs": 3436
   }, {
     "objectId": 6105,
-    "dropCount": 2162,
-    "runs": 3434
+    "dropCount": 2163,
+    "runs": 3436
   }, {
     "objectId": 6509,
     "dropCount": 1010,
-    "runs": 3434
+    "runs": 3436
   }, {
     "objectId": 6546,
     "dropCount": 759,
-    "runs": 3434
+    "runs": 3436
   }],
   "stages": [{
     "wave": 1,
@@ -56093,7 +56043,6 @@
   }, {
     "id": 2039
   }],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 58500,
@@ -56111,34 +56060,34 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704500,
-    "dropCount": 17,
-    "runs": 365
+    "dropCount": 20,
+    "runs": 464
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 140,
-    "runs": 365
+    "dropCount": 176,
+    "runs": 464
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 511,
-    "runs": 365
+    "dropCount": 652,
+    "runs": 464
   }, {
     "objectId": 6106,
-    "dropCount": 147,
-    "runs": 365
+    "dropCount": 183,
+    "runs": 464
   }, {
     "objectId": 6204,
-    "dropCount": 22,
-    "runs": 365
+    "dropCount": 26,
+    "runs": 464
   }, {
     "objectId": 6544,
-    "dropCount": 43,
-    "runs": 365
+    "dropCount": 57,
+    "runs": 464
   }, {
     "objectId": 6545,
-    "dropCount": 106,
-    "runs": 365
+    "dropCount": 135,
+    "runs": 464
   }],
   "stages": [{
     "wave": 1,
@@ -56672,7 +56621,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["rider", "caster"],
-  "qp": 10660,
   "exp": 22488,
   "bond": 795,
   "battleBgId": 60900,
@@ -56685,34 +56633,34 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704500,
-    "dropCount": 34,
-    "runs": 671
+    "dropCount": 35,
+    "runs": 685
   }, {
     "type": "servant",
     "objectId": 9705400,
-    "dropCount": 238,
-    "runs": 671
+    "dropCount": 240,
+    "runs": 685
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 923,
-    "runs": 671
+    "dropCount": 945,
+    "runs": 685
   }, {
     "objectId": 6105,
-    "dropCount": 411,
-    "runs": 671
+    "dropCount": 422,
+    "runs": 685
   }, {
     "objectId": 6204,
-    "dropCount": 28,
-    "runs": 671
+    "dropCount": 30,
+    "runs": 685
   }, {
     "objectId": 6509,
-    "dropCount": 202,
-    "runs": 671
+    "dropCount": 205,
+    "runs": 685
   }, {
     "objectId": 6544,
-    "dropCount": 83,
-    "runs": 671
+    "dropCount": 84,
+    "runs": 685
   }],
   "stages": [{
     "wave": 1,
@@ -57267,7 +57215,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["rider", "caster", "assassin"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 61000,
@@ -57280,48 +57227,48 @@
   "drops": [{
     "type": "servant",
     "objectId": 9704400,
-    "dropCount": 540,
-    "runs": 2662
+    "dropCount": 541,
+    "runs": 2671
   }, {
     "type": "servant",
     "objectId": 9705400,
     "dropCount": 328,
-    "runs": 2662
+    "runs": 2671
   }, {
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 758,
-    "runs": 2662
+    "dropCount": 760,
+    "runs": 2671
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 3241,
-    "runs": 2662
+    "dropCount": 3251,
+    "runs": 2671
   }, {
     "objectId": 1,
     "num": 30000,
-    "dropCount": 1046,
-    "runs": 2662
+    "dropCount": 1048,
+    "runs": 2671
   }, {
     "objectId": 6105,
-    "dropCount": 466,
-    "runs": 2662
+    "dropCount": 468,
+    "runs": 2671
   }, {
     "objectId": 6106,
-    "dropCount": 935,
-    "runs": 2662
+    "dropCount": 938,
+    "runs": 2671
   }, {
     "objectId": 6505,
-    "dropCount": 810,
-    "runs": 2662
+    "dropCount": 814,
+    "runs": 2671
   }, {
     "objectId": 6509,
-    "dropCount": 576,
-    "runs": 2662
+    "dropCount": 580,
+    "runs": 2671
   }, {
     "objectId": 6545,
-    "dropCount": 631,
-    "runs": 2662
+    "dropCount": 632,
+    "runs": 2671
   }],
   "stages": [{
     "wave": 1,
@@ -57972,7 +57919,6 @@
   "closedAt": 1893423600,
   "phase": 3,
   "className": ["assassin"],
-  "qp": 10920,
   "exp": 23752,
   "bond": 815,
   "battleBgId": 60700,
@@ -57985,21 +57931,21 @@
   "drops": [{
     "type": "servant",
     "objectId": 9706400,
-    "dropCount": 489,
-    "runs": 1111
+    "dropCount": 497,
+    "runs": 1135
   }, {
     "objectId": 1,
     "num": 20000,
-    "dropCount": 2044,
-    "runs": 1111
+    "dropCount": 2084,
+    "runs": 1135
   }, {
     "objectId": 6106,
-    "dropCount": 563,
-    "runs": 1111
+    "dropCount": 583,
+    "runs": 1135
   }, {
     "objectId": 6545,
-    "dropCount": 518,
-    "runs": 1111
+    "dropCount": 529,
+    "runs": 1135
   }],
   "stages": [{
     "wave": 1,

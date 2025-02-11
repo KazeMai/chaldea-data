@@ -528,7 +528,7 @@
     "JP": null,
     "CN": "卡拉维拉",
     "TW": "卡拉維拉",
-    "NA": "Calavera",
+    "NA": "Calavera ",
     "KR": "칼라베라"
   },
   "カリ": {
@@ -622,6 +622,13 @@
     "NA": "Killing Doll",
     "KR": "킬링 돌"
   },
+  "キングサンタ・ネコアルク": {
+    "JP": null,
+    "CN": null,
+    "TW": "聖誕王貓Arc",
+    "NA": null,
+    "KR": null
+  },
   "キングプレシオサウルスくん": {
     "JP": null,
     "CN": "王蛇颈龙君",
@@ -656,6 +663,13 @@
     "TW": "十億蛇頸龍君Ω",
     "NA": "Giga Plesiosaurus Ω",
     "KR": "기가 플레시오사우루스 군Ω"
+  },
+  "ギガントサーペント": {
+    "JP": null,
+    "CN": null,
+    "TW": "巨蟒",
+    "NA": null,
+    "KR": null
   },
   "クコチヒコ": {
     "JP": null,
@@ -964,6 +978,13 @@
     "TW": "從者慶典戰士",
     "NA": "ServantFes Warrior",
     "KR": "서버페스 전사"
+  },
+  "サファイアゴーレム": {
+    "JP": null,
+    "CN": null,
+    "TW": "藍寶石魔像",
+    "NA": null,
+    "KR": null
   },
   "サメトリア": {
     "JP": null,
@@ -1406,6 +1427,13 @@
     "NA": "Drive Nobbu",
     "KR": null
   },
+  "ドラゴニュート": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍人",
+    "NA": null,
+    "KR": null
+  },
   "ドラゴン": {
     "JP": null,
     "CN": "龙",
@@ -1453,6 +1481,13 @@
     "CN": "鸡托莉雅·Lily",
     "TW": "雞托莉亞・Lily",
     "NA": "Poultria Lily",
+    "KR": null
+  },
+  "ネコ１０８": {
+    "JP": null,
+    "CN": null,
+    "TW": "貓１０８",
+    "NA": null,
     "KR": null
   },
   "ネモ／ノア": {
@@ -1544,7 +1579,7 @@
     "CN": "巴比伦士兵",
     "TW": "巴比倫士兵",
     "NA": "Babylonian Soldier",
-    "KR": null
+    "KR": "바빌론 병사"
   },
   "パンプキンオーガ・Ｊ": {
     "JP": null,
@@ -2272,7 +2307,7 @@
     "CN": "灾厄之泥",
     "TW": "災厄之泥",
     "NA": "Mud of Calamity",
-    "KR": null
+    "KR": "재앙의 진흙"
   },
   "厄災溜まり": {
     "JP": null,
@@ -2411,7 +2446,7 @@
     "JP": null,
     "CN": "大型迪诺斯",
     "TW": "大型迪諾斯",
-    "NA": "Large Deinos",
+    "NA": "Big Deinos",
     "KR": "대형 디노스"
   },
   "大型モース": {
@@ -2642,7 +2677,7 @@
     "JP": null,
     "CN": "恶魔之兔",
     "TW": "惡魔之兔",
-    "NA": "The Devil's Tochtli",
+    "NA": "Devilish Tochtli",
     "KR": "악마 토치틀리"
   },
   "愁嘆呪歌集": {
@@ -2719,7 +2754,7 @@
     "JP": null,
     "CN": "朱瑞鸟·红阎魔",
     "TW": "朱瑞鳥．紅閻魔",
-    "NA": "Crimson Vermillion Beni-Enma",
+    "NA": "Vermillion Bird, Beni-Enma",
     "KR": "주서조・베니엔마"
   },
   "柴田勝家": {
@@ -2866,14 +2901,14 @@
     "JP": null,
     "CN": "失智迪诺斯",
     "TW": "失智迪諾斯",
-    "NA": "Unintelligent Deinos",
+    "NA": "Mindless Deinos",
     "KR": "무지성 디노스"
   },
   "無知性小型ディノス": {
     "JP": null,
     "CN": "失智小型迪诺斯",
     "TW": "失智小型迪諾斯",
-    "NA": "Ignorant Small Deinos",
+    "NA": "Unintelligent Small Deinos",
     "KR": "무지성 소형 디노스"
   },
   "牙の氏族": {
@@ -3065,6 +3100,13 @@
     "NA": "Enforcement Knight@Spear@Halloween",
     "KR": "숙정기사＠창＠할로윈"
   },
+  "紅要石": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "経験値ボーナス": {
     "JP": null,
     "CN": "经验值奖励",
@@ -3226,6 +3268,13 @@
     "NA": "Snake",
     "KR": "뱀"
   },
+  "蛇王ザッハーク": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "蠢魔": {
     "JP": null,
     "CN": "蠢魔",
@@ -3286,7 +3335,7 @@
     "JP": null,
     "CN": "豹面的凶贼",
     "TW": "豹面的凶賊",
-    "NA": "Leopard Mask Villain",
+    "NA": "Leopard-Faced Bandit",
     "KR": "표범 가면의 흉적"
   },
   "贋作空想樹盈月": {
@@ -3496,7 +3545,7 @@
     "JP": null,
     "CN": "斗士瓦克昌",
     "TW": "鬥士瓦克查",
-    "NA": "Champion Wak Chan",
+    "NA": "Warrior Wak Chan",
     "KR": "투사 왁찬"
   },
   "雀蜂": {
@@ -3552,7 +3601,7 @@
     "JP": null,
     "CN": "骷髅假面",
     "TW": "骷髏假面",
-    "NA": "Mask of Calavera",
+    "NA": "Skull Mask",
     "KR": "해골 가면"
   },
   "高長恭": {
@@ -3623,21 +3672,21 @@
     "CN": "魔兽佛钮司",
     "TW": "魔獸佛鈕司",
     "NA": "Demonic Beast Forneus",
-    "KR": null
+    "KR": "마수 포르네우스"
   },
   "魔獣フラウロス": {
     "JP": null,
     "CN": "魔兽佛劳洛斯",
     "TW": "魔獸佛勞洛斯",
     "NA": "Demonic Beast Flauros",
-    "KR": null
+    "KR": "마수 플라우로스"
   },
   "魔獣赫・真体": {
     "JP": null,
     "CN": "魔兽赫·真体",
     "TW": "魔獸赫．真體",
     "NA": "Demon Beast Incarnadine - True Body",
-    "KR": null
+    "KR": "마수혁・진체"
   },
   "魔神": {
     "JP": null,

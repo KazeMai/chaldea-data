@@ -605,7 +605,7 @@
     "JP": null,
     "CN": "见证一切之人 EX",
     "TW": "見證一切之人 EX",
-    "NA": "The One Who Saw It All EX",
+    "NA": "He Who Saw the Deep EX",
     "KR": "모든 것을 본 자 EX"
   },
   "その手に光を B": {
@@ -717,28 +717,28 @@
     "JP": null,
     "CN": "甜甜蜜蜜爱心点数获得量提升",
     "TW": "甜甜蜜蜜愛心點數獲得量提升",
-    "NA": "Increase amount of Lovey-Dovey Heart Points per drop",
+    "NA": "Increase Lovey-Dovey Heart Points amount per drop",
     "KR": "러브러브 하트 포인트 획득량 UP"
   },
   "らぶらぶキーホルダーのドロップ獲得数アップ": {
     "JP": null,
     "CN": "甜甜蜜蜜钥匙扣的掉落获得数提升",
     "TW": "甜甜蜜蜜鑰匙圈的掉落獲得數提升",
-    "NA": "Increase amount of Lovey-Dovey Keyholder per drop",
+    "NA": "Increase Lovey-Dovey Keychain amount per drop",
     "KR": "러브러브 키홀더의 획득 개수 UP"
   },
   "らぶらぶコインのドロップ獲得数アップ": {
     "JP": null,
     "CN": "甜甜蜜蜜硬币的掉落获得数提升",
     "TW": "甜甜蜜蜜硬幣的掉落獲得數提升",
-    "NA": "Increase amount of Lovey-Dovey Coin per drop",
+    "NA": "Increase Lovey-Dovey Coin amount per drop",
     "KR": "러브러브 코인의 획득 개수 UP"
   },
   "らぶらぶペナントのドロップ獲得数アップ": {
     "JP": null,
     "CN": "甜甜蜜蜜三角旗的掉落获得数提升",
     "TW": "甜甜蜜蜜三角旗的掉落獲得數提升",
-    "NA": "Increase amount of Lovey-Dovey Pennant per drop",
+    "NA": "Increase Lovey-Dovey Pennant amount per drop",
     "KR": "러브러브 페넌트의 획득 개수 UP"
   },
   "アイドルの輝き A": {
@@ -995,8 +995,8 @@
   },
   "アース・ハートリズム A": {
     "JP": null,
-    "CN": null,
-    "TW": "地球心動節奏 A",
+    "CN": "地球心律 A",
+    "TW": "地球心律 A",
     "NA": null,
     "KR": null
   },
@@ -1142,22 +1142,22 @@
   },
   "ウィンター・ナイト・ベル A": {
     "JP": null,
-    "CN": null,
-    "TW": "冬夜之鐘 A",
+    "CN": "冬夜之铃 A",
+    "TW": "冬夜之鈴 A",
     "NA": null,
     "KR": null
   },
   "ウィンター・ナイト・ベル B": {
     "JP": null,
-    "CN": null,
-    "TW": "冬夜之鐘 B",
+    "CN": "冬夜之铃 B",
+    "TW": "冬夜之鈴 B",
     "NA": null,
     "KR": null
   },
   "ウィンター・ナイト・ベル EX": {
     "JP": null,
-    "CN": null,
-    "TW": "冬夜之鐘 EX",
+    "CN": "冬夜之铃 EX",
+    "TW": "冬夜之鈴 EX",
     "NA": null,
     "KR": null
   },
@@ -1457,21 +1457,21 @@
   },
   "カメオ・ロール A": {
     "JP": null,
-    "CN": "特别出演 A",
+    "CN": "客串角色 A",
     "TW": "特別出演 A",
     "NA": "Cameo Roll A",
     "KR": null
   },
   "カメオ・ロール B": {
     "JP": null,
-    "CN": "特别出演 B",
+    "CN": "客串角色 B",
     "TW": "特別出演 B",
     "NA": "Cameo Roll B",
     "KR": null
   },
   "カメオ・ロール EX": {
     "JP": null,
-    "CN": "特别出演 EX",
+    "CN": "客串角色 EX",
     "TW": "特別出演 EX",
     "NA": "Cameo Roll EX",
     "KR": null
@@ -1812,6 +1812,13 @@
     "NA": "Increase amount of Cool Binder per drop",
     "KR": "쿨 바인더의 획득 개수 UP"
   },
+  "クール・スケーティング": {
+    "JP": null,
+    "CN": "冰上滑行",
+    "TW": "冰上滑行",
+    "NA": null,
+    "KR": null
+  },
   "グリーン茶葉、イエロー茶葉、レッド茶葉のドロップ獲得数アップ": {
     "JP": null,
     "CN": "绿茶叶、黄茶叶、红茶叶的掉落获得数提升",
@@ -2018,7 +2025,7 @@
   "サクライーター A": {
     "JP": null,
     "CN": "噬樱者 A",
-    "TW": "噬樱者 A",
+    "TW": "噬櫻者 A",
     "NA": null,
     "KR": null
   },
@@ -2624,6 +2631,13 @@
     "NA": "Snow White Princess B",
     "KR": "스노우 화이트 프린세스 B"
   },
+  "スノーボール・ファイト": {
+    "JP": null,
+    "CN": "打雪仗",
+    "TW": "打雪仗",
+    "NA": null,
+    "KR": null
+  },
   "スパイシーショコラトルのドロップ獲得数アップ": {
     "JP": null,
     "CN": "香辛巧克力的掉落获得数提升",
@@ -2686,6 +2700,13 @@
     "TW": "速度干擾",
     "NA": "Speed Jammer",
     "KR": "스피드 재머"
+  },
+  "スピードトレーナー EX": {
+    "JP": null,
+    "CN": null,
+    "TW": "速度訓練師 EX",
+    "NA": null,
+    "KR": null
   },
   "スペムンぬいのドロップ獲得数アップ": {
     "JP": null,
@@ -2955,7 +2976,7 @@
   },
   "チョコラフター A": {
     "JP": null,
-    "CN": "巧克力漂流家 A",
+    "CN": "巧克力漂流者 A",
     "TW": "巧克力漂流家 A",
     "NA": "Choco Rafter A",
     "KR": null
@@ -2981,6 +3002,13 @@
     "NA": "Theos Klironomia",
     "KR": "테오스・클리로노미아"
   },
+  "テクニックトレーナー EX": {
+    "JP": null,
+    "CN": null,
+    "TW": "技巧訓練師 EX",
+    "NA": null,
+    "KR": null
+  },
   "テスラコイル A+": {
     "JP": null,
     "CN": "特斯拉线圈 A+",
@@ -3005,6 +3033,7 @@
   "デザインノートのドロップ獲得数アップ": {
     "JP": null,
     "CN": null,
+    "TW": "設計筆記的掉落獲得數提升",
     "TW": "設計筆記的掉落獲得數提升",
     "NA": null,
     "KR": null
@@ -3149,12 +3178,33 @@
     "NA": "Increase amount of Dracul Coin per drop",
     "KR": "드라쿨 코인의 획득 개수 UP"
   },
+  "ドラゴンスフィアのドロップ獲得数アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍之圓球的掉落獲得數提升",
+    "NA": null,
+    "KR": null
+  },
+  "ドラゴンディスクのドロップ獲得数アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍之圓盤的掉落獲得數提升",
+    "NA": null,
+    "KR": null
+  },
   "ドラゴンハート B": {
     "JP": null,
     "CN": "龙之心 B",
     "TW": "龍之心 B",
     "NA": "Dragon Heart B",
     "KR": "드래곤 하트 B"
+  },
+  "ドラゴンフードのドロップ獲得数アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍之食物的掉落獲得數提升",
+    "NA": null,
+    "KR": null
   },
   "ドリルグミのドロップ獲得数アップ": {
     "JP": null,
@@ -3224,14 +3274,14 @@
     "CN": "Nega Self C",
     "TW": "Nega Self C",
     "NA": "Nega Self C",
-    "KR": "네거・셀프 C"
+    "KR": "네거 셀프 C"
   },
   "ネガ・メサイヤ EX": {
     "JP": null,
     "CN": "Nega Messiah EX",
     "TW": "Nega Messiah EX",
     "NA": "Nega-Messiah EX",
-    "KR": null
+    "KR": "네거 메사이어 EX"
   },
   "ネバーギブアップ": {
     "JP": null,
@@ -3270,21 +3320,21 @@
   },
   "ノエル・エトワール A": {
     "JP": null,
-    "CN": null,
+    "CN": "圣诞星 A",
     "TW": "聖誕恆星 A",
     "NA": null,
     "KR": null
   },
   "ノエル・エトワール B": {
     "JP": null,
-    "CN": null,
+    "CN": "圣诞星 B",
     "TW": "聖誕恆星 B",
     "NA": null,
     "KR": null
   },
   "ノエル・エトワール EX": {
     "JP": null,
-    "CN": null,
+    "CN": "圣诞星 EX",
     "TW": "聖誕恆星 EX",
     "NA": null,
     "KR": null
@@ -3371,7 +3421,7 @@
     "CN": "万圣节之星 EX",
     "TW": "萬聖節之星 EX",
     "NA": "Halloween Star EX",
-    "KR": null
+    "KR": "할로윈 스타 EX"
   },
   "ハンドオーバー": {
     "JP": null,
@@ -3484,6 +3534,20 @@
     "TW": "悖論汽缸 C",
     "NA": "Paradox Cylinder C",
     "KR": "패러독스 실린더 C"
+  },
+  "パワドラポイント、テクドラポイント、スピドラポイント獲得量アップ": {
+    "JP": null,
+    "CN": null,
+    "TW": "力量龍點數、科技龍點數、速度龍點數獲得量提升",
+    "NA": null,
+    "KR": null
+  },
+  "パワートレーナー EX": {
+    "JP": null,
+    "CN": null,
+    "TW": "力量訓練師 EX",
+    "NA": null,
+    "KR": null
   },
   "パ・ド・ドゥ A": {
     "JP": null,
@@ -3802,8 +3866,8 @@
   },
   "ブルー・グラスムーン EX": {
     "JP": null,
-    "CN": null,
-    "TW": "藍色玻璃之月 EX",
+    "CN": "Blue Glass Moon EX",
+    "TW": "Blue Glass Moon EX",
     "NA": null,
     "KR": null
   },
@@ -3839,7 +3903,7 @@
     "JP": null,
     "CN": "圣人的祈祷 EX",
     "TW": "聖人的祈禱 EX",
-    "NA": "Blessing of Saint EX",
+    "NA": "Blessing of the Saint EX",
     "KR": "블레싱 오브 세인트 EX"
   },
   "プランニング B": {
@@ -3851,14 +3915,14 @@
   },
   "プリンシパル・キャスト A": {
     "JP": null,
-    "CN": "主演 A",
+    "CN": "主要演员 A",
     "TW": "主演 A",
     "NA": "Principal Cast A",
     "KR": null
   },
   "プリンシパル・キャスト EX": {
     "JP": null,
-    "CN": "主演 EX",
+    "CN": "主要演员 EX",
     "TW": "主演 EX",
     "NA": "Principal Cast EX",
     "KR": null
@@ -3924,6 +3988,13 @@
     "CN": "星尘糖果的掉落获得数提升",
     "TW": "星塵糖果的掉落獲得數提升",
     "NA": "Increase amount of Stardust Candy per drop",
+    "KR": null
+  },
+  "ホットココア・ブレイク": {
+    "JP": null,
+    "CN": "休憩的热可可",
+    "TW": "休憩的熱可可",
+    "NA": null,
     "KR": null
   },
   "ホムンクルス C+": {
@@ -4572,8 +4643,8 @@
   },
   "レッド・スターヴァンプ EX": {
     "JP": null,
-    "CN": null,
-    "TW": "紅色星之吸血鬼 EX",
+    "CN": "Red Star Vamp EX",
+    "TW": "Red Star Vamp EX",
     "NA": null,
     "KR": null
   },
@@ -4671,9 +4742,9 @@
   "ワイルドハント A": {
     "JP": null,
     "CN": "狂猎 A",
-    "TW": "狂獵 A",
+    "TW": "狂野的狩獵 A",
     "NA": "Wild Hunt A",
-    "KR": null
+    "KR": "와일드 헌트 A"
   },
   "ワイルドポテトVのドロップ獲得数アップ": {
     "JP": null,
@@ -4846,9 +4917,9 @@
   "七つの獣冠 C": {
     "JP": null,
     "CN": "七顶兽冠 C",
-    "TW": "七之獸冠 C",
+    "TW": "七頂獸冠 C",
     "NA": "Seven Beast Crowns C",
-    "KR": null
+    "KR": "일곱 짐승의 관 C"
   },
   "万死蒐集 A": {
     "JP": null,
@@ -5196,9 +5267,9 @@
   "亡国のメダルのドロップ獲得数アップ": {
     "JP": null,
     "CN": "亡国硬币的掉落获得数提升",
-    "TW": "亡國的勳章的掉落獲得數提升",
+    "TW": "亡國硬幣的掉落獲得數提升",
     "NA": "Increase amount of Medal of a Ruined Country per drop",
-    "KR": null
+    "KR": "망국의 메달의 획득 개수 UP"
   },
   "人に愛を A": {
     "JP": null,
@@ -5260,7 +5331,7 @@
     "JP": null,
     "CN": "人理的守护者 C",
     "TW": "人理的守護者 C",
-    "NA": "Defender of Humanity C",
+    "NA": "Station Guard for Humanity C",
     "KR": "인리의 파수꾼 C"
   },
   "人理査定（攻） B": {
@@ -5491,7 +5562,7 @@
     "JP": null,
     "CN": "信仰的加护（独） A+",
     "TW": "信仰的佑護（獨） A+",
-    "NA": "Protection of the Faith (Unique) A+",
+    "NA": "Protection of Faith (Unique) A+",
     "KR": "신앙의 가호(독) A+"
   },
   "信仰の祈り C": {
@@ -5513,7 +5584,7 @@
     "CN": "信长战术 B",
     "TW": "信長戰術 B",
     "NA": "Nobunaga Tactics B",
-    "KR": null
+    "KR": "노부나가 택틱스 B"
   },
   "借転輪自在趺坐 A": {
     "JP": null,
@@ -5631,7 +5702,7 @@
     "JP": null,
     "CN": "全能的智慧 A",
     "TW": "全能的智慧 A",
-    "NA": "Almighty Intelligence A",
+    "NA": "Omnipotent Wisdom A",
     "KR": "전능의 지혜 A"
   },
   "八咫烏の目 B": {
@@ -5722,7 +5793,7 @@
     "JP": null,
     "CN": "冥府神的裁定 A",
     "TW": "冥府神的裁定 A",
-    "NA": "Arbitration from the Underworld Goddess A",
+    "NA": "God of the Underworld's Judgment A",
     "KR": "명부신의 재정 A"
   },
   "冥界の砂のドロップ獲得数アップ": {
@@ -6011,6 +6082,13 @@
     "TW": "對勝利的確信",
     "NA": "Confident in Victory",
     "KR": "승리에 대한 확신"
+  },
+  "勢い破竹の如し B": {
+    "JP": null,
+    "CN": "势如破竹 B",
+    "TW": "勢如破竹 B",
+    "NA": null,
+    "KR": null
   },
   "勢い破竹の如し C": {
     "JP": null,
@@ -6977,6 +7055,13 @@
     "TW": "變轉之魔 B",
     "NA": "Demonic Mutation B",
     "KR": "변전의 마 B"
+  },
+  "変転の魔 B++": {
+    "JP": null,
+    "CN": "变转之魔 B++",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "夏の受肉精霊 A+": {
     "JP": null,
@@ -7982,7 +8067,7 @@
   "威力アップ【3000万DL記念】": {
     "JP": null,
     "CN": "威力提升【3000万DL纪念】",
-    "TW": "威力提升【3000萬DL纪念】",
+    "TW": "威力提升【3000萬DL紀念】",
     "NA": null,
     "KR": null
   },
@@ -8026,21 +8111,21 @@
     "CN": "存在证明 A",
     "TW": "存在證明 A",
     "NA": "Verified Existence A",
-    "KR": "존재 증명 A"
+    "KR": "존재증명 A"
   },
   "存在証明 B": {
     "JP": null,
     "CN": "存在证明 B",
     "TW": "存在證明 B",
     "NA": "Verified Existence B",
-    "KR": "존재 증명 B"
+    "KR": "존재증명 B"
   },
   "存在証明 EX": {
     "JP": null,
     "CN": "存在证明 EX",
     "TW": "存在證明 EX",
     "NA": "Verified Existence EX",
-    "KR": "존재 증명 EX"
+    "KR": "존재증명 EX"
   },
   "守備体勢": {
     "JP": null,
@@ -8732,7 +8817,7 @@
     "JP": null,
     "CN": "山之心脏 A",
     "TW": "山之心臟 A",
-    "NA": "Tepeyollotl A",
+    "NA": "Heart of the Mountain A",
     "KR": "산의 심장 A"
   },
   "山伏団子のドロップ獲得数アップ": {
@@ -8748,6 +8833,13 @@
     "TW": "山河的臂力 A+",
     "NA": "Strength of Mountains and Rivers A+",
     "KR": "산하의 여력 A+"
+  },
+  "山神の加護 B": {
+    "JP": null,
+    "CN": "山神的加护 B",
+    "TW": "山神的加護 B",
+    "NA": null,
+    "KR": null
   },
   "嵐の航海者 A": {
     "JP": null,
@@ -8893,7 +8985,7 @@
     "JP": null,
     "CN": "幻想圣人 A",
     "TW": "幻想聖人 A",
-    "NA": "Saint of Imaginations A",
+    "NA": "Illusionary Saint A",
     "KR": "환상의 성인 A"
   },
   "幻想強化": {
@@ -9013,7 +9105,7 @@
     "CN": "影乡的武练 B+",
     "TW": "影鄉的武練 B+",
     "NA": "Shadowland Arms Mastery B+",
-    "KR": null
+    "KR": "영향의 무련 B+"
   },
   "彼もまたイスカンダルなのだから（偽） A": {
     "JP": null,
@@ -9201,7 +9293,7 @@
     "JP": null,
     "CN": "心愿实现",
     "TW": "心願實現",
-    "NA": "Earnest Prayers Being Answered",
+    "NA": "May Your Wishes Come True",
     "KR": "심원성취"
   },
   "必殺トライデント": {
@@ -9222,7 +9314,7 @@
     "JP": null,
     "CN": "遭避讳的祭礼队列 C",
     "TW": "遭避諱的祭禮隊列 C",
-    "NA": "The Shunned Papal Procession C",
+    "NA": "Shunned Procession C",
     "KR": "기피되는 제례행렬 C"
   },
   "忍術 A": {
@@ -9495,7 +9587,7 @@
     "JP": null,
     "CN": "恶念祝祭 A",
     "TW": "惡念祝祭 A",
-    "NA": "Aŋra Mainiiu A",
+    "NA": "Malicious Feast A",
     "KR": "악심축제 A"
   },
   "悪漢打破 A": {
@@ -9712,7 +9804,7 @@
     "JP": null,
     "CN": "吾等，有翼之蛇 EX",
     "TW": "吾等，有翼之蛇 EX",
-    "NA": "We are the Winged Serpent EX",
+    "NA": "We Are the Winged Serpent EX",
     "KR": "우리, 날개 달린 뱀 EX"
   },
   "我武新 A": {
@@ -9754,7 +9846,7 @@
     "JP": null,
     "CN": "战士之司 A",
     "TW": "戰士之司 A",
-    "NA": "Titlacauan A",
+    "NA": "Chief of Warriors A",
     "KR": "전사의 관리자 A"
   },
   "戦士の名札のドロップ獲得数アップ": {
@@ -10153,7 +10245,7 @@
     "JP": null,
     "CN": "教皇争议 EX",
     "TW": "教皇爭議 EX",
-    "NA": "Disputation of the Pope EX",
+    "NA": "Papal Debate EX",
     "KR": "교황논의 EX"
   },
   "敦盛ビート B": {
@@ -10441,7 +10533,7 @@
     "CN": "晚钟，归途 EX",
     "TW": "晚鐘，歸途 EX",
     "NA": "Evening Bell, Return to Dust EX",
-    "KR": null
+    "KR": "만종, 귀로 EX"
   },
   "景清は死なず EX": {
     "JP": null,
@@ -10559,7 +10651,7 @@
     "JP": null,
     "CN": "月之湖 EX",
     "TW": "月之湖 EX",
-    "NA": "Metztliapan EX",
+    "NA": "Lake of the Moon EX",
     "KR": "달의 호수 EX"
   },
   "月の蛹 A": {
@@ -10585,23 +10677,30 @@
   },
   "月陰の縁 A": {
     "JP": null,
-    "CN": "月阴之缘 A",
+    "CN": "月影之缘 A",
     "TW": "月陰之緣 A",
     "NA": "Destiny Under the Moonshade A",
     "KR": null
   },
   "月陰の縁 B": {
     "JP": null,
-    "CN": "月阴之缘 B",
+    "CN": "月影之缘 B",
     "TW": "月陰之缘 B",
     "NA": "Destiny Under the Moonshade B",
     "KR": null
   },
   "月陰の縁 EX": {
     "JP": null,
-    "CN": "月阴之缘 EX",
+    "CN": "月影之缘 EX",
     "TW": "月陰之缘 EX",
     "NA": "Destiny Under the Moonshade EX",
+    "KR": null
+  },
+  "有毒の幻想 A": {
+    "JP": null,
+    "CN": "有毒幻想 A",
+    "TW": "有毒幻想 A",
+    "NA": null,
     "KR": null
   },
   "朔月の加護": {
@@ -10672,7 +10771,7 @@
     "CN": "朽叶之冠的掉落获得数提升",
     "TW": "朽葉之冠的掉落獲得數提升",
     "NA": "Increase amount of Crown of Decaying Leaves per drop",
-    "KR": null
+    "KR": "썩은 낙엽 관의 획득 개수 UP"
   },
   "材木のドロップ獲得数アップ": {
     "JP": null,
@@ -10697,7 +10796,7 @@
   },
   "東干し柿のドロップ獲得数アップ": {
     "JP": null,
-    "CN": "东之柿饼的掉落获得数提升",
+    "CN": "东柿饼的掉落获得数提升",
     "TW": "東之柿餅的掉落獲得數提升",
     "NA": "Increase amount of Azuma Dried Persimmons per drop",
     "KR": null
@@ -10979,7 +11078,7 @@
     "JP": null,
     "CN": "不死的巴卢 EX",
     "TW": "不死的巴盧 EX",
-    "NA": "Undying Bahloo EX",
+    "NA": "Bahloo the Undying EX",
     "KR": "죽지 않는 발루 EX"
   },
   "死なずのマグス A": {
@@ -11013,9 +11112,9 @@
   "死滅の薔薇のドロップ獲得数アップ": {
     "JP": null,
     "CN": "死灭蔷薇的掉落获得数提升",
-    "TW": "死滅的薔薇的掉落獲得數提升",
+    "TW": "死滅薔薇的掉落獲得數提升",
     "NA": "Increase amount of Rose of Annihilation per drop",
-    "KR": null
+    "KR": "사멸의 장미의 획득 개수 UP"
   },
   "死滅願望 A": {
     "JP": null,
@@ -11113,7 +11212,7 @@
     "CN": "毒药调配 A+",
     "TW": "毒藥調配 A+",
     "NA": "Poison Compounding A+",
-    "KR": null
+    "KR": "독약조합 A+"
   },
   "毘天ステッカーのドロップ獲得数アップ": {
     "JP": null,
@@ -11287,7 +11386,7 @@
     "JP": null,
     "CN": "水边的生活 A+",
     "TW": "水邊的生活 A+",
-    "NA": "Waterside Business A+",
+    "NA": "Waterside Livelihood A+",
     "KR": "물가의 영위 A+"
   },
   "水辺の聖女 B+": {
@@ -11306,7 +11405,7 @@
   },
   "氷の如し B": {
     "JP": null,
-    "CN": "凛如寒冰 B",
+    "CN": "如冰 B",
     "TW": "凜如寒冰 B",
     "NA": "Akin to Ice B",
     "KR": null
@@ -11331,6 +11430,13 @@
     "TW": "永世帝位 A",
     "NA": "Eternal Reign A",
     "KR": "영세제위 A"
+  },
+  "永久に遠き勝利の剣 D～A+": {
+    "JP": null,
+    "CN": "永久遥远的胜利之剑 D～A+",
+    "TW": "永久遙遠的勝利之劍 D～A+",
+    "NA": null,
+    "KR": null
   },
   "永生の奉献 EX": {
     "JP": null,
@@ -11413,7 +11519,7 @@
     "JP": null,
     "CN": "洗礼圣事 A",
     "TW": "洗禮秘蹟 A",
-    "NA": "Baptism Sacrament A",
+    "NA": "Baptismal Rite A",
     "KR": "세례비적 A"
   },
   "洗礼詠唱 B+": {
@@ -11740,7 +11846,7 @@
   },
   "烈士の軍学 B": {
     "JP": null,
-    "CN": "烈士的军事学 B",
+    "CN": "烈士的兵法 B",
     "TW": "烈士軍學 B",
     "NA": "Liberator's Strategy B",
     "KR": null
@@ -11805,7 +11911,7 @@
     "JP": null,
     "CN": "无病无灾",
     "TW": "無病無災",
-    "NA": "Perfect State of Health",
+    "NA": "Live in Good Health",
     "KR": "무병식재"
   },
   "無空 A": {
@@ -11855,7 +11961,7 @@
     "CN": "无辜的怪物 A+",
     "TW": "無辜的怪物 A+",
     "NA": "Innocent Monster A+",
-    "KR": "무고의 괴물 A"
+    "KR": "무고의 괴물 A+"
   },
   "無辜の怪物 B": {
     "JP": null,
@@ -12310,7 +12416,7 @@
     "CN": "猛犬杀手 A",
     "TW": "猛犬殺手 A",
     "NA": "Hound-Slayer A",
-    "KR": null
+    "KR": "맹견 살해자 A"
   },
   "猛犬殺し A+": {
     "JP": null,
@@ -12347,6 +12453,13 @@
     "NA": "Knight of the Lion B",
     "KR": "사자의 기사 B"
   },
+  "獅子心（神速） A": {
+    "JP": null,
+    "CN": "狮心（神速） A",
+    "TW": "獅心（神速） A",
+    "NA": null,
+    "KR": null
+  },
   "獣の呼吸": {
     "JP": null,
     "CN": "兽之呼吸",
@@ -12366,7 +12479,7 @@
     "CN": "兽之数字 C",
     "TW": "獸之數字 C",
     "NA": "Number of the Beast C",
-    "KR": null
+    "KR": "짐승의 숫자 C"
   },
   "獣の権能 C": {
     "JP": null,
@@ -12450,7 +12563,7 @@
     "CN": "王之回归 EX",
     "TW": "王之回歸 EX",
     "NA": "King's Return EX",
-    "KR": "왕의 귀환 A"
+    "KR": "왕의 귀환 EX"
   },
   "王の映し身 A": {
     "JP": null,
@@ -12718,6 +12831,13 @@
     "NA": "Azamaru's Mist B",
     "KR": "아자마루의 안개 B"
   },
+  "痣丸の霧 B++": {
+    "JP": null,
+    "CN": "痣丸之雾 B++",
+    "TW": "痣丸之霧 B++",
+    "NA": "Azamaru's Mist B++",
+    "KR": "아자마루의 안개 B++"
+  },
   "発光": {
     "JP": null,
     "CN": "发光",
@@ -12840,9 +12960,9 @@
   "皇帝特権（喝采） EX": {
     "JP": null,
     "CN": "皇帝特权（喝彩） EX",
-    "TW": "皇帝特權（喝彩） EX",
+    "TW": "皇帝特權（喝采） EX",
     "NA": "Imperial Privilege (Applause) EX",
-    "KR": null
+    "KR": "황제특권(갈채) EX"
   },
   "皇帝道術 EX": {
     "JP": null,
@@ -13072,7 +13192,7 @@
     "JP": null,
     "CN": "沙漠之夜的风 A",
     "TW": "沙漠之夜的風 A",
-    "NA": "Breeze During the Night in the Desert A",
+    "NA": "Desert Night Breeze A",
     "KR": "사막의 밤바람 A"
   },
   "砕折されし牙 B": {
@@ -13455,7 +13575,7 @@
   },
   "神魔鏖殺 A": {
     "JP": null,
-    "CN": "神魔鏖杀 A",
+    "CN": "神魔屠戮 A",
     "TW": "神魔鏖殺 A",
     "NA": "Slaughterer of Gods and Demons A",
     "KR": null
@@ -13614,6 +13734,13 @@
     "NA": "Dragonkin A",
     "KR": "용종 A"
   },
+  "竜種 B": {
+    "JP": null,
+    "CN": "龙种 B",
+    "TW": "龍種 B",
+    "NA": null,
+    "KR": null
+  },
   "竜種 EX": {
     "JP": null,
     "CN": "龙种 EX",
@@ -13639,7 +13766,7 @@
     "JP": null,
     "CN": "第三太阳 A",
     "TW": "第三太陽 A",
-    "NA": "Nahui Quiahuitl A",
+    "NA": "Third Sun A",
     "KR": "제3의 태양 A"
   },
   "第三の目 EX": {
@@ -13781,6 +13908,13 @@
     "TW": "紅顏美少年（雷） A",
     "NA": "Fair Youth (Thunder) A",
     "KR": "홍안의 미소년(번개) A"
+  },
+  "紋章の蛇 EX": {
+    "JP": null,
+    "CN": "纹章之蛇 EX",
+    "TW": "紋章之蛇 EX",
+    "NA": null,
+    "KR": null
   },
   "純潔のコーディネイト": {
     "JP": null,
@@ -14045,7 +14179,7 @@
     "JP": null,
     "CN": "翡翠的魅力A+",
     "TW": "翡翠的魅力 A+",
-    "NA": "Charisma of the Jade A+",
+    "NA": "Charisma of Jade A+",
     "KR": "비취의 카리스마 A+"
   },
   "老練 A+": {
@@ -14073,7 +14207,7 @@
     "JP": null,
     "CN": "耐毒（机密） B",
     "TW": "耐毒（機密） B",
-    "NA": "Poison Resistance (Confidential) B",
+    "NA": "Poison Resistance (Secret) B",
     "KR": "내독(기밀) B"
   },
   "聖乙女の凱旋 EX": {
@@ -14106,7 +14240,7 @@
   },
   "聖夜の化身 EX": {
     "JP": null,
-    "CN": null,
+    "CN": "圣夜的化身 EX",
     "TW": "聖夜的化身 EX",
     "NA": null,
     "KR": null
@@ -14207,7 +14341,7 @@
     "CN": "聪明睿智 EX",
     "TW": "聰明睿智 EX",
     "NA": "Sagacious Wisdom EX",
-    "KR": null
+    "KR": "총명예지 EX"
   },
   "腐敗": {
     "JP": null,
@@ -14465,7 +14599,7 @@
     "JP": null,
     "CN": "鲜花战争 A",
     "TW": "鮮花戰爭 A",
-    "NA": "Xochiyaóyotl A",
+    "NA": "Xōchiyāōyōtl A",
     "KR": "꽃의 전쟁 A"
   },
   "花の旅路 EX": {
@@ -14598,7 +14732,7 @@
     "JP": null,
     "CN": "葬礼文书 A",
     "TW": "葬禮文書 A",
-    "NA": "Funeral Records A",
+    "NA": "Elegiac Text A",
     "KR": "장례문서 A"
   },
   "蒸気機関出力上昇 B": {
@@ -14734,6 +14868,13 @@
     "NA": "Rainbow Mystic Eyes A",
     "KR": "무지개의 마안 A"
   },
+  "蛇怪変生 B": {
+    "JP": null,
+    "CN": "蛇怪变生 B",
+    "TW": "蛇怪變生 B",
+    "NA": null,
+    "KR": null
+  },
   "蛇神の神核 A": {
     "JP": null,
     "CN": "蛇神的神核 A",
@@ -14753,6 +14894,27 @@
     "CN": "蛇夫 B+",
     "TW": "蛇夫 B+",
     "NA": "Serpent Charmer B+",
+    "KR": null
+  },
+  "蛇頭竜尾 A": {
+    "JP": null,
+    "CN": "蛇头龙尾 A",
+    "TW": "蛇頭龍尾 A",
+    "NA": null,
+    "KR": null
+  },
+  "蛇頭竜尾 B": {
+    "JP": null,
+    "CN": "蛇头龙尾 B",
+    "TW": "蛇頭龍尾 B",
+    "NA": null,
+    "KR": null
+  },
+  "蛇頭竜尾 EX": {
+    "JP": null,
+    "CN": "蛇头龙尾 EX",
+    "TW": "蛇頭龍尾 EX",
+    "NA": null,
     "KR": null
   },
   "蛍火 B": {
@@ -14834,7 +14996,7 @@
   },
   "血塗れの皇子 EX": {
     "JP": null,
-    "CN": "血染的皇子 EX",
+    "CN": "染血的皇子 EX",
     "TW": "血染的皇子 EX",
     "NA": "Bloodstained Prince EX",
     "KR": null
@@ -15017,9 +15179,9 @@
   "調理（茸） B": {
     "JP": null,
     "CN": "烹饪（菇） B",
-    "TW": "烹飪（蘑菇） B",
+    "TW": "烹飪（菇） B",
     "NA": "Cooking (Mushroom) B",
-    "KR": null
+    "KR": "조리(버섯) B"
   },
   "諜報 A": {
     "JP": null,
@@ -15171,9 +15333,9 @@
   "赤枝の騎士 B": {
     "JP": null,
     "CN": "赤枝的骑士 B",
-    "TW": "赤枝騎士 B",
+    "TW": "赤枝的騎士 B",
     "NA": "Knight of the Red Branch B",
-    "KR": null
+    "KR": "붉은 가지의 기사 B"
   },
   "赤楽茶碗のドロップ獲得数アップ": {
     "JP": null,
@@ -15194,7 +15356,7 @@
     "CN": "赤雷的骑士 A+",
     "TW": "赤雷的騎士 A+",
     "NA": "Knight of Crimson Thunder A+",
-    "KR": null
+    "KR": "붉은 번개의 기사 A+"
   },
   "赫き死の仮面 A+": {
     "JP": null,
@@ -16073,10 +16235,10 @@
   },
   "陣地作成 -": {
     "JP": null,
-    "CN": null,
+    "CN": "阵地建造 -",
     "TW": "陣地建造 -",
-    "NA": null,
-    "KR": null
+    "NA": "Territory Creation -",
+    "KR": "진지작성 -"
   },
   "陣地作成 A": {
     "JP": null,
@@ -16215,7 +16377,7 @@
     "JP": null,
     "CN": "除灾招福",
     "TW": "除災招福",
-    "NA": "Warding Off Calamity and Bringing in Good Luck",
+    "NA": "Let No Disaster Befall You",
     "KR": "제염초복"
   },
   "陰謀作成 EX": {
@@ -16238,6 +16400,13 @@
     "TW": "陰陽道（法） A",
     "NA": "Onmyoudou (Buddhism) A",
     "KR": "음양도(법) A"
+  },
+  "陰陽道（法） A+": {
+    "JP": null,
+    "CN": "阴阳道（法） A+",
+    "TW": "陰陽道（法） A+",
+    "NA": null,
+    "KR": null
   },
   "陰陽魚 A": {
     "JP": null,
@@ -16421,6 +16590,13 @@
     "NA": "Spirit Origin Data Preservation A",
     "KR": null
   },
+  "霊妙なる御髪 A": {
+    "JP": null,
+    "CN": "灵妙御发 A",
+    "TW": "靈妙御髮 A",
+    "NA": null,
+    "KR": null
+  },
   "霊子向上": {
     "JP": null,
     "CN": "灵子提升",
@@ -16545,7 +16721,7 @@
     "CN": "健硕（毒） A",
     "TW": "健碩（毒） A",
     "NA": "Toughness (Poison) A",
-    "KR": null
+    "KR": "강건(독) A"
   },
   "領域外の生命 A": {
     "JP": null,
@@ -16799,6 +16975,13 @@
     "NA": "Earth-Shattering (Spark)",
     "KR": null
   },
+  "驥足百般 A": {
+    "JP": null,
+    "CN": "百般骥足 A",
+    "TW": "百般驥足 A",
+    "NA": null,
+    "KR": null
+  },
   "骨董品の提灯のドロップ獲得数アップ": {
     "JP": null,
     "CN": "古董品的提灯的掉落获得数提升",
@@ -16934,7 +17117,7 @@
   },
   "鬼神の顕 A": {
     "JP": null,
-    "CN": "鬼神之象 A",
+    "CN": "鬼神之显 A",
     "TW": "鬼神之象 A",
     "NA": "Transgressor Manifestation A",
     "KR": null
@@ -17155,6 +17338,13 @@
     "TW": "魔力放出（炎） B",
     "NA": "Mana Burst (Flame) B",
     "KR": "마력방출(불꽃) B"
+  },
+  "魔力放出（竜） B": {
+    "JP": null,
+    "CN": "魔力放出（龙） B",
+    "TW": "魔力放出（龍） B",
+    "NA": null,
+    "KR": null
   },
   "魔力放出（跳躍） A": {
     "JP": null,
@@ -17639,11 +17829,18 @@
     "NA": "Golden Rule (Beauty) A",
     "KR": "황금률(미) A"
   },
+  "黄金律（蛇＆体） B": {
+    "JP": null,
+    "CN": "黄金律（蛇＆体） B",
+    "TW": "黃金律（蛇＆體） B",
+    "NA": null,
+    "KR": null
+  },
   "黄金樹海紀行 EX": {
     "JP": null,
     "CN": "黄金树海纪行 EX",
     "TW": "黃金樹海紀行 EX",
-    "NA": "Golden Sea of Trees Travelogue EX",
+    "NA": "Golden Sea of Trees EX",
     "KR": "황금수해기행 EX"
   },
   "黒い太陽 EX": {
@@ -17705,7 +17902,7 @@
   "Ｃ³・パニッシュメント B+": {
     "JP": null,
     "CN": "C³惩罚机制 B+",
-    "TW": "Ｃ³懲罰 B+",
+    "TW": "C³懲罰機制 B+",
     "NA": null,
     "KR": null
   },

@@ -1803,7 +1803,7 @@
     "CN": "魔术师应该绝对遵守的规则，\n也是束缚其灵魂的极为强大的术式。\n\n若同意了记载于该文件中的契约，\n无论何人都无法违背，\n也没有可以逃脱其效力的方法。\n\n但前提是，署名的是本人。",
     "NA": "This is a set of laws that are unbreakable by mages, a type of spell that is so powerful it even binds the soul.\n\n\nWhen the contract is signed...\n\nNo one can break it, nor escape from it.\n\n\n...Only for the ones who signed it, that is."
   },
-  "mcLink": "自我束缚卷轴",
+  "mcLink": "自我强制证文",
   "fandomLink": "Self_Geass_Scroll"
 }, {
   "collectionNo": 188,
@@ -2571,7 +2571,7 @@
     "CN": "正在做梦的你呀，你好。\n用那年幼的双瞳好好看看我。\n世界的一切都那么模糊，\n整个世界又是如此温柔，\n所有人都是好朋友。\n连天空中的浮云都是棉花糖！\n明亮的双眸一定照亮了你的世界吧。\n\n梦境过后的你呀，再见。\n用那老去的双瞳好好看看我。\n世界的一切都那么明确，\n整个世界又是如此残酷，\n所有人都是疲倦的路人。\n就连棉花糖都只是污浊的烟雾！\n光辉的世界应该会照亮你的眼睛吧。\n\n仙境只是童话之国。\n童谣的声响是梦之摇篮。\n根本不值一文。\n有效期限不足十年。\n迟早将要消逝的甜美记忆。\n但也仍为必要的甘甜痛楚。\n\n即使忘了书本的内容，\n千万不要忘了那夹在了梦中的书签。",
     "NA": "Hello there, to you who dreams.\n\nLook upon me with those young eyes.\n\nThe world is uncertain, yet the world is kind, everyone is a friend.\n\nThe clouds floating there in the sky look like candy!\n\nYour sparkling eyes illuminate the world before you.\n\n\nGoodbye there, to you who dreamt.\n\nLook upon me with those old eyes.\n\nThe whole world is clear, yet the whole world is cruel, everyone has become tired like you.\n\nEven candy has become tasteless!\n\nThe sparkling world is what awakens those eyes.\n\n\nWonderland is a land of fairy-tales.\n\nRhymes are the lullaby for dreams...\n\nNot even worth one shilling.\n\nNot guaranteed to last even ten years.\n\nEventually those sweet memories will fade.\n\nBut sweet pain is needed.\n\n\nEven if you forget about the book, please don't forget what was hidden between the pages."
   },
-  "unknownCharacters": ["爱丽丝"],
+  "unknownCharacters": ["俄吉", "爱丽丝", "犹滴"],
   "mcLink": "仙境",
   "fandomLink": "Wonderland"
 }, {
@@ -7763,7 +7763,7 @@
   "collectionNo": 807,
   "obtain": "exp",
   "profile": {
-    "CN": "我乃『Alterego·魔{{jin}}·冲田总司·Alternative』！\n\n……这么看来还真长呢。那就叫『魔{{jin}}·冲田总司』……不，还是『魔{{jin}}·冲田』之类的吧。唔……『冲田总司〔Alter〕』……太死板了。亲切地叫『冲田小姐』……被本体占用了呢。还是『魔{{jin}}剑……』……应该是Alterego。\n\n啊，这是我喜欢的关东煮。我是竹轮麸不蘸芥末派的。因为那种太熏眼睛了啊。\n\n对了对了，就用这个给那个攒宝具值的老爷爷提升等级吧。",
+    "CN": "我乃『Alterego·魔{{jin}}·冲田总司·Alternative』！\n\n……这么看来还真长呢。那就叫『魔{{jin}}·冲田总司』……不，还是『魔{{jin}}·冲田』之类的吧。唔……『冲田总司〔Alter〕』……太死板了。亲切地叫『冲田小姐』……被本体占用了呢。还是『魔{{jin}}剑……』……应该是Alterego。\n\n啊，这是我喜欢的关东煮。我是竹轮麸不蘸芥末派的。因为那种太熏眼睛了啊。\n\n对了对了，就用这个给那个攒NP的老爷爷提升等级吧。",
     "NA": "I am Alter Ego, Majin Okita Souji Alternative!\n\n\nNow that I hear it out loud, that's kind of long. How about Majin Okita Souji... No, how about Majin Okita? Hmmm...Okita Souji (Alter)... No, that's too formal. Maybe I'll make it more friendly sounding and go by Majin Sa―Er, I forgot I was an Alter Ego.\n\n\nOh hey, it's my favorite food, oden. I prefer not to put spicy mustard on chikuwabu because the spiciness stings my eyes. You know, the spiciness.\n\n\nBy the way, go ahead and use this to level up that old man who gives you more than three quarters of your NP."
   },
   "characters": [209],
@@ -16585,7 +16585,7 @@
   "collectionNo": 1701,
   "obtain": "exp",
   "profile": {
-    "CN": "传说中的邪马台国初代女王的后继者，二代女王壹与，终于自久远的彼端前来此地！\n\n壹与「所以说，就麻烦你向大家\n　　　介绍一下我啦，卑弥呼！」\n\n卑弥呼「好、好吧，等以后有机会再……」\n\n壹与「诶~！　我们约好了的呀，对吧，卑弥呼！\n　　　介绍！　介绍！　介绍！」\n\n这个先暂且不提，这张卡里好像也蕴藏着古往今来人们的智慧和经验，请务必派上用场哦，未来！",
+    "CN": "传说中的邪马台国初代女王的后继者，二代女王壹与，终于自久远的彼端前来此地！\n\n壹与「所以说，就麻烦你向大家\n　　　介绍一下我啦，卑弥呼！」\n\n卑弥呼「好、好吧，等以后有机会再……」\n\n壹与「诶～！　我们约好了的呀，对吧，卑弥呼！\n　　　介绍！　介绍！　介绍！」\n\n这个先暂且不提，这张卡里好像也蕴藏着古往今来人们的智慧和经验，请务必派上用场哦，未来！",
     "NA": "The second queen, Iyo, who succeeded the legendary first queen of Yamataikoku, has finally come to this land from beyond the veil of time!\n\n\nIyo: I so very look forward to you introducing me to everyone, Himiko!\n\nHimiko: W-well, maybe next time...\n\nIyo: What!? You promised! Come on, Himiko! Introduce me! Introduction meee!\n\n\nWell that aside, I have a feeling this card contains the wisdom and experience of people from ancient times, so I hope it will be of some use to you, Future!"
   },
   "characters": [364],
@@ -16720,7 +16720,7 @@
   "obtain": "bond",
   "profile": {
     "CN": "史进君，是史进君！\n很厉害的哦！\n\n扯——那么一下，就会变得很长了哦！\n咕噜咕噜就飞上天了哦！\n甚至可以噗噗噗地喷出火焰哦！\n甚至还可以当竹马踩高跷玩哦！\n\n但是，最大的秘密呢……。\n史进君，是能说话的！\n虽然不能长时间说话，\n但人家感到孤独的时候，就会和我说很多话的！\n所以说，我啊。最喜欢史进君了！\n以后我们也要一直在一起哦！\n\n———当然了，我的朋友。我的伙伴。\n就算摇篮之梦结束，一切回归正轨之时，\n就算铭记这一切也是无法实现的牵绊，\n我的灵魂，也将陪伴你到地狱最底层。",
-    "NA": "Hey, hey, you know what!?\n\nShi Jin-Kun is really awesome!\n\n\nJust a wiggle, and he grows really long!\n\nJust a roll, and he can fly up to the sky!\n\nJust a woosh, and he can spew flame!\n\nHe can also turn into stilts for me to play with!\n\n\nHowever, the number one secret is......\n\nShi Jin-Kun can talk!\n\nEven though he can't talk for very long, when I feel lonely, he would talk to me lots and lots!\n\nThat's why I love Shi Jin-Kun!\n\nPlease be with me forever, okay!?\n\n\n―――Of course, my friend. My partner.\n\nEven if the bond between us is one that would not be remembered when this cradle dream ends and I return to my true form.\n\nMy soul shall accompany you even to the depth of hell."
+    "NA": "Did you know!? Did you know!? Shi Jin is so awesome!\n\nHe can stretch REALLY long! He can fly and spin around the sky! He can spit fire out from his mouth! He can even turn into a pair of stilts so I can ride him!\n\nBut the biggest secret is...Shi Jin can talk! He can't talk for too long, but he talks to me a lot when I'm feeling lonely! And that's why I LOVE Shi Jin! We're going to be together forever!\n\n\nOf course, my friend. My partner.\n\nEven if we wake up from our dream and return to our original form. And even if we remember our bond cannot be realized...\n\nMy soul will be with you till the lowest part of hell."
   },
   "characters": [367],
   "mcLink": "九节棍史进君",
@@ -16942,7 +16942,8 @@
   "collectionNo": 1738,
   "obtain": "campaign",
   "profile": {
-    "CN": "恭喜，还有感谢。\n从今往后，也请多多关照。\n\n有着能这样说的谁人存在。\n那一定就是无比美妙的事情。\n所以，不光是认为如此，而是要为了能够如此认为。\n为了能够说出这样的话。\n\n就用最棒的笑容，道一声“Happy New Year”！"
+    "CN": "恭喜，还有感谢。\n从今往后，也请多多关照。\n\n有着能这样说的谁人存在。\n那一定就是无比美妙的事情。\n所以，不光是认为如此，而是要为了能够如此认为。\n为了能够说出这样的话。\n\n就用最棒的笑容，道一声“Happy New Year”！",
+    "NA": "Congratulations. Thank you. I'm glad to know you. \n\n\nYou have someone to say that to you. It's a\nwonderful thing, to be sure, not only to think that,\nbut have it thought of you. May we all be so lucky.\n\n\nWith a sunny smile, Happy New Year!"
   },
   "unknownCharacters": ["芙芙", "藤丸立香(女性)", "藤丸立香(男性)"],
   "mcLink": "Love_It",
@@ -16952,7 +16953,7 @@
   "obtain": "exp",
   "profile": {
     "CN": "我现在差不多有2米啦\n坐高太高也是没办法的嘛！",
-    "NA": "She is almost two meter tall, no wonder she sits so far in the back!"
+    "NA": "She's almost two meters tall. Of course she'd have to sit so far back!"
   },
   "characters": [1],
   "unknownCharacters": ["奥尔加玛丽·阿尼姆斯菲亚", "藤丸立香(女性)"],
@@ -16972,7 +16973,7 @@
   "obtain": "campaign",
   "profile": {
     "CN": "在一切都已消逝，连历法都不再存在的如今\n节日活动明明早就没有意义了\n这些家伙却无论如何都要做点什么。\n我也不得不奉陪到底。\n可是呆在这群吵吵嚷嚷又爱管闲事的人中间\n竟然还挺开心的……也有些许寂寞。\n\n如果，你仍然在这里的话，会是什么样子呢。\n说不定会很快融入进去，和大家一起闹腾的吧。",
-    "NA": "At the current state where everything has disappeared, even calendars and such no longer exist, seasonal events also should not have any meanings anymore, yet, it seems these guys couldn't help but do something.\n\nI have no choice but to go along with them.\n\nTo be surrounded by this meddlesome and noisy bunch is surprisingly comfortable......yet also a bit lonely.\n\n\nI wonder what you would do if you were here.\n\nLikely you would fit in and soon enough have fun with the others, far easier than I would expect."
+    "NA": "Now that all is lost, even the calendar itself, seasonal events are totally meaningless. But these guys still can't help themselves. Guess I gotta play along. While being surrounded by such noisy busybodies isn't as bad as I'd have thought...it's also a little lonely.\n\n\nI wonder what you'd do if you were here. I bet you'd fit in and join the fun faster than you think."
   },
   "characters": [201, 253, 296],
   "unknownCharacters": ["U－奥尔加玛丽", "卡多克·泽姆露普斯", "希翁·艾尔特纳姆·索卡里斯", "戈尔德鲁夫·穆吉克", "穆尼尔", "芙芙", "藤丸立香(男性)"],
@@ -17090,7 +17091,8 @@
   "collectionNo": 1754,
   "obtain": "limited",
   "profile": {
-    "CN": "武侠也战胜不了瞌睡，\n打着呼噜进入梦中。\n\n不不，这不是宴会什么的。\n还在准备礼物呢。\n\n……真是努力啊。"
+    "CN": "武侠也战胜不了瞌睡，\n打着呼噜进入梦中。\n\n不不，这不是宴会什么的。\n还在准备礼物呢。\n\n……真是努力啊。",
+    "NA": "She slips into the land of dreams, chivalry giving way to drowsiness. This is no feast. We have a gift ready for her.\n\n\n…Well done, little one."
   },
   "characters": [159, 365, 367],
   "mcLink": "沉睡的伊丽莎",
@@ -17117,7 +17119,7 @@
   "obtain": "valentine",
   "profile": {
     "CN": "征氏姐妹赠予的情人节巧克力。\n\nChè是越南的一种甜点。\n根据地区的不同，会使用豆类和水果等各种食材，\n所以基本没有特定的形式。\n要说的话就是越南风格的善哉一样的东西。\n\n征氏姐妹制作的是，一道使用了越南常见食材的莲子，暖洋洋而味道温和的甜品。\n虽然无法确定她们二人生活的时代是否已有这种做法，\n但应该是想要重点做出自己的风格才选择了这么做吧。\n\n巧克力是二人分别在私底下制作的。\n虽然没有特地打过招呼，但风格却出人意料地相似，这就是姊妹牵绊这种技能吧。\n味道呢，姐姐的略甜，妹妹的略苦。\n虽然两份都很好吃，但是类似「更喜欢这个一点吧」这种决出优劣的发言一旦说出，\n就会引发（不知道为何是被选中的一方的）怒火，要小心。",
-    "NA": "Valentine's chocolates from Hai Bà Trưng.\n\n\nChè is a type of Vietnamese dessert.\n\nVarious ingredients such as beans or fruits are used depending on the regions. It also does not have a fixed appearance.\n\nIn a way, it is similar to red bean soup, but in Vietnamese style.\n\n\nThe dish made by Hai Bà Trưng used lotus seeds, which is a very common ingredient in Vietnam. The end product is a dessert with a warm, fluffy, and gentle flavour.\n\nWhile I'm not sure if this dish existed back in their time, they must have chosen it because it was important to their origins.\n\n\nThe chocolates were made by each of them in secret.\n\nEven though they didn't meet with the other, perhaps due to their sisterly bond, their chocolates feel strangely similar.\n\nThe older sister's is a bit sweeter, while the younger sister's is slightly more bitter.\n\nBoth chocolates are simply delicious, however, if you were to say something like \"I prefer this one\" and make one out to be better than the other, the person (whose chocolate got chosen) will get angry at you, so keep that in mind."
+    "NA": "Valentine's Day chocolate from Hai Bà Trưng.\n\n\nChè is a Vietnamese dessert without a defined form. It may contain a variety of regional ingredients such as beans or fruits. One could call it a Vietnamese zenzai. Hai Bà Trưng made this subtly sweet dessert using lotus seed, a common Vietnamese ingredient. It's unclear whether chè existed during their lifetimes, but this choice was likely made carefully, as a reflection of the two of them.\n\n\nEach sister made her chocolate in secret. While they didn't necessarily consult each other during the process, the finished products ended up oddly similar, a testament to their sisterly bond. Trưng Trắc's chocolate is slightly sweet, while Trưng Nhị's is a little bitter. Both are as tasty as you'd expect, but be careful not to imply that you might prefer one over the other, lest you incur their wrath."
   },
   "mcLink": "莲子糖茶＆压根没打算送出的巧克力",
   "fandomLink": "Lotus_Seed_Chè_&_Choco_That_Wasn't_Supposed_to_be_Given"
@@ -17125,7 +17127,8 @@
   "collectionNo": 1758,
   "obtain": "valentine",
   "profile": {
-    "CN": "太岁星君的回礼。\n\n中意的地点，中意的时间。\n\n稳定的日照温度，\n柔软的被褥的芬芳，\n轻轻飘到耳畔的平静的水声。\n在那里，没有任何妨碍安眠之物。\n\n即便是被挖掘出来的灾祸之星也好，\n不知何处萌生的渺小之物也罢，\n都只要闭上眼睛就能体味到——\n在地面之下所没有的，幸福。\n\n虽然本来就是平时也很喜欢的事情。\n\n但能和最喜欢的人一起体味的话，\n那该有多么——"
+    "CN": "太岁星君的回礼。\n\n中意的地点，中意的时间。\n\n稳定的日照温度，\n柔软的被褥的芬芳，\n轻轻飘到耳畔的平静的水声。\n在那里，没有任何妨碍安眠之物。\n\n即便是被挖掘出来的灾祸之星也好，\n不知何处萌生的渺小之物也罢，\n都只要闭上眼睛就能体味到——\n在地面之下所没有的，幸福。\n\n虽然本来就是平时也很喜欢的事情。\n\n但能和最喜欢的人一起体味的话，\n那该有多么——",
+    "NA": "A return gift from Taisui Xingjun.\n\n\nA favorite time and a comfortable place. The warmth of gentle sunshine, the smell of a soft bed, and the gentle trickling of water. Nothing to interrupt a peaceful sleep. Be it the unearthed star of calamity or those tiny, mysteriously spawned beings, one only need close one's eyes to relive the experience... Happiness that does not exist on this earth.\n\n\nThey love that person so much, and yet...\n\n\nIf only they could experience it with the person they love, how wonderful that would be...."
   },
   "characters": [338],
   "mcLink": "一起，晒太阳",
@@ -17134,7 +17137,8 @@
   "collectionNo": 1759,
   "obtain": "valentine",
   "profile": {
-    "CN": "超级班扬赠予的情人节礼物。\n\n似乎是美国电影中非常经典的\n在美式餐厅的早餐场景中\n登场的美式松饼套餐。\n加上五分熟的煎蛋和香脆的培根，\n还附赠精巧可爱的玩具。\n最重要的是，这是超级班全身心投入而\n为你制作出的，可以完美收获快乐的套餐。\n\n非常美味。特别是，在松饼上浇的\n满满的枫糖浆有些与众不同。\n有一种从充满了神秘的远古世界之地\n滴落至现世的不可思议的味道。"
+    "CN": "超级班扬赠予的情人节礼物。\n\n似乎是美国电影中非常经典的\n在美式餐厅的早餐场景中\n登场的美式松饼套餐。\n加上五分熟的煎蛋和香脆的培根，\n还附赠精巧可爱的玩具。\n最重要的是，这是超级班全身心投入而\n为你制作出的，可以完美收获快乐的套餐。\n\n非常美味。特别是，在松饼上浇的\n满满的枫糖浆有些与众不同。\n有一种从充满了神秘的远古世界之地\n滴落至现世的不可思议的味道。",
+    "NA": "Valentine's Day gift from Super Bunyan.\n\n\nThis stack of pancakes looks like it would be perfectly at home in a diner in an American movie. It comes with a side of crispy bacon and eggs sunny-side up, as well as an oddly adorable toy. More importantly, Super Bunyan put her heart and soul into making this perfect meal, hoping it might make you happy.\n\n\nThe whole thing is delicious, especially the pancakes smothered in maple syrup. The flavor is mysterious, like fragments of an ancient, more mystical world."
   },
   "mcLink": "超级班扬餐",
   "fandomLink": "Super_Bunyan_Meal"
@@ -17142,7 +17146,8 @@
   "collectionNo": 1760,
   "obtain": "valentine",
   "profile": {
-    "CN": "大黑天赠予的情人节礼物。\n\n在因暴饮暴食而腹痛难忍卧床不起的你的\n枕边，不知道什么时候出现的。\n只需要喝上一口，不仅是腹痛，\n每一种病和伤口都能立刻痊愈的仙药。\n是用于治疗暴饮暴食甚至会觉得暴殄天物的\n超珍贵的东西啊。\n\n留下这个的大概是大黑鼠她们吗，\n又或者是，她们的主上，大黑天本人\n所赐之物也说不定。"
+    "CN": "大黑天赠予的情人节礼物。\n\n在因暴饮暴食而腹痛难忍卧床不起的你的\n枕边，不知道什么时候出现的。\n只需要喝上一口，不仅是腹痛，\n每一种病和伤口都能立刻痊愈的仙药。\n是用于治疗暴饮暴食甚至会觉得暴殄天物的\n超珍贵的东西啊。\n\n留下这个的大概是大黑鼠她们吗，\n又或者是，她们的主上，大黑天本人\n所赐之物也说不定。",
+    "NA": "Valentine's Day gift from Daikokuten.\n\n\nSomeone left this under your pillow after you ate too much and went to bed with a stomachache. A single dose of this amazing drug cures not just the pain but all manner of illness and injury. Using this miraculous medication on a mere stomachache would be a criminal waste.\n\n\nThe Daikokuten probably left this for you, though it may have been a gift from their master."
   },
   "mcLink": "大黑天的赠礼（肠胃药）",
   "fandomLink": "Gift_from_Daikokuten_(Digestive_Medicine)"
@@ -17150,7 +17155,8 @@
   "collectionNo": 1761,
   "obtain": "valentine",
   "profile": {
-    "CN": "玛丽·安宁赠予的情人节巧克力。\n\n据说是安宁生前所挖掘的\n鱼龙属（Ichthyosaurus）的化石的头部的模样。\n能从保持了逼真（real）而可爱的变形（déformer）中\n感觉到安宁的痴迷与俏皮。\n包装也很时尚，细节处的做工也很用心\n简直有着像是在巧克力专卖店里出售的高级感。\n\n当听说这全部都是手工制作的时候\n就会产生“难道说她爱上了自己吗”……\n之类的稀里糊涂的误解。"
+    "CN": "玛丽·安宁赠予的情人节巧克力。\n\n据说是安宁生前所挖掘的\n鱼龙属（Ichthyosaurus）的化石的头部的模样。\n能从保持了逼真（real）而可爱的变形（déformer）中\n感觉到安宁的痴迷与俏皮。\n包装也很时尚，细节处的做工也很用心\n简直有着像是在巧克力专卖店里出售的高级感。\n\n当听说这全部都是手工制作的时候\n就会产生“难道说她爱上了自己吗”……\n之类的稀里糊涂的误解。",
+    "NA": "Valentine's Day chocolate from Mary Anning.\n\n\nThis chocolate is modeled after the head of the ichthyosaurus Mary Anning is said to have excavated during her life. You can feel Anning's playful attention to detail from its realistic yet adorably deformed shape. The finely detailed package is stylish as well, giving off an air of class one might expect from a luxury chocolatier.\n\n\nIf you heard she'd made it all by hand, you might wonder whether she's in love...and you'd be mistaken to do so."
   },
   "mcLink": "手工鱼龙巧克力",
   "fandomLink": "Handmade_Ichthyo-Choco"
@@ -17158,7 +17164,8 @@
   "collectionNo": 1762,
   "obtain": "valentine",
   "profile": {
-    "CN": "君士坦丁十一世的回礼。\n\n虽然拥有斩击耐性，但对突刺、打击的耐性较低。\n通过将无袖外袍和魔术防御相组合\n也拥有了对火焰的耐性。\n虽然通过改为魔术礼装，重量有了相当程度的减轻，\n但即便如此，再装备上重到超出自身耐久力的防具的话，\n就会无法冲刺，翻滚也会变得笨重。\n体力会更轻易地消耗掉，这点一定要注意。\n\n「基本上来说，在日常用途以外的仪式上使用\n　就挺好的」"
+    "CN": "君士坦丁十一世的回礼。\n\n虽然拥有斩击耐性，但对突刺、打击的耐性较低。\n通过将无袖外袍和魔术防御相组合\n也拥有了对火焰的耐性。\n虽然通过改为魔术礼装，重量有了相当程度的减轻，\n但即便如此，再装备上重到超出自身耐久力的防具的话，\n就会无法冲刺，翻滚也会变得笨重。\n体力会更轻易地消耗掉，这点一定要注意。\n\n「基本上来说，在日常用途以外的仪式上使用\n　就挺好的」",
+    "NA": "A return gift from Kōnstantînos XI.\n\n\nResistant to slashing damage, but less so to piercing and bludgeoning damage, this surcoat is woven with magical defenses and offers bonus resistance to fire. It is made considerably lighter by your Mystic Code, but equipping armor beyond your encumberance limit will slow your rolling and render you unable to sprint. Be mindful of its stamina cost.\n\n\n\"I would suggest that you avoid wearing except for ceremnoial occasions.\""
   },
   "mcLink": "身为皇帝的盔甲罩袍＋",
   "fandomLink": "Emperor's_Surcoat+"
@@ -17166,7 +17173,8 @@
   "collectionNo": 1763,
   "obtain": "valentine",
   "profile": {
-    "CN": "查理曼的回礼。\n\n说是回礼，其实更该说是一瞬的回忆。\n帅气感不是有意识地塑造出，\n而是从非常自然的，理所当然的举止中浮现出的。\n\n故而，始终维持着帅气的英雄\n无所顾忌地伸出了手。\n握住他的手的瞬间感到的安心，\n是只要自己还活着，就不会忘却的感觉吧。\n那在某种意义上，是比有形的回礼还要更为强烈而且鲜明的，\n独一无二的赠礼。"
+    "CN": "查理曼的回礼。\n\n说是回礼，其实更该说是一瞬的回忆。\n帅气感不是有意识地塑造出，\n而是从非常自然的，理所当然的举止中浮现出的。\n\n故而，始终维持着帅气的英雄\n无所顾忌地伸出了手。\n握住他的手的瞬间感到的安心，\n是只要自己还活着，就不会忘却的感觉吧。\n那在某种意义上，是比有形的回礼还要更为强烈而且鲜明的，\n独一无二的赠礼。",
+    "NA": "A return gift from Charlemagne.\n\n\nThis is a momentary memory, rather than a standard gift. It comes as an utterly ordinary, natural gesture, not from his usual fixation on coolness.\n\n\nThe hero who insists on always looking cool extends a carefree hand. The comfort you felt the instant you grasped his hand...you are certain you will never forget so long as you live. In a sense, that makes it more a vivid once-in-a-lifetime gift than any tangible thing he could have given you."
   },
   "characters": [343],
   "unknownCharacters": ["藤丸立香(女性)", "藤丸立香(男性)"],
@@ -17176,7 +17184,8 @@
   "collectionNo": 1764,
   "obtain": "valentine",
   "profile": {
-    "CN": "罗兰的回礼。\n\n哎呀那什么，对于像我这样的从者而言，\n就算会有别的御主出现——\n对你而言的我，也只是仅你一人的从者。\n\n那么也可以说，就算吾王在此，\n我身为骑士所起誓的忠诚也不会有任何踌躇。\n吾敬爱的御主啊。\n赌上我的生命、我的骄傲，\n我发誓会以我的全部守护你直至最后。\n\n哈哈哈。\n偶尔来这么一次，见识到我有骑士风范的一面了吗？\n\n——已经，充分地为你展现过了哦。"
+    "CN": "罗兰的回礼。\n\n哎呀那什么，对于像我这样的从者而言，\n就算会有别的御主出现——\n对你而言的我，也只是仅你一人的从者。\n\n那么也可以说，就算吾王在此，\n我身为骑士所起誓的忠诚也不会有任何踌躇。\n吾敬爱的御主啊。\n赌上我的生命、我的骄傲，\n我发誓会以我的全部守护你直至最后。\n\n哈哈哈。\n偶尔来这么一次，见识到我有骑士风范的一面了吗？\n\n——已经，充分地为你展现过了哦。",
+    "NA": "A return gift from Roland.\n\n\nWell, for a Servant like me, even if another Master were to appear...I would still be your Servant.\n\n\nEven if my king were here, I would not hesitate to swear my loyalty to you. My beloved Master, I swear on my life, on my pride, to defend you with my heart and soul.\n\n\nHahaha. Did I act knightly, for once?\n\n\n...Everything in moderation, Master."
   },
   "characters": [344],
   "unknownCharacters": ["藤丸立香(女性)", "藤丸立香(男性)"],
@@ -17187,7 +17196,7 @@
   "obtain": "valentine",
   "profile": {
     "CN": "克里姆希尔德赠予的情人节巧克力。\n\n烘制的巧克力和黑、红、白三色的包装纸相组合而成的，很有她的风范的坚实的巧克力。\n送给御主的和送给齐格飞的两份的不同之处，\n仅在于寄语卡片的内容而已。\n针对齐格飞的是一篇极长的文书，\n滔滔不绝地记述了齐格飞到底是多么不争气的一个人。\n送给御主的，则是无比恳切而高热量地书写了\n模仿齐格飞的行为有多么愚蠢。",
-    "NA": "Valentine chocolate from Kriemhild.\n\n\nA solid chocolate just like her, with the baked chocolate in a combination of black, red, and white wrapping. The only difference between the one for Master and the one for Siegfried is the message card's contents alone.\n\nFor Siegfried, she eloquently described in a long piece of text how much of a useless person Siegfried is.\n\nFor Master, she fervently and passionately wrote about how foolish it is to imitate Siegfried."
+    "NA": "Valentine's Day chocolate from Kriemhild.\n\n\nThis tried-and-true baked confection, wrapped in black, red, and white, reflects Kriemhild herself. The only difference between what she's given to her Master and Siegfried are the enclosed message cards. A veritable essay is inscribed on Siegfried's card, gushing about his incompetence, while her message to her Master contains impassioned counsel warning against the dangers of imitating Siegfried's example."
   },
   "mcLink": "倾注了心意的巧克力（附带说教）",
   "fandomLink": "Sincere_Chocolate_(with_Sermon_Attached)"
@@ -17195,7 +17204,8 @@
   "collectionNo": 1766,
   "obtain": "valentine",
   "profile": {
-    "CN": "年轻的莫里亚蒂的回礼。\n\n证明你已经圆满达到了\n高中毕业为止的学业能力的毕业证书。\n经过了詹姆斯·莫里亚蒂严格细致的审查，\n才得到了毕业认定。\n当然是不具备任何官方效力的……本应如此，\n但据莫里亚蒂说，\n「只要把这个给学校方看了，当然就能得到\n毕业的资格」，就是这样。\n虽然只是让疑点又变深了几分，还是感激不尽地收下吧。"
+    "CN": "年轻的莫里亚蒂的回礼。\n\n证明你已经圆满达到了\n高中毕业为止的学业能力的毕业证书。\n经过了詹姆斯·莫里亚蒂严格细致的审查，\n才得到了毕业认定。\n当然是不具备任何官方效力的……本应如此，\n但据莫里亚蒂说，\n「只要把这个给学校方看了，当然就能得到\n毕业的资格」，就是这样。\n虽然只是让疑点又变深了几分，还是感激不尽地收下吧。",
+    "NA": "A return gift from Young Moriarty.\n\n\nThis diploma certifies that you meet the scholarly requirements of a high school graduate. James Moriarty conducted a rigorous examination before certifying your graduation. It carries no legal power...except, according to Moriarty:\n\n\n\"I assure you, show this to any school, and you'll be a qualified graduate.\"\n\n\nMysterious in the extreme, but you gratefully accept."
   },
   "mcLink": "证明你的学力",
   "fandomLink": "Your_Scholarship_Certification"
@@ -17203,7 +17213,8 @@
   "collectionNo": 1767,
   "obtain": "valentine",
   "profile": {
-    "CN": "堂·吉诃德的回礼，\n以及桑丘赠予的情人节巧克力。\n\n○情人节巧克力\n作为堂·吉诃德的故事片段中最有名的东西，\n把风车以巧克力的形式再现出来的产物。\n由通常的巧克力与白巧克力组合而成，\n质量和口味都可以打包票。\n可以称赞一句真不愧是完美女仆的程度。\n\n○堂·吉诃德轶事补遗篇\n将在堂·吉诃德的故事中因亡佚\n而未能公诸世间的事情重新写出来的产物。\n回忆口述者是堂·吉诃德，执笔者则是桑丘。\n与以异想天开、不可思议的故事为主干，\n但一定要说的话还是根据现实事件改编的故事\n「堂·吉诃德」之间虽然并不搭配，\n但或许这也正是其亡佚的原因吧。\n如果交由学术鉴定，大概只会被判定为赝品，\n但因为在魔术意义上会被认定为真品，\n视贩卖圈子而定也可能会卖出高价。\n当然，你是没打算卖掉的就是了。"
+    "CN": "堂·吉诃德的回礼，\n以及桑丘赠予的情人节巧克力。\n\n○情人节巧克力\n作为堂·吉诃德的故事片段中最有名的东西，\n把风车以巧克力的形式再现出来的产物。\n由通常的巧克力与白巧克力组合而成，\n质量和口味都可以打包票。\n可以称赞一句真不愧是完美女仆的程度。\n\n○堂·吉诃德轶事补遗篇\n将在堂·吉诃德的故事中因亡佚\n而未能公诸世间的事情重新写出来的产物。\n回忆口述者是堂·吉诃德，执笔者则是桑丘。\n与以异想天开、不可思议的故事为主干，\n但一定要说的话还是根据现实事件改编的故事\n「堂·吉诃德」之间虽然并不搭配，\n但或许这也正是其亡佚的原因吧。\n如果交由学术鉴定，大概只会被判定为赝品，\n但因为在魔术意义上会被认定为真品，\n视贩卖圈子而定也可能会卖出高价。\n当然，你是没打算卖掉的就是了。",
+    "NA": "A return gift from Don Quixote and Valentine's Day chocolate from Sancho.\n\n\nValentine's Day Chocolate\n\nA recreation of Don Quixote's most famous episode in which he tilted at windmills. It is a conventional but winning combination of regular and white chocolate. You'd expect nothing less from such a perfect maid.\n\n\nAddendums to \"Don Quixote\"\n\nA collection of previously unknown tales of Don Quixote which were rejected for publication, now compiled and rewritten. Dictated by Don Quixote and written by Sancho, these bizarre, mysterious tales are relatively down-to-earth. This may be why they were considered unsuitable for \"Don Quixote.\" A scientific analysis would reveal them to be complete fabrications, of course, but they would be considered genuine by magecraft standards. Such a volume could fetch an incredible sum on the market, though you have no intention of selling it."
   },
   "characters": [347],
   "mcLink": "风车型巧克力与堂·吉诃德增补篇",
@@ -17212,7 +17223,8 @@
   "collectionNo": 1768,
   "obtain": "valentine",
   "profile": {
-    "CN": "张角的回礼。\n\n「怎么啦？　很时髦吧？」\n\n被这么问的话，除了时髦也没法回答别的了，\n实在是和黄色西装非常搭配的正派领带。\n实际上是把原本是别的颜色的领带\n用特殊的技术染成了鲜红色的外观而已。\n至于原本是什么颜色，想也知道。\n\n究竟是出于某种意图还是别的什么这一点虽然还不甚明了，\n但意外地还会很快就掉色并恢复原色这一点还请注意。\n另外，似乎不接受退换。\n\n顺带一提，日本曾有某一时期将头上绑着领带的\n工薪阶层作为醉鬼的典型形象来描绘，而在图书馆看到这些的张角似乎有被看到\n窃笑着念叨「御主的国家还有这种风俗啊……唔呵呵……」这样的目击证言。"
+    "CN": "张角的回礼。\n\n「怎么啦？　很时髦吧？」\n\n被这么问的话，除了时髦也没法回答别的了，\n实在是和黄色西装非常搭配的正派领带。\n实际上是把原本是别的颜色的领带\n用特殊的技术染成了鲜红色的外观而已。\n至于原本是什么颜色，想也知道。\n\n究竟是出于某种意图还是别的什么这一点虽然还不甚明了，\n但意外地还会很快就掉色并恢复原色这一点还请注意。\n另外，似乎不接受退换。\n\n顺带一提，日本曾有某一时期将头上绑着领带的\n工薪阶层作为醉鬼的典型形象来描绘，而在图书馆看到这些的张角似乎有被看到\n窃笑着念叨「御主的国家还有这种风俗啊……唔呵呵……」这样的目击证言。",
+    "NA": "A return gift from Zhang Jue.\n\n\n\"What do you think? Dandy, no?\"\n\n\nThere is no choice but to agree. The conservative necktie would match a yellow suit well. It was originally a different color that he dyed crimson using a special technique. As for what that color was, you can easily guess.\n\n\nIt's unclear whether this is deliberate, but be warned that it fades and returns to its original color easily. And it doesn't sound like he takes returns.\n\n\nIncidentally, in modern times, an intoxicated salaryman wearing a necktie as a headband has become the stereotype of a drunkard in Japan. Eyewitnesses report seeing Zhang Jue grinning and muttering, \"Such a custom exists...hurr hurr...\" after seeing a depiction in the library."
   },
   "mcLink": "帅气的鲜红色（？）领带",
   "fandomLink": "Stylish_Deep_Crimson?_Necktie"
@@ -17220,7 +17232,8 @@
   "collectionNo": 1769,
   "obtain": "valentine",
   "profile": {
-    "CN": "曲亭马琴翁媳二人的慰问品。\n\n由马琴亲自执笔的新作掌篇（短篇），\n以及儿媳阿路亲手制作的水馒头。\n掌篇的题名为\n『迦勒底即兴传』。\n撰入了和御主一同讲述、采拾的\n荒唐无稽的心血来潮的短篇小说。\n还请把这可爱的软乎乎颤巍巍的水馒头，\n当作读书时的佐料点心享用吧。"
+    "CN": "曲亭马琴翁媳二人的慰问品。\n\n由马琴亲自执笔的新作掌篇（短篇），\n以及儿媳阿路亲手制作的水馒头。\n掌篇的题名为\n『迦勒底即兴传』。\n撰入了和御主一同讲述、采拾的\n荒唐无稽的心血来潮的短篇小说。\n还请把这可爱的软乎乎颤巍巍的水馒头，\n当作读书时的佐料点心享用吧。",
+    "NA": "A present from the Kyokutei Bakin duo.\n\n\nThe package consists of a (very) short story personally penned by Bakin, and mizu (water) manjyu made by his daugher-in-law Omichi. The short story is titled \"An Impromptu Tale of Karudea,\" describing absurd flights of fancy shared with their Master. Please read it while you enjoy the accompanying adorable, chewy, jiggly mizu manjyu treats."
   },
   "characters": [349],
   "unknownCharacters": ["亲兵卫", "信乃", "大角", "小文吾", "庄助", "毛野", "现八", "道节"],
@@ -17230,7 +17243,8 @@
   "collectionNo": 1770,
   "obtain": "valentine",
   "profile": {
-    "CN": "源为朝的回礼。\n\n有智能机和小为朝两种形态，\n智能机形态下活用了原本的智能机的功能，\n能够做到图像扫描和紧急传信。\n小为朝形态下，则能够再现为朝的攻击模式，\n在保持低输出的情况下连宝具都能放出。\n当然威力也是以这个形态为准的，\n最多只能做到烧尽半径三米范围的程度。\n用于防身还是足够的……话虽如此，\n但作为防身用具火力未免过剩，而且因为释放之后\n数小时内机体会发热到无法触摸的程度，\n攻击手段基本都被封印了。\n另外，就算发热到那种地步竟然也不会损坏，\n智能机的功能也完全不受影响这一点是最大的谜。"
+    "CN": "源为朝的回礼。\n\n有智能机和小为朝两种形态，\n智能机形态下活用了原本的智能机的功能，\n能够做到图像扫描和紧急传信。\n小为朝形态下，则能够再现为朝的攻击模式，\n在保持低输出的情况下连宝具都能放出。\n当然威力也是以这个形态为准的，\n最多只能做到烧尽半径三米范围的程度。\n用于防身还是足够的……话虽如此，\n但作为防身用具火力未免过剩，而且因为释放之后\n数小时内机体会发热到无法触摸的程度，\n攻击手段基本都被封印了。\n另外，就算发热到那种地步竟然也不会损坏，\n智能机的功能也完全不受影响这一点是最大的谜。",
+    "NA": "A return gift from Minamoto-no-Tametomo.\n\n\nThe device can take the form of either a smartphone or Mini Tametomo. While in smartphone form, it not only functions as a normal smartphone, but is also capable of visual scanning and transmitting a distress signal. In Mini Tametomo form, it can emulate Tametomo's attack patterns and even fire his Noble Phantasm at reduced output. Naturally, its power is scaled down appropriately and can only incinerate a 3-meter radius. Adequate for self-defense—or rather, wildly overpowered for that purpose. After firing, it emits too much heat to be touched for several hours, so its attack function is usually disabled. Still, the device remains intact in spite of the thermal stress. The biggest wonder is how it still works as a smartphone afterward."
   },
   "characters": [350],
   "mcLink": "附智能机变形功能的小为朝",
@@ -17239,15 +17253,17 @@
   "collectionNo": 1771,
   "obtain": "valentine",
   "profile": {
-    "CN": "Archetype：Earth赠予的情人节巧克力。\n\n一半地球，一半月球造型的圆形巧克力。\n月球的一半不知为何有龟裂游走其上。\n来自不再是不谙世事的深闺大小姐的，星之内海中的公主大人\n第一次亲手制作的点心。\n\n话虽如此，存在龟裂的一边的巧克力\n作为初次制作的东西，却显得无比熟练。"
+    "CN": "Archetype：Earth赠予的情人节巧克力。\n\n一半地球，一半月球造型的圆形巧克力。\n月球的一半不知为何有龟裂游走其上。\n来自不再是不谙世事的深闺大小姐的，星之内海中的公主大人\n第一次亲手制作的点心。\n\n话虽如此，存在龟裂的一边的巧克力\n作为初次制作的东西，却显得无比熟练。",
+    "NA": "Valentine's Day chocolate from Archetype: EARTH.\n\n\nThis spherical chocolate is crafted to be half Earth, half Moon. Peculiar fissures run throughout the lunar half. It's the very first handmade treat created by the sheltered princess...a princess not just locked up in a castle, but trapped in the Inner Sea of the Planet.\n\n\nThat said, the cracked half sure doesn't look like the work of a novice chocolatier."
   },
   "mcLink": "Half Moon: Earth",
-  "fandomLink": "Half-Moon_Half-Earth"
+  "fandomLink": "Half-Moon:_EARTH"
 }, {
   "collectionNo": 1772,
   "obtain": "valentine",
   "profile": {
-    "CN": "徐福赠予的情人节巧克力？\n\n共同制作给虞美人的巧克力时的景象。\n当然了，也从徐福那里收到了作为帮了忙的谢礼的，\n以其他途径获得的巧克力。\n（她是这边该给的义理也不会有缺的性格）\n\n虽然也很感谢那个巧克力吧，\n但比那个更让人印象深刻的是，\n为了将巧克力送给虞美人而进行了一番苦战的她的身影。\n欢笑，泪水，愤怒，因完成而喜悦的种种瞬间。\n\n每当想起那番光景，都能感觉到一种温暖。"
+    "CN": "徐福赠予的情人节巧克力？\n\n共同制作给虞美人的巧克力时的景象。\n当然了，也从徐福那里收到了作为帮了忙的谢礼的，\n以其他途径获得的巧克力。\n（她是这边该给的义理也不会有缺的性格）\n\n虽然也很感谢那个巧克力吧，\n但比那个更让人印象深刻的是，\n为了将巧克力送给虞美人而进行了一番苦战的她的身影。\n欢笑，泪水，愤怒，因完成而喜悦的种种瞬间。\n\n每当想起那番光景，都能感觉到一种温暖。",
+    "NA": "Valentine's Day chocolate (?) from Xu Fu\n\n\nThis scene captures a moment when the two of you collaborated on the creation of chocolate for Yu Mei-ren. Of course, Xu Fu also gave you chocolate separately as thanks for your help. (She's just not the sort to neglect such obligations.)\n\n\nWhile you're grateful for the chocolate, what really lingers in your mind is the sight of Xu Fu's arduous struggle to give the chocolate to Yu Mei-ren... A joyous moment brought to fruition after much laughter, suffering, and frustration.\n\n\nYour heart warms whenever you recall the sight."
   },
   "characters": [230],
   "mcLink": "共同制作中！",
@@ -17256,7 +17272,8 @@
   "collectionNo": 1773,
   "obtain": "valentine",
   "profile": {
-    "CN": "阿瓦隆女士赠予的情人节巧克力。\n\n那是，用明亮颜色的巧克力做出的花束。\n真美啊……\n而且还很耀眼！\n仔细一看还真的在闪闪发亮。\n就算用光学仪器确认，也果然是在闪闪发亮。\n\n为什么\n巧克力\n会闪闪发亮啊？"
+    "CN": "阿瓦隆女士赠予的情人节巧克力。\n\n那是，用明亮颜色的巧克力做出的花束。\n真美啊……\n而且还很耀眼！\n仔细一看还真的在闪闪发亮。\n就算用光学仪器确认，也果然是在闪闪发亮。\n\n为什么\n巧克力\n会闪闪发亮啊？",
+    "NA": "Valentine's Day chocolate from Lady Avalon.\n\n\nThis bouquet of flowers is made from brilliantly colored chocolates. So pretty...and glaringly bright! A closer look reveals that they are literally glittering. A photometer confirms this.\n\n\nSo, uh...why...is the chocolate sparkly?"
   },
   "mcLink": "阿瓦隆甜蜜花束",
   "fandomLink": "Sweet_Bouquet_Avalon"
@@ -17264,7 +17281,8 @@
   "collectionNo": 1774,
   "obtain": "valentine",
   "profile": {
-    "CN": "加雷斯（Saber）赠予的礼物。\n\n冻得梆梆硬的，\n装在塑料瓶里的运动饮料。\n夏天就是要喝这个！\n不仅可以补充水分，还可以消暑！\n\n加雷斯防止酷暑的秘密武器。\n虽然说在二月份可能有点儿冷，但是，\n那是一码事！\n这又是另一码事！"
+    "CN": "加雷斯（Saber）赠予的礼物。\n\n冻得梆梆硬的，\n装在塑料瓶里的运动饮料。\n夏天就是要喝这个！\n不仅可以补充水分，还可以消暑！\n\n加雷斯防止酷暑的秘密武器。\n虽然说在二月份可能有点儿冷，但是，\n那是一码事！\n这又是另一码事！",
+    "NA": "A gift from Gareth (Saber).\n\n\nIcy cold sports drinks in plastic bottles. It's not summer without one of these! Perfect not just for hydration, but warding off the heat, too!\n\n\nThis is Gareth's secret trick to surviving a heat wave. It might be a little too cold for February, but never mind that! It's the thought that counts!"
   },
   "mcLink": "冻得硬邦邦的运动饮料",
   "fandomLink": "Icy-Cold_Sports_Drink"
@@ -17272,7 +17290,8 @@
   "collectionNo": 1775,
   "obtain": "valentine",
   "profile": {
-    "CN": "伊吹童子（Berserker）的赠礼。\n\n在方斗升和玻璃酒杯中斟满的，是甜香四溢的清酒。\n这毫无疑问是最顶级的纯米大吟酿，\n据说是是以浓厚的甘甜味道为特征的自制纯米酒。\n\n请与放在方斗升旁边的，\n一口大小的覆盆子巧克力一同品尝吧。\n\n……当然，要在你长大成人以后。"
+    "CN": "伊吹童子（Berserker）的赠礼。\n\n在方斗升和玻璃酒杯中斟满的，是甜香四溢的清酒。\n这毫无疑问是最顶级的纯米大吟酿，\n据说是是以浓厚的甘甜味道为特征的自制纯米酒。\n\n请与放在方斗升旁边的，\n一口大小的覆盆子巧克力一同品尝吧。\n\n……当然，要在你长大成人以后。",
+    "NA": "A gift from Ibuki-Douji (Berserker).\n\n\nThe box and glass are filled to the brim with sweet, fragrant sake. This is unquestionably junmai daiginjou of the highest grade, and its rich sweetness is apparently a unique, original brew.\n\n\nEnjoy it with the accompanying bite-sized framboise chocolate.\n\n\n...Once you're an adult, that is."
   },
   "mcLink": "纯米大吟酿伊吹",
   "fandomLink": "Junmai_Daiginjō_Ibuki"
@@ -17280,7 +17299,8 @@
   "collectionNo": 1776,
   "obtain": "valentine",
   "profile": {
-    "CN": "来自宇津见绘里濑（Avenger）的情人节甜甜圈。\n\n突然举办的考古学测验的奖品。\n对成绩优秀的御主的褒奖。\n是与制作点心的书死磕的绘里濑亲手制作的。\n有巧克力涂层的甜甜圈才是\n情人节的点心哦，本人如此声称。\n\n「虽然是一目了然的啦……\n　虽然我觉得你肯定能看出来啦……\n　主题（Motif）是“恒星与行星”哦。当然还有游泳圈。\n　啊，那是我引以为豪的作品，\n　里面的果冻稍微洒出了一点。\n　因为据说有些卫星上还有火山活动，\n　这是从旁飞过的旅行者探测器发现的哦。\n　所以我是打算以此表现出岩浆的感觉。嗯」"
+    "CN": "来自宇津见绘里濑（Avenger）的情人节甜甜圈。\n\n突然举办的考古学测验的奖品。\n对成绩优秀的御主的褒奖。\n是与制作点心的书死磕的绘里濑亲手制作的。\n有巧克力涂层的甜甜圈才是\n情人节的点心哦，本人如此声称。\n\n「虽然是一目了然的啦……\n　虽然我觉得你肯定能看出来啦……\n　主题（Motif）是“恒星与行星”哦。当然还有游泳圈。\n　啊，那是我引以为豪的作品，\n　里面的果冻稍微洒出了一点。\n　因为据说有些卫星上还有火山活动，\n　这是从旁飞过的旅行者探测器发现的哦。\n　所以我是打算以此表现出岩浆的感觉。嗯」",
+    "NA": "Valentine's Day doughnuts from Erice Utsumi (Avenger).\n\n\nA prize for passing an archaeology pop quiz, rewarding her Master's excellent score. Erice pored over a dessert cookbook while making these. She insists that this is a perfectly valid Valentine's Day gift, since it includes chocolate-frosted doughnuts.\n\n\n\"I'm sure you can tell... I think it's clear enough... The motif is stars and planets. And a life preserver, obviously. Oh, I'm really proud of this one, though the jelly filling spilled out a little. Voyager discovered volcanic activity on a type of satellite during a flyby. That's why I tried to make the frosting look like lava. Yeah.\""
   },
   "mcLink": "行星甜甜圈",
   "fandomLink": "Planetary_Donuts"
@@ -17288,7 +17308,8 @@
   "collectionNo": 1777,
   "obtain": "valentine",
   "profile": {
-    "CN": "斯卡哈·斯卡蒂（Ruler）赠予的礼物。\n\n用以北极圈特异点存在的冰为原型\n而通过魔力再现的冰……\n制作出的，特制刨冰。\n据说是女神手动转动刨冰机制作而成。\n\n入口之时，那个夏天的回忆便会再度复苏。\n糖浆是『蓝色鲁鲁夏威』。\n蓝色夏威夷的亚种，好像是一样的口味。"
+    "CN": "斯卡哈·斯卡蒂（Ruler）赠予的礼物。\n\n用以北极圈特异点存在的冰为原型\n而通过魔力再现的冰……\n制作出的，特制刨冰。\n据说是女神手动转动刨冰机制作而成。\n\n入口之时，那个夏天的回忆便会再度复苏。\n糖浆是『蓝色鲁鲁夏威』。\n蓝色夏威夷的亚种，好像是一样的口味。",
+    "NA": "A gift from Scáthach-Skadi (Ruler).\n\n\nUsing her magical energy to recreate ice modeled after the frost of the Arctic Lostbelt, she has created this special shaved ice. Yes, the goddess personally labored to make this treat for you.\n\n\nEach mouthful recalls memories of summer. Apparently, the syrup is \"Blue Luluhawa,\" an identical-tasting variant of Blue Hawaiian."
   },
   "mcLink": "蓝色鲁鲁夏威味刨冰",
   "fandomLink": "Blue_Luluhawa-Flavoured_Shaved_Ice"
@@ -17296,7 +17317,8 @@
   "collectionNo": 1778,
   "obtain": "valentine",
   "profile": {
-    "CN": "武则天（Caster）赠予的情人节巧克力。\n\n据说糯米有祛邪的功效，\n扔向僵尸便会对其造成伤害，\n强行塞到他们嘴里的话就会爆炸，\n敷在被咬伤的人类的伤口上的话\n就会把僵尸毒吸走的方便道具。\n性价比拔群。\n\n而在近些天的趋势下，无论是扔出去的还是想扔出去但没扔出去的糯米的清扫与回收工作，都正有序进行着。\n回收已经投掷出去的短刀（Dirk）的哈桑\n与回收已经扔出去的糯米的酷吏的身姿\n是迦勒底的MOTTAINAI（“真浪费啊”）精神的象征。\n\n「所以说，并不是特意为你准备的……\n　只是所谓的『Eco & Recycle（生态回收再利用）』啦！」\n\n是不是真的用回收的糯米做的这一点虽然无法确证，但是味道还是很不错的，可以给出满分好评。\n\n剩下的就只有，祈祷自己不会突然变成僵尸\n然后爆炸了。"
+    "CN": "武则天（Caster）赠予的情人节巧克力。\n\n据说糯米有祛邪的功效，\n扔向僵尸便会对其造成伤害，\n强行塞到他们嘴里的话就会爆炸，\n敷在被咬伤的人类的伤口上的话\n就会把僵尸毒吸走的方便道具。\n性价比拔群。\n\n而在近些天的趋势下，无论是扔出去的还是想扔出去但没扔出去的糯米的清扫与回收工作，都正有序进行着。\n回收已经投掷出去的短刀（Dirk）的哈桑\n与回收已经扔出去的糯米的酷吏的身姿\n是迦勒底的MOTTAINAI（“真浪费啊”）精神的象征。\n\n「所以说，并不是特意为你准备的……\n　只是所谓的『Eco & Recycle（生态回收再利用）』啦！」\n\n是不是真的用回收的糯米做的这一点虽然无法确证，但是味道还是很不错的，可以给出满分好评。\n\n剩下的就只有，祈祷自己不会突然变成僵尸\n然后爆炸了。",
+    "NA": "Valentine's Day chocolate from Wu Zetian (Caster).\n\n\nGlutinous rice is said to have evil-warding properties and these handy cakes' cost-performance ratio is second to none; throw them at a jiangshi zombie to deal damage, force-feed one to explode it from the inside out, or apply as a poultice to a bite victim's wounds to absorb the venom.\n\n\nIt's important to be environmentally conscious these days, however, so Wu Zetian makes sure to clean up after herself. Whether it's Hassan picking up his dirks or the Torturers cleaning up the sticky rice, all are exemplars of Chaldea's culture of thriftiness.\n\n\n\"So it's not like I gave you these for any particular reason... I'm just all about 'reduce, reuse, recycle!'\"\n\n\nIt's unclear how exactly one is supposed to recycle sticky rice, but the cakes' delectable flavor and texture are beyond question.\n\n\nAll that's left is to pray that you don't become a jiangshi yourself."
   },
   "mcLink": "对僵尸有特效的巧克力麻薯",
   "fandomLink": "Jiangshi-Beneficial_Choco-Mochi"
@@ -17304,7 +17326,8 @@
   "collectionNo": 1779,
   "obtain": "valentine",
   "profile": {
-    "CN": "斯露德（Assassin）＆琳德赠予的\n情人节巧克力。\n\n盛放在神铁之盾形状的碟子上的，\n带弹壳的子弹型巧克力山。\n每一个都仔细地，用金色的包装纸包裹着。\n似乎是仿照了她们战斗时所使用的\n冲锋枪子弹的样子。\n\n为了证明并不是真正的子弹，\n唯独有其中一个的包装被剥开了是因为……\n「完成度太高了可能就看不出来是巧克力了」\n如此忧虑着的斯露德的提案。"
+    "CN": "斯露德（Assassin）＆琳德赠予的\n情人节巧克力。\n\n盛放在神铁之盾形状的碟子上的，\n带弹壳的子弹型巧克力山。\n每一个都仔细地，用金色的包装纸包裹着。\n似乎是仿照了她们战斗时所使用的\n冲锋枪子弹的样子。\n\n为了证明并不是真正的子弹，\n唯独有其中一个的包装被剥开了是因为……\n「完成度太高了可能就看不出来是巧克力了」\n如此忧虑着的斯露德的提案。",
+    "NA": "Valentine's Day chocolate from Thrúd (Assassin) and Rindr.\n\n\nCartridge-shaped chocolates, casings included, are piled on a Divine Iron Shield-shaped plate. Each is carefully wrapped in gold foil. They appear to be modeled on the submachine gun ammunition the Valkyries use in combat.\n\n\nOne chocolate is unwrapped, as if to demonstrate that this isn't live ammunition... Thrúd was afraid they were so well-made, you might not notice otherwise."
   },
   "mcLink": "巧克力子弹",
   "fandomLink": "Choco_Bullet"
@@ -17312,7 +17335,8 @@
   "collectionNo": 1780,
   "obtain": "valentine",
   "profile": {
-    "CN": "希露德（Assassin）＆奥露恩赠予的\n情人节巧克力。\n\n咕噜咕噜地盛放在神铁之盾形状的碟子上的，\n手榴弹型巧克力。\n虽然也没见过她们在战斗时用过，\n但对于现在的灵基的她们来说是标配的东西。\n\n“要不要用可爱的缎带来装饰”，\n围绕着这个主题，二骑之间发生了相当程度的争论。"
+    "CN": "希露德（Assassin）＆奥露恩赠予的\n情人节巧克力。\n\n咕噜咕噜地盛放在神铁之盾形状的碟子上的，\n手榴弹型巧克力。\n虽然也没见过她们在战斗时用过，\n但对于现在的灵基的她们来说是标配的东西。\n\n“要不要用可爱的缎带来装饰”，\n围绕着这个主题，二骑之间发生了相当程度的争论。",
+    "NA": "Valentine's Day chocolate from Hildr (Assassin) and Rún.\n\n\nHand grenade-shaped chocolates strewn on a Divine Iron Shield-shaped plate. While you've never seen the Valkyries use these in combat, they are part of the standard loadout in this Spirit Origin.\n\n\nIt appears the duo had a small spat over whether to decorate them with cute ribbons."
   },
   "mcLink": "巧克力手榴弹",
   "fandomLink": "Choco_Pineapple"
@@ -17320,7 +17344,8 @@
   "collectionNo": 1781,
   "obtain": "valentine",
   "profile": {
-    "CN": "奥特琳德（Assassin）＆洁尔诗赠予的\n情人节巧克力。\n\n干脆利落地摆在神铁之盾形状的碟子上的，\n大型的巧克力。好大啊。\n似乎是仿照了她们战斗时所使用的导弹\n（正式名称是Sowilō导弹）的弹头的样子。\n\n再怎么说，只有这个东西的话应该也称不上可爱吧……\n于是就变成了现在这样，\n添上了一朵热带之花。"
+    "CN": "奥特琳德（Assassin）＆洁尔诗赠予的\n情人节巧克力。\n\n干脆利落地摆在神铁之盾形状的碟子上的，\n大型的巧克力。好大啊。\n似乎是仿照了她们战斗时所使用的导弹\n（正式名称是Sowilō导弹）的弹头的样子。\n\n再怎么说，只有这个东西的话应该也称不上可爱吧……\n于是就变成了现在这样，\n添上了一朵热带之花。",
+    "NA": "Valentine's Day chocolate from Ortlinde (Assassin) and Irs.\n\n\nA large chocolate dumped on a Divine Iron Shield-shaped plate. It's huge. It appears to be modeled after the mortar shells (officially named Sowilo missiles) that the Valkyries fire in combat.\n\n\nYou can't exactly call it cute...so they decorated it with a hibiscus."
   },
   "mcLink": "巧克力导弹",
   "fandomLink": "Choco_Missile"
@@ -17328,7 +17353,8 @@
   "collectionNo": 1782,
   "obtain": "valentine",
   "profile": {
-    "CN": "驹姬赠予的情人节巧克力和千利休的招待。\n\n因为不满意下午茶点只有抹茶的驹姬强行切换了灵基，其制作过程中不管有没有往里面混入不少牛奶，她制作抹茶拿铁的手艺都是连那位茶圣，千利休都为之皱眉乍舌的。\n将那个手艺加以活用的驹姬亲手制作的抹茶巧克力拿铁。\n一旁作为添头的日式烘制巧克力虽然朴素，却是有着令人心安的味道的茶点。\n\n在名为情人节的这一天，互相招待，彼此享受。就如同绽放于原野的花一般，将现下一时之思绪寄托于此。"
+    "CN": "驹姬赠予的情人节巧克力和千利休的招待。\n\n因为不满意下午茶点只有抹茶的驹姬强行切换了灵基，其制作过程中不管有没有往里面混入不少牛奶，她制作抹茶拿铁的手艺都是连那位茶圣，千利休都为之皱眉乍舌的。\n将那个手艺加以活用的驹姬亲手制作的抹茶巧克力拿铁。\n一旁作为添头的日式烘制巧克力虽然朴素，却是有着令人心安的味道的茶点。\n\n在名为情人节的这一天，互相招待，彼此享受。就如同绽放于原野的花一般，将现下一时之思绪寄托于此。",
+    "NA": "Valentine's Day chocolate from Komahime, with a light refreshment from Sen-no-Rikyu.\n\n\nApparently, Komahime was fed up with afternoon tea consisting entirely of matcha and forced Sen-no-Rikyu to switch Spirit Origins with her. Her matcha-brewing skills—which may or may not involve copious amounts of milk—left Sen-no-Rikyu in disapproving astonishment. The result is an expertly crafted matcha chocolate latte. The baked chocolate biscuits to the side make for a simple but comforting accompaniment.\n\n\nOn this Valentine's Day, let us savor each other's hospitality. Live in this moment, like a flower blooming in the wild."
   },
   "mcLink": "绽放于原野之花",
   "fandomLink": "Like_a_Wild_Flower"
@@ -17336,7 +17362,8 @@
   "collectionNo": 1783,
   "obtain": "valentine",
   "profile": {
-    "CN": "山南敬助的情人节回礼。\n\n看起来似乎只是山南的私物，也并不是什么出挑的名品，仅仅是非常常见的毛笔和砚台。却不可思议地散发着凛然的气息。\n\n在和暖的阳光中，静听拂过脸颊的风的声音，这般心平气和地落笔成书。是你让我回想起了，这微不足道的事情有多重要。\n\n与梦幻而美丽地飞舞散落的一瓣山樱一同。"
+    "CN": "山南敬助的情人节回礼。\n\n看起来似乎只是山南的私物，也并不是什么出挑的名品，仅仅是非常常见的毛笔和砚台。却不可思议地散发着凛然的气息。\n\n在和暖的阳光中，静听拂过脸颊的风的声音，这般心平气和地落笔成书。是你让我回想起了，这微不足道的事情有多重要。\n\n与梦幻而美丽地飞舞散落的一瓣山樱一同。",
+    "NA": "Valentine's Day return gift from Yamanami Keisuke.\n\n\nWhile these appear to be Yamanami's personal possessions, in truth they're merely a common pen and inkstone rather than an artisanal stationary set. There is an oddly elegant air to them.\n\n\nUnder the warm sunlight, listening to the wind caress my cheeks, I calmly put pen to paper. You've reminded me how precious such commonplace moments are.\n\n\nI scatter, fleeting and beautiful, with the petals of a mountain cherry blossom."
   },
   "mcLink": "笔与砚",
   "fandomLink": "Brush_and_Inkstone"
@@ -17344,7 +17371,8 @@
   "collectionNo": 1784,
   "obtain": "valentine",
   "profile": {
-    "CN": "壹与赠予的情人节巧克力。\n\n将在森林中拾来的橡子碾碎后在巧克力上做成伞盖的形制，意外地能看出这样的精心设计的东西。\n总而言之，就是生来就与“普通女生”无缘的她，兴奋地挑战叫做情人节的活动，并在最后完成的珍宝中的上等品。\n顺带一提，虽然味道很普通，其实是一个不留神就会吃到饱的东西。\n\n包含了一位此前从未想过“在终末后还有这样美妙的事情在等着我啊”之类的事情的少女的心意。"
+    "CN": "壹与赠予的情人节巧克力。\n\n将在森林中拾来的橡子碾碎后在巧克力上做成伞盖的形制，意外地能看出这样的精心设计的东西。\n总而言之，就是生来就与“普通女生”无缘的她，兴奋地挑战叫做情人节的活动，并在最后完成的珍宝中的上等品。\n顺带一提，虽然味道很普通，其实是一个不留神就会吃到饱的东西。\n\n包含了一位此前从未想过“在终末后还有这样美妙的事情在等着我啊”之类的事情的少女的心意。",
+    "NA": "Valentine's Day chocolate from Iyo.\n\n\nThese acorn-shaped chocolates are rather elaborately made, with cupules consisting of ground acorns Iyo foraged from the forest. Having never attempted anything quite this girly before, Iyo cheerfully threw herself at the challenge and produced this gem of a confection. Also, their flavor is quite simple and addictive, so it's easy to eat several before you realize it.\n\n\nA girl put all her heart into this treat, never imagining how wonderful the result would be."
   },
   "mcLink": "橡子巧克力",
   "fandomLink": "Acorn_Choco"
@@ -17352,7 +17380,8 @@
   "collectionNo": 1785,
   "obtain": "valentine",
   "profile": {
-    "CN": "呼延灼赠予的情人节巧克力。\n\n巧克力本身是精心制作出来的令收到的人很开心的手制品。\n而味道亦是一流的，是就算只有这个也很让人满足的佳品。\n\n但，呼延灼在送出这个巧克力前，\n还是犯了不停在御主耳边碎碎念的愚蠢行为，\n那犯蠢的证据也通过电子录音存了下来。\n\n巧克力旁边的终端，\n就是呼延灼录音的专用播放器。\n阿波罗（毛绒玩偶）悄悄地，\n进行完整录音之后的备份。\n\n此外，还附赠了呼延灼“咿呀”地尖叫着，\n提出了『如果这个也能算到情人节里，那请务必也回我\n窃窃私语啊！！』这样大胆的要求的样子。\n\n通过双方的保密协商，平安顺利地达成了协议。\n当然，阿波罗（毛绒玩偶）是知道的。\n\n距离清姬知道这事，大概没多久了。"
+    "CN": "呼延灼赠予的情人节巧克力。\n\n巧克力本身是精心制作出来的令收到的人很开心的手制品。\n而味道亦是一流的，是就算只有这个也很让人满足的佳品。\n\n但，呼延灼在送出这个巧克力前，\n还是犯了不停在御主耳边碎碎念的愚蠢行为，\n那犯蠢的证据也通过电子录音存了下来。\n\n巧克力旁边的终端，\n就是呼延灼录音的专用播放器。\n阿波罗（毛绒玩偶）悄悄地，\n进行完整录音之后的备份。\n\n此外，还附赠了呼延灼“咿呀”地尖叫着，\n提出了『如果这个也能算到情人节里，那请务必也回我\n窃窃私语啊！！』这样大胆的要求的样子。\n\n通过双方的保密协商，平安顺利地达成了协议。\n当然，阿波罗（毛绒玩偶）是知道的。\n\n距离清姬知道这事，大概没多久了。",
+    "NA": "Valentine's Day chocolate from Huyan Zhuo.\n\n\nThese finely-made chocolates were clearly crafted with plenty of joy. Their flavor is first-rate and they are more than satisfactory as a gift.\n\n\nBut before Huyan Zhuo handed them over, she committed the grave error of whispering roughly into her Master's ear. Her criminal actions were digitally recorded. The device next to the chocolates is made to exclusively replay Huyan Zhuo's voice. Apollo('s plush doll) captured her shame in its full, lossless glory.\n\n\nIt is only a matter of time before Kiyohime learns of this."
   },
   "unknownCharacters": ["芙芙"],
   "mcLink": "附带悄悄话语音的巧克力",
@@ -17361,7 +17390,8 @@
   "collectionNo": 1786,
   "obtain": "valentine",
   "profile": {
-    "CN": "黄飞虎的回礼。\n\n和他穿在身上的那件款式相似的外套。\n虽然并没有一目了然的华丽感，\n但有着见者都能看出门道的精湛剪裁。\n\n特征在于其实用性，这一点得到了身为武人的他的权威认证。\n防刃性、耐火性、耐冲击性能都很优秀，\n经过适应后还可以反弹箭矢或投掷物。\n虽然再怎么说要反弹宝贝……还是有些困难就是了……\n希望务必在重要的战场上穿戴的一件礼物。\n\n实际上一眼就能看出有显示与黄家有缘的部分，\n据说在一部分地区穿着的话，会被于黄家有恩的人们\n非常热情地招待。"
+    "CN": "黄飞虎的回礼。\n\n和他穿在身上的那件款式相似的外套。\n虽然并没有一目了然的华丽感，\n但有着见者都能看出门道的精湛剪裁。\n\n特征在于其实用性，这一点得到了身为武人的他的权威认证。\n防刃性、耐火性、耐冲击性能都很优秀，\n经过适应后还可以反弹箭矢或投掷物。\n虽然再怎么说要反弹宝贝……还是有些困难就是了……\n希望务必在重要的战场上穿戴的一件礼物。\n\n实际上一眼就能看出有显示与黄家有缘的部分，\n据说在一部分地区穿着的话，会被于黄家有恩的人们\n非常热情地招待。",
+    "NA": "A return gift from Huang Feihu.\n\n\nThis cloak resembles the one he wears. It isn't particularly extravagant but a practiced eye will appreciate the beauty of its craftmanship.\n\n\nIt is a distinctly practical garment and has the Huang warrior's personal seal of approval. Boasting excellent resistance to blades, fire, and blunt trauma, a trained wearer can even use it to ward off arrows and thrown projectiles. Noble Phantasms...might be a challenge...but nonetheless, it's a precious mantle you ought to don on the battlefield.\n\n\nIt is said the fine details will be instantly recognizable to anyone connected to the Huang family. Wear it in certain areas, and you'll be received with warm hospitality."
   },
   "mcLink": "黄家的外套",
   "fandomLink": "Mantle_of_the_Huang_Clan"
@@ -17369,7 +17399,8 @@
   "collectionNo": 1787,
   "obtain": "valentine",
   "profile": {
-    "CN": "九纹龙伊丽莎赠予的情人节巧克力。\n\n蜡笔巧克力是在九纹龙伊丽莎的设想下，\n由布狄卡制作，并由戈尔德鲁夫施展防虫术的东西。\n（然后由爱迪生规划大规模生产）\n巧克力的味道并没有变化，\n保质期大概有个2000年左右吧。\n\n画上所画的是九纹龙伊丽莎所能想到的\n最喜欢的人们，但好像还是远远不够的样子。\n好像实际上是打算画上108个人的。\n\n「要好好保guan喔，shouling！」\n\n本想放到画框里好好保存来着，\n但被无比害羞的九纹龙伊丽莎驳回了。"
+    "CN": "九纹龙伊丽莎赠予的情人节巧克力。\n\n蜡笔巧克力是在九纹龙伊丽莎的设想下，\n由布狄卡制作，并由戈尔德鲁夫施展防虫术的东西。\n（然后由爱迪生规划大规模生产）\n巧克力的味道并没有变化，\n保质期大概有个2000年左右吧。\n\n画上所画的是九纹龙伊丽莎所能想到的\n最喜欢的人们，但好像还是远远不够的样子。\n好像实际上是打算画上108个人的。\n\n「要好好保guan喔，shouling！」\n\n本想放到画框里好好保存来着，\n但被无比害羞的九纹龙伊丽莎驳回了。",
+    "NA": "Valentine's Day chocolate from Elisa the Nine-Tattooed Dragon.\n\n\nElisa came up with the idea of crayon chocolates, Boudica made them, and Goredolf cast an insect-repellent spell. (Edison also took them for mass-production.) They still taste like chocolate, albeit with a shelf life of about 2,000 years.\n\n\nElisa packed every person she could think of into her drawing, but it still looks like she ran out of room. Apparently, she wanted to include 108 people.\n\n\n\"Take good care of it, Leader!\"\n\n\nYou wanted to frame and hang it but she shot down that idea out of embarrassment."
   },
   "characters": [26, 158, 159, 365, 367],
   "unknownCharacters": ["藤丸立香(女性)", "藤丸立香(男性)"],
@@ -17379,7 +17410,8 @@
   "collectionNo": 1788,
   "obtain": "valentine",
   "profile": {
-    "CN": "布里托玛特赠予的情人节巧克力。\n\n依照布里托玛特想象中的\n妖精国的样子而做出来的一盘。\n用了各种各样的颜色不一的巧克力和饼干\n再现出了城堡与人物。\n\n布里托玛特仅一晚就做出了好几盘这个东西……\n并非如此。\n\n其实是一边向厨房组的英灵们请教制作方法，\n一边又练习了好几日，才终于做出了\n自己觉得还算过得去的作品。"
+    "CN": "布里托玛特赠予的情人节巧克力。\n\n依照布里托玛特想象中的\n妖精国的样子而做出来的一盘。\n用了各种各样的颜色不一的巧克力和饼干\n再现出了城堡与人物。\n\n布里托玛特仅一晚就做出了好几盘这个东西……\n并非如此。\n\n其实是一边向厨房组的英灵们请教制作方法，\n一边又练习了好几日，才终于做出了\n自己觉得还算过得去的作品。",
+    "NA": "Valentine's Day chocolate from Britomart.\n\n\nBritomart created this plate with Faerie Britain in mind. The castle and people have been recreated with vividly colored chocolates and cookies.\n\n\nIt was also most definitely not baked in a single night.\n\n\nStudying under the kitchen Heroic Spirits, Britomart practiced every day until she managed something she was satisfied with."
   },
   "characters": [309, 310, 311, 312],
   "mcLink": "巧克力妖精国",
@@ -17388,7 +17420,8 @@
   "collectionNo": 1789,
   "obtain": "valentine",
   "profile": {
-    "CN": "言峰神父的回礼。\n\n小型的，男女兼用款复古风腕表。\n明明没有故障，不知为何表针却不动了。\n其上显示的时间与2015年的某日一致。\n\n有朝一日，这只表重新转动的时候。\n不知道就会失去些什么，\n会得到些什么，\n以及，会见识到什么样的风景呢。"
+    "CN": "言峰神父的回礼。\n\n小型的，男女兼用款复古风腕表。\n明明没有故障，不知为何表针却不动了。\n其上显示的时间与2015年的某日一致。\n\n有朝一日，这只表重新转动的时候。\n不知道就会失去些什么，\n会得到些什么，\n以及，会见识到什么样的风景呢。",
+    "NA": "A return gift from Father Kotomine.\n\n\nThis small antique wristwatch is of a unisex design. Although undamaged, the hands don't move. They stopped on that fateful day in 2015.\n\n\nWhen it eventually begins to tick again...what will you have lost and what will you have gained? And...what will you have seen?"
   },
   "mcLink": "起始的时间",
   "fandomLink": "Beginning_of_Time"
@@ -17396,7 +17429,8 @@
   "collectionNo": 1790,
   "obtain": "valentine",
   "profile": {
-    "CN": "尼托克丽丝〔Alter〕赠予的情人节巧克力。\n\n用盘子盛起来的\n\n梅杰德大人们与\n\n犬大人\n\n尼托克丽丝·Alter仅仅\n做了一根羽毛形状的巧克力，\n不知道为什么就吸引到了这些家伙的目光。\n犬大人虽然看上去是阿努比斯神的分灵，\n但是却一言不发。\n\n来吧……\n考验你勇气的时刻……\n已经来到……"
+    "CN": "尼托克丽丝〔Alter〕赠予的情人节巧克力。\n\n用盘子盛起来的\n\n梅杰德大人们与\n\n犬大人\n\n尼托克丽丝·Alter仅仅\n做了一根羽毛形状的巧克力，\n不知道为什么就吸引到了这些家伙的目光。\n犬大人虽然看上去是阿努比斯神的分灵，\n但是却一言不发。\n\n来吧……\n考验你勇气的时刻……\n已经来到……",
+    "NA": "Valentine's Day chocolate from Nitocris (Alter).\n\n\nSurrounding the dish\n\nare Medjeds\n\nand a noble hound.\n\n\nNitocris Alter made a chocolate in the shape of a single feather. It is unknown why these individuals have sought it out. The dog appears to be a Divided Spirit of Anubis but it declines to explain itself.\n\n\nNow...\n\nIt is time...\n\n...to test your courage."
   },
   "unknownCharacters": ["梅杰德"],
   "mcLink": "这是什么？",
@@ -17405,7 +17439,8 @@
   "collectionNo": 1791,
   "obtain": "valentine",
   "profile": {
-    "CN": "特斯卡特利波卡的回礼。\n\n倾注进高级玻璃酒杯中的并不是酒精，\n而是还在咕嘟冒泡的热巧克力。\n其中充满了能够令疲惫感一扫而空的极致的甘甜，\n和化解了甜腻的玄妙的苦涩，\n以及，能够让你怀揣切实的未来与希望的，\n变得斗志昂扬的力量。\n\n「对你来说还是这个比较合适吧。\n　用酩酊大醉来放任自己\n　陷在对未来的不安和恐惧里这种事，等你长大成人了再说吧」\n\n虽然外表和言行都很可怕，但这份以引导之名见称的体贴，\n是毫无作伪的神明大人的风范呢。"
+    "CN": "特斯卡特利波卡的回礼。\n\n倾注进高级玻璃酒杯中的并不是酒精，\n而是还在咕嘟冒泡的热巧克力。\n其中充满了能够令疲惫感一扫而空的极致的甘甜，\n和化解了甜腻的玄妙的苦涩，\n以及，能够让你怀揣切实的未来与希望的，\n变得斗志昂扬的力量。\n\n「对你来说还是这个比较合适吧。\n　用酩酊大醉来放任自己\n　陷在对未来的不安和恐惧里这种事，等你长大成人了再说吧」\n\n虽然外表和言行都很可怕，但这份以引导之名见称的体贴，\n是毫无作伪的神明大人的风范呢。",
+    "NA": "A return gift from Tezcatlipoca.\n\n\nThe luxurious glass is filled not with alcohol, but thick hot chocolate. Its exquisite sweetness washes away your fatigue, its complex bitterness keeps you wanting more, and it brims with power that restores your will to fight for hope and the future.\n\n\n\"A drink like this is right for you. You can wash away your anxiety and fear with liquor once you're older.\"\n\n\nWhile his appearance and behavior may be frightening, his concern and guiding principles are nothing less than godly."
   },
   "mcLink": "乐园的一杯",
   "fandomLink": "One_Glassful_of_Paradise"
@@ -17413,7 +17448,8 @@
   "collectionNo": 1792,
   "obtain": "valentine",
   "profile": {
-    "CN": "特诺奇蒂特兰赠予的情人节巧克力。\n\n能够进入都市型引擎机器人·特诺奇蒂特兰的\n驾驶舱室的钥匙。\n也是专门另配的钥匙。仿造了蜂鸟形状的银钥匙，\n和以钥匙为模制作的巧克力。\n\n这之后，出现了有关会劝诱刚从模拟室结束训练出来，\n准备回到个人房间的御主\n「走错路了哦。这边的房间\n　才能为您提供优质的休息……对吧？」\n的自称神明的身影的目击情报。"
+    "CN": "特诺奇蒂特兰赠予的情人节巧克力。\n\n能够进入都市型引擎机器人·特诺奇蒂特兰的\n驾驶舱室的钥匙。\n也是专门另配的钥匙。仿造了蜂鸟形状的银钥匙，\n和以钥匙为模制作的巧克力。\n\n这之后，出现了有关会劝诱刚从模拟室结束训练出来，\n准备回到个人房间的御主\n「走错路了哦。这边的房间\n　才能为您提供优质的休息……对吧？」\n的自称神明的身影的目击情报。",
+    "NA": "Valentine's Day chocolate from Tenochtitlan.\n\n\nThese are keys to the cockpit of the city-type engine robot, Tenochtitlan. You could call them master keys. One is a silver, hummingbird-shaped key, while the other is a chocolate modeled after it.\n\n\nLater, the self-styled Divine Spirit was witnessed soliciting her Master on their way back to their quarters after simulator training.\n\n\n\"You're going the wrong way. You'd get better quality rest in my room...don't you think?\""
   },
   "mcLink": "蜂鸟是秘密房间",
   "fandomLink": "Hummingbird_for_a_Secret_Chamber"
@@ -17421,7 +17457,8 @@
   "collectionNo": 1793,
   "obtain": "valentine",
   "profile": {
-    "CN": "库库尔坎赠予的情人节巧克力。\n\n巴掌大小的，表面光滑的球体巧克力。看起来就好像宇宙飞船的核心。\n是不管三七二十一把可可一下子凝集浓缩后造出来的。\n其压缩密度在地球上是无法再现的。也就是说不可食用。哎呀，就当成一种纪念吧。\n附赠的恐龙巧克力（玛修协力）有四只之多。\n\n还具备有巧克力以外的机能，但没有库库尔坎在是不会发动的，希望你可以放心收下。"
+    "CN": "库库尔坎赠予的情人节巧克力。\n\n巴掌大小的，表面光滑的球体巧克力。看起来就好像宇宙飞船的核心。\n是不管三七二十一把可可一下子凝集浓缩后造出来的。\n其压缩密度在地球上是无法再现的。也就是说不可食用。哎呀，就当成一种纪念吧。\n附赠的恐龙巧克力（玛修协力）有四只之多。\n\n还具备有巧克力以外的机能，但没有库库尔坎在是不会发动的，希望你可以放心收下。",
+    "NA": "Valentine's Day chocolate from Kukulcan.\n\n\nA smooth, palm-sized, spherical chocolate. It seems to be the core of a spaceship. Anyway, Kukulcan compressed cacao into this sphere. Its density can't be replicated while on Earth. This means it is completely inedible. Perhaps you can try it on a special occasion. There are also four dinosaur-shaped chocolates on the sides. (Mash helped.)\n\n\nIt does have functions beyond simply serving as a chocolate treat, but rest assured they won't activate unless Kukulcan is present."
   },
   "mcLink": "Orbit Radiance Thing",
   "fandomLink": "Orbit_Radiance_Thing"
@@ -17429,7 +17466,7 @@
   "collectionNo": 1794,
   "obtain": "valentine",
   "profile": {
-    "CN": "若安赠予的情人节巧克力。\n\n使用了香蕉等果品的，豪华明丽的巧克力。\n品尝时不知为何能够看到闪耀着光辉的若安。\n据若安的说法，「就是这样的奇迹嘛」。\n\n不是让品尝者闪闪发光，\n而是让品尝者深感「正在闪闪发光啊」的东西。\n\n另外，不会出现因为面前的人正在闪闪发光，\n就变得尤其有威严感，会想要听她的话这样的现象。\n虽然是若安在高涨的情绪下做出来的，\n但察觉到了「这个要是给其他从者吃了，\n各种意义上都会很麻烦吧？」这一事实，\n没办法，只能和御主一起全部消灭掉了。\n\n另外的另外，若安自己吃了这个巧克力的话，\n若安自己是不会闪耀光芒的，但不知为什么，\n会看到御主正在闪闪发光。\n「也许是只有我想要让其闪耀的人才会变得闪耀\n也说不定呢~你正在闪闪发光哦！」，本人如此辩说。"
+    "CN": "若安赠予的情人节巧克力。\n\n使用了香蕉等果品的，豪华明丽的巧克力。\n品尝时不知为何能够看到闪耀着光辉的若安。\n据若安的说法，「就是这样的奇迹嘛」。\n\n不是让品尝者闪闪发光，\n而是让品尝者深感「正在闪闪发光啊」的东西。\n\n另外，不会出现因为面前的人正在闪闪发光，\n就变得尤其有威严感，会想要听她的话这样的现象。\n虽然是若安在高涨的情绪下做出来的，\n但察觉到了「这个要是给其他从者吃了，\n各种意义上都会很麻烦吧？」这一事实，\n没办法，只能和御主一起全部消灭掉了。\n\n另外的另外，若安自己吃了这个巧克力的话，\n若安自己是不会闪耀光芒的，但不知为什么，\n会看到御主正在闪闪发光。\n「也许是只有我想要让其闪耀的人才会变得闪耀\n也说不定呢～你正在闪闪发光哦！」，本人如此辩说。"
   },
   "mcLink": "闪耀若安巧克力",
   "fandomLink": "Shining_Johanna_Choco"
@@ -17464,7 +17501,7 @@
   "collectionNo": 1798,
   "obtain": "limited",
   "profile": {
-    "CN": "「等……你在干什么啊罗兰！\n　你这样是在让我往那个地方投吗！」\n「有什么好踌躇的？\n　身为勇士之人不论何时、何种境况，都应当勇敢无畏！」\n\n「你们两个恶作剧也得适可而止啊~。\n　就算是游戏，胜负一事也不得怠慢！\n　要是输了的话……你们懂吧？」\n「「王、王啊~！」」\n\n自古以来，打靶就是骑士喜好的活动。\n变作了当代的新颖娱乐器具，会这样兴致勃勃的沉浸其中也是理所当然。\n就这样，今天也在不断打磨着技术。"
+    "CN": "「等……你在干什么啊罗兰！\n　你这样是在让我往那个地方投吗！」\n「有什么好踌躇的？\n　身为勇士之人不论何时、何种境况，都应当勇敢无畏！」\n\n「你们两个恶作剧也得适可而止啊～。\n　就算是游戏，胜负一事也不得怠慢！\n　要是输了的话……你们懂吧？」\n「「王、王啊～！」」\n\n自古以来，打靶就是骑士喜好的活动。\n变作了当代的新颖娱乐器具，会这样兴致勃勃的沉浸其中也是理所当然。\n就这样，今天也在不断打磨着技术。"
   },
   "characters": [94, 343, 344],
   "mcLink": "三中靶心",
@@ -17482,7 +17519,7 @@
   "collectionNo": 1800,
   "obtain": "limited",
   "profile": {
-    "CN": "正因为是献身与算式之人，在同一张棋盘上对弈的话，还在证明当中者和已经抵达结果者的差距才会如此分明。\n经验值的差别，真是无趣。然而另一方面，\n\n「嫩！　太嫩了！　我觉得挺好的哦？\n　毕竟年轻，就是花大力气买教训也不亏的嘛？\n　这可是前辈送给你的值得感激涕零的讲义呢~」\n「我无法认同……\n　就算这是早已得出的答案，也无法认同！\n　我是绝对，不会成为这副样子的大人的！」\n\n精神性这种东西，或许也时常会有逆行的现象发生。\n\n「哎呀呀，真是孩子气啊。\n　见识到了我宿敌的这般姿态，\n　不得不说，其感触真是难以用语言形容……」"
+    "CN": "正因为是献身与算式之人，在同一张棋盘上对弈的话，还在证明当中者和已经抵达结果者的差距才会如此分明。\n经验值的差别，真是无趣。然而另一方面，\n\n「嫩！　太嫩了！　我觉得挺好的哦？\n　毕竟年轻，就是花大力气买教训也不亏的嘛？\n　这可是前辈送给你的值得感激涕零的讲义呢～」\n「我无法认同……\n　就算这是早已得出的答案，也无法认同！\n　我是绝对，不会成为这副样子的大人的！」\n\n精神性这种东西，或许也时常会有逆行的现象发生。\n\n「哎呀呀，真是孩子气啊。\n　见识到了我宿敌的这般姿态，\n　不得不说，其感触真是难以用语言形容……」"
   },
   "characters": [156, 173, 346],
   "mcLink": "证明与反证",
@@ -17500,7 +17537,7 @@
   "collectionNo": 1802,
   "obtain": "limited",
   "profile": {
-    "CN": "「Hannama~！　这就是『赏花』吗！\n　吾辈最喜欢晒太阳了，所以很开心哦！\n　飞虎飞虎觉得怎么样呢？」\n「唔。在御主的故乡能够观赏樱花，\n　十分雅致，确实很不错啊。\n　孩子们看起来也很高兴……」\n\n「哇，花瓣在天上飞呢~！」\n「闹过头了会有危险哦——」\n「这里也有甜点和茶哦！」\n「这个归我啦！　先到先得嘛！」\n\n在春日的暖阳中，武人将双眼微闭。\n仿佛在追忆着昔日的面影。"
+    "CN": "「Hannama～！　这就是『赏花』吗！\n　吾辈最喜欢晒太阳了，所以很开心哦！\n　飞虎飞虎觉得怎么样呢？」\n「唔。在御主的故乡能够观赏樱花，\n　十分雅致，确实很不错啊。\n　孩子们看起来也很高兴……」\n\n「哇，花瓣在天上飞呢～！」\n「闹过头了会有危险哦——」\n「这里也有甜点和茶哦！」\n「这个归我啦！　先到先得嘛！」\n\n在春日的暖阳中，武人将双眼微闭。\n仿佛在追忆着昔日的面影。"
   },
   "characters": [338, 366],
   "mcLink": "春阳灿灿",
@@ -17573,7 +17610,7 @@
   "collectionNo": 1810,
   "obtain": "limited",
   "profile": {
-    "CN": "“请尝一口试试吧~”，她正如此微笑。\n\n很好吃的哦。\n毕竟，往里面加了许许多多的，各式各样的东西嘛。\n你问都往里面放了什么？\n让少女把这种事情说出口未免太不知趣了吧？\n\n以连穿插这样的对话的机会都不给的无懈可击的笑容，\n和仿佛期待着什么的目光，\n她又一次，说出了那句话。\n\n请尝一口，试试吧？"
+    "CN": "“请尝一口试试吧～”，她正如此微笑。\n\n很好吃的哦。\n毕竟，往里面加了许许多多的，各式各样的东西嘛。\n你问都往里面放了什么？\n让少女把这种事情说出口未免太不知趣了吧？\n\n以连穿插这样的对话的机会都不给的无懈可击的笑容，\n和仿佛期待着什么的目光，\n她又一次，说出了那句话。\n\n请尝一口，试试吧？"
   },
   "characters": [124, 192, 199],
   "mcLink": "菌菇主题房间",
@@ -17592,7 +17629,7 @@
   "collectionNo": 1812,
   "obtain": "campaign",
   "profile": {
-    "CN": "「芙芙~……！」\n\n被吊机抓起来的玩偶。\n一丝不苟地盯着它的少女面色凝重。\n在一旁观看的少女和一只兽，正提心吊胆地守望着。\n\n无比焦灼，心跳加速，手心冒汗的紧张感。\n只有在游戏厅才能品味到的体验，\n都浓缩在这一瞬之间。\n\n究竟，这玩偶的命运会走向何方。",
+    "CN": "「芙芙～……！」\n\n被吊机抓起来的玩偶。\n一丝不苟地盯着它的少女面色凝重。\n在一旁观看的少女和一只兽，正提心吊胆地守望着。\n\n无比焦灼，心跳加速，手心冒汗的紧张感。\n只有在游戏厅才能品味到的体验，\n都浓缩在这一瞬之间。\n\n究竟，这玩偶的命运会走向何方。",
     "NA": "\"Fou Foouu...!\"\n\n\nThe plush toy was caught and raised by the crane.\n\nThe girl who fixes her gazes on it intently has a stern expression on her face.\n\nThe girl observing her from the sidelines and the animal gulp nervously and watch attentively.\n\n\nThe white-knuckled tension keeps them nervous and their hearts pounding.\n\nAll the experience that can only be savoured in the Game Centre were condensed into that one moment.\n\n\nIn the end, the fate of that plushie is."
   },
   "characters": [1, 253],
@@ -17796,7 +17833,7 @@
   "collectionNo": 1834,
   "obtain": "bond",
   "profile": {
-    "CN": "难敌从沙恭尼那里得来的骰子套装。\n\n沙恭尼是俱卢族的国王持国的妻子甘陀利的兄长——也就是难敌的舅舅。\n他与难敌交情甚笃，认为难敌应当登上王位，因而给般度五子设下了各种各样的毒计，此外，也和难敌一同参加了俱卢大战。\n据说沙恭尼拥有天才般的赌博才能，作为导致般度五子被流放出国的骰子赌局的最大的策划者为人所知，但那究竟是「正当」到何种程度的赌局呢——\n\n「哎呀，和沙恭尼舅舅一起用骰子赌博让坚战输到\n　身无分文的那个时候，对我们来说\n　真是闪闪发光的回忆啊。那时的热烈气氛、\n　兴奋感、激动感、紧张感……还有那家伙不甘心的表情！\n　只是回想起来，嘶~爽啊！\n　……啊？　你说那是骗局？　喂喂，大爷我可是看过图书馆里\n　放着的赌博题材的漫画哦？　\n　主角不基本上都是靠精明的头脑想出作弊一样的花招来取胜的嘛。\n　听好了哦？　主角这一边出的老千都不算老千，就是这样！\n　也就是说，就算真的这么干了，\n　大爷我也是主角，完全没问题！\n　给我搞清楚这一点！」\n \n……以后绝对不要和这个人玩什么赌局，你在心里如此强烈地发誓。",
+    "CN": "难敌从沙恭尼那里得来的骰子套装。\n\n沙恭尼是俱卢族的国王持国的妻子甘陀利的兄长——也就是难敌的舅舅。\n他与难敌交情甚笃，认为难敌应当登上王位，因而给般度五子设下了各种各样的毒计，此外，也和难敌一同参加了俱卢大战。\n据说沙恭尼拥有天才般的赌博才能，作为导致般度五子被流放出国的骰子赌局的最大的策划者为人所知，但那究竟是「正当」到何种程度的赌局呢——\n\n「哎呀，和沙恭尼舅舅一起用骰子赌博让坚战输到\n　身无分文的那个时候，对我们来说\n　真是闪闪发光的回忆啊。那时的热烈气氛、\n　兴奋感、激动感、紧张感……还有那家伙不甘心的表情！\n　只是回想起来，嘶～爽啊！\n　……啊？　你说那是骗局？　喂喂，大爷我可是看过图书馆里\n　放着的赌博题材的漫画哦？　\n　主角不基本上都是靠精明的头脑想出作弊一样的花招来取胜的嘛。\n　听好了哦？　主角这一边出的老千都不算老千，就是这样！\n　也就是说，就算真的这么干了，\n　大爷我也是主角，完全没问题！\n　给我搞清楚这一点！」\n \n……以后绝对不要和这个人玩什么赌局，你在心里如此强烈地发誓。",
     "NA": "The set of dice Duryodhana received from Shakuni.\n\n\nShakuni was the younger brother of Gandhari, wife of the Kuru king Dhritarashtra— which makes him Duryodhana's uncle. He was quite close with Duryodhana and performed all sorts of misdeeds against the Five Princes, as well as fought in the War, to put the crown on his nephew. Shakuni was particularly a talented genius at gambling and is famous mainly for his star role in the dice game that caused the Five Princes' exile, but as for how honest that gamble was...\n\n\n\"Man... When Uncle Shakuni got Yudhishthira flat broke in that game, that was quite the splendid moment for me and the brothers. The heat, the hype, the thrill, the tension... And their frustrated faces! Just remembering that immediately improves my mood! Huh? He cheated? Oy, don't give me that, I'll have you know that I checked all those gambling manga in the library. They're all the protagonists winning by pulling off some intelligent cheat. Listen here. It's not cheating when it's the protagonist does it! Meaning that, while I'm not saying he cheated, if he did, that's perfectly fine because I'm the protagonist! Get this straight!\"\n\n\nYou vowed in your heart to never gamble against him."
   },
   "mcLink": "沙恭尼的骰子",
@@ -17824,6 +17861,7 @@
     "CN": "那是充斥着赝品的圣杯战争。\n\n缺少的职阶。\n本不应被选中的从者。\n暗中涌动的国家。\n为战争而建造的城镇。\n\n——因为这许多的非常规（Irregular），\n「圣杯战争」陷入混乱，不断扭曲。\n\n跃动在赝造之圣杯的舞台上，\n人类与英灵们的盛宴拉开了帷幕——",
     "NA": "This is a Holy Grail War covered in lies.\n\n\nA missing Servant class...\n\nImpossible Servant summonings...\n\nA nation shrouded in secrecy...\n\nAnd a city created as a battleground.\n\n\nIn the face of such irregularities, the Holy Grail War is twisted and driven into the depth of madness.\n\n\nLet the curtain rise on a masquerade of humans and heroes, made to dance upon a stage of a false Holy Grail."
   },
+  "characters": [432],
   "mcLink": "strange Fake",
   "fandomLink": "Strange_Fake"
 }, {
@@ -18355,7 +18393,7 @@
   "collectionNo": 1895,
   "obtain": "limited",
   "profile": {
-    "CN": "「夏日阳光和大海？\n　没~问题，都是小意思！\n　毕竟我可是还在冰海里抓过大章鱼的！\n　那么，真祖，要上咯~！」\n \n于夏日天穹下现身的吸血公主。\n不得不说，其身姿就如炫目的太阳一般。\n\n能够搞定这样的公主大人的人类真的存在吗，我等只得如此惊叹。"
+    "CN": "「夏日阳光和大海？\n　没～问题，都是小意思！\n　毕竟我可是还在冰海里抓过大章鱼的！\n　那么，真祖，要上咯～！」\n \n于夏日天穹下现身的吸血公主。\n不得不说，其身姿就如炫目的太阳一般。\n\n能够搞定这样的公主大人的人类真的存在吗，我等只得如此惊叹。"
   },
   "characters": [351],
   "mcLink": "光辉之月",
@@ -18493,7 +18531,7 @@
   "collectionNo": 1910,
   "obtain": "eventReward",
   "profile": {
-    "CN": "~同人社团『美少年』谨制\n　『小艾 红豆馅 写真集』~\n \n“小艾”，\n也就是谜之偶像X〔Alter〕的首部写真集。\n如樱饼般惹人怜爱，如水无月（红豆糖糕）般清新爽口。\n为时节的甜蜜增光添彩，敬请品尝这七色绚烂的名点心吧♪\n\n「要知晓和果子之心——\n　为此我要成为它们的馅料！」\n \n收录（扮演）的和果子有：\n樱饼、水无月、琥珀糖、金平糖、三笠（铜锣烧）、有平糖、\n水馒头、水羊羹、菱饼、最中（豆馅糯米饼）、练切（白豆沙面果）等。"
+    "CN": "～同人社团『美少年』谨制\n　『小艾 红豆馅 写真集』～\n \n“小艾”，\n也就是谜之偶像X〔Alter〕的首部写真集。\n如樱饼般惹人怜爱，如水无月（红豆糖糕）般清新爽口。\n为时节的甜蜜增光添彩，敬请品尝这七色绚烂的名点心吧♪\n\n「要知晓和果子之心——\n　为此我要成为它们的馅料！」\n \n收录（扮演）的和果子有：\n樱饼、水无月、琥珀糖、金平糖、三笠（铜锣烧）、有平糖、\n水馒头、水羊羹、菱饼、最中（豆馅糯米饼）、练切（白豆沙面果）等。"
   },
   "characters": [308],
   "mcLink": "小艾 红豆馅 写真集",
@@ -18535,7 +18573,7 @@
   "collectionNo": 1915,
   "obtain": "eventReward",
   "profile": {
-    "CN": "迦勒底游戏部发行的同人志第二号。\n可以说是主机游戏杂烩同人合志。\n本期的内容有，\n\n『十大血腥恋爱游戏』\n『VR武士题材入门专栏』\n『续·阿尔托莉雅的世界插画日记』\n『女武神插画专栏~阿尔托莉雅的世界~』\n『小小说　偶像源平传·决意与起义』\n『小小说　贵公子的忧郁』\n\n等等，各种各样的内容。\n其热度完全不逊于第一号。"
+    "CN": "迦勒底游戏部发行的同人志第二号。\n可以说是主机游戏杂烩同人合志。\n本期的内容有，\n\n『十大血腥恋爱游戏』\n『VR武士题材入门专栏』\n『续·阿尔托莉雅的世界插画日记』\n『女武神插画专栏～阿尔托莉雅的世界～』\n『小小说　偶像源平传·决意与起义』\n『小小说　贵公子的忧郁』\n\n等等，各种各样的内容。\n其热度完全不逊于第一号。"
   },
   "characters": [217, 218, 290, 303, 359],
   "mcLink": "迦勒底尽享游戏",
@@ -18562,7 +18600,7 @@
   "collectionNo": 1918,
   "obtain": "eventReward",
   "profile": {
-    "CN": "~同人社团『美少年』谨制\n　『犬世说美少年录』~\n\n通俗作家·曲亭马琴晚年创作的，\n未完成的读本小说『近世说美少年录』。\n将其中精选出来的名场面，\n由八犬士们以威风凛凛的姿态演出来的短篇影像作品。\n朱之介和杜四郎，\n两位美少年今后的命运将走向何方？！\n迦勒底有志者们提供的配音也是必听的。\n　　　　　　　　　　　（全彩 三十八分钟）\n\n○出演／后期配音\n“末朱之介晴贤”　　信乃　　【齐格鲁德】\n“大江杜四郎成胜”　亲兵卫　【高杉晋作】\n“日高景市”　　　　庄助　　【列奥尼达一世】\n“峰张㭍六郎通能”　现八　　【项羽】\n“黄金”　　　　　　毛野　　【赤兔马】\n“安保箭五郎直行”　大角　　【奥伯龙】\n“十三屋九四郎”　　道节　　【张角】\n“舌俞／铁屑鍜治郎”小文吾　【哥伦布】"
+    "CN": "～同人社团『美少年』谨制\n　『犬世说美少年录』～\n\n通俗作家·曲亭马琴晚年创作的，\n未完成的读本小说『近世说美少年录』。\n将其中精选出来的名场面，\n由八犬士们以威风凛凛的姿态演出来的短篇影像作品。\n朱之介和杜四郎，\n两位美少年今后的命运将走向何方？！\n迦勒底有志者们提供的配音也是必听的。\n　　　　　　　　　　　（全彩 三十八分钟）\n\n○出演／后期配音\n“末朱之介晴贤”　　信乃　　【齐格鲁德】\n“大江杜四郎成胜”　亲兵卫　【高杉晋作】\n“日高景市”　　　　庄助　　【列奥尼达一世】\n“峰张㭍六郎通能”　现八　　【项羽】\n“黄金”　　　　　　毛野　　【赤兔马】\n“安保箭五郎直行”　大角　　【奥伯龙】\n“十三屋九四郎”　　道节　　【张角】\n“舌俞／铁屑鍜治郎”小文吾　【哥伦布】"
   },
   "unknownCharacters": ["亲兵卫", "信乃", "大角", "小文吾", "庄助", "毛野", "现八", "道节"],
   "mcLink": "犬世说美少年录",
@@ -18589,7 +18627,7 @@
   "collectionNo": 1921,
   "obtain": "eventReward",
   "profile": {
-    "CN": "这是一幅镌刻满了『此刻』的，一夏的创作壁画。\n聚集到一起的战士（强手）们，\n将欢笑、泪水、野心和努力，这些麻烦得不得了的东西\n通通混合到一起，完成的至高的梦之迹。\n即便夏天终有结束之时，\n\n那欢乐的时光，\n那难过的时光，\n那彼此欢笑的时光，\n那互相竞争的时光，\n\n那所有的一切，也希望你一定不要忘记。\n\n「那么就这样，后会有期！\n　各位，辛苦啦~！」"
+    "CN": "这是一幅镌刻满了『此刻』的，一夏的创作壁画。\n聚集到一起的战士（强手）们，\n将欢笑、泪水、野心和努力，这些麻烦得不得了的东西\n通通混合到一起，完成的至高的梦之迹。\n即便夏天终有结束之时，\n\n那欢乐的时光，\n那难过的时光，\n那彼此欢笑的时光，\n那互相竞争的时光，\n\n那所有的一切，也希望你一定不要忘记。\n\n「那么就这样，后会有期！\n　各位，辛苦啦～！」"
   },
   "characters": [1, 25, 76, 81, 121, 122, 123, 219, 249, 290, 307, 315, 349, 365, 385, 386, 387, 388, 389, 390, 391, 392],
   "unknownCharacters": ["科尔努诺斯", "藤丸立香(女性)", "藤丸立香(男性)"],
@@ -18923,7 +18961,7 @@
     "CN": "疾病灾殃之类自是早有认知。\n但于等待邂逅之人而言未免太过无可奈何。\n既然如此，委身于这小小的纸片，也不失为一种乐趣。\n\n究竟是自己期待的结果，还是别的什么呢。\n来猜猜看吧，少女们的未来运势会是？"
   },
   "characters": [142, 196],
-  "mcLink": "女神之御签",
+  "mcLink": "女神的御签",
   "fandomLink": "Goddesses'_Fortune_Slip"
 }, {
   "collectionNo": 1959,
@@ -18932,7 +18970,7 @@
     "CN": "于梅林中漫步的，是一位容姿端丽的纺织匠人。\n\n若说自己与那满载庆贺之意，\n飞舞于空中宣告着春天到来的鸟儿们并无不同，\n便赶在群芳之前，独自惹人怜爱地绽放吧。"
   },
   "characters": [307],
-  "mcLink": "鹤赏花初绽",
+  "mcLink": "初绽花中鹤",
   "fandomLink": "Crane_Beginning_to_Blossom"
 }, {
   "collectionNo": 1960,
@@ -18962,13 +19000,13 @@
   },
   "characters": [2],
   "unknownCharacters": ["奥尔加玛丽·阿尼姆斯菲亚", "藤丸立香(女性)"],
-  "mcLink": "概念礼装EXP卡：当年菜倒也不错就是了",
+  "mcLink": "概念礼装EXP卡：御节料理虽好",
   "fandomLink": "Craft_Essence_EXP_Card:_Osechi_is_Fine_Too"
 }, {
   "collectionNo": 1963,
   "obtain": "bond",
   "profile": {
-    "CN": "杂院的其中一间——\n\n是过去现界之时，\n日本武尊同自己的御主宫本伊织一起生活的地方。\n原本是伊织自己的住所，但现界中的日本武尊也是和他同吃同睡的。\n\n因为在把它当做生活空间的同时，\n也必须要预备好它作为魔术工房的功能，\n所以打通了邻家的墙壁，以确保空间足够。\n\n据说日本武尊曾无比期待，\n在这一间房中享用的早饭和晚饭。"
+    "CN": "杂院的其中一间——\n\n是过去现界之时，\n大和武尊同自己的御主宫本伊织一起生活的地方。\n原本是伊织自己的住所，但现界中的大和武尊也是和他同吃同睡的。\n\n因为在把它当做生活空间的同时，\n也必须要预备好它作为魔术工房的功能，\n所以打通了邻家的墙壁，以确保空间足够。\n\n据说大和武尊曾无比期待，\n在这一间房中享用的早饭和晚饭。"
   },
   "mcLink": "我珍爱的时光",
   "fandomLink": "My_Dearest_Days"
@@ -18980,7 +19018,7 @@
   },
   "characters": [1, 256, 284, 309, 310, 311, 312, 315, 316, 389, 426],
   "unknownCharacters": ["伍德沃斯", "博格特", "斯普里根", "欧若拉", "科尔努诺斯", "贝里尔·伽特"],
-  "mcLink": "妖精国的正月公演",
+  "mcLink": "妖精国新年演出",
   "fandomLink": "Faerie_Kingdom's_New_Year_Show"
 }, {
   "collectionNo": 1965,
@@ -19050,10 +19088,10 @@
   "collectionNo": 1972,
   "obtain": "bond",
   "profile": {
-    "CN": "——水畔的一夜。\n\n英灵宫本伊织并没有那段记忆。\n惟有浮照在彼方的那轮明月，划过他的脑海。",
+    "CN": "&#32;\n\n\n——水畔的一夜。\n\n英灵宫本伊织并没有那段记忆。\n惟有浮照在彼方的那轮明月，划过他的脑海。",
     "NA": "\n\n\n\n――― One night in the port.\n\n\nThe Heroic Spirit Miyamoto Iori doesn't have this memory. \n\nOnly the moon in the distant sky flashes in his mind. \n"
   },
-  "mcLink": "水畔的一夜",
+  "mcLink": "港湾一夜",
   "fandomLink": "One_Night_at_the_Port"
 }, {
   "collectionNo": 1973,
@@ -19165,7 +19203,7 @@
   "collectionNo": 1984,
   "obtain": "limited",
   "profile": {
-    "CN": "时值迦勒底大学的春季假期。\n\n而这位，是不知出于消遣时间还是想赚QP的动机，\n近来频繁造访我家的家庭教师。\n\n「怎么了？　状态不太好哦~」\n\n今天也是光顾着脑子里胡思乱想的一天，\n学习也就更谈不上有进展了。"
+    "CN": "时值迦勒底大学的春季假期。\n\n而这位，是不知出于消遣时间还是想赚QP的动机，\n近来频繁造访我家的家庭教师。\n\n「怎么了？　状态不太好哦～」\n\n今天也是光顾着脑子里胡思乱想的一天，\n学习也就更谈不上有进展了。"
   },
   "characters": [374],
   "mcLink": "褒奖要在学习后",
@@ -19403,7 +19441,7 @@
   "collectionNo": 2013,
   "obtain": "valentine",
   "profile": {
-    "CN": "日本武尊的赠礼。\n\n摆在餐桌上的一整套早饭。\n刚煮出锅的白米饭、味增汤、咸菜和烤鲹鱼干——\n\n似乎是再现了过去在举办盈月之仪的日子里，\n日本武尊所享用的早饭。\n据红阎魔和卫宫所说，米饭的煮法是江户风格的。\n味增汤也可以根据个人喜好选择纳豆的有无。\n\n……由于对这个赠礼的存在有所耳闻的\n日本系英灵们的强烈要求，\n听说食堂的早餐菜单上添加了一项「江户式早饭套餐」。\n（和此前的「和式早饭套餐」是两种东西！）"
+    "CN": "大和武尊的赠礼。\n\n摆在餐桌上的一整套早饭。\n刚煮出锅的白米饭、味增汤、咸菜和烤鲹鱼干——\n\n似乎是再现了过去在举办盈月之仪的日子里，\n大和武尊所享用的早饭。\n据红阎魔和卫宫所说，米饭的煮法是江户风格的。\n味增汤也可以根据个人喜好选择纳豆的有无。\n\n……由于对这个赠礼的存在有所耳闻的\n日本系英灵们的强烈要求，\n听说食堂的早餐菜单上添加了一项「江户式早饭套餐」。\n（和此前的「和式早饭套餐」是两种东西！）"
   },
   "mcLink": "朝饷一膳",
   "fandomLink": "Breakfast"
@@ -19411,7 +19449,7 @@
   "collectionNo": 2014,
   "obtain": "valentine",
   "profile": {
-    "CN": "日本武尊的回礼。\n\n————轻轻放置在布上的一枚勾玉。\n\n日本武尊持有的，放在衣服下面的东西。\n据说是蕴含有守护的力量。\n没有铭文。\n虽然魔术性质上的具体效果有怎样的程度尚不明了，\n但被视为一种护身符。\n\n关于这枚勾玉……\n据说芦屋道满对此表露了些许的震惊，\n伊吹童子则点头微笑，\n而鬼一法眼放声大笑了一番。"
+    "CN": "大和武尊的回礼。\n\n————轻轻放置在布上的一枚勾玉。\n\n大和武尊持有的，放在衣服下面的东西。\n据说是蕴含有守护的力量。\n没有铭文。\n虽然魔术性质上的具体效果有怎样的程度尚不明了，\n但被视为一种护身符。\n\n关于这枚勾玉……\n据说芦屋道满对此表露了些许的震惊，\n伊吹童子则点头微笑，\n而鬼一法眼放声大笑了一番。"
   },
   "mcLink": "守护之勾玉",
   "fandomLink": "Protective_Magatama"
@@ -19543,7 +19581,7 @@
   "collectionNo": 2029,
   "obtain": "limited",
   "profile": {
-    "CN": "醒过来的时候，人已经在医务室了。\n\n「喂~御主？\n　听说你在肝周回本的时候晕倒了啊。\n　还有哪里疼吗？　能正常说话吗？」\n「太好了，看来烧已经退了。\n　虽然努力不是坏事，\n　但今天还是不要勉强自己了，好好休息吧，御主。」\n「餐食也准备好了。\n　只有苹果的话营养不太够吧。\n　要是还有什么想要的，马上就能拿过来。」\n \n在温暖的阳光中眯起眼睛。\n为了能在将要到来的明天里再一次振作起来。"
+    "CN": "醒过来的时候，人已经在医务室了。\n\n「喂～御主？\n　听说你在肝周回本的时候晕倒了啊。\n　还有哪里疼吗？　能正常说话吗？」\n「太好了，看来烧已经退了。\n　虽然努力不是坏事，\n　但今天还是不要勉强自己了，好好休息吧，御主。」\n「餐食也准备好了。\n　只有苹果的话营养不太够吧。\n　要是还有什么想要的，马上就能拿过来。」\n \n在温暖的阳光中眯起眼睛。\n为了能在将要到来的明天里再一次振作起来。"
   },
   "characters": [43, 80, 208],
   "mcLink": "御主的一日",
@@ -20355,7 +20393,7 @@
   "collectionNo": 2118,
   "obtain": "bond",
   "profile": {
-    "CN": "啊————……\n开心快乐的夏天要结束啦————……\n\n综上所述，这把电锯也差不多该退役啦。\n机会难得，就像老电影里演的那样，拿着这个打打闹闹，\n骨碌骨碌地转圈玩玩试试吧。\n由御主来。\n\n不行吗。这样啊。那就我来吧。\n\n一、二！骨~碌~骨~碌~骨~碌~骨~碌~\n哎呀呀、眼冒金星啦！要晕啦要晕啦！\n\n呼咿——我说，御主啊。\n夏天，过得很开心吧？\n嗯嗯。那样就好。\n\n终有一天，御主躺在床上，闭上眼睛，\n在形形色色的人的簇拥下死去的时候啊。\n\n为了你能在那个时候回想起这个风景，\n给我好好刻在脑子里啊——\n\n……不过嘛，从现在开始考虑死的事情也太早了吧！\n差不多一百年以后再回想起来吧——！"
+    "CN": "啊————……\n开心快乐的夏天要结束啦————……\n\n综上所述，这把电锯也差不多该退役啦。\n机会难得，就像老电影里演的那样，拿着这个打打闹闹，\n骨碌骨碌地转圈玩玩试试吧。\n由御主来。\n\n不行吗。这样啊。那就我来吧。\n\n一、二！骨～碌～骨～碌～骨～碌～骨～碌～\n哎呀呀、眼冒金星啦！要晕啦要晕啦！\n\n呼咿——我说，御主啊。\n夏天，过得很开心吧？\n嗯嗯。那样就好。\n\n终有一天，御主躺在床上，闭上眼睛，\n在形形色色的人的簇拥下死去的时候啊。\n\n为了你能在那个时候回想起这个风景，\n给我好好刻在脑子里啊——\n\n……不过嘛，从现在开始考虑死的事情也太早了吧！\n差不多一百年以后再回想起来吧——！"
   },
   "mcLink": "在晚霞的天空下我骨碌骨碌地转",
   "fandomLink": "I_Was_Spinning_Around_During_the_Afterglow_Sky"
@@ -20638,23 +20676,232 @@
   "fandomLink": "Ornament_d'Étoile"
 }, {
   "collectionNo": 2150,
+  "obtain": "limited",
   "profile": {
-    "CN": "“虽然这里是为各位圣诞老人们帮忙的特殊事件解决室，\n但享受圣诞节也是活动内容之一。\n综上所述，这是来自前辈的慰问品，\n送给今天依然努力的你。”\n\n身着修女服的她这样说着，递出了包裹。\n以宛如传播平稳福音的圣女的目光。"
+    "CN": "「虽然这里是为各位圣诞老人提供帮助的\n　特殊事件解决室，\n　但享受圣诞节也是活动内容之一。\n　综上所述，这是来自前辈的慰问品，\n　送给今天依然在勤勉努力的你。」\n \n身着修女服的她这样说着，递出了包裹。\n伴随着宛如传播安宁福音的圣女般的目光。"
   },
-  "mcLink": "聖なる夜に祝福を"
+  "characters": [418],
+  "mcLink": "予圣夜以祝福",
+  "fandomLink": "Blessings_of_the_Holy_Night"
 }, {
   "collectionNo": 2151,
-  "mcLink": "歳末の贈り物"
+  "obtain": "limited",
+  "profile": {
+    "CN": "在腾腾升起的蒸汽中，\n冰凉的脸颊也感到了暖意。\n\n细细炖煮的食材的味道，\n连身体的内芯都能完全渗透到。\n\n为了将倾注在菜肴中的念想传达，\n直到出锅上菜都小心仔细。"
+  },
+  "characters": [31],
+  "mcLink": "岁末的礼物",
+  "fandomLink": "Year_End_Present"
 }, {
   "collectionNo": 2152,
-  "mcLink": "謎のネコG"
+  "obtain": "limited",
+  "profile": {
+    "CN": "这里是安宁爱尔博迦勒底分店。\n今天也有跨越次元的稀客光临。\n\n一只手端着草莓奶油蛋糕，\n他讲述起发端自雪山里的研究机构的诸多奇迹。\n\n被叫做“新所长”的他的名字是……"
+  },
+  "characters": [82, 86, 154, 263],
+  "unknownCharacters": ["戈尔德鲁夫·穆吉克"],
+  "mcLink": "谜之猫咪G",
+  "fandomLink": "Mysterious_Neco-G"
 }, {
   "collectionNo": 2153,
-  "mcLink": "マジカルシオン"
+  "obtain": "eventReward",
+  "profile": {
+    "CN": "当魔手伸向迦勒底之时，\n魔法少女便从小巷子里现身。\n\n「请放心吧，一切都在计算之内！」\n\n那从阿特拉斯魔杖中飞舞而出的光芒，\n能够瞬间停止对象的思考……好像是这样的。"
+  },
+  "unknownCharacters": ["希翁·艾尔特纳姆·索卡里斯"],
+  "mcLink": "魔法希翁",
+  "fandomLink": "Magical_Sion"
 }, {
   "collectionNo": 2154,
   "obtain": "bond",
-  "mcLink": "ファンタズムロッド・麗華"
+  "profile": {
+    "CN": "对魔法少女来说必不可少的东西。\n那便是陪伴身侧的吉祥物，\n或携手并进的友人，\n或彼此竞争的对手，\n或顺应时代的主题，\n总而言之，虽然答案有很多，但排第一的绝对是这个。\n和现在的自己不同的自己。\n令“变身”化作可能的勇气与希望。\n就算是不被需要的废品，\n只要相信着并一直使用下去，也会化作独一无二（Only one）的宝物。\n\n「只要还有想做的梦，不管是谁都可以变身哦。\n　哪怕是吸血鬼，也是一样的♡」\n\n玩具不知何时起化作了真品。\n价值，并不是在最初就有的事物，\n而是在最后才得以诞生的。"
+  },
+  "mcLink": "幻想魔杖·丽华",
+  "fandomLink": "Phantasm_Rod_-_Cheerful"
+}, {
+  "collectionNo": 2155,
+  "obtain": "limited",
+  "profile": {
+    "CN": "身着华美的和服，\n夏之妖精的笑容闪闪发光。\n\n从伞边落下的晴朗日光\n柔和地照亮少女的脸颊。\n\n仿佛在宣告温暖的季节即将到来。"
+  },
+  "characters": [284],
+  "mcLink": "黎明的光晕",
+  "fandomLink": "Halo_of_the_Dawn"
+}, {
+  "collectionNo": 2156,
+  "obtain": "limited",
+  "profile": {
+    "CN": "身着穿不习惯的和服，\n前来参加约定好的新年参拜。\n\n那么，要许什么愿好呢。\n\n一只手端着甜酒，任思绪飘游，\n而在腾腾水汽的那边，熟悉的身影已经近了。"
+  },
+  "unknownCharacters": ["卡多克·泽姆露普斯"],
+  "mcLink": "伴君候春来",
+  "fandomLink": "Waiting_for_Spring_With_You"
+}, {
+  "collectionNo": 2157,
+  "obtain": "limited",
+  "profile": {
+    "CN": "本打算趁它喝得酩酊大醉\n钻空子把秘宝偷出来的，\n但果然还是有些不切实际了。\n倒不如说，这状态比它没喝醉酒的时候还糟糕。\n也有传言说过，要是砍掉它的一个头，\n就会从里面再长出两个新的来。\n究竟还有没有逃出生天的希望呢。"
+  },
+  "characters": [1, 56, 134],
+  "unknownCharacters": ["藤丸立香(女性)"],
+  "mcLink": "遗迹偷盗者",
+  "fandomLink": "Ones_who_Break_Into_Ruins"
+}, {
+  "collectionNo": 2158,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "为了以崭新的心情迎来眼下的一年，\n来把喜庆的话语做成装饰吧！\n\n向洁白的宣纸倾注决意，\n抬手下笔书写一番。\n\n希望大家都能迎接美好的新春。",
+    "NA": "So that you can approach this year with a new feeling,\nDecorate it with happy words!\n\nPut your determination on a piece of white paper,\nI run my brush at the ready.\n\nI hope everyone has a happy new year."
+  },
+  "characters": [1],
+  "unknownCharacters": ["芙芙", "藤丸立香(女性)", "藤丸立香(男性)"],
+  "mcLink": "走笔迎春",
+  "fandomLink": "First_Calligraphy"
+}, {
+  "collectionNo": 2159,
+  "obtain": "exp",
+  "profile": {
+    "CN": "真心祝愿诸位身心健康，\n世界和平。"
+  },
+  "characters": [97, 249, 296],
+  "unknownCharacters": ["奥尔加玛丽·阿尼姆斯菲亚", "藤丸立香(女性)"],
+  "mcLink": "概念礼装EXP卡：信使之杖",
+  "fandomLink": "Craft_Essence_EXP_Card:_Caduceus"
+}, {
+  "collectionNo": 2160,
+  "obtain": "bond",
+  "profile": {
+    "CN": "一位奇异而满怀热情的圣职者曾有言，\n『狮心王有女三人，即傲慢、贪婪与邪淫也。若不将她们远离，等待王的便只有破灭。』\n据传，狮心王接纳此言并回应，\n「那么，我就把那傲慢的嫁给骑士团，把那贪婪的嫁给修道会，把那邪淫的嫁给教会。」\n\n对此，『Saber灵基的』狮心王说道。\n「这可不是因为她们妨碍了我的霸道之路才抛弃她们的，\n　也没有想让骑士团或教会堕落的意思哦？」\n\n「傲慢与忠诚、贪婪与慈爱、邪淫与纯洁……\n　这一切，都是人性的体现。将罪孽和美德一并接纳为自己的家人，\n　反倒能组成有意思的一家子不是吗？」\n\n「不过嘛……随随便便就决定了她们的归宿，\n　可能和御主的伦理观念有所冲突就是了……\n　嗯，罪孽和美德在激烈冲突之后彼此吸引，确实是很有意思嘛！\n　好！　来让诺子小姐或是莎士比亚先生吟咏一番吧！」\n\n三头狮子，与冠以大罪之名号的女儿们。\n\n无论哪一个，都是这位奇异而激烈的王的碎片之一。"
+  },
+  "mcLink": "三头狮子、三重影子的女儿们",
+  "fandomLink": "The_Three_Headed_Lion,_The_Three_Shadowed_Maidens"
+}, {
+  "collectionNo": 2161,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "此刻，过程怎样已经无所谓了。\n只需要记住结果就可以了。\n一直以来都是如此判断的。\n\n然而现在，却愈发地想要\n把眼前这世纪一战的震撼瞬间\n牢牢镌刻在记忆中。\n\n迄今为止，或许这样的感受\n已经有过不知多少次了吧。\n没办法。只能说是浪费时间啊。"
+  },
+  "characters": [1, 238, 370, 371, 372, 373],
+  "unknownCharacters": ["U－奥尔加玛丽", "乌库伯", "伊斯卡利", "卡玛佐茨", "希基克", "恐龙王", "戴比特·泽姆·沃伊德", "杜木兹", "特佩乌", "瓦克昌"],
+  "mcLink": "踢足球咯！",
+  "fandomLink": "Let's_Play_Soccer!"
+}, {
+  "collectionNo": 2162,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "护法少女、黄金骑手、圣夜的摔跤手。\n思索那天宴会上交谈的话语，编织缘分。\n\n“巡灵的祝祭”第1弹！\n神秘之国中，天魔彻夜跳着桑巴到天明，\n此刻重现那样的邂逅——"
+  },
+  "characters": [115, 225, 233],
+  "mcLink": "巡灵的祝祭／壹",
+  "fandomLink": "Evocation_Festival∕One"
+}, {
+  "collectionNo": 2163,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "幻奏偶像、第六天魔王、万圣节的魔女与勇者。\n思索那天宴会上交谈的话语，编织缘分。\n\n“巡灵的祝祭”第2弹！\n圣杯演唱会上，唠唠叨叨南瓜城宣告回归！\n此刻重现那样的邂逅——"
+  },
+  "characters": [61, 69, 138, 308],
+  "mcLink": "巡灵的祝祭／贰",
+  "fandomLink": "Evocation_Festival∕Two"
+}, {
+  "collectionNo": 2164,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "夏日的黑色圣女、享受大海的师父、女剑客浮世绘画家。\n思索那天宴会上交谈的话语，编织缘分。\n\n“巡灵的祝祭”第3弹！\n从者★庆典的白沙滩上，泳装剑豪彼此对峙，\n此刻重现那样的邂逅——"
+  },
+  "characters": [133, 219, 264],
+  "mcLink": "巡灵的祝祭／叁",
+  "fandomLink": "Evocation_Festival∕Three"
+}, {
+  "collectionNo": 2165,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "褐色的小恶魔、天之衣、觉醒的人工生命体。\n思索那天宴会上交谈的话语，编织缘分。\n\n“巡灵的祝祭”第4弹！\n魔法少女向着荣耀（Glory）油门（Accel）全开，\n此刻重现那样的邂逅——"
+  },
+  "characters": [111, 137, 208],
+  "unknownCharacters": ["芙芙"],
+  "mcLink": "巡灵的祝祭／肆",
+  "fandomLink": "Evocation_Festival∕Four"
+}, {
+  "collectionNo": 2166,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "螺钿之瞳的少女、灰色的守墓人、正义与守护的机龙。\n思索那天宴会上交谈的话语，编织缘分。\n\n“巡灵的祝祭”第5弹！\n境界事件于姬路城突然发生，\n此刻重现那样的邂逅——"
+  },
+  "characters": [92, 190, 191, 243],
+  "mcLink": "巡灵的祝祭／伍",
+  "fandomLink": "Evocation_Festival∕Five"
+}, {
+  "collectionNo": 2167,
+  "obtain": "limited",
+  "profile": {
+    "CN": "据说它存在于古老的城墟中。\n\n金银财宝、闪亮的宝石……\n龙就坐镇在这光辉的堆积之上。\n\n仿佛在说，它自己就是最大的宝物。"
+  },
+  "characters": [312],
+  "mcLink": "财宝",
+  "fandomLink": "The_Treasure"
+}, {
+  "collectionNo": 2168,
+  "obtain": "limited",
+  "profile": {
+    "CN": "在岩浆滚热的地下城最深处，\n三个男人正直面着展翼欲动的龙。\n\n用卢恩魔术防下灼热的龙息，\n靠大盾挡住锐利爪牙的斩击。\n\n撑过猛烈的攻势，\n传说中的双剑击碎了坚硬的鳞片！"
+  },
+  "characters": [6, 89, 213],
+  "mcLink": "猎龙人",
+  "fandomLink": "Dragon_Hunting"
+}, {
+  "collectionNo": 2169,
+  "obtain": "limited",
+  "profile": {
+    "CN": "从阳光明媚的清爽休息室里，\n传来员工们欢快的闲聊声。\n\n今天的话题，是关于前不久入职的新人的。\n那个新人，究竟是不是同僚所在意的那个人呢。\n\n距离后辈的视线扫来还有些许时间……"
+  },
+  "characters": [56, 185],
+  "mcLink": "蛇前辈s",
+  "fandomLink": "Snake_Senpais"
+}, {
+  "collectionNo": 2170,
+  "obtain": "eventReward",
+  "profile": {
+    "CN": "灼烫的日光和沙漠的热气炙烤着肌肤。\n\n连伯爵夫人也不堪其苦，\n在埃及的宫殿里渴望着。\n\n只不过她渴望的并非水，\n而是赤红、新鲜的——"
+  },
+  "characters": [46],
+  "mcLink": "沙漠少女",
+  "fandomLink": "Desert_Maiden"
+}, {
+  "collectionNo": 2171,
+  "obtain": "bond",
+  "profile": {
+    "CN": "这是柄无铭的长枪。\n它的主人是谁也没有定论。\n据说曾为维斯孔蒂家族的先祖所使用，但这一点是否属实，也无人能够确认。\n\n作为当事者的她，所记得的只有一切结束后的那个场景。\n冰冷与寂静。\n红黑的体液流入她曾栖息的沼泽中。\n那长枪耸立在那里，好像一块黯灰色的墓碑。\n让人不禁感觉，它似乎注定就这样褪色腐朽，\n就像她自己一般，毫无意义。\n\n自不必说，她并不喜欢那柄长枪。\n只对它感到厌恶，感到恐惧。\n———正因如此，她才觉得，至少自己亲手拿着它，也许还来得好一些吧。\n\n那柄曾属于某个无名骑士的长枪，\n就这样落入了某条无名之蛇的手中。\n\n然而，某天她心血来潮，将长枪擦拭了一番，\n却意外地发现，它竟然变得十分耀眼，闪闪发光。\n\n她意识到，那时所见的一切未必就是全部的真相。\n也说不定，自己曾感到绝望的一切，\n其实意外地并没有那么一无是处———\n\n于是，面对这柄长枪和曾经的自己，\n她的厌恶也减少了些许。"
+  },
+  "mcLink": "杀死了某条蛇的枪",
+  "fandomLink": "Spear_that_Slew_a_Certain_Serpent"
+}, {
+  "collectionNo": 2172,
+  "obtain": "bond",
+  "profile": {
+    "CN": "信浓的高梨家世代相传的这把刀，\n据说是其祖先曾从源赖朝公那里获赐的。\n\n尽管无法得知它有何来由，也无从知晓它是哪位名匠所铸，但无可否认的是，它确实是一把灵妙的宝剑。\n锋刃锐利，足以祓除邪恶，守护国土。\n\n正因如此，\n这把刀才会与出发前去斩杀恶蛇的公主同在，\n也曾击退试图逼近公主床榻的蛇。\n\n并且——即使未曾出鞘，它也见证了许多。\n它见证了蛇的愤怒引发的天灾袭击了城下。\n它见证了公主的祈祷与手镜使云层散开。\n它见证了山神的焦热使蛇池干涸。\n或许，它还见证了某些故事中未曾提及的事情。\n\n无论如何，这把刀都与高梨的公主同在。\n\n与她一样，映照着无数的意义与记忆——\n和那与蛇同在的公主一起，存在着。",
+    "NA": "The sword, an heirloom of the Takahashi family in Shinano, is purportedly a gift from Minamoto no Yoritomo.\n\n\nThough its origins and the identity of its creator remain shrouded in mystery, its mystical nature is undeniable. Exceedingly sharp, it possesses the power to repel evil and safeguard the realm.\n\n\nThus, it accompanied the princess on her quest to vanquish the evil serpent. It also intervened to protect her from the its advances within her chamber.\n\n\nRemarkably, even while sheathed, the sword bore witness to countless events. It observed the natural disasters unleashed upon the castle town by the serpent's fury. It witnessed the clouds disperse under the influence of the princess's prayers and her hand mirror. It beheld the scorching heat of the mountain god drying up the serpent's pond. And perhaps it witnessed occurrences beyond the scope of any recorded tale.\nIn any case, the sword remains an inseparable companion to the Takahashi princess.\n\n\nLike her, it reflects a multitude of meanings and memories—it too remains with the princess by the serpent’s side."
+  },
+  "mcLink": "高梨的宝刀",
+  "fandomLink": "Takanashi's_Treasured_Sword"
+}, {
+  "collectionNo": 2173,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "最初的它只是一颗小小的蛋。\n\n只在这个特异点才得以邂逅的可能性之集合。\n于是，与你一同行走在蛇之大地，\n由你选择的幻想[梦]就这样开花结果。\n\n这孩子就是只属于你的，强力又可爱的龙（Dragon）！"
+  },
+  "mcLink": "我的小小龙种",
+  "fandomLink": "My_Little_Dragon_(CE)"
+}, {
+  "collectionNo": 2174,
+  "obtain": "campaign",
+  "profile": {
+    "CN": "死神守夜人、隐秘女武神、东方的大师。\n思索那天宴会上交谈的话语，编织缘分。\n\n“巡灵的祝祭”第9弹！\n桌游棋盘上的夏日世界道出离别，\n此刻重现那样的邂逅——"
+  },
+  "characters": [283, 304, 359, 360, 361],
+  "mcLink": "巡灵的祝祭／玖",
+  "fandomLink": "Evocation_Festival∕Nine"
 }, {
   "collectionNo": 102019,
   "obtain": "campaign",

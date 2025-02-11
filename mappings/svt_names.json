@@ -451,7 +451,7 @@
     "JP": null,
     "CN": "维齐洛波奇特利",
     "TW": "維齊洛波奇特利",
-    "NA": "Huitzilopochtli",
+    "NA": "Huītzilōpōchtli",
     "KR": "위칠로포치틀리"
   },
   "ウィリアム・シェイクスピア": {
@@ -1009,9 +1009,9 @@
   },
   "サンタズムーン": {
     "JP": null,
-    "CN": null,
+    "CN": "Santasmoon",
     "TW": "聖誕之月",
-    "NA": null,
+    "NA": "Santa's Moon",
     "KR": null
   },
   "シェイクスピア": {
@@ -1275,9 +1275,9 @@
   },
   "スペース・ファンタズムーンＶ": {
     "JP": null,
-    "CN": null,
+    "CN": "Space Phantasmoon Ⅴ",
     "TW": "太空・幻想之月Ｖ",
-    "NA": null,
+    "NA": "Space Phantasmoon V",
     "KR": null
   },
   "スルーズ": {
@@ -1341,7 +1341,7 @@
     "CN": "所多玛之兽／德拉科",
     "TW": "所多瑪之獸／德拉科",
     "NA": "Sodom's Beast/Draco",
-    "KR": "소돔즈 비스트／드라코"
+    "KR": "소돔즈 비스트/드라코"
   },
   "ソロモン": {
     "JP": null,
@@ -1480,7 +1480,7 @@
     "JP": null,
     "CN": "特拉洛克",
     "TW": "特拉洛克",
-    "NA": "Tlaloc",
+    "NA": "Tlāloc",
     "KR": "틀랄록"
   },
   "トリスタン": {
@@ -1523,7 +1523,7 @@
     "CN": "德拉科",
     "TW": "德拉科",
     "NA": "Draco",
-    "KR": null
+    "KR": "드라코"
   },
   "ドレイク": {
     "JP": null,
@@ -1606,7 +1606,7 @@
     "JP": null,
     "CN": "尼托克丽丝·Alter",
     "TW": "尼托克里絲．Alter",
-    "NA": "Nitocris Alter",
+    "NA": "Nitocris (Alter)",
     "KR": "니토크리스(얼터)"
   },
   "ネモ": {
@@ -1812,6 +1812,20 @@
     "NA": "Heroine X Alter",
     "KR": "히로인 X 얼터"
   },
+  "ビショーネ": {
+    "JP": null,
+    "CN": "比肖内",
+    "TW": "比修內",
+    "NA": "Biscione",
+    "KR": null
+  },
+  "ビショーネ〔ウロボロスシフト〕": {
+    "JP": null,
+    "CN": "比肖内〔乌洛波洛斯转变〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ビリー": {
     "JP": null,
     "CN": "比利",
@@ -1858,7 +1872,7 @@
     "JP": null,
     "CN": "Phantasmoon",
     "TW": "幻想之月",
-    "NA": null,
+    "NA": "Phantasmoon",
     "KR": null
   },
   "ファントム": {
@@ -2276,7 +2290,7 @@
   },
   "ヤマトタケル": {
     "JP": null,
-    "CN": "日本武尊",
+    "CN": "大和武尊",
     "TW": "日本武尊",
     "NA": "Yamato Takeru",
     "KR": null
@@ -2326,9 +2340,16 @@
   "ラーヴァ／ティアマト": {
     "JP": null,
     "CN": "幼体／提亚马特",
-    "TW": "幼體／提亞馬特",
+    "TW": "幼體／迪亞馬特",
     "NA": "Larva/Tiamat",
     "KR": "라바/티아마트"
+  },
+  "リチャードⅠ世": {
+    "JP": null,
+    "CN": "理查Ⅰ世",
+    "TW": "理查Ⅰ世",
+    "NA": "Richard I",
+    "KR": null
   },
   "リンド": {
     "JP": null,
@@ -2384,7 +2405,7 @@
     "CN": "洛库斯塔",
     "TW": "洛庫斯塔",
     "NA": "Locusta",
-    "KR": null
+    "KR": "로쿠스타"
   },
   "ロビンフッド": {
     "JP": null,
@@ -2817,7 +2838,7 @@
     "JP": null,
     "CN": "岸波白野",
     "TW": "岸波白野",
-    "NA": "Hakuno Kishinami",
+    "NA": "Kishinami Hakuno",
     "KR": null
   },
   "巌窟王": {
@@ -3120,6 +3141,20 @@
     "TW": "牛若丸",
     "NA": "Ushiwakamaru",
     "KR": "우시와카마루"
+  },
+  "獅子心王": {
+    "JP": null,
+    "CN": "狮心王",
+    "TW": "獅心王",
+    "NA": "Lionheart",
+    "KR": null
+  },
+  "獅子心王リチャード": {
+    "JP": null,
+    "CN": "狮心王理查",
+    "TW": "獅心王理查",
+    "NA": "Richard the Lionheart",
+    "KR": null
   },
   "玄奘三蔵": {
     "JP": null,
@@ -3527,6 +3562,13 @@
     "NA": "Huang Feihu",
     "KR": "황비호"
   },
+  "黒姫": {
+    "JP": null,
+    "CN": "黑姬",
+    "TW": "黑姬",
+    "NA": "Kurohime",
+    "KR": null
+  },
   "ＢＢ": {
     "JP": null,
     "CN": "BB",
@@ -3564,9 +3606,9 @@
   },
   "Ｓ・ファンタズムーン": {
     "JP": null,
-    "CN": null,
+    "CN": "S Phantasmoon",
     "TW": "Ｓ・幻想之月",
-    "NA": null,
+    "NA": "S Phantasmoon",
     "KR": null
   },
   "ＵＤＫ－バーゲスト": {

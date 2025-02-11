@@ -76,6 +76,13 @@
     "NA": "Maiya Hisau",
     "KR": "히사우 마이야"
   },
+  "乌库伯": {
+    "JP": null,
+    "CN": null,
+    "TW": "烏庫伯",
+    "NA": null,
+    "KR": null
+  },
   "亲兵卫": {
     "JP": null,
     "CN": null,
@@ -88,6 +95,13 @@
     "CN": null,
     "TW": "伊什基克",
     "NA": "Xquic",
+    "KR": null
+  },
+  "伊斯卡利": {
+    "JP": null,
+    "CN": null,
+    "TW": "伊斯卡利",
+    "NA": null,
     "KR": null
   },
   "伊薇特·L·雷曼": {
@@ -117,6 +131,13 @@
     "TW": "佐伯直美",
     "NA": "Naomi Saeki",
     "KR": "사에키 나오미"
+  },
+  "俄吉": {
+    "JP": null,
+    "CN": null,
+    "TW": "俄吉",
+    "NA": null,
+    "KR": null
   },
   "信乃": {
     "JP": null,
@@ -160,6 +181,13 @@
     "NA": "Kadoc Zemlupus",
     "KR": "카독 젬루푸스"
   },
+  "卡玛佐茨": {
+    "JP": null,
+    "CN": null,
+    "TW": "卡瑪佐茲",
+    "NA": null,
+    "KR": null
+  },
   "卡瓦斯Ⅱ世": {
     "JP": null,
     "CN": null,
@@ -188,6 +216,13 @@
     "NA": "Monji Gatou",
     "KR": "가토 몬지"
   },
+  "卫宫切嗣": {
+    "JP": null,
+    "CN": null,
+    "TW": "衛宮切嗣",
+    "NA": null,
+    "KR": null
+  },
   "卫宫士郎": {
     "JP": "衛宮士郎",
     "CN": null,
@@ -206,6 +241,13 @@
     "JP": null,
     "CN": null,
     "TW": "參孫",
+    "NA": null,
+    "KR": null
+  },
+  "吉娜可·加里吉利": {
+    "JP": null,
+    "CN": null,
+    "TW": "吉娜可·加里吉利",
     "NA": null,
     "KR": null
   },
@@ -433,6 +475,13 @@
     "NA": "Bazett",
     "KR": "바제트"
   },
+  "巴泽特·弗拉加·马克雷密斯": {
+    "JP": null,
+    "CN": null,
+    "TW": "巴婕特·弗拉加·馬克雷密斯",
+    "NA": null,
+    "KR": null
+  },
   "布兰卡": {
     "JP": "ブランカ",
     "CN": null,
@@ -495,6 +544,13 @@
     "TW": "米諾陶洛斯",
     "NA": "Minotaur",
     "KR": "미노타우로스"
+  },
+  "恐龙王": {
+    "JP": null,
+    "CN": null,
+    "TW": "恐龍王",
+    "NA": null,
+    "KR": null
   },
   "悉多": {
     "JP": "シータ",
@@ -804,6 +860,20 @@
     "NA": "Misaya Reiroukan",
     "KR": "레이로칸 미사야"
   },
+  "理查一世": {
+    "JP": null,
+    "CN": null,
+    "TW": "理查一世",
+    "NA": null,
+    "KR": null
+  },
+  "瓦克昌": {
+    "JP": null,
+    "CN": null,
+    "TW": "瓦克昌",
+    "NA": null,
+    "KR": null
+  },
   "瓶仓光溜": {
     "JP": "瓶倉光溜",
     "CN": null,
@@ -999,6 +1069,13 @@
     "TW": "芙芙",
     "NA": "Fou",
     "KR": "포우"
+  },
+  "芥雏子": {
+    "JP": null,
+    "CN": null,
+    "TW": "芥雛子",
+    "NA": null,
+    "KR": null
   },
   "花凛": {
     "JP": "カリン",

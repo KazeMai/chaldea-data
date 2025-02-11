@@ -117,7 +117,7 @@
     "TargetEnemyClass": {
       "JP": "敵単体と同じクラス",
       "CN": "与敌方单体相同的职阶",
-      "TW": null,
+      "TW": "與敵方單體相同的職階",
       "NA": "Same Class as Target Enemy",
       "KR": null
     }
@@ -220,21 +220,21 @@
       "JP": null,
       "CN": "请选择是否要消耗暴击星获得追加效果",
       "TW": "請選擇是否要消耗暴擊星獲得追加效果",
-      "NA": "Consume C. Stars to get additional effects",
+      "NA": "Please choose whether to expend C. Stars to gain additional effects.",
       "KR": "스타를 소비해서 추가 효과를 얻을지 선택해 주세요"
     },
     "消費しない": {
       "JP": null,
       "CN": "不消耗",
       "TW": "不消耗",
-      "NA": "Don't consume",
+      "NA": "Do not expend",
       "KR": "소비하지 않음"
     },
     "10個消費する": {
       "JP": null,
       "CN": "消耗10个",
       "TW": "消耗10個",
-      "NA": "Consume 10",
+      "NA": "Expend 10 C. Stars",
       "KR": "10개 소비"
     },
     "宝具攻撃時の対象範囲を選択してください": {
@@ -731,8 +731,29 @@
     "岸波白野": {
       "JP": null,
       "CN": "岸波白野",
-      "TW": null,
+      "TW": "岸波白野",
       "NA": "Kishinami Hakuno",
+      "KR": null
+    },
+    "白鷺リンゼ": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "黒姫": {
+      "JP": null,
+      "CN": null,
+      "TW": "黑姬",
+      "NA": null,
+      "KR": null
+    },
+    "ザッハーク": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
       "KR": null
     }
   },
@@ -824,84 +845,84 @@
     "“工事用火薬”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "工事用火藥",
       "NA": null,
       "KR": null
     },
     "“バールのようなモノ”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "像撬棍的東西",
       "NA": null,
       "KR": null
     },
     "“サバイバルソード”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "生存之劍",
       "NA": null,
       "KR": null
     },
     "“携行ランタン”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "攜行燈籠",
       "NA": null,
       "KR": null
     },
     "“オシャレな釣り糸”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "時尚釣線",
       "NA": null,
       "KR": null
     },
     "“スペアギア”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "備用齒輪",
       "NA": null,
       "KR": null
     },
     "“強靭なフック”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "強靭的鉤子",
       "NA": null,
       "KR": null
     },
     "“スーパーエンジン”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "超級引擎",
       "NA": null,
       "KR": null
     },
     "“古木の苗”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "古木的苗",
       "NA": null,
       "KR": null
     },
     "“よく育つ肥料”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "好生長的肥料",
       "NA": null,
       "KR": null
     },
     "“勤労メダル”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "勤勞勳章",
       "NA": null,
       "KR": null
     },
     "“金の鶏のタマゴ”": {
       "JP": null,
       "CN": null,
-      "TW": null,
+      "TW": "金色的雞蛋",
       "NA": null,
       "KR": null
     }

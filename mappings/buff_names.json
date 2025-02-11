@@ -228,11 +228,12 @@
     "CN": "Extra攻击提升",
     "TW": "Extra Attack提升",
     "NA": "Extra Attack Up",
-    "KR": "Extra Attack UP"
+    "KR": "엑스트라 공격 UP"
   },
   "Extra Attack全体攻撃化": {
     "JP": null,
     "CN": "Extra Attack全体攻击化",
+    "TW": "Extra Attack全體攻擊化",
     "TW": "Extra Attack全體攻擊化",
     "NA": null,
     "KR": null
@@ -254,7 +255,7 @@
   "HP回復不能": {
     "JP": null,
     "CN": "生命值无法回复",
-    "TW": "無法恢復HP",
+    "TW": "HP無法恢復",
     "NA": "Recovery Disabled",
     "KR": "HP 회복 불능"
   },
@@ -534,9 +535,9 @@
   "〔毒〕回復化": {
     "JP": null,
     "CN": "〔毒〕回复化",
-    "TW": "〔毒〕回復化",
+    "TW": "〔毒〕恢復化",
     "NA": "[Poison] Recovery",
-    "KR": "[독] 회복"
+    "KR": "[독] 회복화"
   },
   "いいね！": {
     "JP": null,
@@ -645,8 +646,8 @@
   },
   "ウィンター・ナイト・ベル": {
     "JP": null,
-    "CN": null,
-    "TW": "冬夜之鐘",
+    "CN": "冬夜之铃",
+    "TW": "冬夜之鈴",
     "NA": null,
     "KR": null
   },
@@ -710,7 +711,7 @@
     "JP": null,
     "CN": "毅力时发动",
     "TW": "毅力時發動",
-    "NA": "Activate when Guts Is Triggered (Increase NP)",
+    "NA": "Activate when Guts is Triggered",
     "KR": "근성 시 발동"
   },
   "ガッツ時発動(Busterアップ)": {
@@ -920,6 +921,7 @@
     "JP": null,
     "CN": "暴击威力提升〔Rider〕",
     "TW": "爆擊威力提升〔Rider〕",
+    "TW": "爆擊威力提升〔Rider〕",
     "NA": "Critical Strength Up (Rider)",
     "KR": null
   },
@@ -1039,7 +1041,7 @@
     "JP": null,
     "CN": "暴击时追加效果(罗马特性付与)",
     "TW": "爆擊時追加效果(羅馬特性賦予)",
-    "NA": "Bonus Effect with Critical ATK (Apply Rome Trait)",
+    "NA": "Bonus Effect with Critical ATK (Apply Roman Trait)",
     "KR": "크리티컬 공격 시 추가 효과(로마 특성 부여)"
   },
   "クリティカル攻撃耐性ダウン": {
@@ -1380,7 +1382,7 @@
   },
   "スーパー・ドゥーパー・クラフター": {
     "JP": null,
-    "CN": null,
+    "CN": "顶级建筑师",
     "TW": "特級創造者",
     "NA": null,
     "KR": null
@@ -1398,6 +1400,13 @@
     "TW": "目標集中提升〔男性〕",
     "NA": "Target Focused [Male]",
     "KR": "타깃 집중 UP[남성]"
+  },
+  "タゲ集中アップ〔蛇・竜〕": {
+    "JP": null,
+    "CN": "目标集中提升〔蛇・龙〕",
+    "TW": "目標集中提升〔蛇・龍〕",
+    "NA": null,
+    "KR": null
   },
   "ターゲット集中": {
     "JP": null,
@@ -1464,7 +1473,7 @@
   },
   "チョコラフター": {
     "JP": null,
-    "CN": "巧克力漂流家",
+    "CN": "巧克力漂流者",
     "TW": "巧克力漂流家",
     "NA": "Choco Rafter",
     "KR": null
@@ -1488,11 +1497,11 @@
     "CN": "Nega Saver",
     "TW": "Nega Saver",
     "NA": "Nega-Saver",
-    "KR": "네거・세이비어"
+    "KR": "네거 세이비어"
   },
   "ノエル・エトワール": {
     "JP": null,
-    "CN": null,
+    "CN": "圣诞星",
     "TW": "聖誕恆星",
     "NA": null,
     "KR": null
@@ -1597,7 +1606,7 @@
   },
   "フィールド変化〔暗闇〕": {
     "JP": null,
-    "CN": null,
+    "CN": "场地变化〔黑暗〕",
     "TW": "場地變化〔漆黑〕",
     "NA": null,
     "KR": null
@@ -1620,7 +1629,7 @@
     "JP": null,
     "CN": "打消场地特性〔阳光照射〕",
     "TW": "打消場地特性〔陽光照射〕",
-    "NA": "Field Effect Cancellation [Sunlight]",
+    "NA": "Negate Field Trait [Sunlight]",
     "KR": "필드 특성 삭제[햇빛]"
   },
   "フェア・ゲーマー": {
@@ -1639,7 +1648,7 @@
   },
   "プリンシパル・キャスト": {
     "JP": null,
-    "CN": "主演",
+    "CN": "主要演员",
     "TW": "主演",
     "NA": "Principal Cast",
     "KR": null
@@ -1655,7 +1664,7 @@
     "JP": null,
     "CN": "御主技能效果提升",
     "TW": "御主技能效果提升",
-    "NA": "Master Skill Effectiveness Up",
+    "NA": "Master Skill Effect Up",
     "KR": "마스터 스킬 효과 UP"
   },
   "マーキング": {
@@ -1997,7 +2006,7 @@
   "威力アップ〔アルターエゴ〕": {
     "JP": null,
     "CN": "威力提升（Alterego）",
-    "TW": "威力提升﹝Alterego﹞",
+    "TW": "威力提升〔Alterego〕",
     "NA": "STR Up vs. Alterego",
     "KR": null
   },
@@ -2192,7 +2201,7 @@
   },
   "威力アップ〔地の力を持つサーヴァント〕": {
     "JP": null,
-    "CN": "威力提升（地之力的从者）",
+    "CN": "威力提升〔拥有地之力的从者〕",
     "TW": "威力提升〔擁有地之力的從者〕",
     "NA": "Strength Up [Earth Servant]",
     "KR": null
@@ -2393,6 +2402,20 @@
     "NA": "Strength Up [Bond]",
     "KR": "위력 UP[인연]"
   },
+  "威力アップ〔蛇・竜〕": {
+    "JP": null,
+    "CN": "威力提升〔蛇・龙〕",
+    "TW": "威力提升〔蛇・龍〕",
+    "NA": null,
+    "KR": null
+  },
+  "威力アップ〔行動不能〕": {
+    "JP": null,
+    "CN": "威力提升〔无法行动〕",
+    "TW": "威力提升〔行動不能〕",
+    "NA": null,
+    "KR": null
+  },
   "威力アップ〔超巨大〕": {
     "JP": null,
     "CN": "威力提升〔超巨大〕",
@@ -2454,7 +2477,7 @@
     "CN": "存在证明",
     "TW": "存在證明",
     "NA": "Verified Existence",
-    "KR": "존재 증명"
+    "KR": "존재증명"
   },
   "宝具の攻撃威力ダウン": {
     "JP": null,
@@ -2705,7 +2728,7 @@
     "JP": null,
     "CN": "对肃正防御化",
     "TW": "對肅正防禦化",
-    "NA": "Anti-Enforcement DEF",
+    "NA": "Apply Anti-Enforcement DEF ",
     "KR": "대 숙정방어화"
   },
   "対粛正防御貫通(回避貫通不能)": {
@@ -2790,7 +2813,7 @@
     "CN": "弱化耐性无视",
     "TW": "弱化耐性無視",
     "NA": "Ignore Debuff Resist",
-    "KR": "약화 특성 무시"
+    "KR": "약화 내성 무시"
   },
   "弱体解除成功率ダウン": {
     "JP": null,
@@ -2973,6 +2996,13 @@
     "TW": "擊破時追加效果(強化)",
     "NA": "Bonus Effect after Defeat (Buff)",
     "KR": "격파 시 추가 효과(강화)"
+  },
+  "攻撃ダメージ前追加効果": {
+    "JP": null,
+    "CN": "攻击造成伤害前追加效果",
+    "TW": "攻擊造成傷害前追加效果",
+    "NA": null,
+    "KR": null
   },
   "攻撃力アップ": {
     "JP": null,
@@ -3160,7 +3190,7 @@
     "JP": null,
     "CN": "攻击时追加效果",
     "TW": "攻擊時追加效果",
-    "NA": "Bonus Effect on Attack",
+    "NA": "Bonus Attack Effect",
     "KR": "공격 시 추가 효과"
   },
   "攻撃時追加効果(強化)": {
@@ -3242,7 +3272,7 @@
   },
   "月陰の縁": {
     "JP": null,
-    "CN": "月阴之缘",
+    "CN": "月影之缘",
     "TW": "月陰之緣",
     "NA": "Destiny Under the Moonshade",
     "KR": null
@@ -3566,7 +3596,7 @@
     "JP": null,
     "CN": "无敌无效",
     "TW": "無敵無效",
-    "NA": "Nullify Invincibility",
+    "NA": "Invincible Immune",
     "KR": "무적 무효"
   },
   "無敵貫通": {
@@ -3594,7 +3624,7 @@
     "JP": null,
     "CN": "特性付与〔罗马〕",
     "TW": "特性賦予〔羅馬〕",
-    "NA": "Apply Trait (Rome)",
+    "NA": "Apply Trait (Roman)",
     "KR": "특성 부여[로마]"
   },
   "特性付与〔善〕": {
@@ -3842,6 +3872,13 @@
     "NA": "Lethal Damage Evade",
     "KR": null
   },
+  "蛇頭竜尾": {
+    "JP": null,
+    "CN": "蛇头龙尾",
+    "TW": "蛇頭龍尾",
+    "NA": null,
+    "KR": null
+  },
   "蝕毒": {
     "JP": null,
     "CN": "蚀毒",
@@ -3851,7 +3888,7 @@
   },
   "血塗れの皇子": {
     "JP": null,
-    "CN": "血染的皇子",
+    "CN": "染血的皇子",
     "TW": "血染的皇子",
     "NA": "Bloodstained Prince",
     "KR": null

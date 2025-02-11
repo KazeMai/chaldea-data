@@ -63436,15 +63436,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -63470,17 +63475,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -63488,7 +63499,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }]
 }, {
   "id": 71316,
@@ -71675,6 +71687,42 @@
     "questId": 3002907
   }, {
     "questId": 3002908
+  }, {
+    "questId": 4000200
+  }, {
+    "questId": 4000201
+  }, {
+    "questId": 4000202
+  }, {
+    "questId": 4000203
+  }, {
+    "questId": 4000204
+  }, {
+    "questId": 4000205
+  }, {
+    "questId": 4000206
+  }, {
+    "questId": 4000207
+  }, {
+    "questId": 4000208
+  }, {
+    "questId": 4000209
+  }, {
+    "questId": 4000210
+  }, {
+    "questId": 4000211
+  }, {
+    "questId": 4000212
+  }, {
+    "questId": 4000213
+  }, {
+    "questId": 4000214
+  }, {
+    "questId": 4000215
+  }, {
+    "questId": 4000216
+  }, {
+    "questId": 4000217
   }]
 }, {
   "id": 71350,
@@ -72672,15 +72720,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -72706,17 +72759,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -72724,7 +72783,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -77713,15 +77773,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -77747,17 +77812,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -77765,7 +77836,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -80539,15 +80611,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -80573,17 +80650,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -80591,7 +80674,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -83390,15 +83474,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -83424,17 +83513,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -83442,7 +83537,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -86543,15 +86639,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -86577,17 +86678,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -86595,7 +86702,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -91278,15 +91386,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -91312,17 +91425,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -91330,7 +91449,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -93621,15 +93741,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -93655,17 +93780,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -93673,7 +93804,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -101243,15 +101375,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -101277,17 +101414,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -101295,7 +101438,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -101329,11 +101473,14 @@
   }, {
     "questId": 4000215
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 2
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 4
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 5
   }, {
     "questId": 4000217
   }, {
@@ -101391,13 +101538,17 @@
   }, {
     "questId": 4000327
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 1
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 3
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 4
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 5
   }, {
     "questId": 4000402
   }, {
@@ -101405,31 +101556,44 @@
   }, {
     "questId": 4000404
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 1
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 2
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 3
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 4
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 1
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 2
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 4
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 5
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 1
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 3
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 4
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 5
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 6
   }, {
     "questId": 4000408
   }, {
@@ -102954,15 +103118,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -102988,17 +103157,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -103006,7 +103181,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -103040,11 +103216,14 @@
   }, {
     "questId": 4000215
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 2
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 4
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 5
   }, {
     "questId": 4000217
   }, {
@@ -103102,13 +103281,17 @@
   }, {
     "questId": 4000327
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 1
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 3
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 4
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 5
   }, {
     "questId": 4000402
   }, {
@@ -103116,31 +103299,44 @@
   }, {
     "questId": 4000404
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 1
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 2
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 3
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 4
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 1
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 2
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 4
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 5
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 1
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 3
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 4
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 5
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 6
   }, {
     "questId": 4000408
   }, {
@@ -103166,27 +103362,36 @@
   }, {
     "questId": 4000419
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 1
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 3
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 4
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 5
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 6
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 7
   }, {
     "questId": 4000421
   }, {
     "questId": 4000422
   }, {
-    "questId": 4000423
+    "questId": 4000423,
+    "phase": 1
   }, {
-    "questId": 4000423
+    "questId": 4000423,
+    "phase": 5
   }, {
-    "questId": 4000423
+    "questId": 4000423,
+    "phase": 6
   }, {
     "questId": 4000424
   }, {
@@ -105552,15 +105757,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -105586,17 +105796,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -105604,7 +105820,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -105638,11 +105855,14 @@
   }, {
     "questId": 4000215
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 2
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 4
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 5
   }, {
     "questId": 4000217
   }, {
@@ -105700,13 +105920,17 @@
   }, {
     "questId": 4000327
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 1
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 3
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 4
   }, {
-    "questId": 4000401
+    "questId": 4000401,
+    "phase": 5
   }, {
     "questId": 4000402
   }, {
@@ -105714,31 +105938,44 @@
   }, {
     "questId": 4000404
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 1
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 2
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 3
   }, {
-    "questId": 4000405
+    "questId": 4000405,
+    "phase": 4
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 1
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 2
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 4
   }, {
-    "questId": 4000406
+    "questId": 4000406,
+    "phase": 5
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 1
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 3
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 4
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 5
   }, {
-    "questId": 4000407
+    "questId": 4000407,
+    "phase": 6
   }, {
     "questId": 4000408
   }, {
@@ -105764,27 +106001,36 @@
   }, {
     "questId": 4000419
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 1
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 3
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 4
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 5
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 6
   }, {
-    "questId": 4000420
+    "questId": 4000420,
+    "phase": 7
   }, {
     "questId": 4000421
   }, {
     "questId": 4000422
   }, {
-    "questId": 4000423
+    "questId": 4000423,
+    "phase": 1
   }, {
-    "questId": 4000423
+    "questId": 4000423,
+    "phase": 5
   }, {
-    "questId": 4000423
+    "questId": 4000423,
+    "phase": 6
   }, {
     "questId": 4000424
   }, {
@@ -108649,15 +108895,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -108683,17 +108934,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -108701,7 +108958,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -108735,11 +108993,14 @@
   }, {
     "questId": 4000215
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 2
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 4
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 5
   }, {
     "questId": 4000217
   }, {
@@ -110976,15 +111237,20 @@
   }, {
     "questId": 3001310
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 1
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 2
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 3
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 4
   }, {
-    "questId": 3001311
+    "questId": 3001311,
+    "phase": 6
   }, {
     "questId": 3001312
   }, {
@@ -111010,17 +111276,23 @@
   }, {
     "questId": 3001323
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 2
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 3
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 4
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 5
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 6
   }, {
-    "questId": 3001324
+    "questId": 3001324,
+    "phase": 7
   }, {
     "questId": 3001325
   }, {
@@ -111028,7 +111300,8 @@
   }, {
     "questId": 3001398
   }, {
-    "questId": 3001399
+    "questId": 3001399,
+    "phase": 3
   }, {
     "questId": 4000200
   }, {
@@ -111062,11 +111335,14 @@
   }, {
     "questId": 4000215
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 2
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 4
   }, {
-    "questId": 4000216
+    "questId": 4000216,
+    "phase": 5
   }, {
     "questId": 4000217
   }, {
@@ -111254,5 +111530,4605 @@
     "questId": 91103701
   }, {
     "questId": 91501201
+  }]
+}, {
+  "id": 71498,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 半減キャンペーン",
+  "noticeAt": 1735117200,
+  "startedAt": 1735117200,
+  "endedAt": 1735657199,
+  "finishedAt": 1735657199,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 93040101
+  }, {
+    "questId": 93040102
+  }, {
+    "questId": 93040103
+  }, {
+    "questId": 93040104
+  }, {
+    "questId": 93040105
+  }, {
+    "questId": 94086601
+  }, {
+    "questId": 94086602
+  }, {
+    "questId": 94089601
+  }, {
+    "questId": 94089602
+  }, {
+    "questId": 94090701
+  }, {
+    "questId": 94090702
+  }, {
+    "questId": 94093201
+  }, {
+    "questId": 94093202
+  }, {
+    "questId": 94095301
+  }, {
+    "questId": 94095302
+  }, {
+    "questId": 94100501
+  }, {
+    "questId": 94100502
+  }, {
+    "questId": 94137201
+  }, {
+    "questId": 94137202
+  }]
+}, {
+  "id": 71504,
+  "type": "questCampaign",
+  "name": "絆獲得量アップ",
+  "detail": "絆獲得量アップ",
+  "noticeAt": 1735117200,
+  "startedAt": 1735117200,
+  "endedAt": 1735916399,
+  "finishedAt": 1735916399,
+  "campaigns": [{
+    "targetIds": [94138905],
+    "warGroupIds": [101389001, 101389002, 101389003],
+    "target": "questUseFriendshipUpItem",
+    "idx": 1,
+    "value": 3000,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 0
+  }]
+}, {
+  "id": 20209,
+  "type": "combineCampaign",
+  "name": "強化『大成功＆極大成功』率3倍！",
+  "detail": "強化『大成功＆極大成功』率3倍！",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 3000,
+    "calcType": "multiplication"
+  }, {
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 3000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 20210,
+  "type": "combineCampaign",
+  "name": "強化時 消費QP 50%DOWN",
+  "detail": "強化時 消費QP 50%DOWN",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "target": "combineQp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 30057,
+  "type": "svtequipCombineCampaign",
+  "name": "強化『大成功＆極大成功』率3倍！",
+  "detail": "強化『大成功＆極大成功』率3倍！",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "target": "svtequipLargeSuccess",
+    "idx": 1,
+    "value": 3000,
+    "calcType": "multiplication"
+  }, {
+    "target": "svtequipSuperSuccess",
+    "idx": 1,
+    "value": 3000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71501,
+  "type": "questCampaign",
+  "name": "絆獲得量アップ",
+  "detail": "絆獲得量アップ",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1740754799,
+  "finishedAt": 1740754799,
+  "campaigns": [{
+    "targetIds": [94138203],
+    "target": "questUseFriendshipUpItem",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71507,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 半減キャンペーン",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 94006801
+  }, {
+    "questId": 94006802
+  }, {
+    "questId": 94006803
+  }, {
+    "questId": 94006804
+  }, {
+    "questId": 94006805
+  }, {
+    "questId": 94006806
+  }, {
+    "questId": 94006807
+  }, {
+    "questId": 94006808
+  }, {
+    "questId": 94006809
+  }, {
+    "questId": 94006810
+  }, {
+    "questId": 94006811
+  }, {
+    "questId": 94006812
+  }, {
+    "questId": 94006813
+  }, {
+    "questId": 94006814
+  }, {
+    "questId": 94006815
+  }, {
+    "questId": 94006816
+  }, {
+    "questId": 94006817
+  }, {
+    "questId": 94006818
+  }, {
+    "questId": 94006819
+  }, {
+    "questId": 94006820
+  }, {
+    "questId": 94006821
+  }, {
+    "questId": 94006822
+  }, {
+    "questId": 94006823
+  }, {
+    "questId": 94006824
+  }, {
+    "questId": 94006825
+  }, {
+    "questId": 94006826
+  }, {
+    "questId": 94006827
+  }, {
+    "questId": 94006828
+  }, {
+    "questId": 94061601
+  }, {
+    "questId": 94061602
+  }, {
+    "questId": 94061603
+  }, {
+    "questId": 94061604
+  }, {
+    "questId": 94061605
+  }, {
+    "questId": 94061606
+  }, {
+    "questId": 94061607
+  }, {
+    "questId": 94061608
+  }, {
+    "questId": 94061609
+  }, {
+    "questId": 94061610
+  }, {
+    "questId": 94061611
+  }, {
+    "questId": 94061612
+  }, {
+    "questId": 94061613
+  }, {
+    "questId": 94061614
+  }, {
+    "questId": 94061615
+  }, {
+    "questId": 94061616
+  }, {
+    "questId": 94061617
+  }, {
+    "questId": 94061618
+  }, {
+    "questId": 94061619
+  }, {
+    "questId": 94061620
+  }, {
+    "questId": 94061621
+  }, {
+    "questId": 94061622
+  }, {
+    "questId": 94061623
+  }, {
+    "questId": 94061624
+  }, {
+    "questId": 94061625
+  }, {
+    "questId": 94061626
+  }, {
+    "questId": 94061627
+  }, {
+    "questId": 94061628
+  }, {
+    "questId": 94061629
+  }, {
+    "questId": 94061630
+  }, {
+    "questId": 94061631
+  }, {
+    "questId": 94061632
+  }, {
+    "questId": 94061633
+  }, {
+    "questId": 94061634
+  }, {
+    "questId": 94061635
+  }, {
+    "questId": 94061636
+  }, {
+    "questId": 94061637
+  }, {
+    "questId": 94061638
+  }, {
+    "questId": 94061639
+  }, {
+    "questId": 94061640
+  }, {
+    "questId": 94066101
+  }, {
+    "questId": 94066102
+  }, {
+    "questId": 94066103
+  }, {
+    "questId": 94066104
+  }, {
+    "questId": 94066105
+  }, {
+    "questId": 94066106
+  }, {
+    "questId": 94066107
+  }]
+}, {
+  "id": 71508,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 半減キャンペーン",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 93040101
+  }, {
+    "questId": 93040102
+  }, {
+    "questId": 93040103
+  }, {
+    "questId": 93040104
+  }, {
+    "questId": 93040105
+  }, {
+    "questId": 94086601
+  }, {
+    "questId": 94086602
+  }, {
+    "questId": 94089601
+  }, {
+    "questId": 94089602
+  }, {
+    "questId": 94090701
+  }, {
+    "questId": 94090702
+  }, {
+    "questId": 94093201
+  }, {
+    "questId": 94093202
+  }, {
+    "questId": 94095301
+  }, {
+    "questId": 94095302
+  }, {
+    "questId": 94100501
+  }, {
+    "questId": 94100502
+  }, {
+    "questId": 94137201
+  }, {
+    "questId": 94137202
+  }]
+}, {
+  "id": 71509,
+  "type": "questCampaign",
+  "name": "消費AP0！",
+  "detail": "消費AP 0キャンペーン",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1738335599,
+  "finishedAt": 1738335599,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 0,
+    "calcType": "fixedValue"
+  }],
+  "campaignQuests": [{
+    "questId": 1000000
+  }, {
+    "questId": 1000001
+  }, {
+    "questId": 1000002
+  }, {
+    "questId": 1000003
+  }, {
+    "questId": 1000004
+  }, {
+    "questId": 1000005
+  }, {
+    "questId": 1000006
+  }, {
+    "questId": 1000007
+  }, {
+    "questId": 1000008
+  }, {
+    "questId": 1000009
+  }, {
+    "questId": 1000010
+  }, {
+    "questId": 1000011
+  }, {
+    "questId": 1000101
+  }, {
+    "questId": 1000102
+  }, {
+    "questId": 1000103
+  }, {
+    "questId": 1000104
+  }, {
+    "questId": 1000105
+  }, {
+    "questId": 1000106
+  }, {
+    "questId": 1000107
+  }, {
+    "questId": 1000108
+  }, {
+    "questId": 1000109
+  }, {
+    "questId": 1000110
+  }, {
+    "questId": 1000111
+  }, {
+    "questId": 1000112
+  }, {
+    "questId": 1000113
+  }, {
+    "questId": 1000114
+  }, {
+    "questId": 1000115
+  }, {
+    "questId": 1000201
+  }, {
+    "questId": 1000202
+  }, {
+    "questId": 1000203
+  }, {
+    "questId": 1000204
+  }, {
+    "questId": 1000205
+  }, {
+    "questId": 1000206
+  }, {
+    "questId": 1000207
+  }, {
+    "questId": 1000208
+  }, {
+    "questId": 1000209
+  }, {
+    "questId": 1000210
+  }, {
+    "questId": 1000211
+  }, {
+    "questId": 1000212
+  }, {
+    "questId": 1000213
+  }, {
+    "questId": 1000214
+  }, {
+    "questId": 1000215
+  }, {
+    "questId": 1000301
+  }, {
+    "questId": 1000302
+  }, {
+    "questId": 1000303
+  }, {
+    "questId": 1000304
+  }, {
+    "questId": 1000305
+  }, {
+    "questId": 1000306
+  }, {
+    "questId": 1000307
+  }, {
+    "questId": 1000308
+  }, {
+    "questId": 1000309
+  }, {
+    "questId": 1000310
+  }, {
+    "questId": 1000311
+  }, {
+    "questId": 1000312
+  }, {
+    "questId": 1000313
+  }, {
+    "questId": 1000314
+  }, {
+    "questId": 1000401
+  }, {
+    "questId": 1000402
+  }, {
+    "questId": 1000403
+  }, {
+    "questId": 1000404
+  }, {
+    "questId": 1000405
+  }, {
+    "questId": 1000406
+  }, {
+    "questId": 1000407
+  }, {
+    "questId": 1000408
+  }, {
+    "questId": 1000409
+  }, {
+    "questId": 1000410
+  }, {
+    "questId": 1000411
+  }, {
+    "questId": 1000412
+  }, {
+    "questId": 1000413
+  }, {
+    "questId": 1000501
+  }, {
+    "questId": 1000502
+  }, {
+    "questId": 1000503
+  }, {
+    "questId": 1000504
+  }, {
+    "questId": 1000505
+  }, {
+    "questId": 1000506
+  }, {
+    "questId": 1000507
+  }, {
+    "questId": 1000508
+  }, {
+    "questId": 1000509
+  }, {
+    "questId": 1000510
+  }, {
+    "questId": 1000511
+  }, {
+    "questId": 1000512
+  }, {
+    "questId": 1000513
+  }, {
+    "questId": 1000514
+  }, {
+    "questId": 1000515
+  }, {
+    "questId": 1000516
+  }, {
+    "questId": 1000517
+  }, {
+    "questId": 1000518
+  }, {
+    "questId": 1000519
+  }, {
+    "questId": 1000520
+  }, {
+    "questId": 1000521
+  }, {
+    "questId": 1000522
+  }, {
+    "questId": 1000601
+  }, {
+    "questId": 1000602
+  }, {
+    "questId": 1000603
+  }, {
+    "questId": 1000604
+  }, {
+    "questId": 1000605
+  }, {
+    "questId": 1000606
+  }, {
+    "questId": 1000607
+  }, {
+    "questId": 1000608
+  }, {
+    "questId": 1000609
+  }, {
+    "questId": 1000610
+  }, {
+    "questId": 1000611
+  }, {
+    "questId": 1000612
+  }, {
+    "questId": 1000613
+  }, {
+    "questId": 1000614
+  }, {
+    "questId": 1000615
+  }, {
+    "questId": 1000616
+  }, {
+    "questId": 1000617
+  }, {
+    "questId": 1000618
+  }, {
+    "questId": 1000619
+  }, {
+    "questId": 1000620
+  }, {
+    "questId": 1000621
+  }, {
+    "questId": 1000622
+  }, {
+    "questId": 1000623
+  }, {
+    "questId": 1000624
+  }, {
+    "questId": 1000625
+  }, {
+    "questId": 1000626
+  }, {
+    "questId": 1000627
+  }, {
+    "questId": 1000628
+  }, {
+    "questId": 1000629
+  }, {
+    "questId": 1000630
+  }, {
+    "questId": 1000631
+  }, {
+    "questId": 1000632
+  }, {
+    "questId": 1000701
+  }, {
+    "questId": 1000702
+  }, {
+    "questId": 1000703
+  }, {
+    "questId": 1000704
+  }, {
+    "questId": 1000705
+  }, {
+    "questId": 1000706
+  }, {
+    "questId": 1000707
+  }, {
+    "questId": 1000708
+  }, {
+    "questId": 1000709
+  }, {
+    "questId": 1000710
+  }, {
+    "questId": 1000711
+  }, {
+    "questId": 1000712
+  }, {
+    "questId": 1000713
+  }, {
+    "questId": 1000714
+  }, {
+    "questId": 1000715
+  }, {
+    "questId": 1000716
+  }, {
+    "questId": 1000717
+  }, {
+    "questId": 1000718
+  }, {
+    "questId": 1000719
+  }, {
+    "questId": 1000720
+  }, {
+    "questId": 1000721
+  }, {
+    "questId": 1000722
+  }, {
+    "questId": 1000801
+  }, {
+    "questId": 1000802
+  }, {
+    "questId": 1000803
+  }, {
+    "questId": 1000804
+  }, {
+    "questId": 1000805
+  }, {
+    "questId": 1000806
+  }, {
+    "questId": 1000807
+  }, {
+    "questId": 1000808
+  }, {
+    "questId": 1000809
+  }, {
+    "questId": 1000810
+  }, {
+    "questId": 1000811
+  }, {
+    "questId": 1000812
+  }, {
+    "questId": 1000813
+  }, {
+    "questId": 1000814
+  }, {
+    "questId": 1000815
+  }, {
+    "questId": 1000816
+  }, {
+    "questId": 1000817
+  }, {
+    "questId": 1000818
+  }, {
+    "questId": 1000819
+  }, {
+    "questId": 1000820
+  }, {
+    "questId": 1000821
+  }, {
+    "questId": 1000822
+  }, {
+    "questId": 1000825
+  }, {
+    "questId": 1000830
+  }, {
+    "questId": 1000831
+  }, {
+    "questId": 1000832
+  }, {
+    "questId": 1000833
+  }, {
+    "questId": 1000834
+  }, {
+    "questId": 1000835
+  }, {
+    "questId": 1000836
+  }, {
+    "questId": 3000100
+  }, {
+    "questId": 3000101
+  }, {
+    "questId": 3000102
+  }, {
+    "questId": 3000103
+  }, {
+    "questId": 3000104
+  }, {
+    "questId": 3000105
+  }, {
+    "questId": 3000106
+  }, {
+    "questId": 3000107
+  }, {
+    "questId": 3000108
+  }, {
+    "questId": 3000109
+  }, {
+    "questId": 3000110
+  }, {
+    "questId": 3000111
+  }, {
+    "questId": 3000112
+  }, {
+    "questId": 3000113
+  }, {
+    "questId": 3000114
+  }, {
+    "questId": 3000115
+  }, {
+    "questId": 3000116
+  }, {
+    "questId": 3000117
+  }, {
+    "questId": 3000118
+  }, {
+    "questId": 3000119
+  }, {
+    "questId": 3000120
+  }, {
+    "questId": 3000121
+  }, {
+    "questId": 3000122
+  }, {
+    "questId": 3000123
+  }, {
+    "questId": 3000124
+  }, {
+    "questId": 3000125
+  }, {
+    "questId": 3000200
+  }, {
+    "questId": 3000201
+  }, {
+    "questId": 3000202
+  }, {
+    "questId": 3000203
+  }, {
+    "questId": 3000204
+  }, {
+    "questId": 3000205
+  }, {
+    "questId": 3000206
+  }, {
+    "questId": 3000207
+  }, {
+    "questId": 3000208
+  }, {
+    "questId": 3000209
+  }, {
+    "questId": 3000210
+  }, {
+    "questId": 3000211
+  }, {
+    "questId": 3000212
+  }, {
+    "questId": 3000213
+  }, {
+    "questId": 3000214
+  }, {
+    "questId": 3000215
+  }, {
+    "questId": 3000216
+  }, {
+    "questId": 3000217
+  }, {
+    "questId": 3000218
+  }, {
+    "questId": 3000300
+  }, {
+    "questId": 3000301
+  }, {
+    "questId": 3000302
+  }, {
+    "questId": 3000303
+  }, {
+    "questId": 3000304
+  }, {
+    "questId": 3000305
+  }, {
+    "questId": 3000306
+  }, {
+    "questId": 3000307
+  }, {
+    "questId": 3000308
+  }, {
+    "questId": 3000309
+  }, {
+    "questId": 3000310
+  }, {
+    "questId": 3000311
+  }, {
+    "questId": 3000312
+  }, {
+    "questId": 3000313
+  }, {
+    "questId": 3000314
+  }, {
+    "questId": 3000315
+  }, {
+    "questId": 3000316
+  }, {
+    "questId": 3000317
+  }, {
+    "questId": 3000318
+  }, {
+    "questId": 3000319
+  }, {
+    "questId": 3000320
+  }, {
+    "questId": 3000401
+  }, {
+    "questId": 3000402
+  }, {
+    "questId": 3000403
+  }, {
+    "questId": 3000404
+  }, {
+    "questId": 3000405
+  }, {
+    "questId": 3000406
+  }, {
+    "questId": 3000407
+  }, {
+    "questId": 3000408
+  }, {
+    "questId": 3000409
+  }, {
+    "questId": 3000410
+  }, {
+    "questId": 3000411
+  }, {
+    "questId": 3000412
+  }, {
+    "questId": 3000413
+  }, {
+    "questId": 3000414
+  }, {
+    "questId": 3000415
+  }, {
+    "questId": 3000416
+  }, {
+    "questId": 3000417
+  }, {
+    "questId": 3000418
+  }, {
+    "questId": 3000419
+  }, {
+    "questId": 3000420
+  }, {
+    "questId": 3000421
+  }, {
+    "questId": 3000500
+  }, {
+    "questId": 3000501
+  }, {
+    "questId": 3000502
+  }, {
+    "questId": 3000503
+  }, {
+    "questId": 3000504
+  }, {
+    "questId": 3000505
+  }, {
+    "questId": 3000506
+  }, {
+    "questId": 3000507
+  }, {
+    "questId": 3000508
+  }, {
+    "questId": 3000509
+  }, {
+    "questId": 3000510
+  }, {
+    "questId": 3000511
+  }, {
+    "questId": 3000512
+  }, {
+    "questId": 3000513
+  }, {
+    "questId": 3000514
+  }, {
+    "questId": 3000515
+  }, {
+    "questId": 3000516
+  }, {
+    "questId": 3000517
+  }, {
+    "questId": 3000518
+  }, {
+    "questId": 3000519
+  }, {
+    "questId": 3000520
+  }, {
+    "questId": 3000521
+  }, {
+    "questId": 3000522
+  }, {
+    "questId": 3000523
+  }, {
+    "questId": 3000524
+  }, {
+    "questId": 3000525
+  }, {
+    "questId": 3000526
+  }, {
+    "questId": 3000527
+  }, {
+    "questId": 3000528
+  }, {
+    "questId": 3000529
+  }, {
+    "questId": 3000530
+  }, {
+    "questId": 3000531
+  }, {
+    "questId": 3000540
+  }, {
+    "questId": 3000601
+  }, {
+    "questId": 3000602
+  }, {
+    "questId": 3000603
+  }, {
+    "questId": 3000604
+  }, {
+    "questId": 3000605
+  }, {
+    "questId": 3000606
+  }, {
+    "questId": 3000607
+  }, {
+    "questId": 3000608
+  }, {
+    "questId": 3000609
+  }, {
+    "questId": 3000610
+  }, {
+    "questId": 3000611
+  }, {
+    "questId": 3000612
+  }, {
+    "questId": 3000613
+  }, {
+    "questId": 3000614
+  }, {
+    "questId": 3000615
+  }, {
+    "questId": 3000616
+  }, {
+    "questId": 3000617
+  }, {
+    "questId": 3000618
+  }, {
+    "questId": 3000619
+  }, {
+    "questId": 3000620
+  }, {
+    "questId": 3000621
+  }, {
+    "questId": 3000622
+  }, {
+    "questId": 3000623
+  }, {
+    "questId": 3000624
+  }, {
+    "questId": 3000625
+  }, {
+    "questId": 3000626
+  }, {
+    "questId": 3000627
+  }, {
+    "questId": 3000628
+  }, {
+    "questId": 3000800
+  }, {
+    "questId": 3000801
+  }, {
+    "questId": 3000802
+  }, {
+    "questId": 3000803
+  }, {
+    "questId": 3000804
+  }, {
+    "questId": 3000805
+  }, {
+    "questId": 3000806
+  }, {
+    "questId": 3000807
+  }, {
+    "questId": 3000808
+  }, {
+    "questId": 3000809
+  }, {
+    "questId": 3000810
+  }, {
+    "questId": 3000811
+  }, {
+    "questId": 3000900
+  }, {
+    "questId": 3000901
+  }, {
+    "questId": 3000902
+  }, {
+    "questId": 3000903
+  }, {
+    "questId": 3000904
+  }, {
+    "questId": 3000905
+  }, {
+    "questId": 3000906
+  }, {
+    "questId": 3000907
+  }, {
+    "questId": 3000908
+  }, {
+    "questId": 3000909
+  }, {
+    "questId": 3000910
+  }, {
+    "questId": 3000911
+  }, {
+    "questId": 3000912
+  }, {
+    "questId": 3000913
+  }, {
+    "questId": 3000914
+  }, {
+    "questId": 3000915
+  }, {
+    "questId": 3000916
+  }, {
+    "questId": 3000917
+  }, {
+    "questId": 3000918
+  }, {
+    "questId": 3000919
+  }, {
+    "questId": 3000920
+  }, {
+    "questId": 3000991
+  }, {
+    "questId": 3001000
+  }, {
+    "questId": 3001001
+  }, {
+    "questId": 3001002
+  }, {
+    "questId": 3001003
+  }, {
+    "questId": 3001004
+  }, {
+    "questId": 3001005
+  }, {
+    "questId": 3001006
+  }, {
+    "questId": 3001007
+  }, {
+    "questId": 3001008
+  }, {
+    "questId": 3001009
+  }, {
+    "questId": 3001300
+  }, {
+    "questId": 3001301
+  }, {
+    "questId": 3001302
+  }, {
+    "questId": 3001303
+  }, {
+    "questId": 3001304
+  }, {
+    "questId": 3001305
+  }, {
+    "questId": 3001306
+  }, {
+    "questId": 3001307
+  }, {
+    "questId": 3001308
+  }, {
+    "questId": 3001309
+  }, {
+    "questId": 3001310
+  }, {
+    "questId": 3001311
+  }, {
+    "questId": 3001312
+  }, {
+    "questId": 3001313
+  }, {
+    "questId": 3001314
+  }, {
+    "questId": 3001315
+  }, {
+    "questId": 3001316
+  }, {
+    "questId": 3001317
+  }, {
+    "questId": 3001318
+  }, {
+    "questId": 3001319
+  }, {
+    "questId": 3001320
+  }, {
+    "questId": 3001321
+  }, {
+    "questId": 3001322
+  }, {
+    "questId": 3001323
+  }, {
+    "questId": 3001324
+  }, {
+    "questId": 3001325
+  }, {
+    "questId": 3001326
+  }, {
+    "questId": 3001327
+  }, {
+    "questId": 3001398
+  }, {
+    "questId": 3001399
+  }, {
+    "questId": 3001401
+  }, {
+    "questId": 3001402
+  }, {
+    "questId": 3001403
+  }, {
+    "questId": 3001404
+  }, {
+    "questId": 3001405
+  }, {
+    "questId": 3001406
+  }, {
+    "questId": 3001407
+  }, {
+    "questId": 3001408
+  }, {
+    "questId": 3001501
+  }, {
+    "questId": 3001502
+  }, {
+    "questId": 3001503
+  }, {
+    "questId": 3001504
+  }, {
+    "questId": 3001505
+  }, {
+    "questId": 3001506
+  }, {
+    "questId": 3001507
+  }, {
+    "questId": 3001508
+  }, {
+    "questId": 3001601
+  }, {
+    "questId": 3001602
+  }, {
+    "questId": 3001603
+  }, {
+    "questId": 3001604
+  }, {
+    "questId": 3001605
+  }, {
+    "questId": 3001606
+  }, {
+    "questId": 3001607
+  }, {
+    "questId": 3001608
+  }, {
+    "questId": 3001701
+  }, {
+    "questId": 3001702
+  }, {
+    "questId": 3001703
+  }, {
+    "questId": 3001704
+  }, {
+    "questId": 3001705
+  }, {
+    "questId": 3001706
+  }, {
+    "questId": 3001707
+  }, {
+    "questId": 3001708
+  }, {
+    "questId": 3001801
+  }, {
+    "questId": 3001802
+  }, {
+    "questId": 3001803
+  }, {
+    "questId": 3001804
+  }, {
+    "questId": 3001805
+  }, {
+    "questId": 3001806
+  }, {
+    "questId": 3001807
+  }, {
+    "questId": 3001808
+  }, {
+    "questId": 3001900
+  }, {
+    "questId": 3001901
+  }, {
+    "questId": 3001902
+  }, {
+    "questId": 3001903
+  }, {
+    "questId": 3001904
+  }, {
+    "questId": 3001905
+  }, {
+    "questId": 3001906
+  }, {
+    "questId": 3001907
+  }, {
+    "questId": 3001908
+  }, {
+    "questId": 3002001
+  }, {
+    "questId": 3002002
+  }, {
+    "questId": 3002003
+  }, {
+    "questId": 3002004
+  }, {
+    "questId": 3002005
+  }, {
+    "questId": 3002006
+  }, {
+    "questId": 3002007
+  }, {
+    "questId": 3002008
+  }, {
+    "questId": 3002101
+  }, {
+    "questId": 3002102
+  }, {
+    "questId": 3002103
+  }, {
+    "questId": 3002104
+  }, {
+    "questId": 3002105
+  }, {
+    "questId": 3002106
+  }, {
+    "questId": 3002107
+  }, {
+    "questId": 3002108
+  }, {
+    "questId": 3002201
+  }, {
+    "questId": 3002202
+  }, {
+    "questId": 3002203
+  }, {
+    "questId": 3002204
+  }, {
+    "questId": 3002205
+  }, {
+    "questId": 3002206
+  }, {
+    "questId": 3002207
+  }, {
+    "questId": 3002208
+  }, {
+    "questId": 3002301
+  }, {
+    "questId": 3002302
+  }, {
+    "questId": 3002303
+  }, {
+    "questId": 3002304
+  }, {
+    "questId": 3002305
+  }, {
+    "questId": 3002306
+  }, {
+    "questId": 3002307
+  }, {
+    "questId": 3002308
+  }, {
+    "questId": 3002401
+  }, {
+    "questId": 3002402
+  }, {
+    "questId": 3002403
+  }, {
+    "questId": 3002404
+  }, {
+    "questId": 3002405
+  }, {
+    "questId": 3002406
+  }, {
+    "questId": 3002407
+  }, {
+    "questId": 3002408
+  }, {
+    "questId": 3002501
+  }, {
+    "questId": 3002502
+  }, {
+    "questId": 3002503
+  }, {
+    "questId": 3002504
+  }, {
+    "questId": 3002505
+  }, {
+    "questId": 3002506
+  }, {
+    "questId": 3002507
+  }, {
+    "questId": 3002508
+  }, {
+    "questId": 3002601
+  }, {
+    "questId": 3002602
+  }, {
+    "questId": 3002603
+  }, {
+    "questId": 3002604
+  }, {
+    "questId": 3002605
+  }, {
+    "questId": 3002606
+  }, {
+    "questId": 3002607
+  }, {
+    "questId": 3002608
+  }, {
+    "questId": 3002701
+  }, {
+    "questId": 3002702
+  }, {
+    "questId": 3002703
+  }, {
+    "questId": 3002704
+  }, {
+    "questId": 3002705
+  }, {
+    "questId": 3002706
+  }, {
+    "questId": 3002707
+  }, {
+    "questId": 3002708
+  }, {
+    "questId": 3002801
+  }, {
+    "questId": 3002802
+  }, {
+    "questId": 3002803
+  }, {
+    "questId": 3002804
+  }, {
+    "questId": 3002805
+  }, {
+    "questId": 3002806
+  }, {
+    "questId": 3002807
+  }, {
+    "questId": 3002808
+  }, {
+    "questId": 3002901
+  }, {
+    "questId": 3002902
+  }, {
+    "questId": 3002903
+  }, {
+    "questId": 3002904
+  }, {
+    "questId": 3002905
+  }, {
+    "questId": 3002906
+  }, {
+    "questId": 3002907
+  }, {
+    "questId": 3002908
+  }, {
+    "questId": 4000200
+  }, {
+    "questId": 4000201
+  }, {
+    "questId": 4000202
+  }, {
+    "questId": 4000203
+  }, {
+    "questId": 4000204
+  }, {
+    "questId": 4000205
+  }, {
+    "questId": 4000206
+  }, {
+    "questId": 4000207
+  }, {
+    "questId": 4000208
+  }, {
+    "questId": 4000209
+  }, {
+    "questId": 4000210
+  }, {
+    "questId": 4000211
+  }, {
+    "questId": 4000212
+  }, {
+    "questId": 4000213
+  }, {
+    "questId": 4000214
+  }, {
+    "questId": 4000215
+  }, {
+    "questId": 4000216
+  }, {
+    "questId": 4000217
+  }]
+}, {
+  "id": 71510,
+  "type": "questCampaign",
+  "name": "コンティニューアイテム使用可能！",
+  "detail": "コンティニューアイテム使用可能！",
+  "noticeAt": 1735657200,
+  "startedAt": 1735657200,
+  "endedAt": 1738335599,
+  "finishedAt": 1738335599,
+  "campaigns": [{
+    "target": "questUseContinueItem",
+    "idx": 1,
+    "value": 94140002,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 1000000
+  }, {
+    "questId": 1000001
+  }, {
+    "questId": 1000002
+  }, {
+    "questId": 1000003
+  }, {
+    "questId": 1000004
+  }, {
+    "questId": 1000005
+  }, {
+    "questId": 1000006
+  }, {
+    "questId": 1000007
+  }, {
+    "questId": 1000008
+  }, {
+    "questId": 1000009
+  }, {
+    "questId": 1000010
+  }, {
+    "questId": 1000011
+  }, {
+    "questId": 1000101
+  }, {
+    "questId": 1000102
+  }, {
+    "questId": 1000103
+  }, {
+    "questId": 1000104
+  }, {
+    "questId": 1000105
+  }, {
+    "questId": 1000106
+  }, {
+    "questId": 1000107
+  }, {
+    "questId": 1000108
+  }, {
+    "questId": 1000109
+  }, {
+    "questId": 1000110
+  }, {
+    "questId": 1000111
+  }, {
+    "questId": 1000112
+  }, {
+    "questId": 1000113
+  }, {
+    "questId": 1000114
+  }, {
+    "questId": 1000115
+  }, {
+    "questId": 1000201
+  }, {
+    "questId": 1000202
+  }, {
+    "questId": 1000203
+  }, {
+    "questId": 1000204
+  }, {
+    "questId": 1000205
+  }, {
+    "questId": 1000206
+  }, {
+    "questId": 1000207
+  }, {
+    "questId": 1000208
+  }, {
+    "questId": 1000209
+  }, {
+    "questId": 1000210
+  }, {
+    "questId": 1000211
+  }, {
+    "questId": 1000212
+  }, {
+    "questId": 1000213
+  }, {
+    "questId": 1000214
+  }, {
+    "questId": 1000215
+  }, {
+    "questId": 1000301
+  }, {
+    "questId": 1000302
+  }, {
+    "questId": 1000303
+  }, {
+    "questId": 1000304
+  }, {
+    "questId": 1000305
+  }, {
+    "questId": 1000306
+  }, {
+    "questId": 1000307
+  }, {
+    "questId": 1000308
+  }, {
+    "questId": 1000309
+  }, {
+    "questId": 1000310
+  }, {
+    "questId": 1000311
+  }, {
+    "questId": 1000312
+  }, {
+    "questId": 1000313
+  }, {
+    "questId": 1000314
+  }, {
+    "questId": 1000401
+  }, {
+    "questId": 1000402
+  }, {
+    "questId": 1000403
+  }, {
+    "questId": 1000404
+  }, {
+    "questId": 1000405
+  }, {
+    "questId": 1000406
+  }, {
+    "questId": 1000407
+  }, {
+    "questId": 1000408
+  }, {
+    "questId": 1000409
+  }, {
+    "questId": 1000410
+  }, {
+    "questId": 1000411
+  }, {
+    "questId": 1000412
+  }, {
+    "questId": 1000413
+  }, {
+    "questId": 1000501
+  }, {
+    "questId": 1000502
+  }, {
+    "questId": 1000503
+  }, {
+    "questId": 1000504
+  }, {
+    "questId": 1000505
+  }, {
+    "questId": 1000506
+  }, {
+    "questId": 1000507
+  }, {
+    "questId": 1000508
+  }, {
+    "questId": 1000509
+  }, {
+    "questId": 1000510
+  }, {
+    "questId": 1000511
+  }, {
+    "questId": 1000512
+  }, {
+    "questId": 1000513
+  }, {
+    "questId": 1000514
+  }, {
+    "questId": 1000515
+  }, {
+    "questId": 1000516
+  }, {
+    "questId": 1000517
+  }, {
+    "questId": 1000518
+  }, {
+    "questId": 1000519
+  }, {
+    "questId": 1000520
+  }, {
+    "questId": 1000521
+  }, {
+    "questId": 1000522
+  }, {
+    "questId": 1000601
+  }, {
+    "questId": 1000602
+  }, {
+    "questId": 1000603
+  }, {
+    "questId": 1000604
+  }, {
+    "questId": 1000605
+  }, {
+    "questId": 1000606
+  }, {
+    "questId": 1000607
+  }, {
+    "questId": 1000608
+  }, {
+    "questId": 1000609
+  }, {
+    "questId": 1000610
+  }, {
+    "questId": 1000611
+  }, {
+    "questId": 1000612
+  }, {
+    "questId": 1000613
+  }, {
+    "questId": 1000614
+  }, {
+    "questId": 1000615
+  }, {
+    "questId": 1000616
+  }, {
+    "questId": 1000617
+  }, {
+    "questId": 1000618
+  }, {
+    "questId": 1000619
+  }, {
+    "questId": 1000620
+  }, {
+    "questId": 1000621
+  }, {
+    "questId": 1000622
+  }, {
+    "questId": 1000623
+  }, {
+    "questId": 1000624
+  }, {
+    "questId": 1000625
+  }, {
+    "questId": 1000626
+  }, {
+    "questId": 1000627
+  }, {
+    "questId": 1000628
+  }, {
+    "questId": 1000629
+  }, {
+    "questId": 1000630
+  }, {
+    "questId": 1000631
+  }, {
+    "questId": 1000632
+  }, {
+    "questId": 1000701
+  }, {
+    "questId": 1000702
+  }, {
+    "questId": 1000703
+  }, {
+    "questId": 1000704
+  }, {
+    "questId": 1000705
+  }, {
+    "questId": 1000706
+  }, {
+    "questId": 1000707
+  }, {
+    "questId": 1000708
+  }, {
+    "questId": 1000709
+  }, {
+    "questId": 1000710
+  }, {
+    "questId": 1000711
+  }, {
+    "questId": 1000712
+  }, {
+    "questId": 1000713
+  }, {
+    "questId": 1000714
+  }, {
+    "questId": 1000715
+  }, {
+    "questId": 1000716
+  }, {
+    "questId": 1000717
+  }, {
+    "questId": 1000718
+  }, {
+    "questId": 1000719
+  }, {
+    "questId": 1000720
+  }, {
+    "questId": 1000721
+  }, {
+    "questId": 1000722
+  }, {
+    "questId": 1000801
+  }, {
+    "questId": 1000802
+  }, {
+    "questId": 1000803
+  }, {
+    "questId": 1000804
+  }, {
+    "questId": 1000805
+  }, {
+    "questId": 1000806
+  }, {
+    "questId": 1000807
+  }, {
+    "questId": 1000808
+  }, {
+    "questId": 1000809
+  }, {
+    "questId": 1000810
+  }, {
+    "questId": 1000811
+  }, {
+    "questId": 1000812
+  }, {
+    "questId": 1000813
+  }, {
+    "questId": 1000814
+  }, {
+    "questId": 1000815
+  }, {
+    "questId": 1000816
+  }, {
+    "questId": 1000817
+  }, {
+    "questId": 1000818
+  }, {
+    "questId": 1000819
+  }, {
+    "questId": 1000820
+  }, {
+    "questId": 1000821
+  }, {
+    "questId": 1000822
+  }, {
+    "questId": 1000825
+  }, {
+    "questId": 1000830
+  }, {
+    "questId": 1000831
+  }, {
+    "questId": 1000832
+  }, {
+    "questId": 1000833
+  }, {
+    "questId": 1000834
+  }, {
+    "questId": 1000835
+  }, {
+    "questId": 1000836
+  }, {
+    "questId": 2000101
+  }, {
+    "questId": 2000102
+  }, {
+    "questId": 2000103
+  }, {
+    "questId": 2000104
+  }, {
+    "questId": 2000105
+  }, {
+    "questId": 2000106
+  }, {
+    "questId": 2000107
+  }, {
+    "questId": 2000108
+  }, {
+    "questId": 2000109
+  }, {
+    "questId": 2000110
+  }, {
+    "questId": 2000111
+  }, {
+    "questId": 2000112
+  }, {
+    "questId": 2000113
+  }, {
+    "questId": 2000114
+  }, {
+    "questId": 2000115
+  }, {
+    "questId": 2000116
+  }, {
+    "questId": 2000117
+  }, {
+    "questId": 2000118
+  }, {
+    "questId": 2000201
+  }, {
+    "questId": 2000202
+  }, {
+    "questId": 2000203
+  }, {
+    "questId": 2000204
+  }, {
+    "questId": 2000205
+  }, {
+    "questId": 2000206
+  }, {
+    "questId": 2000207
+  }, {
+    "questId": 2000208
+  }, {
+    "questId": 2000209
+  }, {
+    "questId": 2000210
+  }, {
+    "questId": 2000211
+  }, {
+    "questId": 2000212
+  }, {
+    "questId": 2000213
+  }, {
+    "questId": 2000214
+  }, {
+    "questId": 2000215
+  }, {
+    "questId": 2000216
+  }, {
+    "questId": 2000301
+  }, {
+    "questId": 2000302
+  }, {
+    "questId": 2000303
+  }, {
+    "questId": 2000304
+  }, {
+    "questId": 2000305
+  }, {
+    "questId": 2000306
+  }, {
+    "questId": 2000307
+  }, {
+    "questId": 2000308
+  }, {
+    "questId": 2000309
+  }, {
+    "questId": 2000310
+  }, {
+    "questId": 2000311
+  }, {
+    "questId": 2000312
+  }, {
+    "questId": 2000313
+  }, {
+    "questId": 2000314
+  }, {
+    "questId": 2000315
+  }, {
+    "questId": 2000316
+  }, {
+    "questId": 2000401
+  }, {
+    "questId": 2000402
+  }, {
+    "questId": 2000403
+  }, {
+    "questId": 2000404
+  }, {
+    "questId": 2000405
+  }, {
+    "questId": 2000406
+  }, {
+    "questId": 2000407
+  }, {
+    "questId": 2000408
+  }, {
+    "questId": 2000409
+  }, {
+    "questId": 2000410
+  }, {
+    "questId": 2000411
+  }, {
+    "questId": 3000001
+  }, {
+    "questId": 3000002
+  }, {
+    "questId": 3000003
+  }, {
+    "questId": 3000004
+  }, {
+    "questId": 3000005
+  }, {
+    "questId": 3000006
+  }, {
+    "questId": 3000007
+  }, {
+    "questId": 3000008
+  }, {
+    "questId": 3000100
+  }, {
+    "questId": 3000101
+  }, {
+    "questId": 3000102
+  }, {
+    "questId": 3000103
+  }, {
+    "questId": 3000104
+  }, {
+    "questId": 3000105
+  }, {
+    "questId": 3000106
+  }, {
+    "questId": 3000107
+  }, {
+    "questId": 3000108
+  }, {
+    "questId": 3000109
+  }, {
+    "questId": 3000110
+  }, {
+    "questId": 3000111
+  }, {
+    "questId": 3000112
+  }, {
+    "questId": 3000113
+  }, {
+    "questId": 3000114
+  }, {
+    "questId": 3000115
+  }, {
+    "questId": 3000116
+  }, {
+    "questId": 3000117
+  }, {
+    "questId": 3000118
+  }, {
+    "questId": 3000119
+  }, {
+    "questId": 3000120
+  }, {
+    "questId": 3000121
+  }, {
+    "questId": 3000122
+  }, {
+    "questId": 3000123
+  }, {
+    "questId": 3000124
+  }, {
+    "questId": 3000125
+  }, {
+    "questId": 3000200
+  }, {
+    "questId": 3000201
+  }, {
+    "questId": 3000202
+  }, {
+    "questId": 3000203
+  }, {
+    "questId": 3000204
+  }, {
+    "questId": 3000205
+  }, {
+    "questId": 3000206
+  }, {
+    "questId": 3000207
+  }, {
+    "questId": 3000208
+  }, {
+    "questId": 3000209
+  }, {
+    "questId": 3000210
+  }, {
+    "questId": 3000211
+  }, {
+    "questId": 3000212
+  }, {
+    "questId": 3000213
+  }, {
+    "questId": 3000214
+  }, {
+    "questId": 3000215
+  }, {
+    "questId": 3000216
+  }, {
+    "questId": 3000217
+  }, {
+    "questId": 3000218
+  }, {
+    "questId": 3000300
+  }, {
+    "questId": 3000301
+  }, {
+    "questId": 3000302
+  }, {
+    "questId": 3000303
+  }, {
+    "questId": 3000304
+  }, {
+    "questId": 3000305
+  }, {
+    "questId": 3000306
+  }, {
+    "questId": 3000307
+  }, {
+    "questId": 3000308
+  }, {
+    "questId": 3000309
+  }, {
+    "questId": 3000310
+  }, {
+    "questId": 3000311
+  }, {
+    "questId": 3000312
+  }, {
+    "questId": 3000313
+  }, {
+    "questId": 3000314
+  }, {
+    "questId": 3000315
+  }, {
+    "questId": 3000316
+  }, {
+    "questId": 3000317
+  }, {
+    "questId": 3000318
+  }, {
+    "questId": 3000319
+  }, {
+    "questId": 3000320
+  }, {
+    "questId": 3000401
+  }, {
+    "questId": 3000402
+  }, {
+    "questId": 3000403
+  }, {
+    "questId": 3000404
+  }, {
+    "questId": 3000405
+  }, {
+    "questId": 3000406
+  }, {
+    "questId": 3000407
+  }, {
+    "questId": 3000408
+  }, {
+    "questId": 3000409
+  }, {
+    "questId": 3000410
+  }, {
+    "questId": 3000411
+  }, {
+    "questId": 3000412
+  }, {
+    "questId": 3000413
+  }, {
+    "questId": 3000414
+  }, {
+    "questId": 3000415
+  }, {
+    "questId": 3000416
+  }, {
+    "questId": 3000417
+  }, {
+    "questId": 3000418
+  }, {
+    "questId": 3000419
+  }, {
+    "questId": 3000420
+  }, {
+    "questId": 3000421
+  }, {
+    "questId": 3000500
+  }, {
+    "questId": 3000501
+  }, {
+    "questId": 3000502
+  }, {
+    "questId": 3000503
+  }, {
+    "questId": 3000504
+  }, {
+    "questId": 3000505
+  }, {
+    "questId": 3000506
+  }, {
+    "questId": 3000507
+  }, {
+    "questId": 3000508
+  }, {
+    "questId": 3000509
+  }, {
+    "questId": 3000510
+  }, {
+    "questId": 3000511
+  }, {
+    "questId": 3000512
+  }, {
+    "questId": 3000513
+  }, {
+    "questId": 3000514
+  }, {
+    "questId": 3000515
+  }, {
+    "questId": 3000516
+  }, {
+    "questId": 3000517
+  }, {
+    "questId": 3000518
+  }, {
+    "questId": 3000519
+  }, {
+    "questId": 3000520
+  }, {
+    "questId": 3000521
+  }, {
+    "questId": 3000522
+  }, {
+    "questId": 3000523
+  }, {
+    "questId": 3000524
+  }, {
+    "questId": 3000525
+  }, {
+    "questId": 3000526
+  }, {
+    "questId": 3000527
+  }, {
+    "questId": 3000528
+  }, {
+    "questId": 3000529
+  }, {
+    "questId": 3000530
+  }, {
+    "questId": 3000531
+  }, {
+    "questId": 3000540
+  }, {
+    "questId": 3000601
+  }, {
+    "questId": 3000602
+  }, {
+    "questId": 3000603
+  }, {
+    "questId": 3000604
+  }, {
+    "questId": 3000605
+  }, {
+    "questId": 3000606
+  }, {
+    "questId": 3000607
+  }, {
+    "questId": 3000608
+  }, {
+    "questId": 3000609
+  }, {
+    "questId": 3000610
+  }, {
+    "questId": 3000611
+  }, {
+    "questId": 3000612
+  }, {
+    "questId": 3000613
+  }, {
+    "questId": 3000614
+  }, {
+    "questId": 3000615
+  }, {
+    "questId": 3000616
+  }, {
+    "questId": 3000617
+  }, {
+    "questId": 3000618
+  }, {
+    "questId": 3000619
+  }, {
+    "questId": 3000620
+  }, {
+    "questId": 3000621
+  }, {
+    "questId": 3000622
+  }, {
+    "questId": 3000623
+  }, {
+    "questId": 3000624
+  }, {
+    "questId": 3000625
+  }, {
+    "questId": 3000626
+  }, {
+    "questId": 3000627
+  }, {
+    "questId": 3000628
+  }, {
+    "questId": 3000700
+  }, {
+    "questId": 3000701
+  }, {
+    "questId": 3000702
+  }, {
+    "questId": 3000703
+  }, {
+    "questId": 3000704
+  }, {
+    "questId": 3000705
+  }, {
+    "questId": 3000706
+  }, {
+    "questId": 3000707
+  }, {
+    "questId": 3000708
+  }, {
+    "questId": 3000709
+  }, {
+    "questId": 3000710
+  }, {
+    "questId": 3000711
+  }, {
+    "questId": 3000712
+  }, {
+    "questId": 3000713
+  }, {
+    "questId": 3000714
+  }, {
+    "questId": 3000715
+  }, {
+    "questId": 3000716
+  }, {
+    "questId": 3000800
+  }, {
+    "questId": 3000801
+  }, {
+    "questId": 3000802
+  }, {
+    "questId": 3000803
+  }, {
+    "questId": 3000804
+  }, {
+    "questId": 3000805
+  }, {
+    "questId": 3000806
+  }, {
+    "questId": 3000807
+  }, {
+    "questId": 3000808
+  }, {
+    "questId": 3000809
+  }, {
+    "questId": 3000810
+  }, {
+    "questId": 3000811
+  }, {
+    "questId": 3000900
+  }, {
+    "questId": 3000901
+  }, {
+    "questId": 3000902
+  }, {
+    "questId": 3000903
+  }, {
+    "questId": 3000904
+  }, {
+    "questId": 3000905
+  }, {
+    "questId": 3000906
+  }, {
+    "questId": 3000907
+  }, {
+    "questId": 3000908
+  }, {
+    "questId": 3000909
+  }, {
+    "questId": 3000910
+  }, {
+    "questId": 3000911
+  }, {
+    "questId": 3000912
+  }, {
+    "questId": 3000913
+  }, {
+    "questId": 3000914
+  }, {
+    "questId": 3000915
+  }, {
+    "questId": 3000916
+  }, {
+    "questId": 3000917
+  }, {
+    "questId": 3000918
+  }, {
+    "questId": 3000919
+  }, {
+    "questId": 3000920
+  }, {
+    "questId": 3000991
+  }, {
+    "questId": 3001000
+  }, {
+    "questId": 3001001
+  }, {
+    "questId": 3001002
+  }, {
+    "questId": 3001003
+  }, {
+    "questId": 3001004
+  }, {
+    "questId": 3001005
+  }, {
+    "questId": 3001006
+  }, {
+    "questId": 3001007
+  }, {
+    "questId": 3001008
+  }, {
+    "questId": 3001009
+  }, {
+    "questId": 3001200
+  }, {
+    "questId": 3001201
+  }, {
+    "questId": 3001202
+  }, {
+    "questId": 3001203
+  }, {
+    "questId": 3001204
+  }, {
+    "questId": 3001205
+  }, {
+    "questId": 3001206
+  }, {
+    "questId": 3001207
+  }, {
+    "questId": 3001208
+  }, {
+    "questId": 3001209
+  }, {
+    "questId": 3001210
+  }, {
+    "questId": 3001211
+  }, {
+    "questId": 3001212
+  }, {
+    "questId": 3001213
+  }, {
+    "questId": 3001214
+  }, {
+    "questId": 3001215
+  }, {
+    "questId": 3001216
+  }, {
+    "questId": 3001217
+  }, {
+    "questId": 3001218
+  }, {
+    "questId": 3001219
+  }, {
+    "questId": 3001220
+  }, {
+    "questId": 3001221
+  }, {
+    "questId": 3001222
+  }, {
+    "questId": 3001297
+  }, {
+    "questId": 3001298
+  }, {
+    "questId": 3001299
+  }, {
+    "questId": 3001300
+  }, {
+    "questId": 3001301
+  }, {
+    "questId": 3001302
+  }, {
+    "questId": 3001303
+  }, {
+    "questId": 3001304
+  }, {
+    "questId": 3001305
+  }, {
+    "questId": 3001306
+  }, {
+    "questId": 3001307
+  }, {
+    "questId": 3001308
+  }, {
+    "questId": 3001309
+  }, {
+    "questId": 3001310
+  }, {
+    "questId": 3001311,
+    "phase": 1
+  }, {
+    "questId": 3001311,
+    "phase": 2
+  }, {
+    "questId": 3001311,
+    "phase": 3
+  }, {
+    "questId": 3001311,
+    "phase": 4
+  }, {
+    "questId": 3001311,
+    "phase": 6
+  }, {
+    "questId": 3001312
+  }, {
+    "questId": 3001313
+  }, {
+    "questId": 3001314
+  }, {
+    "questId": 3001315
+  }, {
+    "questId": 3001316
+  }, {
+    "questId": 3001317
+  }, {
+    "questId": 3001318
+  }, {
+    "questId": 3001319
+  }, {
+    "questId": 3001320
+  }, {
+    "questId": 3001321
+  }, {
+    "questId": 3001322
+  }, {
+    "questId": 3001323
+  }, {
+    "questId": 3001324,
+    "phase": 2
+  }, {
+    "questId": 3001324,
+    "phase": 3
+  }, {
+    "questId": 3001324,
+    "phase": 4
+  }, {
+    "questId": 3001324,
+    "phase": 5
+  }, {
+    "questId": 3001324,
+    "phase": 6
+  }, {
+    "questId": 3001324,
+    "phase": 7
+  }, {
+    "questId": 3001325
+  }, {
+    "questId": 3001327
+  }, {
+    "questId": 3001398
+  }, {
+    "questId": 3001399,
+    "phase": 3
+  }, {
+    "questId": 4000200
+  }, {
+    "questId": 4000201
+  }, {
+    "questId": 4000202
+  }, {
+    "questId": 4000203
+  }, {
+    "questId": 4000204
+  }, {
+    "questId": 4000205
+  }, {
+    "questId": 4000206
+  }, {
+    "questId": 4000207
+  }, {
+    "questId": 4000208
+  }, {
+    "questId": 4000209
+  }, {
+    "questId": 4000210
+  }, {
+    "questId": 4000211
+  }, {
+    "questId": 4000212
+  }, {
+    "questId": 4000213
+  }, {
+    "questId": 4000214
+  }, {
+    "questId": 4000215
+  }, {
+    "questId": 4000216,
+    "phase": 2
+  }, {
+    "questId": 4000216,
+    "phase": 4
+  }, {
+    "questId": 4000216,
+    "phase": 5
+  }, {
+    "questId": 4000217
+  }, {
+    "questId": 4000301
+  }, {
+    "questId": 4000302
+  }, {
+    "questId": 4000303
+  }, {
+    "questId": 4000304
+  }, {
+    "questId": 4000305
+  }, {
+    "questId": 4000306
+  }, {
+    "questId": 4000307
+  }, {
+    "questId": 4000308
+  }, {
+    "questId": 4000309
+  }, {
+    "questId": 4000310
+  }, {
+    "questId": 4000311
+  }, {
+    "questId": 4000312
+  }, {
+    "questId": 4000313
+  }, {
+    "questId": 4000314
+  }, {
+    "questId": 4000315
+  }, {
+    "questId": 4000316
+  }, {
+    "questId": 4000317
+  }, {
+    "questId": 4000318
+  }, {
+    "questId": 4000319
+  }, {
+    "questId": 4000320
+  }, {
+    "questId": 4000321
+  }, {
+    "questId": 4000322
+  }, {
+    "questId": 4000323
+  }, {
+    "questId": 4000324
+  }, {
+    "questId": 4000325
+  }, {
+    "questId": 4000326
+  }, {
+    "questId": 4000327
+  }]
+}, {
+  "id": 10854,
+  "type": "fortuneCampaign",
+  "name": "2025年お正月キャンペーン　おみくじログインボーナス",
+  "detail": "三が日限定！連続ログインボーナスにおみくじボーナスが追加！",
+  "noticeAt": 1735671600,
+  "startedAt": 1735671600,
+  "endedAt": 1735930799,
+  "finishedAt": 1735930799
+}, {
+  "id": 20208,
+  "type": "combineCampaign",
+  "name": "「奏章Ⅰ」関連サーヴァント 獲得経験値2倍！",
+  "detail": "「奏章Ⅰ」関連サーヴァント 獲得経験値2倍！",
+  "noticeAt": 1735722000,
+  "startedAt": 1735722000,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "targetIds": [603700, 105600, 305400, 204800, 704600, 103600, 102200],
+    "target": "combineExp",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71505,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1735722000,
+  "startedAt": 1735722000,
+  "endedAt": 1738335599,
+  "finishedAt": 1738335599,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 91102201
+  }, {
+    "questId": 91103601
+  }, {
+    "questId": 91204801
+  }, {
+    "questId": 91603701
+  }, {
+    "questId": 91603702
+  }, {
+    "questId": 91603791
+  }, {
+    "questId": 91603792
+  }]
+}, {
+  "id": 71506,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1735722000,
+  "startedAt": 1735722000,
+  "endedAt": 1738335599,
+  "finishedAt": 1738335599,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 94003401
+  }, {
+    "questId": 94099425
+  }, {
+    "questId": 94140750
+  }, {
+    "questId": 94140751
+  }]
+}, {
+  "id": 20211,
+  "type": "combineCampaign",
+  "name": "「巡霊の祝祭 第1～9弾」関連サーヴァント 獲得経験値2倍！",
+  "detail": "「巡霊の祝祭 第1～9弾」関連サーヴァント 獲得経験値2倍！",
+  "noticeAt": 1736154000,
+  "startedAt": 1736154000,
+  "endedAt": 1738727999,
+  "finishedAt": 1738727999,
+  "campaigns": [{
+    "targetIds": [402300, 504000, 900700, 502600, 101000, 202400, 2500800, 602400, 703100, 104000, 502000, 202700, 503800, 602300, 1000400, 1000500, 603900, 702600, 403000, 203900, 402200, 302600, 202200, 104800, 2300100, 402600, 303800, 304400, 604100, 604500, 604400, 604300, 304300],
+    "target": "combineExp",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71511,
+  "type": "questCampaign",
+  "name": "「巡霊の祝祭 第1～9弾」関連サーヴァント 獲得絆ポイント 20%UP",
+  "detail": "「巡霊の祝祭 第1～9弾」関連サーヴァント 獲得絆ポイント 20%UP",
+  "noticeAt": 1736154000,
+  "startedAt": 1736154000,
+  "endedAt": 1738727999,
+  "finishedAt": 1738727999,
+  "campaigns": [{
+    "targetIds": [402300, 504000, 900700, 502600, 101000, 202400, 2500800, 602400, 703100, 104000, 502000, 202700, 503800, 602300, 1000400, 1000500, 603900, 702600, 403000, 203900, 402200, 302600, 202200, 104800, 2300100, 402600, 303800, 304400, 604100, 604500, 604400, 604300, 304300],
+    "target": "questFriendship",
+    "idx": 1,
+    "value": 1200,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 0
+  }]
+}, {
+  "id": 71512,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1736154000,
+  "startedAt": 1736154000,
+  "endedAt": 1738727999,
+  "finishedAt": 1738727999,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 94140101
+  }]
+}, {
+  "id": 71502,
+  "type": "questCampaign",
+  "name": "特定サーヴァント 獲得絆ポイント 20%UP",
+  "detail": "特定サーヴァント 獲得絆ポイント 20%UP",
+  "noticeAt": 1736326800,
+  "startedAt": 1736326800,
+  "endedAt": 1736913599,
+  "finishedAt": 1736913599,
+  "campaigns": [{
+    "targetIds": [402300, 504000, 900700, 502600, 101000, 202400, 2500800, 602400, 703100, 104000, 502000, 202700, 503800, 602300, 1000400, 1000500, 603900, 702600, 403000, 203900, 402200, 302600, 202200, 104800, 2300100, 402600, 303800, 304400, 604100, 604500, 604400, 604300, 304300, 300500, 404600, 400100, 504300, 105600, 302700, 1100400, 302500, 304000, 404400, 602100, 703700, 701300, 2800400, 600800, 602900],
+    "target": "questFriendship",
+    "idx": 1,
+    "value": 1200,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 0
+  }]
+}, {
+  "id": 71503,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1736326800,
+  "startedAt": 1736326800,
+  "endedAt": 1737518399,
+  "finishedAt": 1737518399,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 94003405
+  }, {
+    "questId": 94004107
+  }, {
+    "questId": 94008007
+  }, {
+    "questId": 94022004
+  }, {
+    "questId": 94026508
+  }, {
+    "questId": 94030601
+  }, {
+    "questId": 94032704
+  }, {
+    "questId": 94040503
+  }, {
+    "questId": 94040504
+  }, {
+    "questId": 94058502
+  }, {
+    "questId": 94063601
+  }, {
+    "questId": 94063602
+  }, {
+    "questId": 94063603
+  }, {
+    "questId": 94074114
+  }, {
+    "questId": 94077002
+  }, {
+    "questId": 94084801
+  }, {
+    "questId": 94084803
+  }, {
+    "questId": 94088506
+  }, {
+    "questId": 94099001
+  }, {
+    "questId": 94099422
+  }, {
+    "questId": 94099423
+  }, {
+    "questId": 94139902
+  }]
+}, {
+  "id": 20207,
+  "type": "combineCampaign",
+  "name": "特定サーヴァント強化『大成功＆極大成功』率2倍！",
+  "detail": "特定サーヴァント強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1736931600,
+  "startedAt": 1736931600,
+  "endedAt": 1737518399,
+  "finishedAt": 1737518399,
+  "campaigns": [{
+    "targetIds": [305700, 106200, 101000, 300500, 404600, 400100, 502600, 504300, 105600, 302700, 1100400, 302500, 304000, 404400, 503800, 504000, 602100, 703700, 701300, 2800400, 600800, 602900],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [305700, 106200, 101000, 300500, 404600, 400100, 502600, 504300, 105600, 302700, 1100400, 302500, 304000, 404400, 503800, 504000, 602100, 703700, 701300, 2800400, 600800, 602900],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 20212,
+  "type": "combineCampaign",
+  "name": "セイバークラス 強化『大成功＆極大成功』率2倍！",
+  "detail": "セイバークラス 強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1736931600,
+  "startedAt": 1736931600,
+  "endedAt": 1737345599,
+  "finishedAt": 1737345599,
+  "campaigns": [{
+    "targetIds": [100100, 100200, 100300, 100500, 100800, 101300, 101800, 102200, 102600, 102700, 101400, 100900, 100600, 102800, 101900, 102000, 100700, 101200, 101000, 101700, 102900, 103000, 103100, 103200, 103300, 103400, 103500, 103600, 103700, 103900, 103800, 104000, 104100, 104200, 104500, 104400, 104700, 104600, 104800, 104900, 105000, 105100, 105300, 105200, 104300, 105400, 105500, 105700, 105600, 105800, 105900, 106000, 106100, 106200],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [100100, 100200, 100300, 100500, 100800, 101300, 101800, 102200, 102600, 102700, 101400, 100900, 100600, 102800, 101900, 102000, 100700, 101200, 101000, 101700, 102900, 103000, 103100, 103200, 103300, 103400, 103500, 103600, 103700, 103900, 103800, 104000, 104100, 104200, 104500, 104400, 104700, 104600, 104800, 104900, 105000, 105100, 105300, 105200, 104300, 105400, 105500, 105700, 105600, 105800, 105900, 106000, 106100, 106200],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71513,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 半減キャンペーン",
+  "noticeAt": 1736931600,
+  "startedAt": 1736931600,
+  "endedAt": 1738727999,
+  "finishedAt": 1738727999,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 93040101
+  }, {
+    "questId": 93040102
+  }, {
+    "questId": 93040103
+  }, {
+    "questId": 93040104
+  }, {
+    "questId": 93040105
+  }, {
+    "questId": 94086601
+  }, {
+    "questId": 94086602
+  }, {
+    "questId": 94089601
+  }, {
+    "questId": 94089602
+  }, {
+    "questId": 94090701
+  }, {
+    "questId": 94090702
+  }, {
+    "questId": 94093201
+  }, {
+    "questId": 94093202
+  }, {
+    "questId": 94095301
+  }, {
+    "questId": 94095302
+  }, {
+    "questId": 94100501
+  }, {
+    "questId": 94100502
+  }, {
+    "questId": 94137201
+  }, {
+    "questId": 94137202
+  }]
+}, {
+  "id": 20213,
+  "type": "combineCampaign",
+  "name": "ルーラークラス 強化『大成功＆極大成功』率2倍！",
+  "detail": "ルーラークラス 強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1737363600,
+  "startedAt": 1737363600,
+  "endedAt": 1737950399,
+  "finishedAt": 1737950399,
+  "campaigns": [{
+    "targetIds": [900100, 900200, 900400, 900500, 900600, 900700, 900800, 900900, 901000, 901100, 901200, 901300, 901400, 901500, 901600, 901700, 901800],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [900100, 900200, 900400, 900500, 900600, 900700, 900800, 900900, 901000, 901100, 901200, 901300, 901400, 901500, 901600, 901700, 901800],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 20214,
+  "type": "combineCampaign",
+  "name": "アーチャークラス 強化『大成功＆極大成功』率2倍！",
+  "detail": "アーチャークラス 強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1737968400,
+  "startedAt": 1737968400,
+  "endedAt": 1739159999,
+  "finishedAt": 1739159999,
+  "campaigns": [{
+    "targetIds": [200100, 200200, 200300, 200500, 201200, 201300, 200900, 200600, 202400, 201100, 201500, 201800, 201000, 200800, 201400, 202600, 202500, 202700, 202000, 202300, 201600, 202800, 202100, 202200, 202900, 203000, 203100, 203200, 203400, 203300, 203500, 203600, 203700, 203900, 203800, 204000, 204200, 204100, 204300, 204400, 204500, 204600, 204700, 204800, 204900, 205000, 205100, 205200, 205300],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [200100, 200200, 200300, 200500, 201200, 201300, 200900, 200600, 202400, 201100, 201500, 201800, 201000, 200800, 201400, 202600, 202500, 202700, 202000, 202300, 201600, 202800, 202100, 202200, 202900, 203000, 203100, 203200, 203400, 203300, 203500, 203600, 203700, 203900, 203800, 204000, 204200, 204100, 204300, 204400, 204500, 204600, 204700, 204800, 204900, 205000, 205100, 205200, 205300],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71514,
+  "type": "questCampaign",
+  "name": "白紙化地球以外のクエストでも「ストーム・ポッド」を使用可能",
+  "detail": "白紙化地球以外のクエストでも「ストーム・ポッド」を使用可能",
+  "noticeAt": 1738141200,
+  "startedAt": 1738141200,
+  "endedAt": 1893423600,
+  "finishedAt": 1893423600,
+  "campaigns": [{
+    "targetIds": [49],
+    "target": "questUseRewardAddItem",
+    "idx": 1,
+    "value": 483,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 0
+  }, {
+    "questId": 93040101
+  }, {
+    "questId": 93040102
+  }, {
+    "questId": 93040103
+  }, {
+    "questId": 93040104
+  }, {
+    "questId": 93040105
+  }, {
+    "questId": 94086401
+  }, {
+    "questId": 94086601
+  }, {
+    "questId": 94086602
+  }, {
+    "questId": 94089601
+  }, {
+    "questId": 94089602
+  }, {
+    "questId": 94090701
+  }, {
+    "questId": 94090702
+  }, {
+    "questId": 94093201
+  }, {
+    "questId": 94093202
+  }, {
+    "questId": 94094401
+  }, {
+    "questId": 94095301
+  }, {
+    "questId": 94095302
+  }, {
+    "questId": 94100501
+  }, {
+    "questId": 94100502
+  }, {
+    "questId": 94137201
+  }, {
+    "questId": 94137202
+  }]
+}, {
+  "id": 71515,
+  "type": "questCampaign",
+  "name": "絆獲得量アップ",
+  "detail": "絆獲得量アップ",
+  "noticeAt": 1738335600,
+  "startedAt": 1738335600,
+  "endedAt": 1743433199,
+  "finishedAt": 1743433199,
+  "campaigns": [{
+    "targetIds": [94138204],
+    "target": "questUseFriendshipUpItem",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 20216,
+  "type": "combineCampaign",
+  "name": "「奏章Ⅱ」関連サーヴァント 獲得経験値2倍！",
+  "detail": "「奏章Ⅱ」関連サーヴァント 獲得経験値2倍！",
+  "noticeAt": 1738400400,
+  "startedAt": 1738400400,
+  "endedAt": 1739591999,
+  "finishedAt": 1739591999,
+  "campaigns": [{
+    "targetIds": [1100200, 1101700, 1100300, 1100600, 1101000, 1101500, 1101300, 605000, 2800700, 1100500, 1100400],
+    "target": "combineExp",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 20219,
+  "type": "combineCampaign",
+  "name": "「奏章Ⅱ」関連サーヴァント 強化『大成功＆極大成功』率2倍！",
+  "detail": "「奏章Ⅱ」関連サーヴァント 強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1738400400,
+  "startedAt": 1738400400,
+  "endedAt": 1739591999,
+  "finishedAt": 1739591999,
+  "campaigns": [{
+    "targetIds": [1100200, 1101700, 1100300, 1100600, 1101000, 1101500, 1101300, 605000, 2800700, 1100500, 1100400],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [1100200, 1101700, 1100300, 1100600, 1101000, 1101500, 1101300, 605000, 2800700, 1100500, 1100400],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71518,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1738400400,
+  "startedAt": 1738400400,
+  "endedAt": 1740754799,
+  "finishedAt": 1740754799,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 911100201
+  }, {
+    "questId": 911100202
+  }, {
+    "questId": 911100301
+  }, {
+    "questId": 911100302
+  }, {
+    "questId": 911100401
+  }, {
+    "questId": 911100501
+  }, {
+    "questId": 911100601
+  }]
+}, {
+  "id": 71519,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1738400400,
+  "startedAt": 1738400400,
+  "endedAt": 1740754799,
+  "finishedAt": 1740754799,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 94026512
+  }, {
+    "questId": 94040504
+  }, {
+    "questId": 94061501
+  }, {
+    "questId": 94073001
+  }, {
+    "questId": 94081201
+  }, {
+    "questId": 94094602
+  }, {
+    "questId": 94139901
+  }, {
+    "questId": 94142150
+  }, {
+    "questId": 94142151
+  }]
+}, {
+  "id": 71520,
+  "type": "questCampaign",
+  "name": "消費AP0！",
+  "detail": "消費AP 0キャンペーン",
+  "noticeAt": 1738400400,
+  "startedAt": 1738400400,
+  "endedAt": 1740754799,
+  "finishedAt": 1740754799,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 0,
+    "calcType": "fixedValue"
+  }],
+  "campaignQuests": [{
+    "questId": 4000301
+  }, {
+    "questId": 4000302
+  }, {
+    "questId": 4000303
+  }, {
+    "questId": 4000304
+  }, {
+    "questId": 4000305
+  }, {
+    "questId": 4000306
+  }, {
+    "questId": 4000307
+  }, {
+    "questId": 4000308
+  }, {
+    "questId": 4000309
+  }, {
+    "questId": 4000310
+  }, {
+    "questId": 4000311
+  }, {
+    "questId": 4000312
+  }, {
+    "questId": 4000313
+  }, {
+    "questId": 4000314
+  }, {
+    "questId": 4000315
+  }, {
+    "questId": 4000316
+  }, {
+    "questId": 4000317
+  }, {
+    "questId": 4000318
+  }, {
+    "questId": 4000319
+  }, {
+    "questId": 4000320
+  }, {
+    "questId": 4000321
+  }, {
+    "questId": 4000322
+  }, {
+    "questId": 4000323
+  }, {
+    "questId": 4000324
+  }, {
+    "questId": 4000325
+  }, {
+    "questId": 4000326
+  }, {
+    "questId": 4000327
+  }]
+}, {
+  "id": 71521,
+  "type": "questCampaign",
+  "name": "コンティニューアイテム使用可能！",
+  "detail": "コンティニューアイテム使用可能！",
+  "noticeAt": 1738400400,
+  "startedAt": 1738400400,
+  "endedAt": 1740754799,
+  "finishedAt": 1740754799,
+  "campaigns": [{
+    "target": "questUseContinueItem",
+    "idx": 1,
+    "value": 94142101,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 1000000
+  }, {
+    "questId": 1000001
+  }, {
+    "questId": 1000002
+  }, {
+    "questId": 1000003
+  }, {
+    "questId": 1000004
+  }, {
+    "questId": 1000005
+  }, {
+    "questId": 1000006
+  }, {
+    "questId": 1000007
+  }, {
+    "questId": 1000008
+  }, {
+    "questId": 1000009
+  }, {
+    "questId": 1000010
+  }, {
+    "questId": 1000011
+  }, {
+    "questId": 1000101
+  }, {
+    "questId": 1000102
+  }, {
+    "questId": 1000103
+  }, {
+    "questId": 1000104
+  }, {
+    "questId": 1000105
+  }, {
+    "questId": 1000106
+  }, {
+    "questId": 1000107
+  }, {
+    "questId": 1000108
+  }, {
+    "questId": 1000109
+  }, {
+    "questId": 1000110
+  }, {
+    "questId": 1000111
+  }, {
+    "questId": 1000112
+  }, {
+    "questId": 1000113
+  }, {
+    "questId": 1000114
+  }, {
+    "questId": 1000115
+  }, {
+    "questId": 1000201
+  }, {
+    "questId": 1000202
+  }, {
+    "questId": 1000203
+  }, {
+    "questId": 1000204
+  }, {
+    "questId": 1000205
+  }, {
+    "questId": 1000206
+  }, {
+    "questId": 1000207
+  }, {
+    "questId": 1000208
+  }, {
+    "questId": 1000209
+  }, {
+    "questId": 1000210
+  }, {
+    "questId": 1000211
+  }, {
+    "questId": 1000212
+  }, {
+    "questId": 1000213
+  }, {
+    "questId": 1000214
+  }, {
+    "questId": 1000215
+  }, {
+    "questId": 1000301
+  }, {
+    "questId": 1000302
+  }, {
+    "questId": 1000303
+  }, {
+    "questId": 1000304
+  }, {
+    "questId": 1000305
+  }, {
+    "questId": 1000306
+  }, {
+    "questId": 1000307
+  }, {
+    "questId": 1000308
+  }, {
+    "questId": 1000309
+  }, {
+    "questId": 1000310
+  }, {
+    "questId": 1000311
+  }, {
+    "questId": 1000312
+  }, {
+    "questId": 1000313
+  }, {
+    "questId": 1000314
+  }, {
+    "questId": 1000401
+  }, {
+    "questId": 1000402
+  }, {
+    "questId": 1000403
+  }, {
+    "questId": 1000404
+  }, {
+    "questId": 1000405
+  }, {
+    "questId": 1000406
+  }, {
+    "questId": 1000407
+  }, {
+    "questId": 1000408
+  }, {
+    "questId": 1000409
+  }, {
+    "questId": 1000410
+  }, {
+    "questId": 1000411
+  }, {
+    "questId": 1000412
+  }, {
+    "questId": 1000413
+  }, {
+    "questId": 1000501
+  }, {
+    "questId": 1000502
+  }, {
+    "questId": 1000503
+  }, {
+    "questId": 1000504
+  }, {
+    "questId": 1000505
+  }, {
+    "questId": 1000506
+  }, {
+    "questId": 1000507
+  }, {
+    "questId": 1000508
+  }, {
+    "questId": 1000509
+  }, {
+    "questId": 1000510
+  }, {
+    "questId": 1000511
+  }, {
+    "questId": 1000512
+  }, {
+    "questId": 1000513
+  }, {
+    "questId": 1000514
+  }, {
+    "questId": 1000515
+  }, {
+    "questId": 1000516
+  }, {
+    "questId": 1000517
+  }, {
+    "questId": 1000518
+  }, {
+    "questId": 1000519
+  }, {
+    "questId": 1000520
+  }, {
+    "questId": 1000521
+  }, {
+    "questId": 1000522
+  }, {
+    "questId": 1000601
+  }, {
+    "questId": 1000602
+  }, {
+    "questId": 1000603
+  }, {
+    "questId": 1000604
+  }, {
+    "questId": 1000605
+  }, {
+    "questId": 1000606
+  }, {
+    "questId": 1000607
+  }, {
+    "questId": 1000608
+  }, {
+    "questId": 1000609
+  }, {
+    "questId": 1000610
+  }, {
+    "questId": 1000611
+  }, {
+    "questId": 1000612
+  }, {
+    "questId": 1000613
+  }, {
+    "questId": 1000614
+  }, {
+    "questId": 1000615
+  }, {
+    "questId": 1000616
+  }, {
+    "questId": 1000617
+  }, {
+    "questId": 1000618
+  }, {
+    "questId": 1000619
+  }, {
+    "questId": 1000620
+  }, {
+    "questId": 1000621
+  }, {
+    "questId": 1000622
+  }, {
+    "questId": 1000623
+  }, {
+    "questId": 1000624
+  }, {
+    "questId": 1000625
+  }, {
+    "questId": 1000626
+  }, {
+    "questId": 1000627
+  }, {
+    "questId": 1000628
+  }, {
+    "questId": 1000629
+  }, {
+    "questId": 1000630
+  }, {
+    "questId": 1000631
+  }, {
+    "questId": 1000632
+  }, {
+    "questId": 1000701
+  }, {
+    "questId": 1000702
+  }, {
+    "questId": 1000703
+  }, {
+    "questId": 1000704
+  }, {
+    "questId": 1000705
+  }, {
+    "questId": 1000706
+  }, {
+    "questId": 1000707
+  }, {
+    "questId": 1000708
+  }, {
+    "questId": 1000709
+  }, {
+    "questId": 1000710
+  }, {
+    "questId": 1000711
+  }, {
+    "questId": 1000712
+  }, {
+    "questId": 1000713
+  }, {
+    "questId": 1000714
+  }, {
+    "questId": 1000715
+  }, {
+    "questId": 1000716
+  }, {
+    "questId": 1000717
+  }, {
+    "questId": 1000718
+  }, {
+    "questId": 1000719
+  }, {
+    "questId": 1000720
+  }, {
+    "questId": 1000721
+  }, {
+    "questId": 1000722
+  }, {
+    "questId": 1000801
+  }, {
+    "questId": 1000802
+  }, {
+    "questId": 1000803
+  }, {
+    "questId": 1000804
+  }, {
+    "questId": 1000805
+  }, {
+    "questId": 1000806
+  }, {
+    "questId": 1000807
+  }, {
+    "questId": 1000808
+  }, {
+    "questId": 1000809
+  }, {
+    "questId": 1000810
+  }, {
+    "questId": 1000811
+  }, {
+    "questId": 1000812
+  }, {
+    "questId": 1000813
+  }, {
+    "questId": 1000814
+  }, {
+    "questId": 1000815
+  }, {
+    "questId": 1000816
+  }, {
+    "questId": 1000817
+  }, {
+    "questId": 1000818
+  }, {
+    "questId": 1000819
+  }, {
+    "questId": 1000820
+  }, {
+    "questId": 1000821
+  }, {
+    "questId": 1000822
+  }, {
+    "questId": 1000825
+  }, {
+    "questId": 1000830
+  }, {
+    "questId": 1000831
+  }, {
+    "questId": 1000832
+  }, {
+    "questId": 1000833
+  }, {
+    "questId": 1000834
+  }, {
+    "questId": 1000835
+  }, {
+    "questId": 1000836
+  }, {
+    "questId": 2000101
+  }, {
+    "questId": 2000102
+  }, {
+    "questId": 2000103
+  }, {
+    "questId": 2000104
+  }, {
+    "questId": 2000105
+  }, {
+    "questId": 2000106
+  }, {
+    "questId": 2000107
+  }, {
+    "questId": 2000108
+  }, {
+    "questId": 2000109
+  }, {
+    "questId": 2000110
+  }, {
+    "questId": 2000111
+  }, {
+    "questId": 2000112
+  }, {
+    "questId": 2000113
+  }, {
+    "questId": 2000114
+  }, {
+    "questId": 2000115
+  }, {
+    "questId": 2000116
+  }, {
+    "questId": 2000117
+  }, {
+    "questId": 2000118
+  }, {
+    "questId": 2000201
+  }, {
+    "questId": 2000202
+  }, {
+    "questId": 2000203
+  }, {
+    "questId": 2000204
+  }, {
+    "questId": 2000205
+  }, {
+    "questId": 2000206
+  }, {
+    "questId": 2000207
+  }, {
+    "questId": 2000208
+  }, {
+    "questId": 2000209
+  }, {
+    "questId": 2000210
+  }, {
+    "questId": 2000211
+  }, {
+    "questId": 2000212
+  }, {
+    "questId": 2000213
+  }, {
+    "questId": 2000214
+  }, {
+    "questId": 2000215
+  }, {
+    "questId": 2000216
+  }, {
+    "questId": 2000301
+  }, {
+    "questId": 2000302
+  }, {
+    "questId": 2000303
+  }, {
+    "questId": 2000304
+  }, {
+    "questId": 2000305
+  }, {
+    "questId": 2000306
+  }, {
+    "questId": 2000307
+  }, {
+    "questId": 2000308
+  }, {
+    "questId": 2000309
+  }, {
+    "questId": 2000310
+  }, {
+    "questId": 2000311
+  }, {
+    "questId": 2000312
+  }, {
+    "questId": 2000313
+  }, {
+    "questId": 2000314
+  }, {
+    "questId": 2000315
+  }, {
+    "questId": 2000316
+  }, {
+    "questId": 2000401
+  }, {
+    "questId": 2000402
+  }, {
+    "questId": 2000403
+  }, {
+    "questId": 2000404
+  }, {
+    "questId": 2000405
+  }, {
+    "questId": 2000406
+  }, {
+    "questId": 2000407
+  }, {
+    "questId": 2000408
+  }, {
+    "questId": 2000409
+  }, {
+    "questId": 2000410
+  }, {
+    "questId": 2000411
+  }, {
+    "questId": 3000001
+  }, {
+    "questId": 3000002
+  }, {
+    "questId": 3000003
+  }, {
+    "questId": 3000004
+  }, {
+    "questId": 3000005
+  }, {
+    "questId": 3000006
+  }, {
+    "questId": 3000007
+  }, {
+    "questId": 3000008
+  }, {
+    "questId": 3000100
+  }, {
+    "questId": 3000101
+  }, {
+    "questId": 3000102
+  }, {
+    "questId": 3000103
+  }, {
+    "questId": 3000104
+  }, {
+    "questId": 3000105
+  }, {
+    "questId": 3000106
+  }, {
+    "questId": 3000107
+  }, {
+    "questId": 3000108
+  }, {
+    "questId": 3000109
+  }, {
+    "questId": 3000110
+  }, {
+    "questId": 3000111
+  }, {
+    "questId": 3000112
+  }, {
+    "questId": 3000113
+  }, {
+    "questId": 3000114
+  }, {
+    "questId": 3000115
+  }, {
+    "questId": 3000116
+  }, {
+    "questId": 3000117
+  }, {
+    "questId": 3000118
+  }, {
+    "questId": 3000119
+  }, {
+    "questId": 3000120
+  }, {
+    "questId": 3000121
+  }, {
+    "questId": 3000122
+  }, {
+    "questId": 3000123
+  }, {
+    "questId": 3000124
+  }, {
+    "questId": 3000125
+  }, {
+    "questId": 3000200
+  }, {
+    "questId": 3000201
+  }, {
+    "questId": 3000202
+  }, {
+    "questId": 3000203
+  }, {
+    "questId": 3000204
+  }, {
+    "questId": 3000205
+  }, {
+    "questId": 3000206
+  }, {
+    "questId": 3000207
+  }, {
+    "questId": 3000208
+  }, {
+    "questId": 3000209
+  }, {
+    "questId": 3000210
+  }, {
+    "questId": 3000211
+  }, {
+    "questId": 3000212
+  }, {
+    "questId": 3000213
+  }, {
+    "questId": 3000214
+  }, {
+    "questId": 3000215
+  }, {
+    "questId": 3000216
+  }, {
+    "questId": 3000217
+  }, {
+    "questId": 3000218
+  }, {
+    "questId": 3000300
+  }, {
+    "questId": 3000301
+  }, {
+    "questId": 3000302
+  }, {
+    "questId": 3000303
+  }, {
+    "questId": 3000304
+  }, {
+    "questId": 3000305
+  }, {
+    "questId": 3000306
+  }, {
+    "questId": 3000307
+  }, {
+    "questId": 3000308
+  }, {
+    "questId": 3000309
+  }, {
+    "questId": 3000310
+  }, {
+    "questId": 3000311
+  }, {
+    "questId": 3000312
+  }, {
+    "questId": 3000313
+  }, {
+    "questId": 3000314
+  }, {
+    "questId": 3000315
+  }, {
+    "questId": 3000316
+  }, {
+    "questId": 3000317
+  }, {
+    "questId": 3000318
+  }, {
+    "questId": 3000319
+  }, {
+    "questId": 3000320
+  }, {
+    "questId": 3000401
+  }, {
+    "questId": 3000402
+  }, {
+    "questId": 3000403
+  }, {
+    "questId": 3000404
+  }, {
+    "questId": 3000405
+  }, {
+    "questId": 3000406
+  }, {
+    "questId": 3000407
+  }, {
+    "questId": 3000408
+  }, {
+    "questId": 3000409
+  }, {
+    "questId": 3000410
+  }, {
+    "questId": 3000411
+  }, {
+    "questId": 3000412
+  }, {
+    "questId": 3000413
+  }, {
+    "questId": 3000414
+  }, {
+    "questId": 3000415
+  }, {
+    "questId": 3000416
+  }, {
+    "questId": 3000417
+  }, {
+    "questId": 3000418
+  }, {
+    "questId": 3000419
+  }, {
+    "questId": 3000420
+  }, {
+    "questId": 3000421
+  }, {
+    "questId": 3000500
+  }, {
+    "questId": 3000501
+  }, {
+    "questId": 3000502
+  }, {
+    "questId": 3000503
+  }, {
+    "questId": 3000504
+  }, {
+    "questId": 3000505
+  }, {
+    "questId": 3000506
+  }, {
+    "questId": 3000507
+  }, {
+    "questId": 3000508
+  }, {
+    "questId": 3000509
+  }, {
+    "questId": 3000510
+  }, {
+    "questId": 3000511
+  }, {
+    "questId": 3000512
+  }, {
+    "questId": 3000513
+  }, {
+    "questId": 3000514
+  }, {
+    "questId": 3000515
+  }, {
+    "questId": 3000516
+  }, {
+    "questId": 3000517
+  }, {
+    "questId": 3000518
+  }, {
+    "questId": 3000519
+  }, {
+    "questId": 3000520
+  }, {
+    "questId": 3000521
+  }, {
+    "questId": 3000522
+  }, {
+    "questId": 3000523
+  }, {
+    "questId": 3000524
+  }, {
+    "questId": 3000525
+  }, {
+    "questId": 3000526
+  }, {
+    "questId": 3000527
+  }, {
+    "questId": 3000528
+  }, {
+    "questId": 3000529
+  }, {
+    "questId": 3000530
+  }, {
+    "questId": 3000531
+  }, {
+    "questId": 3000540
+  }, {
+    "questId": 3000601
+  }, {
+    "questId": 3000602
+  }, {
+    "questId": 3000603
+  }, {
+    "questId": 3000604
+  }, {
+    "questId": 3000605
+  }, {
+    "questId": 3000606
+  }, {
+    "questId": 3000607
+  }, {
+    "questId": 3000608
+  }, {
+    "questId": 3000609
+  }, {
+    "questId": 3000610
+  }, {
+    "questId": 3000611
+  }, {
+    "questId": 3000612
+  }, {
+    "questId": 3000613
+  }, {
+    "questId": 3000614
+  }, {
+    "questId": 3000615
+  }, {
+    "questId": 3000616
+  }, {
+    "questId": 3000617
+  }, {
+    "questId": 3000618
+  }, {
+    "questId": 3000619
+  }, {
+    "questId": 3000620
+  }, {
+    "questId": 3000621
+  }, {
+    "questId": 3000622
+  }, {
+    "questId": 3000623
+  }, {
+    "questId": 3000624
+  }, {
+    "questId": 3000625
+  }, {
+    "questId": 3000626
+  }, {
+    "questId": 3000627
+  }, {
+    "questId": 3000628
+  }, {
+    "questId": 3000700
+  }, {
+    "questId": 3000701
+  }, {
+    "questId": 3000702
+  }, {
+    "questId": 3000703
+  }, {
+    "questId": 3000704
+  }, {
+    "questId": 3000705
+  }, {
+    "questId": 3000706
+  }, {
+    "questId": 3000707
+  }, {
+    "questId": 3000708
+  }, {
+    "questId": 3000709
+  }, {
+    "questId": 3000710
+  }, {
+    "questId": 3000711
+  }, {
+    "questId": 3000712
+  }, {
+    "questId": 3000713
+  }, {
+    "questId": 3000714
+  }, {
+    "questId": 3000715
+  }, {
+    "questId": 3000716
+  }, {
+    "questId": 3000800
+  }, {
+    "questId": 3000801
+  }, {
+    "questId": 3000802
+  }, {
+    "questId": 3000803
+  }, {
+    "questId": 3000804
+  }, {
+    "questId": 3000805
+  }, {
+    "questId": 3000806
+  }, {
+    "questId": 3000807
+  }, {
+    "questId": 3000808
+  }, {
+    "questId": 3000809
+  }, {
+    "questId": 3000810
+  }, {
+    "questId": 3000811
+  }, {
+    "questId": 3000900
+  }, {
+    "questId": 3000901
+  }, {
+    "questId": 3000902
+  }, {
+    "questId": 3000903
+  }, {
+    "questId": 3000904
+  }, {
+    "questId": 3000905
+  }, {
+    "questId": 3000906
+  }, {
+    "questId": 3000907
+  }, {
+    "questId": 3000908
+  }, {
+    "questId": 3000909
+  }, {
+    "questId": 3000910
+  }, {
+    "questId": 3000911
+  }, {
+    "questId": 3000912
+  }, {
+    "questId": 3000913
+  }, {
+    "questId": 3000914
+  }, {
+    "questId": 3000915
+  }, {
+    "questId": 3000916
+  }, {
+    "questId": 3000917
+  }, {
+    "questId": 3000918
+  }, {
+    "questId": 3000919
+  }, {
+    "questId": 3000920
+  }, {
+    "questId": 3000991
+  }, {
+    "questId": 3001000
+  }, {
+    "questId": 3001001
+  }, {
+    "questId": 3001002
+  }, {
+    "questId": 3001003
+  }, {
+    "questId": 3001004
+  }, {
+    "questId": 3001005
+  }, {
+    "questId": 3001006
+  }, {
+    "questId": 3001007
+  }, {
+    "questId": 3001008
+  }, {
+    "questId": 3001009
+  }, {
+    "questId": 3001200
+  }, {
+    "questId": 3001201
+  }, {
+    "questId": 3001202
+  }, {
+    "questId": 3001203
+  }, {
+    "questId": 3001204
+  }, {
+    "questId": 3001205
+  }, {
+    "questId": 3001206
+  }, {
+    "questId": 3001207
+  }, {
+    "questId": 3001208
+  }, {
+    "questId": 3001209
+  }, {
+    "questId": 3001210
+  }, {
+    "questId": 3001211
+  }, {
+    "questId": 3001212
+  }, {
+    "questId": 3001213
+  }, {
+    "questId": 3001214
+  }, {
+    "questId": 3001215
+  }, {
+    "questId": 3001216
+  }, {
+    "questId": 3001217
+  }, {
+    "questId": 3001218
+  }, {
+    "questId": 3001219
+  }, {
+    "questId": 3001220
+  }, {
+    "questId": 3001221
+  }, {
+    "questId": 3001222
+  }, {
+    "questId": 3001297
+  }, {
+    "questId": 3001298
+  }, {
+    "questId": 3001299
+  }, {
+    "questId": 3001300
+  }, {
+    "questId": 3001301
+  }, {
+    "questId": 3001302
+  }, {
+    "questId": 3001303
+  }, {
+    "questId": 3001304
+  }, {
+    "questId": 3001305
+  }, {
+    "questId": 3001306
+  }, {
+    "questId": 3001307
+  }, {
+    "questId": 3001308
+  }, {
+    "questId": 3001309
+  }, {
+    "questId": 3001310
+  }, {
+    "questId": 3001311,
+    "phase": 1
+  }, {
+    "questId": 3001311,
+    "phase": 2
+  }, {
+    "questId": 3001311,
+    "phase": 3
+  }, {
+    "questId": 3001311,
+    "phase": 4
+  }, {
+    "questId": 3001311,
+    "phase": 6
+  }, {
+    "questId": 3001312
+  }, {
+    "questId": 3001313
+  }, {
+    "questId": 3001314
+  }, {
+    "questId": 3001315
+  }, {
+    "questId": 3001316
+  }, {
+    "questId": 3001317
+  }, {
+    "questId": 3001318
+  }, {
+    "questId": 3001319
+  }, {
+    "questId": 3001320
+  }, {
+    "questId": 3001321
+  }, {
+    "questId": 3001322
+  }, {
+    "questId": 3001323
+  }, {
+    "questId": 3001324,
+    "phase": 2
+  }, {
+    "questId": 3001324,
+    "phase": 3
+  }, {
+    "questId": 3001324,
+    "phase": 4
+  }, {
+    "questId": 3001324,
+    "phase": 5
+  }, {
+    "questId": 3001324,
+    "phase": 6
+  }, {
+    "questId": 3001324,
+    "phase": 7
+  }, {
+    "questId": 3001325
+  }, {
+    "questId": 3001327
+  }, {
+    "questId": 3001398
+  }, {
+    "questId": 3001399,
+    "phase": 3
+  }, {
+    "questId": 4000200
+  }, {
+    "questId": 4000201
+  }, {
+    "questId": 4000202
+  }, {
+    "questId": 4000203
+  }, {
+    "questId": 4000204
+  }, {
+    "questId": 4000205
+  }, {
+    "questId": 4000206
+  }, {
+    "questId": 4000207
+  }, {
+    "questId": 4000208
+  }, {
+    "questId": 4000209
+  }, {
+    "questId": 4000210
+  }, {
+    "questId": 4000211
+  }, {
+    "questId": 4000212
+  }, {
+    "questId": 4000213
+  }, {
+    "questId": 4000214
+  }, {
+    "questId": 4000215
+  }, {
+    "questId": 4000216,
+    "phase": 2
+  }, {
+    "questId": 4000216,
+    "phase": 4
+  }, {
+    "questId": 4000216,
+    "phase": 5
+  }, {
+    "questId": 4000217
+  }, {
+    "questId": 4000301
+  }, {
+    "questId": 4000302
+  }, {
+    "questId": 4000303
+  }, {
+    "questId": 4000304
+  }, {
+    "questId": 4000305
+  }, {
+    "questId": 4000306
+  }, {
+    "questId": 4000307
+  }, {
+    "questId": 4000308
+  }, {
+    "questId": 4000309
+  }, {
+    "questId": 4000310
+  }, {
+    "questId": 4000311
+  }, {
+    "questId": 4000312
+  }, {
+    "questId": 4000313
+  }, {
+    "questId": 4000314
+  }, {
+    "questId": 4000315
+  }, {
+    "questId": 4000316
+  }, {
+    "questId": 4000317
+  }, {
+    "questId": 4000318
+  }, {
+    "questId": 4000319
+  }, {
+    "questId": 4000320
+  }, {
+    "questId": 4000321
+  }, {
+    "questId": 4000322
+  }, {
+    "questId": 4000323
+  }, {
+    "questId": 4000324
+  }, {
+    "questId": 4000325
+  }, {
+    "questId": 4000326
+  }, {
+    "questId": 4000327
+  }, {
+    "questId": 4000401,
+    "phase": 1
+  }, {
+    "questId": 4000401,
+    "phase": 3
+  }, {
+    "questId": 4000401,
+    "phase": 4
+  }, {
+    "questId": 4000401,
+    "phase": 5
+  }, {
+    "questId": 4000402
+  }, {
+    "questId": 4000403
+  }, {
+    "questId": 4000404
+  }, {
+    "questId": 4000405,
+    "phase": 1
+  }, {
+    "questId": 4000405,
+    "phase": 2
+  }, {
+    "questId": 4000405,
+    "phase": 3
+  }, {
+    "questId": 4000405,
+    "phase": 4
+  }, {
+    "questId": 4000406,
+    "phase": 1
+  }, {
+    "questId": 4000406,
+    "phase": 2
+  }, {
+    "questId": 4000406,
+    "phase": 4
+  }, {
+    "questId": 4000406,
+    "phase": 5
+  }, {
+    "questId": 4000407,
+    "phase": 1
+  }, {
+    "questId": 4000407,
+    "phase": 3
+  }, {
+    "questId": 4000407,
+    "phase": 4
+  }, {
+    "questId": 4000407,
+    "phase": 5
+  }, {
+    "questId": 4000407,
+    "phase": 6
+  }, {
+    "questId": 4000408
+  }, {
+    "questId": 4000409
+  }, {
+    "questId": 4000410
+  }, {
+    "questId": 4000411
+  }, {
+    "questId": 4000412
+  }, {
+    "questId": 4000413
+  }, {
+    "questId": 4000414
+  }, {
+    "questId": 4000415
+  }, {
+    "questId": 4000416
+  }, {
+    "questId": 4000417
+  }, {
+    "questId": 4000418
+  }, {
+    "questId": 4000419
+  }, {
+    "questId": 4000420,
+    "phase": 1
+  }, {
+    "questId": 4000420,
+    "phase": 3
+  }, {
+    "questId": 4000420,
+    "phase": 4
+  }, {
+    "questId": 4000420,
+    "phase": 5
+  }, {
+    "questId": 4000420,
+    "phase": 6
+  }, {
+    "questId": 4000420,
+    "phase": 7
+  }, {
+    "questId": 4000421
+  }, {
+    "questId": 4000422
+  }, {
+    "questId": 4000423,
+    "phase": 1
+  }, {
+    "questId": 4000423,
+    "phase": 5
+  }, {
+    "questId": 4000423,
+    "phase": 6
+  }, {
+    "questId": 4000424
+  }, {
+    "questId": 4000425
+  }, {
+    "questId": 4000426
+  }]
+}, {
+  "id": 20215,
+  "type": "combineCampaign",
+  "name": "「バレンタイン2025」関連サーヴァント強化『大成功＆極大成功』率2倍！",
+  "detail": "「バレンタイン2025」関連サーヴァント強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1738746000,
+  "startedAt": 1738746000,
+  "endedAt": 1739937599,
+  "finishedAt": 1739937599,
+  "campaigns": [{
+    "targetIds": [603100, 604800, 404400, 204000, 504200],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [603100, 604800, 404400, 204000, 504200],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }]
+}, {
+  "id": 71516,
+  "type": "questCampaign",
+  "name": "消費AP 50%DOWN",
+  "detail": "消費AP 50%DOWN",
+  "noticeAt": 1738746000,
+  "startedAt": 1738746000,
+  "endedAt": 1739937599,
+  "finishedAt": 1739937599,
+  "campaigns": [{
+    "target": "questAp",
+    "idx": 1,
+    "value": 500,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 91204001
+  }, {
+    "questId": 91204002
+  }, {
+    "questId": 91404401
+  }, {
+    "questId": 91603101
+  }, {
+    "questId": 94030001
+  }, {
+    "questId": 94094201
+  }, {
+    "questId": 94094202
+  }]
+}, {
+  "id": 71517,
+  "type": "questCampaign",
+  "name": "「バレンタイン2025」関連サーヴァント 獲得絆ポイント 20%UP",
+  "detail": "「バレンタイン2025」関連サーヴァント 獲得絆ポイント 20%UP",
+  "noticeAt": 1738746000,
+  "startedAt": 1738746000,
+  "endedAt": 1739332799,
+  "finishedAt": 1739332799,
+  "campaigns": [{
+    "targetIds": [603100, 604800, 404400, 204000, 504200],
+    "target": "questFriendship",
+    "idx": 1,
+    "value": 1200,
+    "calcType": "multiplication"
+  }],
+  "campaignQuests": [{
+    "questId": 0
+  }]
+}, {
+  "id": 20218,
+  "type": "combineCampaign",
+  "name": "アルターエゴクラス 強化『大成功＆極大成功』率2倍！",
+  "detail": "アルターエゴクラス 強化『大成功＆極大成功』率2倍！",
+  "noticeAt": 1739178000,
+  "startedAt": 1739178000,
+  "endedAt": 1739764799,
+  "finishedAt": 1739764799,
+  "campaigns": [{
+    "targetIds": [1000200, 1000100, 1000300, 1000400, 1000500, 1000700, 1000800, 1000900, 1001000, 1001100, 1001200, 1001300, 1001400, 1001500, 1001600, 1001700, 1001800],
+    "target": "largeSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
+  }, {
+    "targetIds": [1000200, 1000100, 1000300, 1000400, 1000500, 1000700, 1000800, 1000900, 1001000, 1001100, 1001200, 1001300, 1001400, 1001500, 1001600, 1001700, 1001800],
+    "target": "superSuccess",
+    "idx": 1,
+    "value": 2000,
+    "calcType": "multiplication"
   }]
 }]

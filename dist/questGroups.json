@@ -70397,6 +70397,34 @@
 }, {
   "groupId": 80507,
   "type": 1,
+  "questId": 94138902
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94138903
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94138904
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94138905
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94138906
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94138907
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94138999
+}, {
+  "groupId": 80507,
+  "type": 1,
   "questId": 94139001
 }, {
   "groupId": 80507,
@@ -70431,7 +70459,487 @@
   "type": 1,
   "questId": 94139009
 }, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139101
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139102
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139103
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139104
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139105
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139106
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139111
+}, {
+  "groupId": 94139111,
+  "type": 2,
+  "questId": 94139111
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139112
+}, {
+  "groupId": 94139111,
+  "type": 2,
+  "questId": 94139112
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139113
+}, {
+  "groupId": 94139111,
+  "type": 2,
+  "questId": 94139113
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139114
+}, {
+  "groupId": 94139111,
+  "type": 2,
+  "questId": 94139114
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139115
+}, {
+  "groupId": 94139111,
+  "type": 2,
+  "questId": 94139115
+}, {
+  "groupId": 80507,
+  "type": 1,
+  "questId": 94139116
+}, {
+  "groupId": 94139111,
+  "type": 2,
+  "questId": 94139116
+}, {
   "groupId": 0,
   "type": 1,
   "questId": 94139250
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139300
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139301
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139302
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139303
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139304
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139305
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139306
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139307
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139308
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139309
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139310
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139311
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139312
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139313
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139314
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139315
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139316
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139317
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139318
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139319
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139320
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139321
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139322
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139323
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139324
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139351
+}, {
+  "groupId": 94139300,
+  "type": 2,
+  "questId": 94139351
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139352
+}, {
+  "groupId": 94139300,
+  "type": 2,
+  "questId": 94139352
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139353
+}, {
+  "groupId": 94139300,
+  "type": 2,
+  "questId": 94139353
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139361
+}, {
+  "groupId": 94139301,
+  "type": 2,
+  "questId": 94139361
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139362
+}, {
+  "groupId": 94139301,
+  "type": 2,
+  "questId": 94139362
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139363
+}, {
+  "groupId": 94139301,
+  "type": 2,
+  "questId": 94139363
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139371
+}, {
+  "groupId": 94139302,
+  "type": 2,
+  "questId": 94139371
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139372
+}, {
+  "groupId": 94139302,
+  "type": 2,
+  "questId": 94139372
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139373
+}, {
+  "groupId": 94139302,
+  "type": 2,
+  "questId": 94139373
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139381
+}, {
+  "groupId": 94139303,
+  "type": 2,
+  "questId": 94139381
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139382
+}, {
+  "groupId": 94139303,
+  "type": 2,
+  "questId": 94139382
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139383
+}, {
+  "groupId": 94139303,
+  "type": 2,
+  "questId": 94139383
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139399
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139401
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139402
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139403
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139404
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139405
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139406
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139407
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139408
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139409
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139410
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139411
+}, {
+  "groupId": 80511,
+  "type": 1,
+  "questId": 94139501
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94139901
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94139902
+}, {
+  "groupId": 80512,
+  "type": 1,
+  "questId": 94140001
+}, {
+  "groupId": 80512,
+  "type": 1,
+  "questId": 94140002
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94140101
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94140750
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94140751
+}, {
+  "groupId": 80517,
+  "type": 1,
+  "questId": 94140803
+}, {
+  "groupId": 80517,
+  "type": 1,
+  "questId": 94140804
+}, {
+  "groupId": 80517,
+  "type": 1,
+  "questId": 94140805
+}, {
+  "groupId": 80517,
+  "type": 1,
+  "questId": 94140806
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141200
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141201
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141202
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141203
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141204
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141205
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141206
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141207
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141208
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141209
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141210
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141211
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141212
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141213
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141299
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141301
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141302
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141303
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141401
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141402
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141403
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141404
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141405
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141406
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141407
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141408
+}, {
+  "groupId": 80518,
+  "type": 1,
+  "questId": 94141409
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94142150
+}, {
+  "groupId": 0,
+  "type": 1,
+  "questId": 94142151
 }]

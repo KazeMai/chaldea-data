@@ -32,7 +32,7 @@
     "CN": "ILLUST：---\n食物监修：远藤雅司（音食纪行）",
     "TW": "ILLUST：---\n料理監修：遠藤雅司（音食紀行）",
     "NA": "Illustrator: ---\nCuisine Supervisor: Masashi Endo (Kukiko Onsho)",
-    "KR": null
+    "KR": "ILLUST：──\n요리감수: 엔도 마사시(음식기행)"
   },
   "M・S": {
     "JP": null,
@@ -50,7 +50,7 @@
   },
   "RiRi/ティズクリエイション": {
     "JP": null,
-    "CN": null,
+    "CN": "RiRi/TIS Creation",
     "TW": null,
     "NA": "RiRi / TIS Creation",
     "KR": null
@@ -127,7 +127,7 @@
   },
   "pako＆古海鐘一": {
     "JP": null,
-    "CN": null,
+    "CN": "pako＆古海钟一",
     "TW": null,
     "NA": "pako & Showichi Furumi",
     "KR": null
@@ -146,12 +146,26 @@
     "NA": "Ai Akasa",
     "KR": "아카사 아이"
   },
+  "あさ光": {
+    "JP": null,
+    "CN": "asamitsu",
+    "TW": null,
+    "NA": "asamitsu",
+    "KR": null
+  },
   "あるてら": {
     "JP": null,
     "CN": "ARUTERA",
     "TW": "ARUTERA",
     "NA": "Arutera",
     "KR": "아루테라"
+  },
+  "いちご煮": {
+    "JP": null,
+    "CN": "ichigo煮",
+    "TW": null,
+    "NA": "152 in CAN",
+    "KR": null
   },
   "いとうのいぢ": {
     "JP": null,
@@ -279,6 +293,13 @@
     "NA": "Kurogiri",
     "KR": null
   },
+  "けーしん": {
+    "JP": null,
+    "CN": "keisin",
+    "TW": null,
+    "NA": "keisin",
+    "KR": null
+  },
   "こうましろ": {
     "JP": null,
     "CN": "KOUMASHIRO",
@@ -388,7 +409,7 @@
     "JP": null,
     "CN": "Soreyu",
     "TW": null,
-    "NA": "Soreeyu",
+    "NA": "SOREYU",
     "KR": "소레유"
   },
   "たけのこ星人": {
@@ -549,7 +570,7 @@
     "JP": null,
     "CN": "Hitsumi",
     "TW": null,
-    "NA": "Hitsumi",
+    "NA": "hitumi",
     "KR": "히츠미"
   },
   "ひろやまひろし": {
@@ -586,6 +607,13 @@
     "TW": "herosumi",
     "NA": "Herosumi",
     "KR": "헤로스미"
+  },
+  "ぺい": {
+    "JP": null,
+    "CN": "pei",
+    "TW": null,
+    "NA": "pei",
+    "KR": null
   },
   "ぽよよん♡ろっく": {
     "JP": null,
@@ -720,6 +748,13 @@
     "NA": "Yoshio",
     "KR": "요시오"
   },
+  "るいせんと": {
+    "JP": null,
+    "CN": "llluicent",
+    "TW": null,
+    "NA": "Illuicent",
+    "KR": null
+  },
   "れおえん": {
     "JP": null,
     "CN": "reoenl",
@@ -825,6 +860,13 @@
     "NA": "Miwo Kamiya",
     "KR": "카미야 미오"
   },
+  "カリマリカ": {
+    "JP": null,
+    "CN": "CARIMARICA",
+    "TW": null,
+    "NA": "CARIMARICA",
+    "KR": null
+  },
   "カワグチタケシ": {
     "JP": null,
     "CN": "Kawaguchi Takeshi",
@@ -866,6 +908,13 @@
     "TW": "ケースワベ",
     "NA": "K-SUWABE",
     "KR": "케이 스와베"
+  },
+  "コウタ": {
+    "JP": null,
+    "CN": "KOUTA",
+    "TW": null,
+    "NA": "Kota",
+    "KR": null
   },
   "コダマ": {
     "JP": null,
@@ -1132,6 +1181,13 @@
     "TW": null,
     "NA": "Meiji",
     "KR": "메이지"
+  },
+  "モ誰": {
+    "JP": null,
+    "CN": "mo谁",
+    "TW": null,
+    "NA": "modare",
+    "KR": null
   },
   "ヤグチミナト": {
     "JP": null,
@@ -1627,7 +1683,7 @@
     "JP": null,
     "CN": "大泽朋司",
     "TW": "大澤朋司",
-    "NA": "Tomoji Ohsawa",
+    "NA": "Tomoji Oosawa",
     "KR": "오오사와 토모카즈"
   },
   "天空すふぃあ": {
@@ -1669,7 +1725,7 @@
     "JP": null,
     "CN": "寺场唯仁",
     "TW": "寺場唯仁",
-    "NA": "Tadahiro Teraba",
+    "NA": "Tadahito Teraba",
     "KR": "테라바 타다비토"
   },
   "小宮国春": {
@@ -1711,7 +1767,7 @@
     "JP": null,
     "CN": null,
     "TW": "小野茜(LASENGLE)",
-    "NA": "Akane Ono (LASENGLE)",
+    "NA": "Akane Ono",
     "KR": "오노 아카네(LASENGLE)"
   },
   "尾崎ドミノ": {
@@ -1819,6 +1875,13 @@
     "NA": "Masaki Hirayama",
     "KR": "히라야마 마사키"
   },
+  "平川和貴": {
+    "JP": null,
+    "CN": "平川和贵",
+    "TW": null,
+    "NA": "Hirakawa Kazutaka",
+    "KR": null
+  },
   "平田和也(SILVER LINK.)": {
     "JP": null,
     "CN": "平田和也(SILVER LINK.)",
@@ -1908,7 +1971,7 @@
     "CN": "我美兰",
     "TW": "我美蘭",
     "NA": "Gabiran",
-    "KR": null
+    "KR": "가비란"
   },
   "我藤がなは": {
     "JP": null,
@@ -2022,6 +2085,13 @@
     "NA": "Raita Honjo",
     "KR": "혼조 라이타"
   },
+  "村カルキ": {
+    "JP": null,
+    "CN": "村karuki",
+    "TW": null,
+    "NA": "Murakaruki",
+    "KR": null
+  },
   "村山竜大": {
     "JP": null,
     "CN": "村山龙大",
@@ -2033,7 +2103,7 @@
     "JP": null,
     "CN": null,
     "TW": "村木翔一(LASENGLE)",
-    "NA": "Shōichi Kimura (LASENGLE)",
+    "NA": "Shoichi Muraki (LASENGLE)",
     "KR": "무라키 쇼이치(LASENGLE)"
   },
   "東冬": {
@@ -2418,7 +2488,7 @@
     "JP": null,
     "CN": "田岛昭宇",
     "TW": "田島昭宇",
-    "NA": "Shou Tajima",
+    "NA": "Sho-u Tajima",
     "KR": "타지마 쇼우"
   },
   "田畑壽之": {
@@ -2493,7 +2563,7 @@
   },
   "石倉麻衣(LASENGLE)": {
     "JP": null,
-    "CN": null,
+    "CN": "石仓麻衣(LASENGLE)",
     "TW": null,
     "NA": "Ishikura Mai (LASENGLE)",
     "KR": null
@@ -2923,7 +2993,7 @@
     "CN": "铃木翔子(LASENGLE)",
     "TW": "鈴木翔子(LASENGLE)",
     "NA": "Shoko Suzuki (LASENGLE)",
-    "KR": null
+    "KR": "스즈키 쇼코(LASENGLE)"
   },
   "雌鳥": {
     "JP": null,

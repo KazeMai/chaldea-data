@@ -9,7 +9,7 @@
     "3": 18850,
     "4": 36000,
     "18": 120,
-    "48": 9000,
+    "48": 10000,
     "50": 3910,
     "51": 14,
     "52": 15,
@@ -123,6 +123,22 @@
     "7998": 7,
     "8401620": 1,
     "9808910": 16
+  }
+}, {
+  "id": 80512,
+  "startedAt": 1735657200,
+  "endedAt": 1736913599,
+  "closedAt": 1737518399,
+  "gifts": {
+    "1": 4250000,
+    "2": 6,
+    "100": 3,
+    "2000": 1,
+    "4001": 5,
+    "6999": 1,
+    "7998": 7,
+    "8401900": 1,
+    "9809280": 16
   }
 }, {
   "id": 100176,
@@ -1449,6 +1465,41 @@
   "startedAt": 1734879600,
   "endedAt": 1735484399,
   "closedAt": 1736089199
+}, {
+  "id": 100441,
+  "startedAt": 1735484400,
+  "endedAt": 1736089199,
+  "closedAt": 1736693999
+}, {
+  "id": 100442,
+  "startedAt": 1736089200,
+  "endedAt": 1736693999,
+  "closedAt": 1737298799
+}, {
+  "id": 100443,
+  "startedAt": 1736694000,
+  "endedAt": 1737298799,
+  "closedAt": 1737903599
+}, {
+  "id": 100444,
+  "startedAt": 1737298800,
+  "endedAt": 1737903599,
+  "closedAt": 1738508399
+}, {
+  "id": 100445,
+  "startedAt": 1737903600,
+  "endedAt": 1738508399,
+  "closedAt": 1739113199
+}, {
+  "id": 100446,
+  "startedAt": 1738508400,
+  "endedAt": 1739113199,
+  "closedAt": 1739717999
+}, {
+  "id": 100447,
+  "startedAt": 1739113200,
+  "endedAt": 1739717999,
+  "closedAt": 1740322799
 }, {
   "id": 200076,
   "startedAt": 1576054800,
@@ -2785,6 +2836,148 @@
     "94139201": 7
   }
 }, {
+  "script": {
+    "missionIconDetailText": "奏章Ⅰクリア応援キャンペーン",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200198,
+  "startedAt": 1735722000,
+  "endedAt": 1738335599,
+  "closedAt": 1738940399,
+  "gifts": {
+    "2": 3,
+    "18": 1,
+    "48": 400,
+    "6999": 1,
+    "9570400": 1,
+    "9670400": 1,
+    "9770500": 20
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "2025年お正月",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200199,
+  "startedAt": 1735657200,
+  "endedAt": 1738335599,
+  "closedAt": 1738335599,
+  "gifts": {
+    "1": 6000000,
+    "2": 25,
+    "1000": 1,
+    "6999": 1,
+    "9570400": 1,
+    "9670400": 1,
+    "9770500": 50,
+    "94140002": 10
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "2025年お正月",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200200,
+  "startedAt": 1735657200,
+  "endedAt": 1735916399,
+  "closedAt": 1736521199,
+  "gifts": {
+    "94140001": 15
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "2025年お正月",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200201,
+  "startedAt": 1735657200,
+  "endedAt": 1736261999,
+  "closedAt": 1736866799,
+  "gifts": {
+    "48": 210,
+    "94138203": 7
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "巡霊の祝祭 新春キャンペーン",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200202,
+  "startedAt": 1736154000,
+  "endedAt": 1738727999,
+  "closedAt": 1739332799,
+  "gifts": {
+    "2": 3,
+    "48": 500,
+    "6999": 1,
+    "9308920": 1,
+    "9308930": 1,
+    "9308940": 1,
+    "9308950": 1,
+    "9308960": 1
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "巡霊の祝祭 第9弾",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200204,
+  "startedAt": 1736154000,
+  "endedAt": 1737345599,
+  "closedAt": 1737950399,
+  "gifts": {
+    "2": 6,
+    "48": 100,
+    "6999": 1
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "巡霊の祝祭 第9弾",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200205,
+  "startedAt": 1737709200,
+  "endedAt": 1738900799,
+  "closedAt": 1739505599,
+  "gifts": {
+    "2": 6,
+    "48": 100,
+    "9309000": 1
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "戦力増強キャンペーン",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200206,
+  "startedAt": 1738141200,
+  "endedAt": 1739332799,
+  "closedAt": 1739937599,
+  "gifts": {
+    "1": 3000000,
+    "2": 5
+  }
+}, {
+  "script": {
+    "missionIconDetailText": "奏章Ⅱクリア応援CP",
+    "missionIconDisplayMsGroup": "MISSION_ICON_DISPLAY_MS_GROUP_LIMITED"
+  },
+  "id": 200207,
+  "startedAt": 1738400400,
+  "endedAt": 1740754799,
+  "closedAt": 1741359599,
+  "gifts": {
+    "1": 5000000,
+    "2": 3,
+    "48": 400,
+    "6999": 1,
+    "9570300": 5,
+    "9570400": 1,
+    "9670300": 5,
+    "9670400": 1,
+    "9770500": 20
+  }
+}, {
   "id": 300001,
   "startedAt": 1597071600,
   "endedAt": 1893423600,
@@ -2978,5 +3171,20 @@
   "id": 300039,
   "startedAt": 1732978800,
   "endedAt": 1735657199,
+  "closedAt": 1893423600
+}, {
+  "id": 300040,
+  "startedAt": 1735657200,
+  "endedAt": 1736261999,
+  "closedAt": 1893423600
+}, {
+  "id": 300041,
+  "startedAt": 1736262000,
+  "endedAt": 1738335599,
+  "closedAt": 1893423600
+}, {
+  "id": 300042,
+  "startedAt": 1738335600,
+  "endedAt": 1740754799,
   "closedAt": 1893423600
 }]

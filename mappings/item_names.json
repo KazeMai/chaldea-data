@@ -234,7 +234,7 @@
     "JP": null,
     "CN": "1月兑换券(2024)",
     "TW": "10月交換券(2024)",
-    "NA": "Exchange Ticket (JAN 2023)",
+    "NA": "Exchange Ticket (JAN 2025)",
     "KR": "1월 로그인 보너스 교환티켓"
   },
   "1月交換券(2024)": {
@@ -242,6 +242,13 @@
     "CN": "1月兑换券(2025)",
     "TW": "1月交換券(2024 JP)",
     "NA": "Exchange Ticket (JAN 2024)",
+    "KR": null
+  },
+  "1月交換券(2025)": {
+    "JP": null,
+    "CN": "1月交换券(2025 JP)",
+    "TW": "1月交換券(2025 JP)",
+    "NA": "Exchange Ticket (JAN 2025)",
     "KR": null
   },
   "2000万DL記念チケット": {
@@ -256,6 +263,13 @@
     "CN": "2025年新年限定素材兑换券",
     "TW": "2024年新年限定素材交換券",
     "NA": "2024 New Year's Limited Material Exchange Ticket",
+    "KR": null
+  },
+  "2025年お正月限定素材交換券": {
+    "JP": null,
+    "CN": "2025年新年限定素材交换券",
+    "TW": "2025年新年限定素材交換券",
+    "NA": null,
     "KR": null
   },
   "2500万DL記念チケット〔サーヴァント〕": {
@@ -318,20 +332,27 @@
     "JP": null,
     "CN": "2月兑换券(2024)",
     "TW": "11月兌換券(2024)",
-    "NA": "Exchange Ticket (FEB 2023)",
-    "KR": null
+    "NA": "Exchange Ticket (FEB 2025)",
+    "KR": "2월 로그인 보너스 교환티켓"
   },
   "2月交換券(2024)": {
     "JP": null,
-    "CN": "2月交换券(2024 JP)",
+    "CN": "2月兑换券(2025)",
     "TW": "2月交換券(2024 JP)",
     "NA": "Exchange Ticket (FEB 2024)",
+    "KR": null
+  },
+  "2月交換券(2025)": {
+    "JP": null,
+    "CN": "2月交换券(2025 JP)",
+    "TW": "2月交換券(2025 JP)",
+    "NA": "Exchange Ticket (FEB 2025)",
     "KR": null
   },
   "3000万DL記念チケット": {
     "JP": null,
     "CN": "3000万DL纪念券",
-    "TW": "3000萬DL纪念券",
+    "TW": "3000萬DL紀念券",
     "NA": "30 Million Downloads Celebration Ticket",
     "KR": null
   },
@@ -386,7 +407,7 @@
   },
   "3月交換券(2024)": {
     "JP": null,
-    "CN": "3月交换券(2024 JP)",
+    "CN": "3月兑换券(2025)",
     "TW": "3月交換券(2024 JP)",
     "NA": "Exchange Ticket (MAR 2024)",
     "KR": null
@@ -442,7 +463,7 @@
   },
   "4月交換券(2024)": {
     "JP": null,
-    "CN": "4月交换券(2024 JP)",
+    "CN": "4月兑换券(2025)",
     "TW": "4月交換券(2024 JP)",
     "NA": "Exchange Ticket (APR 2024)",
     "KR": null
@@ -491,7 +512,7 @@
   },
   "5月交換券(2024)": {
     "JP": null,
-    "CN": "5月交换券(2024 JP)",
+    "CN": "5月兑换券(2025)",
     "TW": "5月交換券(2024 JP)",
     "NA": "Exchange Ticket (MAY 2024)",
     "KR": null
@@ -540,7 +561,7 @@
   },
   "6月交換券(2024)": {
     "JP": null,
-    "CN": "6月交换券(2024 JP)",
+    "CN": "6月兑换券(2025)",
     "TW": "6月交換券(2024 JP)",
     "NA": "Exchange Ticket (JUN 2024)",
     "KR": null
@@ -576,7 +597,7 @@
   "7月交換券(2022)": {
     "JP": null,
     "CN": "FES2024预热兑换券Ⅱ",
-    "TW": "暫時廢用",
+    "TW": "春節驚喜材料兌換券Ⅰ",
     "NA": "Exchange Ticket (JUL 2024)",
     "KR": "7월 로그인 보너스 교환티켓"
   },
@@ -589,7 +610,7 @@
   },
   "7月交換券(2024)": {
     "JP": null,
-    "CN": "7月交换券(2024 JP)",
+    "CN": "7月兑换券(2025)",
     "TW": "7月交換券(2024 JP)",
     "NA": "Exchange Ticket (JUL 2024)",
     "KR": null
@@ -632,7 +653,7 @@
   "8月交換券(2022)": {
     "JP": null,
     "CN": "FES2024预热兑换券Ⅲ",
-    "TW": "暫時廢用",
+    "TW": "春節驚喜材料兌換券Ⅱ",
     "NA": "Exchange Ticket (AUG 2024)",
     "KR": "8월 로그인 보너스 교환티켓"
   },
@@ -785,7 +806,7 @@
   },
   "CBC2024特別交換券": {
     "JP": null,
-    "CN": "CBC2024特别交换券",
+    "CN": "CBC2024特別兑换券",
     "TW": "CBC2024特別交換券",
     "NA": "CBC2024 Special Exchange Ticket",
     "KR": null
@@ -1060,7 +1081,7 @@
     "JP": null,
     "CN": "甜甜蜜蜜钥匙扣",
     "TW": "甜甜蜜蜜鑰匙圈",
-    "NA": "Lovey-Dovey Keyholder",
+    "NA": "Lovey-Dovey Keychain",
     "KR": "러브러브 키홀더"
   },
   "らぶらぶコイン": {
@@ -1674,7 +1695,7 @@
   },
   "クリスマス2024交換券": {
     "JP": null,
-    "CN": null,
+    "CN": "圣诞节2024交换券",
     "TW": "聖誕節2024交換券",
     "NA": null,
     "KR": null
@@ -1689,7 +1710,7 @@
   "クリスマストゥーシューズ": {
     "JP": null,
     "CN": null,
-    "TW": "聖誕節硬鞋",
+    "TW": "聖誕硬鞋",
     "NA": null,
     "KR": null
   },
@@ -1754,7 +1775,7 @@
     "CN": "凯尔特式修炼武具",
     "TW": "凱爾特式修練武具",
     "NA": "Celtic-Style Training Weapon",
-    "KR": null
+    "KR": "켈트식 수련 무구"
   },
   "ゲート・キー（アンクル）": {
     "JP": null,
@@ -2295,6 +2316,13 @@
     "NA": "Spicy Xocolatl",
     "KR": "스파이시 쇼콜라틀"
   },
+  "スピドラポイント": {
+    "JP": null,
+    "CN": null,
+    "TW": "速度龍點數",
+    "NA": null,
+    "KR": null
+  },
   "スペムンぬい": {
     "JP": null,
     "CN": null,
@@ -2456,6 +2484,13 @@
     "NA": "Twinkle Candy",
     "KR": "트윙클 캔디"
   },
+  "テクドラポイント": {
+    "JP": null,
+    "CN": null,
+    "TW": "科技龍點數",
+    "NA": null,
+    "KR": null
+  },
   "デコペンキ": {
     "JP": null,
     "CN": null,
@@ -2546,6 +2581,27 @@
     "TW": "惡龍硬幣",
     "NA": "Dracul Coin",
     "KR": "드라쿨 코인"
+  },
+  "ドラゴンスフィア": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍之圓球",
+    "NA": null,
+    "KR": null
+  },
+  "ドラゴンディスク": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍之圓盤",
+    "NA": null,
+    "KR": null
+  },
+  "ドラゴンフード": {
+    "JP": null,
+    "CN": null,
+    "TW": "龍之食物",
+    "NA": null,
+    "KR": null
   },
   "ドリルグミ": {
     "JP": null,
@@ -2687,6 +2743,13 @@
     "NA": "Wanted Poster of Teacher Baobei",
     "KR": "보패 선생의 수배 전단"
   },
+  "パワドラポイント": {
+    "JP": null,
+    "CN": null,
+    "TW": "力量龍點數",
+    "NA": null,
+    "KR": null
+  },
   "ヒノキの材木": {
     "JP": null,
     "CN": "桧木材",
@@ -2766,21 +2829,21 @@
   },
   "フォンデュイチゴ": {
     "JP": null,
-    "CN": "火锅草莓",
+    "CN": "热熔巧克力草莓",
     "TW": "火鍋草莓",
     "NA": "Fondue Strawberry",
     "KR": null
   },
   "フォンデュビスケット": {
     "JP": null,
-    "CN": "火锅饼干",
+    "CN": "热熔巧克力饼干",
     "TW": "火鍋餅乾",
     "NA": "Fondue Biscuit",
     "KR": null
   },
   "フォンデュマシュマロ": {
     "JP": null,
-    "CN": "火锅棉花糖",
+    "CN": "热熔巧克力棉花糖",
     "TW": "火鍋棉花糖",
     "NA": "Fondue Marshmallow",
     "KR": null
@@ -3022,6 +3085,13 @@
     "TW": "巨大啞鈴",
     "NA": "Mucho Dumbbell",
     "KR": "무쵸 덤벨"
+  },
+  "ムーンそば": {
+    "JP": null,
+    "CN": null,
+    "TW": "月之蕎麥麵",
+    "NA": null,
+    "KR": null
   },
   "メジェぐるみ": {
     "JP": null,
@@ -3329,7 +3399,7 @@
     "CN": "亡国硬币",
     "TW": "亡國硬幣",
     "NA": "Medal of a Ruined Country",
-    "KR": null
+    "KR": "망국의 메달"
   },
   "人体図（偽）": {
     "JP": null,
@@ -3361,7 +3431,7 @@
   },
   "信念のゼリー": {
     "JP": null,
-    "CN": "信念果冻",
+    "CN": "信念啫喱",
     "TW": "信念果凍",
     "NA": "Jelly of Conviction",
     "KR": null
@@ -3755,7 +3825,7 @@
     "JP": null,
     "CN": "太阳皮",
     "TW": "太陽皮",
-    "NA": "Sunscale",
+    "NA": "Solar Hide",
     "KR": "태양피"
   },
   "奇奇神酒": {
@@ -4313,7 +4383,7 @@
   },
   "月見のティーポット": {
     "JP": null,
-    "CN": null,
+    "CN": "占月茶壶",
     "TW": "賞月茶壺",
     "NA": null,
     "KR": null
@@ -4365,7 +4435,7 @@
     "CN": "朽叶之冠",
     "TW": "朽葉之冠",
     "NA": "Crown of Decaying Leaves",
-    "KR": null
+    "KR": "썩은 낙엽 관"
   },
   "材料チョコ": {
     "JP": null,
@@ -4390,7 +4460,7 @@
   },
   "東干し柿": {
     "JP": null,
-    "CN": "东之柿饼",
+    "CN": "东柿饼",
     "TW": "東之柿餅",
     "NA": "Azuma Dried Persimmons",
     "KR": null
@@ -4484,7 +4554,7 @@
     "CN": "死灭蔷薇",
     "TW": "死滅薔薇",
     "NA": "Rose of Annihilation",
-    "KR": null
+    "KR": "사멸의 장미"
   },
   "殺のコインチョコ": {
     "JP": null,
@@ -4924,14 +4994,14 @@
     "JP": null,
     "CN": "祝福锁定巧克力〔草莓〕",
     "TW": "祝福鎖定巧克力〔草莓〕",
-    "NA": "Blessed Lock-On Choco (Strawberry)",
+    "NA": "Blessed Lock-On Chocolate (Strawberry)",
     "KR": "축복 록 온 초콜릿[스트로베리]"
   },
   "祝福ロックオンチョコ〔ブルーベリー〕": {
     "JP": null,
     "CN": "祝福锁定巧克力〔蓝莓〕",
     "TW": "祝福鎖定巧克力〔藍莓〕",
-    "NA": "Blessed Lock-On Choco (Blueberry)",
+    "NA": "Blessed Lock-On Chocolate (Blueberry)",
     "KR": "축복 록 온 초콜릿[블루베리]"
   },
   "神秘蔦": {
@@ -5932,7 +6002,7 @@
     "JP": null,
     "CN": "黑曜锐刃",
     "TW": "黑曜銳刃",
-    "NA": "Obsidian Edge",
+    "NA": "Obsidian Blade",
     "KR": "흑요예인"
   },
   "黒猫フィギュア": {

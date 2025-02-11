@@ -1127,6 +1127,15 @@
       "endedAt": 1735052399
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960507,
     "extraPassive": [{
       "num": 10,
@@ -2008,6 +2017,24 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940366,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -2838,6 +2865,24 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940366,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -3564,6 +3609,24 @@
       }],
       "startedAt": 1676624400,
       "endedAt": 1678420799
+    }]
+  }, {
+    "id": 940366,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -4469,6 +4532,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -5511,6 +5583,15 @@
       "endedAt": 1727841599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -6352,6 +6433,15 @@
       "endedAt": 1733284799
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -7176,6 +7266,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -7973,6 +8072,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -8696,47 +8804,6 @@
       "endedAt": 1614139199
     }]
   }, {
-    "id": 940194,
-    "extraPassive": [{
-      "num": 16,
-      "priority": 141,
-      "eventId": 80313,
-      "releaseConditions": [{
-        "id": 10056148,
-        "condType": "shopFlagOn",
-        "condId": 80313034,
-        "condNum": 2
-      }, {
-        "id": 10056148,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80313044,
-        "condNum": 2
-      }],
-      "startedAt": 1612947600,
-      "endedAt": 1614139199
-    }, {
-      "num": 16,
-      "priority": 140,
-      "eventId": 80313,
-      "releaseConditions": [{
-        "id": 10056148,
-        "condType": "shopFlagOn",
-        "condId": 80313034,
-        "condNum": 2
-      }, {
-        "id": 10056148,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80313044,
-        "condNum": 2
-      }],
-      "startedAt": 1612947600,
-      "endedAt": 1614139199
-    }]
-  }, {
     "id": 940198,
     "extraPassive": [{
       "num": 16,
@@ -8771,47 +8838,6 @@
       "eventId": 80367,
       "startedAt": 1651059000,
       "endedAt": 1652846399
-    }]
-  }, {
-    "id": 940274,
-    "extraPassive": [{
-      "num": 16,
-      "priority": 183,
-      "eventId": 80414,
-      "releaseConditions": [{
-        "id": 10080048,
-        "condType": "shopFlagOn",
-        "condId": 80414034,
-        "condNum": 2
-      }, {
-        "id": 10080048,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80414044,
-        "condNum": 2
-      }],
-      "startedAt": 1676624400,
-      "endedAt": 1678420799
-    }, {
-      "num": 16,
-      "priority": 182,
-      "eventId": 80414,
-      "releaseConditions": [{
-        "id": 10080048,
-        "condType": "shopFlagOn",
-        "condId": 80414034,
-        "condNum": 2
-      }, {
-        "id": 10080048,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80414044,
-        "condNum": 2
-      }],
-      "startedAt": 1676624400,
-      "endedAt": 1678420799
     }]
   }, {
     "id": 940274,
@@ -8904,6 +8930,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -9964,6 +9999,15 @@
       "endedAt": 1735052399
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -10814,6 +10858,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -11745,6 +11798,15 @@
       "endedAt": 1727841599
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -12508,6 +12570,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -13331,6 +13402,15 @@
       "endedAt": 1700020799
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -14093,6 +14173,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -14865,6 +14954,15 @@
       "eventId": 80472,
       "startedAt": 1714129200,
       "endedAt": 1715918399
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -15681,6 +15779,49 @@
       "eventId": 80507,
       "startedAt": 1735052400,
       "endedAt": 1735657199
+    }, {
+      "num": 16,
+      "priority": 215,
+      "condQuestId": 94138900,
+      "condQuestPhase": 4,
+      "eventId": 80507,
+      "releaseConditions": [{
+        "id": 10138903,
+        "condType": "questClear",
+        "condId": 94138900
+      }, {
+        "id": 10138903,
+        "condType": "date",
+        "condNum": 1735657200
+      }, {
+        "id": 10138903,
+        "condType": "questNotClear",
+        "condId": 94138907
+      }, {
+        "id": 10138903,
+        "condType": "beforeSpecifiedDate",
+        "condNum": 1735916399
+      }],
+      "startedAt": 1735052400,
+      "endedAt": 1735916399
+    }]
+  }, {
+    "id": 940365,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -16473,6 +16614,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -17208,6 +17358,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -17965,6 +18124,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -18701,6 +18869,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -18975,6 +19152,8 @@
   }, {
     "id": 1000
   }, {
+    "id": 1110
+  }, {
     "id": 2000
   }, {
     "id": 2001
@@ -19035,7 +19214,7 @@
   "atkMax": 7200,
   "hpBase": 1608,
   "hpMax": 8937,
-  "relateQuestIds": [91400101, 94003405, 94026508],
+  "relateQuestIds": [91400101, 94003405, 94026508, 94139902],
   "growthCurve": 3,
   "bondGrowth": [4000, 16000, 19000, 32000, 35000, 180000, 490000, 790000, 1100000, 1390000, 2480000, 3710000, 5070000, 6570000, 8210000],
   "bondEquip": 9300470,
@@ -19376,6 +19555,7 @@
     "id": 39450,
     "num": 2,
     "svtId": 400100,
+    "strengthStatus": 1,
     "priority": 1,
     "condLimitCount": 1
   }, {
@@ -19386,6 +19566,15 @@
     "condQuestId": 94003405,
     "condQuestPhase": 5,
     "condLimitCount": 4
+  }, {
+    "id": 2455450,
+    "num": 2,
+    "svtId": 400100,
+    "strengthStatus": 99,
+    "priority": 2,
+    "condQuestId": 94139902,
+    "condQuestPhase": 3,
+    "condLimitCount": 1
   }],
   "classPassive": [{
     "id": 34450
@@ -19523,6 +19712,24 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940365,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -20328,6 +20535,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -21221,6 +21437,15 @@
       "endedAt": 1727841599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -22001,6 +22226,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -22817,6 +23051,15 @@
       "endedAt": 1678420799
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -23596,6 +23839,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -24361,6 +24613,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -25136,6 +25397,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -25862,6 +26132,15 @@
       "priority": 0,
       "startedAt": 1706605200,
       "endedAt": 1709218799
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -26633,6 +26912,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -27433,6 +27721,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -28186,6 +28483,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -28923,6 +29229,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -29698,6 +30013,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -30520,6 +30844,15 @@
       "endedAt": 1735052399
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -31307,6 +31640,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -32089,6 +32431,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -32830,6 +33181,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -33578,6 +33938,15 @@
       "endedAt": 1700060399
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -34286,6 +34655,15 @@
       }],
       "startedAt": 1676624400,
       "endedAt": 1678420799
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -35060,6 +35438,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -35849,6 +36236,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -36578,6 +36974,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -37276,6 +37681,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -38073,6 +38487,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -38846,6 +39269,15 @@
       "endedAt": 1735052399
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -39584,6 +40016,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -40347,6 +40788,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -41199,6 +41649,15 @@
       "endedAt": 1721361599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -42023,6 +42482,40 @@
       "eventId": 80507,
       "startedAt": 1735052400,
       "endedAt": 1735657199
+    }, {
+      "num": 16,
+      "priority": 215,
+      "condQuestId": 94138900,
+      "condQuestPhase": 4,
+      "eventId": 80507,
+      "releaseConditions": [{
+        "id": 10138903,
+        "condType": "questClear",
+        "condId": 94138900
+      }, {
+        "id": 10138903,
+        "condType": "date",
+        "condNum": 1735657200
+      }, {
+        "id": 10138903,
+        "condType": "questNotClear",
+        "condId": 94138907
+      }, {
+        "id": 10138903,
+        "condType": "beforeSpecifiedDate",
+        "condNum": 1735916399
+      }],
+      "startedAt": 1735052400,
+      "endedAt": 1735916399
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -42822,6 +43315,15 @@
       "endedAt": 1733284799
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -43562,6 +44064,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -44293,6 +44804,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -44569,6 +45089,8 @@
     "id": 403
   }, {
     "id": 1000
+  }, {
+    "id": 1110
   }, {
     "id": 2001
   }, {
@@ -45121,6 +45643,24 @@
       "eventId": 80480,
       "startedAt": 1719572400,
       "endedAt": 1721361599
+    }]
+  }, {
+    "id": 940365,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -45850,6 +46390,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -46641,6 +47190,15 @@
       "eventId": 80480,
       "startedAt": 1719572400,
       "endedAt": 1721361599
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -47570,6 +48128,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -48297,7 +48864,7 @@
     "id": 940194,
     "extraPassive": [{
       "num": 16,
-      "priority": 140,
+      "priority": 141,
       "eventId": 80313,
       "releaseConditions": [{
         "id": 10056177,
@@ -48316,48 +48883,7 @@
       "endedAt": 1614139199
     }, {
       "num": 16,
-      "priority": 141,
-      "eventId": 80313,
-      "releaseConditions": [{
-        "id": 10056177,
-        "condType": "shopFlagOn",
-        "condId": 80313020,
-        "condNum": 2
-      }, {
-        "id": 10056177,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80313054,
-        "condNum": 2
-      }],
-      "startedAt": 1612947600,
-      "endedAt": 1614139199
-    }]
-  }, {
-    "id": 940194,
-    "extraPassive": [{
-      "num": 16,
       "priority": 140,
-      "eventId": 80313,
-      "releaseConditions": [{
-        "id": 10056177,
-        "condType": "shopFlagOn",
-        "condId": 80313020,
-        "condNum": 2
-      }, {
-        "id": 10056177,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80313054,
-        "condNum": 2
-      }],
-      "startedAt": 1612947600,
-      "endedAt": 1614139199
-    }, {
-      "num": 16,
-      "priority": 141,
       "eventId": 80313,
       "releaseConditions": [{
         "id": 10056177,
@@ -48444,47 +48970,6 @@
       "endedAt": 1678420799
     }]
   }, {
-    "id": 940274,
-    "extraPassive": [{
-      "num": 16,
-      "priority": 183,
-      "eventId": 80414,
-      "releaseConditions": [{
-        "id": 10080077,
-        "condType": "shopFlagOn",
-        "condId": 80414020,
-        "condNum": 2
-      }, {
-        "id": 10080077,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80414054,
-        "condNum": 2
-      }],
-      "startedAt": 1676624400,
-      "endedAt": 1678420799
-    }, {
-      "num": 16,
-      "priority": 182,
-      "eventId": 80414,
-      "releaseConditions": [{
-        "id": 10080077,
-        "condType": "shopFlagOn",
-        "condId": 80414020,
-        "condNum": 2
-      }, {
-        "id": 10080077,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80414054,
-        "condNum": 2
-      }],
-      "startedAt": 1676624400,
-      "endedAt": 1678420799
-    }]
-  }, {
     "id": 940279,
     "extraPassive": [{
       "num": 16,
@@ -48516,6 +49001,15 @@
       }],
       "startedAt": 1728205200,
       "endedAt": 1730433599
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -49262,6 +49756,58 @@
       "eventId": 80507,
       "startedAt": 1735052400,
       "endedAt": 1735657199
+    }, {
+      "num": 16,
+      "priority": 215,
+      "condQuestId": 94138900,
+      "condQuestPhase": 4,
+      "eventId": 80507,
+      "releaseConditions": [{
+        "id": 10138903,
+        "condType": "questClear",
+        "condId": 94138900
+      }, {
+        "id": 10138903,
+        "condType": "date",
+        "condNum": 1735657200
+      }, {
+        "id": 10138903,
+        "condType": "questNotClear",
+        "condId": 94138907
+      }, {
+        "id": 10138903,
+        "condType": "beforeSpecifiedDate",
+        "condNum": 1735916399
+      }],
+      "startedAt": 1735052400,
+      "endedAt": 1735916399
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940374,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940376,
+    "extraPassive": [{
+      "num": 20,
+      "priority": 216,
+      "eventId": 80513,
+      "startedAt": 1736154000,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -50076,6 +50622,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -50842,6 +51397,15 @@
       "eventId": 80490,
       "startedAt": 1729076400,
       "endedAt": 1730865599
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -51628,6 +52192,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -52370,6 +52943,15 @@
       }],
       "startedAt": 1728205200,
       "endedAt": 1730433599
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -53195,6 +53777,15 @@
       "endedAt": 1700060399
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -53961,6 +54552,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -54824,6 +55424,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -55633,6 +56242,24 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940363,
+    "extraPassive": [{
+      "num": 20,
+      "priority": 216,
+      "eventId": 80513,
+      "startedAt": 1736154000,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -56461,6 +57088,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -57208,6 +57844,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -57977,6 +58622,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -58733,6 +59387,31 @@
     "id": 940359,
     "extraPassive": [{
       "num": 16,
+      "priority": 215,
+      "condQuestId": 94138900,
+      "condQuestPhase": 4,
+      "eventId": 80507,
+      "releaseConditions": [{
+        "id": 10138903,
+        "condType": "questClear",
+        "condId": 94138900
+      }, {
+        "id": 10138903,
+        "condType": "date",
+        "condNum": 1735657200
+      }, {
+        "id": 10138903,
+        "condType": "questNotClear",
+        "condId": 94138907
+      }, {
+        "id": 10138903,
+        "condType": "beforeSpecifiedDate",
+        "condNum": 1735916399
+      }],
+      "startedAt": 1735052400,
+      "endedAt": 1735916399
+    }, {
+      "num": 16,
       "priority": 214,
       "eventId": 80507,
       "startedAt": 1735052400,
@@ -58746,6 +59425,33 @@
       "eventId": 80506,
       "startedAt": 1733907600,
       "endedAt": 1735052399
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940375,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940376,
+    "extraPassive": [{
+      "num": 20,
+      "priority": 216,
+      "eventId": 80513,
+      "startedAt": 1736154000,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -59682,6 +60388,15 @@
       "endedAt": 1700060399
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -60465,6 +61180,15 @@
       }],
       "startedAt": 1728205200,
       "endedAt": 1730433599
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -61337,6 +62061,24 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940366,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -62178,6 +62920,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -62958,6 +63709,24 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940366,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -63748,6 +64517,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -64526,6 +65304,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -65260,6 +66047,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -65972,6 +66768,15 @@
       }],
       "startedAt": 1697360400,
       "endedAt": 1700060399
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -67024,6 +67829,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -68020,6 +68834,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -68873,6 +69696,24 @@
       "endedAt": 1678420799
     }]
   }, {
+    "id": 940366,
+    "extraPassive": [{
+      "num": 15,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -69657,6 +70498,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -70387,6 +71237,15 @@
       }],
       "startedAt": 1676624400,
       "endedAt": 1678420799
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -71168,6 +72027,15 @@
       "endedAt": 1711511999
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -71908,6 +72776,15 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -72871,6 +73748,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -73609,6 +74495,24 @@
       "eventId": 80476,
       "startedAt": 1717750800,
       "endedAt": 1719547199
+    }]
+  }, {
+    "id": 940363,
+    "extraPassive": [{
+      "num": 20,
+      "priority": 216,
+      "eventId": 80513,
+      "startedAt": 1736154000,
+      "endedAt": 1738727999
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -74544,6 +75448,15 @@
       "endedAt": 1719547199
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -75382,47 +76295,6 @@
       "endedAt": 1614139199
     }]
   }, {
-    "id": 940194,
-    "extraPassive": [{
-      "num": 16,
-      "priority": 141,
-      "eventId": 80313,
-      "releaseConditions": [{
-        "id": 10056251,
-        "condType": "shopFlagOn",
-        "condId": 80313092,
-        "condNum": 2
-      }, {
-        "id": 10056251,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80313093,
-        "condNum": 2
-      }],
-      "startedAt": 1612947600,
-      "endedAt": 1614139199
-    }, {
-      "num": 16,
-      "priority": 140,
-      "eventId": 80313,
-      "releaseConditions": [{
-        "id": 10056251,
-        "condType": "shopFlagOn",
-        "condId": 80313092,
-        "condNum": 2
-      }, {
-        "id": 10056251,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80313093,
-        "condNum": 2
-      }],
-      "startedAt": 1612947600,
-      "endedAt": 1614139199
-    }]
-  }, {
     "id": 940198,
     "extraPassive": [{
       "num": 16,
@@ -75453,7 +76325,7 @@
     "id": 940274,
     "extraPassive": [{
       "num": 16,
-      "priority": 183,
+      "priority": 182,
       "eventId": 80414,
       "releaseConditions": [{
         "id": 10080151,
@@ -75472,48 +76344,7 @@
       "endedAt": 1678420799
     }, {
       "num": 16,
-      "priority": 182,
-      "eventId": 80414,
-      "releaseConditions": [{
-        "id": 10080151,
-        "condType": "shopFlagOn",
-        "condId": 80414092,
-        "condNum": 2
-      }, {
-        "id": 10080151,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80414093,
-        "condNum": 2
-      }],
-      "startedAt": 1676624400,
-      "endedAt": 1678420799
-    }]
-  }, {
-    "id": 940274,
-    "extraPassive": [{
-      "num": 16,
       "priority": 183,
-      "eventId": 80414,
-      "releaseConditions": [{
-        "id": 10080151,
-        "condType": "shopFlagOn",
-        "condId": 80414092,
-        "condNum": 2
-      }, {
-        "id": 10080151,
-        "priority": 1,
-        "condGroup": 1,
-        "condType": "shopFlagOn",
-        "condId": 80414093,
-        "condNum": 2
-      }],
-      "startedAt": 1676624400,
-      "endedAt": 1678420799
-    }, {
-      "num": 16,
-      "priority": 182,
       "eventId": 80414,
       "releaseConditions": [{
         "id": 10080151,
@@ -75572,6 +76403,15 @@
       "eventId": 80462,
       "startedAt": 1709715600,
       "endedAt": 1711511999
+    }]
+  }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -76351,6 +77191,15 @@
       "eventId": 80472,
       "startedAt": 1714129200,
       "endedAt": 1715918399
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -77247,6 +78096,15 @@
       "endedAt": 1727841599
     }]
   }, {
+    "id": 940369,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -78009,6 +78867,15 @@
       }],
       "startedAt": 1728205200,
       "endedAt": 1730433599
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -78844,6 +79711,15 @@
       }],
       "startedAt": 1728205200,
       "endedAt": 1730433599
+    }]
+  }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,
@@ -79705,6 +80581,15 @@
       "endedAt": 1730433599
     }]
   }, {
+    "id": 940367,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
+    }]
+  }, {
     "id": 960502,
     "extraPassive": [{
       "num": 10,
@@ -80506,6 +81391,15 @@
       }],
       "startedAt": 1697360400,
       "endedAt": 1700060399
+    }]
+  }, {
+    "id": 940368,
+    "extraPassive": [{
+      "num": 16,
+      "priority": 217,
+      "eventId": 80511,
+      "startedAt": 1736931600,
+      "endedAt": 1738727999
     }]
   }, {
     "id": 960502,

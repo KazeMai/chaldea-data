@@ -1527,7 +1527,7 @@
       "baseValue": 0,
       "isRec": true,
       "plusAction": 0,
-      "maxRate": []
+      "maxRate": [0]
     },
     "functionComboEnd": {
       "limit": "none",
@@ -1537,7 +1537,7 @@
       "baseValue": 0,
       "isRec": true,
       "plusAction": 0,
-      "maxRate": []
+      "maxRate": [0]
     },
     "overwriteSvtCardType": {
       "limit": "none",
@@ -2645,6 +2645,21 @@
         "addTdGauge": 0,
         "addCritical": 0
       }
+    },
+    "addattack2": {
+      "4": {
+        "individuality": [{
+          "id": 4004
+        }, {
+          "id": 4008
+        }],
+        "adjustAtk": 1000,
+        "adjustTdGauge": 1000,
+        "adjustCritical": 1000,
+        "addAtk": 0,
+        "addTdGauge": 0,
+        "addCritical": 0
+      }
     }
   },
   "classRelation": {
@@ -3643,7 +3658,7 @@
     "COIN_ROOM_MAX_NUM": 2,
     "COIN_ROOM_RELEASE_QUEST_ID": 3001101,
     "COMBINE_LIMIT_SPECIAL_PRIVILEGE_ID": 100,
-    "COMEBACK_TARGET_DAY": 1725444000,
+    "COMEBACK_TARGET_DAY": 1728036000,
     "COMMAND_ARTS": 4001,
     "COMMAND_BUSTER": 4002,
     "COMMAND_CARD_PRM_UP_MAX": 500,
@@ -3658,6 +3673,7 @@
     "CRITICAL_TD_POINT_RATE": 2000,
     "DECK_MAX": 15,
     "DEFAULT_LOCK_BOARD_GROUP_ID": 0,
+    "DEFAULT_QUEST_USE_FRIENDSHIP_UP_ITEM_GROUP_ID": 1,
     "DISABLE_FRIENDSHIP_EXCEED": 0,
     "DISABLE_SERVANT_EFFECT_FILTER": 0,
     "ENABLE_AP_RECOVER": 0,
@@ -3732,7 +3748,7 @@
     "LARGE_SUCCESS_MULT_EXP": 2000,
     "LARGE_SUCCESS_RATE": 100,
     "LAST_WAR_ID": 403,
-    "LIMITED_PERIOD_VOICE_CHANGE_TYPE": 1,
+    "LIMITED_PERIOD_VOICE_CHANGE_TYPE": 0,
     "LIMITED_SHOP_REMAIN_DAYS": 1000,
     "LOGIN_DAY": 1459436400,
     "LOGIN_RESET_AT": 4,
@@ -3771,7 +3787,7 @@
     "MAX_USER_COMMAND_CODE": 500,
     "MAX_USER_EQUIP_EXP_UP_RATIO": 3000,
     "MAX_USER_ITEM": 999999999,
-    "MAX_USER_LV": 170,
+    "MAX_USER_LV": 180,
     "MAX_USER_SVT": 900,
     "MAX_USER_SVT_EQUIP": 900,
     "MAX_USER_SVT_EQUIP_STORAGE": 100,
@@ -3810,7 +3826,7 @@
     "RAID_DEFEATED_EFFECT_TIME": 0,
     "RAID_MARKDISP_STEP": 4,
     "RAID_TUTORIAL_QUEST_ID": 94004504,
-    "RECOMMEND_SUPPORT_FRIEND_POINT": 100,
+    "RECOMMEND_SUPPORT_FRIEND_POINT": 200,
     "RECOVERY_VALUE": 2,
     "REQUEST_RAID_UPDATE_EVENT_MAP": 60,
     "REQUEST_TOP_HOME_EXPIRATION_DATE_SEC_UPDATE_EVENT_MAP": 900,
@@ -5547,6 +5563,76 @@
       "maxAp": 146,
       "maxCost": 115,
       "maxFriend": 140
+    },
+    "171": {
+      "requiredExp": 769159642,
+      "maxAp": 146,
+      "maxCost": 115,
+      "maxFriend": 141,
+      "gift": {
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }
+    },
+    "172": {
+      "requiredExp": 788452697,
+      "maxAp": 146,
+      "maxCost": 115,
+      "maxFriend": 142
+    },
+    "173": {
+      "requiredExp": 807761232,
+      "maxAp": 147,
+      "maxCost": 115,
+      "maxFriend": 143
+    },
+    "174": {
+      "requiredExp": 827085337,
+      "maxAp": 147,
+      "maxCost": 115,
+      "maxFriend": 144
+    },
+    "175": {
+      "requiredExp": 846425102,
+      "maxAp": 147,
+      "maxCost": 115,
+      "maxFriend": 145,
+      "gift": {
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }
+    },
+    "176": {
+      "requiredExp": 865780617,
+      "maxAp": 147,
+      "maxCost": 115,
+      "maxFriend": 146
+    },
+    "177": {
+      "requiredExp": 885151972,
+      "maxAp": 148,
+      "maxCost": 115,
+      "maxFriend": 147
+    },
+    "178": {
+      "requiredExp": 904539257,
+      "maxAp": 148,
+      "maxCost": 115,
+      "maxFriend": 148
+    },
+    "179": {
+      "requiredExp": 923942562,
+      "maxAp": 148,
+      "maxCost": 115,
+      "maxFriend": 149
+    },
+    "180": {
+      "requiredExp": 943361977,
+      "maxAp": 148,
+      "maxCost": 116,
+      "maxFriend": 150
     }
   },
   "svtExp": {

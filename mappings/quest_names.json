@@ -6217,56 +6217,56 @@
   },
   "「シャルルマーニュからのメッセージ 1日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第1天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 1",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ 2日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第2天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 2",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ 3日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第3天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 3",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ 4日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第4天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 4",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ 5日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第5天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 5",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ 6日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第6天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 6",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ 7日目」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 第7天」",
     "TW": null,
     "NA": "Message from Charlemagne - Day 7",
     "KR": null
   },
   "「シャルルマーニュからのメッセージ ホワイトデー当日」": {
     "JP": null,
-    "CN": null,
+    "CN": "「来自查理曼的留言 白色情人节当天」",
     "TW": null,
     "NA": "Message from Charlemagne - White Day",
     "KR": null
@@ -9148,6 +9148,13 @@
     "NA": "[A Fictitious Return] - Rail Zeppelin",
     "KR": "【위경의 귀환】마안수집열차"
   },
+  "【凸待ち】腕に自信がある者大歓迎！": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "【分岐選択】夜に北の城へ向かう": {
     "JP": null,
     "CN": "【分歧选择】于黑夜奔赴北之城",
@@ -10286,14 +10293,14 @@
     "JP": null,
     "CN": "【祝福茶会任务】酥脆的司康饼和果酱",
     "TW": "【祝福茶會任務】酥脆的司康和果醬",
-    "NA": "[Blessed Tea Party Quest] Crunchy Scone and Jam",
+    "NA": "[Blessed Tea Party Quest] Crispy Scones and Jam",
     "KR": "〈축복 티파티 퀘스트〉바삭바삭 스콘과 잼"
   },
   "【祝福ティーパーティークエスト】アツアツリンゴにご注意を": {
     "JP": null,
     "CN": "【祝福茶会任务】小心滚烫的苹果",
     "TW": "【祝福茶會任務】小心滾燙的蘋果",
-    "NA": "[Blessed Tea Party Quest] Be Careful with the Piping Hot Apple",
+    "NA": "[Blessed Tea Party Quest] Careful of Piping Hot Apples",
     "KR": "〈축복 티파티 퀘스트〉따끈따끈 사과에 주의를"
   },
   "【祝福ティーパーティークエスト】パンケーキ・バイキング": {
@@ -10307,7 +10314,7 @@
     "JP": null,
     "CN": "【祝福茶会任务】刚做好的生巧克力",
     "TW": "【祝福茶會任務】剛做好的生巧克力",
-    "NA": "[Blessed Tea Party Quest] Freshly-Made Ganache",
+    "NA": "[Blessed Tea Party Quest] Freshly Made Ganache",
     "KR": "〈축복 티파티 퀘스트〉갓 만든 생초콜릿"
   },
   "【祝福ティーパーティークエスト】本場仕込のバタークッキー": {
@@ -10321,14 +10328,14 @@
     "JP": null,
     "CN": "【祝福茶会任务】五彩缤纷的水果干",
     "TW": "【祝福茶會任務】五彩繽紛的水果乾",
-    "NA": "[Blessed Tea Party Quest] Richly Coloured Dried Fruits",
+    "NA": "[Blessed Tea Party Quest] Vivid Dried Fruit",
     "KR": "〈축복 티파티 퀘스트〉극채색 드라이프루트"
   },
   "【祝福ティーパーティークエスト】魅惑の琥珀糖": {
     "JP": null,
     "CN": "【祝福茶会任务】魅惑的琥珀糖",
     "TW": "【祝福茶會任務】魅惑的琥珀糖",
-    "NA": "[Blessed Tea Party Quest] Fascinating Amber Candies",
+    "NA": "[Blessed Tea Party Quest] Fascinating Kohakuto",
     "KR": "〈축복 티파티 퀘스트〉매혹의 호박 사탕"
   },
   "【童話クエスト】かぐや姫": {
@@ -10414,6 +10421,90 @@
     "TW": "【童話任務】金斧頭與銀斧頭",
     "NA": "[Story Quest] The Golden Axe",
     "KR": "【동화 퀘스트】금도끼"
+  },
+  "【育成クエスト】アイスブレスを覚えさせる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】グリーンドラゴンに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】ファイアブレスを覚えさせる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】ブルードラゴンに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】ポイズンブレスを覚えさせる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】レッドドラゴンに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】一本角に育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】中型竜タイプに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】二本角に育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】地竜タイプに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】角なしに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【育成クエスト】軽竜タイプに育てる": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "【血の恋愛ゲーム配信】恋愛なるものを調査します": {
     "JP": null,
@@ -11615,9 +11706,9 @@
   "【高難易度】イミテーション・グレイルウォー": {
     "JP": null,
     "CN": "【高难度】伪圣杯战争",
-    "TW": null,
+    "TW": "【高難度】偽聖杯戰爭",
     "NA": "[High Difficulty] Imitation Grail War",
-    "KR": null
+    "KR": "【고난도】이미테이션 그레일 워"
   },
   "【高難易度】ウエスタン忍法帳": {
     "JP": null,
@@ -11929,7 +12020,7 @@
   },
   "【高難易度】大喝采のカーテンコール": {
     "JP": null,
-    "CN": "【高难度】谢幕之时的盛大喝彩",
+    "CN": "【高难度】满堂彩的谢幕",
     "TW": null,
     "NA": "[High Difficulty] Curtain Call with Great Applause",
     "KR": null
@@ -12013,7 +12104,7 @@
   },
   "【高難易度】星座に導かれし乙女": {
     "JP": null,
-    "CN": "【高难度】星座指引的少女",
+    "CN": "【高难度】被星座引导的少女",
     "TW": null,
     "NA": "[High Difficulty] The Maiden Guided by the Constellations",
     "KR": null
@@ -12206,6 +12297,13 @@
     "TW": "【高難度】捉拿通緝犯 『帝王伊莉chan』",
     "NA": "[High Difficulty] Bounty Hunt \"King Elly-chan\"",
     "KR": "[고난도] 현상수배 헌트 “킹 에리 chan”"
+  },
+  "【高難易度】遅れて参戦！？ 偉大なる竜たちの逆襲！！": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "【高難易度】開講！ ヘルズキッチンお試し版": {
     "JP": null,
@@ -14059,21 +14157,21 @@
     "JP": null,
     "CN": "LOVE LOVE镇压战 阻止粉丝俱乐部的劝诱！",
     "TW": "LOVE LOVE鎮壓戰 阻止粉絲俱樂部的邀請！",
-    "NA": "Lovey-Dovey Suppression Battle: Stop the Fan Club Solicitors!",
+    "NA": "Lovey-Dovey Suppression Battle: Stop the Fan Club Recruitment!",
     "KR": "러브러브 진압전・팬클럽 가입 권유를 중지시켜라!"
   },
   "らぶらぶ鎮圧戦 ヨハンナ頌歌の拡散を防げ！": {
     "JP": null,
     "CN": "LOVE LOVE镇压战 防止若安颂歌的扩散！",
     "TW": "LOVE LOVE鎮壓戰 防止瓊安頌歌的擴散！",
-    "NA": "Lovey-Dovey Suppression Battle: Stop the Spread of Ode to Johanna!",
+    "NA": "Lovey-Dovey Suppression Battle: Prevent Johanna's Hymn from Spreading!",
     "KR": "러브러브 진압전・요한나 찬송가의 확산을 막아라!"
   },
   "らぶらぶ鎮圧戦 似ていない人形を回収せよ！": {
     "JP": null,
     "CN": "LOVE LOVE镇压战 回收一点也不像的人偶！",
     "TW": "LOVE LOVE鎮壓戰 回收一點也不像的人偶！",
-    "NA": "Lovey-Dovey Suppression Battle: Round Up the Different Dolls!",
+    "NA": "Lovey-Dovey Suppression Battle: Collect the Dissimilar Dolls!",
     "KR": "러브러브 진압전・닮지 않은 인형을 회수하라!"
   },
   "らぶらぶ鎮圧戦 傭兵団を倒せ！": {
@@ -14087,7 +14185,7 @@
     "JP": null,
     "CN": "LOVE LOVE镇压战 阻止雕像被修缮！",
     "TW": "LOVE LOVE鎮壓戰 阻止雕像被修繕！",
-    "NA": "Lovey-Dovey Suppression Battle: Obstruct the Statue Repairs!",
+    "NA": "Lovey-Dovey Suppression Battle: Prevent the Restoration of the Statue!",
     "KR": "러브러브 진압전・조각상 수리를 저지하라!"
   },
   "らぶらぶ鎮圧戦 新たな石像の建立を妨害しろ！": {
@@ -14101,14 +14199,14 @@
     "JP": null,
     "CN": "LOVE LOVE镇压战 突破城镇的大门！",
     "TW": "LOVE LOVE鎮壓戰 突破城鎮的大門！",
-    "NA": "Lovey-Dovey Suppression Battle: Penetrate the Town's Gate!",
+    "NA": "Lovey-Dovey Suppression Battle: Break Through the Town's Gate!",
     "KR": "러브러브 진압전・마을의 문을 돌파하라!"
   },
   "らぶらぶ鎮圧戦 自警団から逃げろ！": {
     "JP": null,
     "CN": "LOVE LOVE镇压战 逃离自卫团！",
     "TW": "LOVE LOVE鎮壓戰 逃離義警團！",
-    "NA": "Lovey-Dovey Suppression Battle: Escape from the Vigilante!",
+    "NA": "Lovey-Dovey Suppression Battle: Flee from the Vigilante Group!",
     "KR": "러브러브 진압전・자경단으로부터 도망쳐라!"
   },
   "らぶらぶ鎮圧戦 若き富豪の野望を阻止せよ！": {
@@ -14419,6 +14517,13 @@
     "NA": "Arjuna Spiritron Dress Acquisition Quest",
     "KR": "아르주나 영의 획득 퀘스트"
   },
+  "アルターエゴお試しクエスト": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "アルトリア・キャスター体験クエスト": {
     "JP": null,
     "CN": "阿尔托莉雅·卡斯特体验关卡",
@@ -14569,9 +14674,9 @@
   "アンコールは終わらない": {
     "JP": null,
     "CN": "安可仍未停止",
-    "TW": null,
+    "TW": "安可仍未停止",
     "NA": "The Encore Never Ends",
-    "KR": null
+    "KR": "앙코르는 끝나지 않아"
   },
   "アンコールライブ": {
     "JP": null,
@@ -14645,70 +14750,70 @@
   },
   "アントラクト・お芝居特訓！ オペラ座級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 歌剧院级",
+    "CN": "幕间曲·表演特训！ 歌剧院级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Opera House",
     "KR": null
   },
   "アントラクト・お芝居特訓！ グランドホール級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 大会场级",
+    "CN": "幕间曲·表演特训！ 大会堂级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Grand Hall",
     "KR": null
   },
   "アントラクト・お芝居特訓！ シアター級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 戏院级",
+    "CN": "幕间曲·表演特训！ 剧院级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Theatre",
     "KR": null
   },
   "アントラクト・お芝居特訓！ スタジオ級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 工作室级",
+    "CN": "幕间曲·表演特训！ 练功房级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Studio",
     "KR": null
   },
   "アントラクト・お芝居特訓！ プレイハウス級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 剧场级",
+    "CN": "幕间曲·表演特训！ 戏院级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Playhouse",
     "KR": null
   },
   "アントラクト・お芝居特訓！ ホール級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 会场级",
+    "CN": "幕间曲·表演特训！ 音乐厅级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Hall",
     "KR": null
   },
   "アントラクト・お芝居特訓！ 上級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 上级",
+    "CN": "幕间曲·表演特训！ 上级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Advanced",
     "KR": null
   },
   "アントラクト・お芝居特訓！ 中級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 中级",
+    "CN": "幕间曲·表演特训！ 中级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Intermediate",
     "KR": null
   },
   "アントラクト・お芝居特訓！ 初級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 初级",
+    "CN": "幕间曲·表演特训！ 初级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Novice",
     "KR": null
   },
   "アントラクト・お芝居特訓！ 超級": {
     "JP": null,
-    "CN": "间奏曲·演剧特训！ 超级",
+    "CN": "幕间曲·表演特训！ 超级",
     "TW": null,
     "NA": "Entr'acte, Special Training for Acting! Expert",
     "KR": null
@@ -14781,6 +14886,20 @@
     "CN": "地球坠落",
     "TW": null,
     "NA": "Earthfall",
+    "KR": null
+  },
+  "アーチャーお試しクエスト〔Ⅰ〕": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "アーチャーお試しクエスト〔Ⅱ〕": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "アーラシュの考察に投票": {
@@ -15928,7 +16047,7 @@
     "JP": null,
     "CN": "迦勒底式战术教学",
     "TW": "迦勒底式戰術教學",
-    "NA": "Chaldean-Style Tactical Teaching",
+    "NA": "Chaldea-Style Tactical Teachings",
     "KR": "칼데아식 택티컬 티칭"
   },
   "カルデア戦線 基礎トレーニング": {
@@ -16003,7 +16122,7 @@
   },
   "カルデア探検隊！劇場版！ 深奥に眠る古の財宝！": {
     "JP": null,
-    "CN": null,
+    "CN": "迦勒底探险队！ 剧场版！ 沉睡于深处的古老财宝！",
     "TW": null,
     "NA": "Chaldea Explorers! Theatrical Release! Ancient Treasures Lying Deep Within",
     "KR": null
@@ -16385,6 +16504,48 @@
     "TW": "Kill me if you can",
     "NA": "Kill Me If You Can",
     "KR": "킬 미 이프 유 캔"
+  },
+  "キングサンタやったか！？戦": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "キングサンタ総力戦 カンパニー級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "キングサンタ総力戦 キングダム級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "キングサンタ総力戦 コテージ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "キングサンタ総力戦 ビレッジ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "キングサンタ総力戦 プラネット級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "キングプロテア霊衣獲得クエスト": {
     "JP": null,
@@ -16859,7 +17020,7 @@
     "JP": null,
     "CN": "格里戈里·拉斯普京体验关卡",
     "TW": "格里戈里．拉斯普丁體驗任務",
-    "NA": "Grigori Rasputin Trial Quest",
+    "NA": "Trial Quest: Grigori Rasputin",
     "KR": "그레고리 라스푸틴 체험 퀘스트"
   },
   "グレンデルの再臨": {
@@ -17015,6 +17176,13 @@
     "TW": "半人馬．狩獵 開位級",
     "NA": "Centaur Hunt - Cause Rank",
     "KR": "켄타우로스 헌트【개위급】"
+  },
+  "ケーキテーブル・ガーデン": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ゲイザー・ハント 典位+級": {
     "JP": null,
@@ -17223,7 +17391,7 @@
     "JP": null,
     "CN": "蝙蝠的宫殿",
     "TW": "蝙蝠的宮殿",
-    "NA": "Palace of Bats",
+    "NA": "Bat Palace",
     "KR": "박쥐의 궁전"
   },
   "コモンズビュー": {
@@ -17254,12 +17422,19 @@
     "NA": "Kōnstantînos XI Trial Quest",
     "KR": "콘스탄티누스 11세 체험 퀘스트"
   },
+  "コンピューティング・シティ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "コンブチャ・パーティー": {
     "JP": null,
     "CN": "红茶菌派对",
-    "TW": null,
+    "TW": "紅茶菇派對",
     "NA": "Kombucha Party",
-    "KR": null
+    "KR": "콤부차 파티"
   },
   "コートルーム": {
     "JP": null,
@@ -17565,9 +17740,9 @@
   "サバト会場": {
     "JP": null,
     "CN": "魔宴会场",
-    "TW": null,
+    "TW": "魔宴會場",
     "NA": "Sabbath Venue",
-    "KR": null
+    "KR": "사바트 회장"
   },
   "サバフェス、開催七日前": {
     "JP": null,
@@ -17586,9 +17761,9 @@
   "サマーバカンス武者修行": {
     "JP": null,
     "CN": "夏日度假武者修行",
-    "TW": null,
+    "TW": "夏日度假武者修行",
     "NA": "Summer Vacation Warrior Training",
-    "KR": null
+    "KR": "서머 바캉스 무사수행"
   },
   "サリエリの考察に投票": {
     "JP": null,
@@ -17698,9 +17873,9 @@
   "サーヴァント・ブートキャンプ！": {
     "JP": null,
     "CN": "夏日新兵训练营！",
-    "TW": null,
+    "TW": "從者新兵訓練營！",
     "NA": "Servant Bootcamp!",
-    "KR": null
+    "KR": "서번트 부트캠프!"
   },
   "ザ・ロック": {
     "JP": null,
@@ -17796,9 +17971,9 @@
   "ジグラット９９階攻略ツアー": {
     "JP": null,
     "CN": "神塔99层攻略旅行",
-    "TW": null,
+    "TW": "神塔99層攻略旅行",
     "NA": "Ziggurat F99 Capturing Tour",
-    "KR": null
+    "KR": "지구라트 99층 공략 투어"
   },
   "ジャイアントバベッジ 前編": {
     "JP": null,
@@ -18087,6 +18262,13 @@
     "NA": "Credits",
     "KR": "스태프 롤"
   },
+  "スター・ピッキング": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ストリートでダンスバトル〔ダンスUP〕": {
     "JP": null,
     "CN": "在街上比舞〔舞力UP〕",
@@ -18359,6 +18541,13 @@
     "TW": "塞彌拉彌斯擊退戰 邪龍級",
     "NA": "Repelling Semiramis - Evil Dragon",
     "KR": "세미라미스 격퇴전・사룡급"
+  },
+  "セレブリティ・ボート": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "セーフティコテージ": {
     "JP": null,
@@ -18864,6 +19053,13 @@
     "NA": "Twinkle Cathedral",
     "KR": "트윙클 카테드랄"
   },
+  "トップ・オブ・ザ・ムーン": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "トネリコの木巡り 1": {
     "JP": null,
     "CN": "探寻梣木 1",
@@ -19220,6 +19416,48 @@
     "TW": "紐約修行 破",
     "NA": "Training in New York - Middle",
     "KR": "뉴욕 수행・파"
+  },
+  "ネコ１０８浄化戦": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ネコ１０８鐘撞戦 イエロースペチャ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ネコ１０８鐘撞戦 グリーンスペチャ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ネコ１０８鐘撞戦 ブルースペチャ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ネコ１０８鐘撞戦 レインボースペチャ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ネコ１０８鐘撞戦 レッドスペチャ級": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ネペンテスのキス": {
     "JP": null,
@@ -19700,9 +19938,9 @@
   "バビロン・バトル・サマーリーグ": {
     "JP": null,
     "CN": "巴比伦·战斗·夏日联赛",
-    "TW": null,
+    "TW": "巴比倫．戰鬥．夏日聯賽",
     "NA": "Babylon Battle Summer League",
-    "KR": null
+    "KR": "바빌론 배틀 서머 리그"
   },
   "バラマーケット": {
     "JP": null,
@@ -20369,6 +20607,13 @@
     "NA": "Pharaoh Nitocris",
     "KR": "파라오 니토크리스"
   },
+  "ファンタズム・パレード": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ファンファーレは僕らのために": {
     "JP": null,
     "CN": "号角为我们吹响",
@@ -20570,7 +20815,7 @@
     "CN": "书籍的故事 迦勒底版",
     "TW": null,
     "NA": "Storybooks - Chaldea Version",
-    "KR": null
+    "KR": "북 스토리즈 칼데아 버전"
   },
   "ブック・ハント 典位+級": {
     "JP": null,
@@ -20903,7 +21148,7 @@
   },
   "プロローグ 常ならぬ幕が開き": {
     "JP": null,
-    "CN": "序幕 不凡之幕拉开",
+    "CN": "序幕 非凡的开幕",
     "TW": null,
     "NA": "Prologue: Opening of an Unusual Act",
     "KR": null
@@ -20911,9 +21156,9 @@
   "プロローグ 序": {
     "JP": null,
     "CN": "序幕 序",
-    "TW": null,
+    "TW": "序幕 序",
     "NA": "Prologue (Opening)",
-    "KR": null
+    "KR": "프롤로그・서"
   },
   "プロローグ 恋する少女とチョコレート": {
     "JP": null,
@@ -20949,6 +21194,13 @@
     "TW": "序章　魔境之主",
     "NA": "Prologue: Master of Dún Scáith",
     "KR": "프롤로그 마경의 주인"
+  },
+  "プロローグ「ミランの蛇竜」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "プロローグ「リザ・デル・ジョコンドの優雅な休日」": {
     "JP": null,
@@ -21349,6 +21601,13 @@
     "NA": "Mash's Training",
     "KR": "마슈의 특훈"
   },
+  "マシーナリー・タウン": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "マスターの条件": {
     "JP": null,
     "CN": "御主的条件",
@@ -21692,6 +21951,48 @@
     "NA": "Moody Room",
     "KR": "무드 있는 방"
   },
+  "ムーンバス・アイランド": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ムーン・ウォーキング": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ムーン・クルージング": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ムーン・ショッピング": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ムーン・ストリート": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ムーン・ドバイ・ファウンテン": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "メカエリチャン選択権獲得クエスト": {
     "JP": null,
     "CN": "机械伊丽亲选择权获得关卡",
@@ -21918,7 +22219,7 @@
   },
   "ヤマトタケル体験クエスト": {
     "JP": null,
-    "CN": "日本武尊体验关卡",
+    "CN": "大和武尊体验关卡",
     "TW": "日本武尊體驗任務",
     "NA": "Yamato Takeru Trial Quest",
     "KR": null
@@ -22049,6 +22350,13 @@
     "NA": "In Search of Das Rheingold",
     "KR": "라인의 황금을 찾아서"
   },
+  "ラグジュアリー・ビュッフェ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ラストエリア Ｉ大陸": {
     "JP": null,
     "CN": "最终区域 I大陆",
@@ -22101,9 +22409,9 @@
   "ラ・シャリテの追憶": {
     "JP": null,
     "CN": "拉沙里泰的追忆",
-    "TW": null,
+    "TW": "拉沙里泰的追憶",
     "NA": "Recollections of La Charite",
-    "KR": null
+    "KR": "라 샤리테의 추억"
   },
   "ラーマは戦場へ行った": {
     "JP": null,
@@ -22118,6 +22426,13 @@
     "TW": "伊絲塔歸來",
     "NA": "Return of Ishtar",
     "KR": "리턴 오브 이슈타르"
+  },
+  "リチャードⅠ世体験クエスト": {
+    "JP": null,
+    "CN": "理查Ⅰ世体验关卡",
+    "TW": "理查Ⅰ世體驗任務",
+    "NA": "Richard I Trial Quest",
+    "KR": null
   },
   "リラックスマンション": {
     "JP": null,
@@ -22273,12 +22588,19 @@
     "NA": "Lupus Territory",
     "KR": "루프스 테리토리"
   },
+  "ルーラーお試しクエスト": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "レアなキノコを探し出せ！": {
     "JP": null,
     "CN": "寻找稀有的蘑菇！",
-    "TW": null,
+    "TW": "找出稀有的蘑菇！",
     "NA": "Let's Go Find Some Rare Mushrooms!",
-    "KR": null
+    "KR": "레어한 버섯을 찾아라!"
   },
   "レイク・パニック　～あるいは何かのプロローグ～": {
     "JP": null,
@@ -22720,6 +23042,13 @@
     "TW": "瓦爾基麗．狩獵 開位級",
     "NA": "Valkyrie Hunt - Cause Rank",
     "KR": "발키리 헌트【개위급】"
+  },
+  "ワームズ・サンドボックス": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ヴィシュヌの試練": {
     "JP": null,
@@ -24348,9 +24677,9 @@
   "仮装パレード": {
     "JP": null,
     "CN": "扮装游行",
-    "TW": null,
+    "TW": "變裝遊行",
     "NA": "Masquerade Parade",
-    "KR": null
+    "KR": "가장 퍼레이드"
   },
   "仰天不愧": {
     "JP": null,
@@ -24656,9 +24985,9 @@
   "傲慢の都": {
     "JP": null,
     "CN": "傲慢之都",
-    "TW": null,
+    "TW": "傲慢之都",
     "NA": "Capital of Pride",
-    "KR": null
+    "KR": "오만의 도시"
   },
   "傷ついた廊下": {
     "JP": null,
@@ -24895,7 +25224,7 @@
     "JP": null,
     "CN": null,
     "TW": null,
-    "NA": "The Eight Great Snake Kings",
+    "NA": "Eight Serpent Kings",
     "KR": "팔대사왕"
   },
   "八段　遠くて近きもの": {
@@ -25770,7 +26099,7 @@
     "JP": null,
     "CN": "刃与风之谷",
     "TW": "刃與風之谷",
-    "NA": "Valley of Wind and Blades",
+    "NA": "Valley of Blades and Wind",
     "KR": "칼날과 바람의 계곡"
   },
   "刃にてその心を断つ": {
@@ -26246,7 +26575,7 @@
     "JP": null,
     "CN": "前往南极",
     "TW": "前往南極",
-    "NA": "To Antarctica",
+    "NA": "To the Antarctic",
     "KR": "남극으로"
   },
   "南海道覇王合戦 侍大将級": {
@@ -26546,9 +26875,9 @@
   "名も無き孤独、儚い風景": {
     "JP": null,
     "CN": "无名的孤独，变幻无常的景色",
-    "TW": null,
+    "TW": "無名的孤獨，變幻無常的景色",
     "NA": "Ephemeral Landscape, Nameless Solitude",
-    "KR": null
+    "KR": "이름 없는 고독, 덧없는 풍경"
   },
   "名も無き戦場にて": {
     "JP": null,
@@ -26624,7 +26953,7 @@
     "JP": null,
     "CN": "诅咒之宅",
     "TW": "詛咒之宅",
-    "NA": "Cursed Residence",
+    "NA": "Cursed Mansion",
     "KR": "저주의 저택"
   },
   "呪われし海賊たち": {
@@ -27541,7 +27870,7 @@
     "JP": null,
     "CN": "伟大太阳的恩惠",
     "TW": "偉大太陽的恩惠",
-    "NA": "Blessings from the Great Sun",
+    "NA": "The Great Sun's Blessing",
     "KR": "위대한 태양의 은혜"
   },
   "大きな河床": {
@@ -27975,7 +28304,7 @@
     "JP": null,
     "CN": "没有太阳的地底山脉",
     "TW": "沒有太陽的地底山脈",
-    "NA": "Sun-less Depths of the Mountain Range",
+    "NA": "Sunless Subterranean Mountains",
     "KR": "태양 없는 지저산맥"
   },
   "太陽のようなキミたちへ": {
@@ -28031,7 +28360,7 @@
     "JP": null,
     "CN": "丧失的水之都市",
     "TW": "喪失的水之都市",
-    "NA": "Lost City By the Water",
+    "NA": "The Lost City of Water",
     "KR": "잃어버린 물의 도시"
   },
   "失われた聖櫃": {
@@ -28338,9 +28667,9 @@
   "嫉妬の都": {
     "JP": null,
     "CN": "嫉妒之都",
-    "TW": null,
+    "TW": "嫉妒之都",
     "NA": "Capital of Envy",
-    "KR": null
+    "KR": "질투의 도시"
   },
   "孤独な戦士、獅子の如く勇敢な彼": {
     "JP": null,
@@ -28388,7 +28717,7 @@
     "JP": null,
     "CN": "宇宙树",
     "TW": null,
-    "NA": "World Tree",
+    "NA": "Space Tree",
     "KR": "우주수"
   },
   "宇宙生物襲来！ I": {
@@ -28542,7 +28871,7 @@
     "JP": null,
     "CN": "硕果之大平原",
     "TW": "碩果之大平原",
-    "NA": "Fertile Great Plains",
+    "NA": "Fruitful Great Plains",
     "KR": "결실의 대평원"
   },
   "実験棟探索 オレンジアラート級": {
@@ -28639,9 +28968,9 @@
   "寄生キノコにご用心": {
     "JP": null,
     "CN": "要小心寄生蘑菇",
-    "TW": null,
+    "TW": "要小心寄生蘑菇",
     "NA": "Be Careful of the Parasitic Mushrooms",
-    "KR": null
+    "KR": "기생 버섯에 주의하세요"
   },
   "密室禁忌/do not enter.": {
     "JP": null,
@@ -28911,70 +29240,70 @@
   },
   "岩集め チョコっとグルメ日和": {
     "JP": null,
-    "CN": "收集岩块 巧克力与美食家日和",
+    "CN": "搜集岩石 巧克力与美食时光",
     "TW": null,
     "NA": "Rock Collecting: A Fine Weather for Chocolate Gourmet",
     "KR": null
   },
   "岩集め 宝石を求めて三千里": {
     "JP": null,
-    "CN": "收集岩块 求石三千里",
+    "CN": "搜集岩石 寻求宝石三千里",
     "TW": null,
     "NA": "Rock Collecting: Demands for Gemstones is as Long as Three Thousand Miles",
     "KR": null
   },
   "岩集め 或る戦争の記録": {
     "JP": null,
-    "CN": "收集岩块 某场战争的记录",
+    "CN": "搜集岩石 某场战争的记录",
     "TW": null,
     "NA": "Rock Collecting: Records of a Certain War",
     "KR": null
   },
   "岩集め 注文の多い刀鍛冶": {
     "JP": null,
-    "CN": "收集岩块 要求很多的锻刀订单",
+    "CN": "搜集岩石 要求多多的刀匠",
     "TW": null,
     "NA": "Rock Collecting: Demanding Swordsmith",
     "KR": null
   },
   "岩集め 発見！地獄の特訓場": {
     "JP": null,
-    "CN": "收集岩块 发现！地狱特训场",
+    "CN": "搜集岩石 发现！地狱的特训场",
     "TW": null,
     "NA": "Rock Collecting: New Discovery! Hell's Special Training Ground",
     "KR": null
   },
   "岩集め 石の上にも三年": {
     "JP": null,
-    "CN": "收集岩块 石上无难事",
+    "CN": "搜集岩石 石上三年亦成正果",
     "TW": null,
     "NA": "Rock Collecting: Perseverance Prevails",
     "KR": null
   },
   "岩集め 素敵な拷問準備中": {
     "JP": null,
-    "CN": "收集岩块 超棒拷问准备中",
+    "CN": "搜集岩石 美妙的拷问准备中",
     "TW": null,
     "NA": "Rock Collecting: Wonderful Torture Session In Preparation",
     "KR": null
   },
   "岩集め 自然を愛する撮影家": {
     "JP": null,
-    "CN": "收集岩块 热爱自然的摄影家",
+    "CN": "搜集岩石 深爱自然的摄影师",
     "TW": null,
     "NA": "Rock Collecting: Nature-Loving Photographer",
     "KR": null
   },
   "岩集め 謎の巨大爆破跡": {
     "JP": null,
-    "CN": "收集岩块 谜之巨大爆破遗迹",
+    "CN": "搜集岩石 神秘的巨大爆破痕迹",
     "TW": null,
     "NA": "Rock Collecting: Mysterious Huge Explosion Marks",
     "KR": null
   },
   "岩集め 轟音響く採石場": {
     "JP": null,
-    "CN": "收集岩块 轰鸣雷动的采石场",
+    "CN": "搜集岩石 巨响轰鸣的采石场",
     "TW": null,
     "NA": "Rock Collecting: Quarry with a Thunderous Reverb",
     "KR": null
@@ -29002,7 +29331,7 @@
   },
   "嵐に吼える": {
     "JP": null,
-    "CN": "向暴风雨咆吼",
+    "CN": "向暴风雨咆哮",
     "TW": null,
     "NA": "Howling Tempest",
     "KR": null
@@ -29017,9 +29346,9 @@
   "嵐の遭難者": {
     "JP": null,
     "CN": "暴风雨的遇难者",
-    "TW": null,
+    "TW": "暴風雨的遇難者",
     "NA": "Victim of the Storms",
-    "KR": null
+    "KR": "폭풍의 조난자"
   },
   "嵐を駆る者たち": {
     "JP": null,
@@ -29206,9 +29535,9 @@
   "市内観光ツアー": {
     "JP": null,
     "CN": "市内观光旅行",
-    "TW": null,
+    "TW": "市內觀光旅行",
     "NA": "City Sightseeing Tour",
-    "KR": null
+    "KR": "시내 관광 투어"
   },
   "布団の敷かれた座敷": {
     "JP": null,
@@ -29667,7 +29996,7 @@
   },
   "序幕 血の色匂へ 花と散れ": {
     "JP": null,
-    "CN": "序幕 血色馥郁 与花共逝",
+    "CN": "序幕 血色弥漫 若花散落",
     "TW": null,
     "NA": "Prologue: Although the Blood's Scent Lingers, the Form of a Flower has Scattered Away",
     "KR": null
@@ -30022,6 +30351,13 @@
     "NA": "Rank Up Quest: Andersen 2",
     "KR": "강화 퀘스트 안데르센 2"
   },
+  "強化クエスト アントニオ・サリエリ": {
+    "JP": null,
+    "CN": "强化关卡 安东尼奥·萨列里",
+    "TW": "強化任務 安東尼奧．薩里耶利",
+    "NA": "Rank Up Quest: Antonio Salieri",
+    "KR": "강화 퀘스트 안토니오 살리에리"
+  },
   "強化クエスト アン・ボニー＆メアリー・リード": {
     "JP": null,
     "CN": "强化关卡 安妮·伯妮＆玛莉·瑞德",
@@ -30316,6 +30652,13 @@
     "NA": "Rank Up Quest: Karna 2",
     "KR": "강화 퀘스트 카르나 2"
   },
+  "強化クエスト カーマ": {
+    "JP": null,
+    "CN": "强化关卡 迦摩",
+    "TW": "強化任務 迦摩",
+    "NA": "Rank Up Quest: Kama",
+    "KR": "강화 퀘스트 카마"
+  },
   "強化クエスト カーミラ": {
     "JP": null,
     "CN": "强化关卡 卡米拉",
@@ -30462,6 +30805,13 @@
     "TW": "強化任務 戈爾貢",
     "NA": "Rank Up Quest: Gorgon",
     "KR": "강화 퀘스트 고르곤"
+  },
+  "強化クエスト ゴルゴーン 2": {
+    "JP": null,
+    "CN": "强化关卡 戈耳工 2",
+    "TW": "強化任務 戈爾貢 2",
+    "NA": "Rank Up Quest: Gorgon 2",
+    "KR": "강화 퀘스트 고르곤 2"
   },
   "強化クエスト サンソン": {
     "JP": null,
@@ -31247,6 +31597,13 @@
     "NA": "Rank Up Quest: Medusa 2",
     "KR": "강화 퀘스트 메두사 2"
   },
+  "強化クエスト メドゥーサ 3": {
+    "JP": null,
+    "CN": "强化关卡 美杜莎 3",
+    "TW": "強化任務 美杜莎 3",
+    "NA": "Rank Up Quest: Medusa 3",
+    "KR": "강화 퀘스트 메두사 3"
+  },
   "強化クエスト メフィストフェレス": {
     "JP": null,
     "CN": "强化关卡 梅菲斯托费勒斯",
@@ -31625,6 +31982,13 @@
     "NA": "Rank Up Quest: Tomoe Gozen",
     "KR": "강화 퀘스트 토모에고젠"
   },
+  "強化クエスト 平景清": {
+    "JP": null,
+    "CN": "强化关卡 平景清",
+    "TW": "強化任務 平景清",
+    "NA": "Rank Up Quest: Taira-no-Kagekiyo",
+    "KR": "강화 퀘스트 타이라노 카게키요"
+  },
   "強化クエスト 弁慶": {
     "JP": null,
     "CN": "强化关卡 弁庆",
@@ -31961,6 +32325,13 @@
     "NA": "Rank Up Quest: Katsushika Hokusai 2",
     "KR": "강화 퀘스트 카츠시카 호쿠사이 2"
   },
+  "強化クエスト 蘭陵王": {
+    "JP": null,
+    "CN": "强化关卡 兰陵王",
+    "TW": "強化任務 蘭陵王",
+    "NA": "Rank Up Quest: Prince of Lan Ling",
+    "KR": "강화 퀘스트 난릉왕"
+  },
   "強化クエスト 虞美人": {
     "JP": null,
     "CN": "强化关卡 虞美人",
@@ -32052,6 +32423,13 @@
     "NA": "Rank Up Quest: Fuuma \"Evil-wind\" Kotarou",
     "KR": "강화 퀘스트 후마 코타로"
   },
+  "強化クエスト 鬼一法眼": {
+    "JP": null,
+    "CN": "强化关卡 鬼一法眼",
+    "TW": "強化任務 鬼一法眼",
+    "NA": "Rank Up Quest: Kiichi Hogen",
+    "KR": "강화 퀘스트 키이치 호겐"
+  },
   "強化クエスト 魔王信長": {
     "JP": null,
     "CN": "强化关卡 魔王信长",
@@ -32076,9 +32454,9 @@
   "強欲の都": {
     "JP": null,
     "CN": "贪婪之都",
-    "TW": null,
+    "TW": "貪婪之都",
     "NA": "Capital of Greed",
-    "KR": null
+    "KR": "강욕의 도시"
   },
   "影と影と、影": {
     "JP": null,
@@ -32167,9 +32545,9 @@
   "役者はいなくなった": {
     "JP": null,
     "CN": "演员早已退场",
-    "TW": null,
+    "TW": "演員早已退場",
     "NA": "The Actress is Gone",
-    "KR": null
+    "KR": "배우는 사라졌다"
   },
   "彼": {
     "JP": null,
@@ -32650,9 +33028,9 @@
   "怠惰の都": {
     "JP": null,
     "CN": "懒惰之都",
-    "TW": null,
+    "TW": "怠惰之都",
     "NA": "Capital of Sloth",
-    "KR": null
+    "KR": "나태의 도시"
   },
   "怪しい倉庫巡回": {
     "JP": null,
@@ -32670,84 +33048,84 @@
   },
   "怪異退治 吉原 遊女の恩讐": {
     "JP": null,
-    "CN": "怪异退治 吉原 歌妓恩仇",
+    "CN": "消灭怪异 吉原 游女的恩仇",
     "TW": null,
     "NA": "Monster Extermination: Yoshiwara - Harlot's Pale of Vengeance",
     "KR": null
   },
   "怪異退治 増上寺 消えた禁呪書": {
     "JP": null,
-    "CN": "怪异退治 増上寺 消失的禁咒书",
+    "CN": "消灭怪异 增上寺 消失的禁咒书",
     "TW": null,
     "NA": "Monster Extermination: Zojo-ji Temple - The Disappeared Incantation Book",
     "KR": null
   },
   "怪異退治 日本橋 この橋渡るべからず": {
     "JP": null,
-    "CN": "怪异退治 日本桥 此桥不可渡",
+    "CN": "消灭怪异 日本桥 此桥不可跨越",
     "TW": null,
     "NA": "Monster Extermination: Nihonbashi - The Bridge that One Mustn't Cross",
     "KR": null
   },
   "怪異退治 横須賀 妖蛇の台所": {
     "JP": null,
-    "CN": "怪异退治 横须贺 妖蛇厨房",
+    "CN": "消灭怪异 横须贺 妖蛇的厨房",
     "TW": null,
     "NA": "Monster Extermination: Yokosuka - Demonic Serpent's Kitchen",
     "KR": null
   },
   "怪異退治 江戸城 襲来せし邪竜": {
     "JP": null,
-    "CN": "怪异退治 江户城 袭来的邪龙",
+    "CN": "消灭怪异 江户城 来袭的邪龙",
     "TW": null,
     "NA": "Monster Extermination: Edo Castle - Invaded by an Evil Dragon",
     "KR": null
   },
   "怪異退治 浅草 お邪魔虫駆除": {
     "JP": null,
-    "CN": "怪异退治 浅草 驱除麻烦鬼",
+    "CN": "消灭怪异 浅草 驱除麻烦精",
     "TW": null,
     "NA": "Monster Extermination: Asakusa - Pest Control",
     "KR": null
   },
   "怪異退治 浅草 月下の鬼宴": {
     "JP": null,
-    "CN": "怪异退治 浅草 月下鬼宴",
+    "CN": "消灭怪异 浅草 月下的鬼宴",
     "TW": null,
     "NA": "Monster Extermination: Asakusa - Demonic Banquet Under the Moonlight",
     "KR": null
   },
   "怪異退治 浅草 猛獣夜行": {
     "JP": null,
-    "CN": "怪异退治 浅草 猛兽夜行",
+    "CN": "消灭怪异 浅草 猛兽夜行",
     "TW": null,
     "NA": "Monster Extermination: Asakusa - Night Parade of Fierce Animals",
     "KR": null
   },
   "怪異退治 神奈川湊 異邦からの来訪者": {
     "JP": null,
-    "CN": "怪异退治 神奈川港 异邦的来访者",
+    "CN": "消灭怪异 神奈川港 异乡来客",
     "TW": null,
     "NA": "Monster Extermination: Kanagawa Port - Visitor from a Foreign Country",
     "KR": null
   },
   "怪異退治 神田 白き暴徒達": {
     "JP": null,
-    "CN": "怪异退治 神田 纯白的暴徒们",
+    "CN": "消灭怪异 神田 白色暴徒们",
     "TW": null,
     "NA": "Monster Extermination: Kanda - White Insurgents",
     "KR": null
   },
   "怪異退治 赤坂 乱世の軍勢": {
     "JP": null,
-    "CN": "怪异退治 赤坂 乱世军势",
+    "CN": "消灭怪异 赤坂 乱世的军势",
     "TW": null,
     "NA": "Monster Extermination: Akasaka - Military Forces of Turbulent Times",
     "KR": null
   },
   "怪異退治 鳥越神社 霊魂漂う巡礼路": {
     "JP": null,
-    "CN": "怪异退治 鸟越神社 灵魂漂泊的巡礼之路",
+    "CN": "消灭怪异 鸟越神社 灵魂飘荡的巡礼之路",
     "TW": null,
     "NA": "Monster Extermination: Torikoe Shrine - Pilgrim's Way for the Drifting Souls",
     "KR": null
@@ -32938,7 +33316,7 @@
     "JP": null,
     "CN": "统领行星之物",
     "TW": "統領行星之物",
-    "NA": "The Sovereign of the Planet",
+    "NA": "Those Who Rule the Planet",
     "KR": "행성을 지배하는 자"
   },
   "愉悦の宴 Rank A": {
@@ -33042,9 +33420,9 @@
   "憤怒の都": {
     "JP": null,
     "CN": "愤怒之都",
-    "TW": null,
+    "TW": "憤怒之都",
     "NA": "Capital of Wrath",
-    "KR": null
+    "KR": "분노의 도시"
   },
   "懐かしの勲": {
     "JP": null,
@@ -33267,7 +33645,7 @@
     "JP": null,
     "CN": "战斗训练程序 额外职阶篇Ⅱ",
     "TW": "戰鬥訓練程式 Extra篇Ⅱ",
-    "NA": "Battle Training Program - Extra II",
+    "NA": "Combat Training Program - EXTRA II",
     "KR": "전투훈련 프로그램 엑스트라편Ⅱ"
   },
   "戦闘訓練プログラム 三騎士編": {
@@ -33715,21 +34093,21 @@
     "JP": null,
     "CN": "断章（Ⅰ）",
     "TW": "斷章（Ⅰ）",
-    "NA": "Literary Fragment (I)",
+    "NA": "Fragment (I)",
     "KR": "단장(Ⅰ)"
   },
   "断章（Ⅱ）": {
     "JP": null,
     "CN": "断章（Ⅱ）",
     "TW": "斷章（Ⅱ）",
-    "NA": "Literary Fragment (II)",
+    "NA": "Fragment (II)",
     "KR": "단장(Ⅱ)"
   },
   "断章（Ⅲ）": {
     "JP": null,
     "CN": "断章（Ⅱ）",
     "TW": "斷章（Ⅲ）",
-    "NA": "Literary Fragment (III)",
+    "NA": "Fragment (III)",
     "KR": "단장(Ⅲ)"
   },
   "断章／5": {
@@ -34492,7 +34870,7 @@
     "JP": null,
     "CN": "咏星之丘",
     "TW": "詠星之丘",
-    "NA": "Stargazers' Knoll",
+    "NA": "Star-Readers Hill",
     "KR": "별을 읽는 언덕"
   },
   "星間都市山脈オリュンポス": {
@@ -34603,9 +34981,9 @@
   "暴食の都": {
     "JP": null,
     "CN": "暴食之都",
-    "TW": null,
+    "TW": "暴食之都",
     "NA": "Capital of Gluttony",
-    "KR": null
+    "KR": "폭식의 도시"
   },
   "曙の間": {
     "JP": null,
@@ -34988,9 +35366,9 @@
   "未完の馬再建計画": {
     "JP": null,
     "CN": "未完成之马再建计划",
-    "TW": null,
+    "TW": "未完成之馬再建計劃",
     "NA": "Unfinished Horse Reconstruction Plan",
-    "KR": null
+    "KR": "미완의 말 재건계획"
   },
   "未来": {
     "JP": null,
@@ -35367,7 +35745,7 @@
     "JP": null,
     "CN": "森林女王，奋力制定战术",
     "TW": "森林女王，堅毅地制定戰術",
-    "NA": "Tactics Refined Heavily, by the Forest Queen",
+    "NA": "The Queen of the Forest Stubbornly Hones Her Tactics",
     "KR": "숲의 여왕, 대단한 전술을 짜다"
   },
   "森の狩人": {
@@ -35584,7 +35962,7 @@
     "JP": null,
     "CN": "以武制天下",
     "TW": "以武制天下",
-    "NA": "Ruling the World with Military Might",
+    "NA": "Rule the World with Martial Might",
     "KR": "무로써 천하를 제압하다"
   },
   "武具庫": {
@@ -35781,7 +36159,7 @@
     "CN": "死牙之兽",
     "TW": null,
     "NA": "The Beast with Deadly Tusks",
-    "KR": null
+    "KR": "사아의 짐승"
   },
   "死者の街": {
     "JP": null,
@@ -35906,14 +36284,14 @@
     "JP": null,
     "CN": "水之废都",
     "TW": "水之廢都",
-    "NA": "Aquatic Forgotten Capital",
+    "NA": "Abandoned Water City",
     "KR": "물의 폐도"
   },
   "水の都（アストラン/カラクムル）": {
     "JP": null,
     "CN": "水之都（阿兹特兰/卡拉克穆尔）",
     "TW": "水之都（阿茲特蘭/卡拉克穆爾）",
-    "NA": "Aquatic Capital (Aztlán/Calakmul)",
+    "NA": "City of Water (Aztlán/Calakmul)",
     "KR": "물의 도시(아스틀란/칼라크물)"
   },
   "水上居住区を建て直す": {
@@ -36451,9 +36829,9 @@
   "沈む魔術協会": {
     "JP": null,
     "CN": "沉没的魔术协会",
-    "TW": null,
+    "TW": "沉沒的魔術協會",
     "NA": "Submerging Mage's Association",
-    "KR": null
+    "KR": "가라앉는 마술협회"
   },
   "沸き立つ大地": {
     "JP": null,
@@ -36656,7 +37034,7 @@
     "CN": "不可满足的欲望",
     "TW": null,
     "NA": "A Desire that Should Not be Fulfilled",
-    "KR": null
+    "KR": "채워서는 안 되는 욕망"
   },
   "源氏会議": {
     "JP": null,
@@ -37012,7 +37390,7 @@
     "JP": null,
     "CN": "燃烧吧，烈焰前锋",
     "TW": "燃燒吧，烈焰前鋒",
-    "NA": "Striker of Burning Flames",
+    "NA": "Burn, the Flaming Striker",
     "KR": "타올라라, 불꽃의 스트라이커"
   },
   "燃え上がる部屋": {
@@ -37871,14 +38249,14 @@
   },
   "異傳 どこ吹く風の 猫じゃらし": {
     "JP": null,
-    "CN": "异传 无动于衷的狗尾草",
+    "CN": "异传 风轻云淡的 逗猫草",
     "TW": null,
     "NA": "Digression: Unbothered, Kitty Teaser",
     "KR": null
   },
   "異傳 一筋の閃光": {
     "JP": null,
-    "CN": "异传 一道闪光",
+    "CN": "异传 一线闪光",
     "TW": null,
     "NA": "Digression: An Earnest Flash",
     "KR": null
@@ -37892,28 +38270,28 @@
   },
   "異傳 剣戟の音が眩しくて": {
     "JP": null,
-    "CN": "异传 剑戟之声如此眩目",
+    "CN": "异传 剑戟声声耀人目",
     "TW": null,
     "NA": "Digression: The Sound from a Swordfight is Very Dazzling",
     "KR": null
   },
   "異傳 地獄に仏の 南無阿弥陀仏": {
     "JP": null,
-    "CN": "异传 于地狱闻说佛言南无阿弥陀佛",
+    "CN": "异传 地狱现佛之 南无阿弥陀佛",
     "TW": null,
     "NA": "Digression: Namu Amida Butsu, as if Meeting Buddha in Hell",
     "KR": null
   },
   "異傳 幻想に咲く 一条の剣": {
     "JP": null,
-    "CN": "异传 于幻想中绽放的剑一柄",
+    "CN": "异传 绽放于幻想 一柄剑",
     "TW": null,
     "NA": "Digression: Where Fantasy Blossom, There is a Sword of One Streak",
     "KR": null
   },
   "異傳 荒ぶる神は 大海の如く": {
     "JP": null,
-    "CN": "异传 凶暴之神 便如大海",
+    "CN": "异传 狂暴之神 犹如大海",
     "TW": null,
     "NA": "Digression: The Malevolent God is Akin to an Ocean",
     "KR": null
@@ -38399,7 +38777,7 @@
     "CN": "沙滩上的炙热一刻",
     "TW": "沙灘上的炙熱一刻",
     "NA": "A Passionate Moment on the Beach",
-    "KR": "모래사장에서의 뜨거운 한때"
+    "KR": "모래밭에서의 뜨거운 한때"
   },
   "砂浜を走り回って活動力を鍛える カンヅメ級": {
     "JP": null,
@@ -38608,7 +38986,7 @@
     "JP": null,
     "CN": "神之肉",
     "TW": "神之肉",
-    "NA": "Flesh of God",
+    "NA": "God's Flesh",
     "KR": "신의 살"
   },
   "神の膝元": {
@@ -38713,7 +39091,7 @@
     "JP": null,
     "CN": "神话的王国",
     "TW": "神話的王國",
-    "NA": "Kingdom of Myths",
+    "NA": "Kingdom of Myth",
     "KR": "신화의 왕국"
   },
   "禁忌の魔導書": {
@@ -38818,21 +39196,21 @@
     "JP": null,
     "CN": "空想树海决战",
     "TW": "空想樹海決戰",
-    "NA": "Cosmic Sea of Trees Decisive Battle",
+    "NA": "Tree of Emptiness Decisive Battle",
     "KR": "공상수해 결전"
   },
   "空想樹海決戦／侵略型移動生命体ＯＲＴ": {
     "JP": null,
     "CN": "空想树海决战／侵略型移动生命体ORT",
     "TW": "空想樹海決戰／侵略型移動生命體ORT",
-    "NA": "Cosmic Sea of Trees Decisive Battle / Invasive Mobile Life-form ORT",
+    "NA": "Decisive Battle at the Sea of Tree of Emptiness/Invasive Mobile Life-form ORT",
     "KR": "공상수해 결전/침략형 이동 생명체 ORT"
   },
   "空想樹海決戦／侵略型飛行生命体ＯＲＴ": {
     "JP": null,
     "CN": "空想树海决战／侵略型飞行生命体ORT",
     "TW": "空想樹海決戰／侵略型飛行生命體ORT",
-    "NA": "Cosmic Sea of Trees Decisive Battle / Invasive Avian Life-form ORT",
+    "NA": "Decisive Battle at the Sea of Tree of Emptiness/Invasive Aerial Life-form ORT",
     "KR": "공상수해 결전/침략형 비행 생명체 ORT"
   },
   "空港で体を動かして活動力を鍛える カンヅメ級": {
@@ -38956,10 +39334,10 @@
   },
   "第10節 進行度2 スーパーリコレクションクエスト(2/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第10节 进度2 超级回顾关卡(2/6)",
+    "TW": "第10節 進度2 超級追憶任務(2/6)",
     "NA": "Section 10 - Node 2 Super Recollection Quest (2/6)",
-    "KR": null
+    "KR": "제10절 진행도2 슈퍼 리컬렉션 퀘스트(2/6)"
   },
   "第10節 進行度2 リコレクションクエスト(1/3)": {
     "JP": null,
@@ -38970,10 +39348,10 @@
   },
   "第10節 進行度2 リコレクションクエスト(2/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第10节 进度2 回顾关卡(2/6)",
+    "TW": "第10節 進度2 追憶任務(2/6)",
     "NA": "Section 10 - Node 2 Recollection Quest (2/6)",
-    "KR": null
+    "KR": "제10절 진행도2 리컬렉션 퀘스트(2/6)"
   },
   "第10節 霊長の星への賛歌Ⅱ": {
     "JP": null,
@@ -38985,9 +39363,9 @@
   "第10節 願わくば我が手でその胸を貫いて": {
     "JP": null,
     "CN": "第10节 愿以吾手贯穿汝之胸膛",
-    "TW": null,
+    "TW": "第10節 願以吾手貫穿汝之胸膛",
     "NA": "Section 10: I Wish I Could Pierce Through that Chest Myself",
-    "KR": null
+    "KR": "제10절 바라건대 내 손으로 그 가슴을 꿰뚫고"
   },
   "第10節「Old Dubai(Ⅰ)/ Golden Prince 」": {
     "JP": null,
@@ -39002,6 +39380,13 @@
     "TW": "第10節「死之Ride on me」",
     "NA": "Section 10: Mount of Doom",
     "KR": "제10절 ‘죽음의 라이드 온 미’"
+  },
+  "第10節「輝かしき蛻け」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第10話『本当の黒幕、黄金竜！』": {
     "JP": null,
@@ -39048,16 +39433,16 @@
   "第11節 死界■■都市ロンドン（1/2）": {
     "JP": null,
     "CN": "第11节 死界■■都市伦敦（1/2）",
-    "TW": null,
+    "TW": "第11節 死界■■都市倫敦（1/2）",
     "NA": "Section 11: The Death World in the City of ■■: London (1/2)",
-    "KR": null
+    "KR": "제11절 사계■■도시 런던(1/2)"
   },
   "第11節 死界■■都市ロンドン（2/2）": {
     "JP": null,
     "CN": "第11节 死界■■都市伦敦（2/2）",
-    "TW": null,
+    "TW": "第11節 死界■■都市倫敦（2/2）",
     "NA": "Section 11: The Death World in the City of ■■: London (2/2)",
-    "KR": null
+    "KR": "제11절 사계■■도시 런던(2/2)"
   },
   "第11節 進行度2 スーパーリコレクションクエスト(1/3)": {
     "JP": null,
@@ -39068,10 +39453,10 @@
   },
   "第11節 進行度2 スーパーリコレクションクエスト(1/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第11节 进度2 超级回顾关卡(1/4)",
+    "TW": "第11節 進度2 超級追憶任務(1/4)",
+    "NA": "Section 11 Node 2 Super Recollection Quest (1/4)",
+    "KR": "제11절 진행도2 슈퍼 리컬렉션 퀘스트(1/4)"
   },
   "第11節 進行度2 リコレクションクエスト(1/3)": {
     "JP": null,
@@ -39082,10 +39467,10 @@
   },
   "第11節 進行度2 リコレクションクエスト(1/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第11节 进度2 回顾关卡(1/4)",
+    "TW": "第11節 進度2 追憶任務(1/4)",
+    "NA": "Section 11 Node 2 Recollection Quest (1/4)",
+    "KR": "제11절 진행도2 리컬렉션 퀘스트(1/4)"
   },
   "第11節 進行度3 スーパーリコレクションクエスト(1/3)": {
     "JP": null,
@@ -39096,10 +39481,10 @@
   },
   "第11節 進行度3 スーパーリコレクションクエスト(1/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第11节 进度3 超级回顾关卡(1/5)",
+    "TW": "第11節 進度3 超級追憶任務(1/5)",
+    "NA": "Section 11 Node 3 Super Recollection Quest (1/5)",
+    "KR": "제11절 진행도3 슈퍼 리컬렉션 퀘스트(1/5)"
   },
   "第11節 進行度3 リコレクションクエスト(1/3)": {
     "JP": null,
@@ -39110,10 +39495,10 @@
   },
   "第11節 進行度3 リコレクションクエスト(1/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第11节 进度3 回顾关卡(1/5)",
+    "TW": "第11節 進度3 追憶任務(1/5)",
+    "NA": "Section 11 Node 3 Recollection Quest (1/5)",
+    "KR": "제11절 진행도3 리컬렉션 퀘스트(1/5)"
   },
   "第11節 進行度5 スーパーリコレクションクエスト(1/3)": {
     "JP": null,
@@ -39150,6 +39535,13 @@
     "NA": "Section 11: The Battle To Reclaim Area Three",
     "KR": "제11절 ‘제3에어리어 탈환전’"
   },
+  "第11節「蛇王ザッハーク」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第11話『大勝利！ オニランドの最後！』": {
     "JP": null,
     "CN": "第11话『大胜利！ ONILAND的最终！』",
@@ -39181,16 +39573,16 @@
   "第12節 死界■■都市ロンドン（1/2）": {
     "JP": null,
     "CN": "第12节 死界■■都市伦敦（1/2）",
-    "TW": null,
+    "TW": "第12節 死界■■都市倫敦（1/2）",
     "NA": "Section 12: The Death World in the City of ■■: London (1/2)",
-    "KR": null
+    "KR": "제12절 사계■■도시 런던(1/2)"
   },
   "第12節 死界愁雨都市ロンドン（2/2）": {
     "JP": null,
     "CN": "第12节 死界愁雨都市伦敦（2/2）",
-    "TW": null,
+    "TW": "第12節 死界愁雨都市倫敦（2/2）",
     "NA": "Section 12: The Death World in the City of Grieving Rain: London (2/2)",
-    "KR": null
+    "KR": "제12절 사계수우도시 런던(2/2)"
   },
   "第12節 罪と影の迷宮": {
     "JP": null,
@@ -39198,6 +39590,20 @@
     "TW": null,
     "NA": "Section 12: Labyrinth of Shadows and Sins",
     "KR": null
+  },
+  "第12節 進行度1 スーパーリコレクションクエスト(2/3)": {
+    "JP": null,
+    "CN": "第12节 进度1 超级回顾关卡(2/3)",
+    "TW": "第12節 進度1 超級追憶任務(2/3)",
+    "NA": "Section 12 Node 1 Super Recollection Quest (2/3)",
+    "KR": "제12절 진행도1 슈퍼 리컬렉션 퀘스트(2/3)"
+  },
+  "第12節 進行度1 リコレクションクエスト(2/3)": {
+    "JP": null,
+    "CN": "第12节 进度1 回顾关卡(2/3)",
+    "TW": "第12節 進度1 追憶任務(2/3)",
+    "NA": "Section 12 Node 1 Recollection Quest (2/3)",
+    "KR": "제12절 진행도1 리컬렉션 퀘스트(2/3)"
   },
   "第12節 進行度5 スーパーリコレクションクエスト(2/3)": {
     "JP": null,
@@ -39218,6 +39624,13 @@
     "CN": "第12节「Last Night/ Preparation 」",
     "TW": null,
     "NA": "Section 12: \"Last Night/ Preparation\"",
+    "KR": null
+  },
+  "第12節「心に満ちる■」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "第12節「水の上でも住まば都」": {
@@ -39258,9 +39671,9 @@
   "第13節 決壊終局絶海オケアノス": {
     "JP": null,
     "CN": "第13节 溃决终局绝海俄刻阿诺斯",
-    "TW": null,
+    "TW": "第13節 決堤終局絕海俄刻阿諾斯",
     "NA": "Section 13: Ruptured Ends of the Distant Seas: Okeanos",
-    "KR": null
+    "KR": "제13절 결괴종국절해 오케아노스"
   },
   "第13節 進行度2 スーパーリコレクションクエスト(2/3)": {
     "JP": null,
@@ -39271,10 +39684,10 @@
   },
   "第13節 進行度2 スーパーリコレクションクエスト(2/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第13节 进度2 超级回顾关卡(2/5)",
+    "TW": "第13節 進度2 超級追憶任務(2/5)",
+    "NA": "Section 13 Node 2 Super Recollection Quest (2/5)",
+    "KR": "제13절 진행도2 슈퍼 리컬렉션 퀘스트(2/5)"
   },
   "第13節 進行度2 リコレクションクエスト(2/3)": {
     "JP": null,
@@ -39285,38 +39698,38 @@
   },
   "第13節 進行度2 リコレクションクエスト(2/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第13节 进度2 回顾关卡(2/5)",
+    "TW": "第13節 進度2 追憶任務(2/5)",
+    "NA": "Section 13 Node 2 Recollection Quest (2/5)",
+    "KR": "제13절 진행도2 리컬렉션 퀘스트(2/5)"
   },
   "第13節 進行度4 スーパーリコレクションクエスト(3/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第13节 进度4 超级回顾关卡(3/6)",
+    "TW": "第13節 進度4 超級追憶任務(3/6)",
     "NA": "Section 13 - Node 4 Super Recollection Quest (3/6)",
-    "KR": null
+    "KR": "제13절 진행도4 슈퍼 리컬렉션 퀘스트(3/6)"
   },
   "第13節 進行度4 リコレクションクエスト(3/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第13节 进度4 回顾关卡(3/6)",
+    "TW": "第13節 進度4 追憶任務(3/6)",
     "NA": "Section 13 - Node 4 Recollection Quest (3/6)",
-    "KR": null
+    "KR": "제13절 진행도4 리컬렉션 퀘스트(3/6)"
   },
   "第13節 進行度6 スーパーリコレクションクエスト(2/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第13节 进度6 超级回顾关卡(2/6)",
+    "TW": "第13節 進度6 超級追憶任務(2/6)",
+    "NA": "Section 13 Node 6 Super Recollection Quest (2/6)",
+    "KR": "제13절 진행도6 슈퍼 리컬렉션 퀘스트(2/6)"
   },
   "第13節 進行度6 リコレクションクエスト(2/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第13节 进度6 回顾关卡(2/6)",
+    "TW": "第13節 進度6 追憶任務(2/6)",
+    "NA": "Section 13 Node 6 Recollection Quest (2/6)",
+    "KR": "제13절 진행도6 리컬렉션 퀘스트(2/6)"
   },
   "第13節(3/3) スーパーリコレクションクエスト": {
     "JP": null,
@@ -39345,6 +39758,13 @@
     "TW": "第13節「水邊之歌乃通往永恆的邀請」",
     "NA": "Section 13: Seaside Singing, Invitation to Eternity",
     "KR": "제13절 ‘물가의 노래는 영원으로의 유혹’"
+  },
+  "第13節「竜たちの吐息」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第14節 「アーラシュEND」": {
     "JP": null,
@@ -39405,8 +39825,29 @@
   "第14節 永続狂気劇場セプテム": {
     "JP": null,
     "CN": "第14节 永续疯狂剧场七丘之城",
-    "TW": null,
+    "TW": "第14節 永續瘋狂劇場七丘之城",
     "NA": "Section 14: Eternal Madness Theater: Septem",
+    "KR": "제14절 영속광기극장 세프템"
+  },
+  "第14節 進行度3 スーパーリコレクションクエスト(3/3)": {
+    "JP": null,
+    "CN": "第14节 进度3 超级回顾关卡(3/3)",
+    "TW": "第14節 進度3 超級追憶任務(3/3)",
+    "NA": "Section 14 Node 3 Super Recollection Quest (3/3)",
+    "KR": "제14절 진행도3 슈퍼 리컬렉션 퀘스트(3/3)"
+  },
+  "第14節 進行度3 リコレクションクエスト(3/3)": {
+    "JP": null,
+    "CN": "第14节 进度3 回顾关卡(3/3)",
+    "TW": "第14節 進度3 追憶任務(3/3)",
+    "NA": "Section 14 Node 3 Recollection Quest (3/3)",
+    "KR": "제14절 진행도3 리컬렉션 퀘스트(3/3)"
+  },
+  "第14節「ドラゴンこばなし（Ⅲ）」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "第14節「第四エリア奪還戦」": {
@@ -39433,9 +39874,9 @@
   "第15節 傷を焼べて、愛も焼べて": {
     "JP": null,
     "CN": "第15节 焚伤，亦焚爱",
-    "TW": null,
+    "TW": "第15節 焚傷，亦焚愛",
     "NA": "Section 15: Throw the Pain into the Fire, Throw the Affection into the Fire",
-    "KR": null
+    "KR": "제15절 상처를 태우고, 사랑도 태우고"
   },
   "第15節 罪のカタチ（夜）": {
     "JP": null,
@@ -39474,10 +39915,10 @@
   },
   "第15節 進行度6 スーパーリコレクションクエスト(3/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第15节 进度6 超级回顾关卡(3/6)",
+    "TW": "第15節 進度6 超級追憶任務(3/6)",
+    "NA": "Section 15 Node 6 Super Recollection Quest (3/6)",
+    "KR": "제15절 진행도6 슈퍼 리컬렉션 퀘스트(3/6)"
   },
   "第15節 進行度6 リコレクションクエスト(1/3)": {
     "JP": null,
@@ -39487,6 +39928,13 @@
     "KR": "제15절 진행도6 리컬렉션 퀘스트(1/3)"
   },
   "第15節 進行度6 リコレクションクエスト(3/6)": {
+    "JP": null,
+    "CN": "第15节 进度6 回顾关卡(3/6)",
+    "TW": "第15節 進度6 追憶任務(3/6)",
+    "NA": "Section 15 Node 6 Recollection Quest (3/6)",
+    "KR": "제15절 진행도6 리컬렉션 퀘스트(3/6)"
+  },
+  "第15節「子の健やかなるを願うもの」": {
     "JP": null,
     "CN": null,
     "TW": null,
@@ -39559,16 +40007,16 @@
   "第16節 竜\t戦争\t\t\t\t（1/2）": {
     "JP": null,
     "CN": "第16节 龙战争（1/2）",
-    "TW": null,
+    "TW": "第16節 龍戰爭（1/2）",
     "NA": "Section 16: ■■■■ War ■■■ Dragons: ■■■■■ (1/2)",
-    "KR": null
+    "KR": "제16절 ◈룡▣◐전쟁 ▒▤▥▨(1/2)"
   },
   "第16節 竜\t戦争\t\t\t\t（2/2）": {
     "JP": null,
     "CN": "第16节 龙战争（2/2）",
-    "TW": null,
+    "TW": "第16節 龍戰爭（2/2）",
     "NA": "Section 16: ■■■■ War ■■■ Dragons: ■■■■■ (2/2)",
-    "KR": null
+    "KR": "제16절 ◈룡▣◐전쟁 ▒▤▥▨(2/2)"
   },
   "第16節「決戦前夜」": {
     "JP": null,
@@ -39576,6 +40024,13 @@
     "TW": "第16節「決戰前夜」",
     "NA": "Section 16: Eve of the Decisive Battle",
     "KR": "제16절 ‘결전전야’"
+  },
+  "第16節「蛇と姫、愛と憎」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第17節 「『鳴鳳荘殺人事件』破・急」": {
     "JP": null,
@@ -39594,9 +40049,9 @@
   "第17節 声枯らした希望を、真実に": {
     "JP": null,
     "CN": "第17节 将枯哑之声的希望，化为真实",
-    "TW": null,
+    "TW": "第17節 將枯啞之聲的希望，化為真實",
     "NA": "Section 17: The Reality of the Dried Up Voice of Hope",
-    "KR": null
+    "KR": "제17절 목마른 희망을, 진실로"
   },
   "第17節 進行度1 スーパーリコレクションクエスト(2/3)": {
     "JP": null,
@@ -39607,10 +40062,10 @@
   },
   "第17節 進行度1 スーパーリコレクションクエスト(2/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第17节 进度1 超级回顾关卡(2/4)",
+    "TW": "第17節 進度1 超級追憶任務(2/4)",
+    "NA": "Section 17 Node 1 Super Recollection Quest (2/4)",
+    "KR": "제17절 진행도1 슈퍼 리컬렉션 퀘스트(2/4)"
   },
   "第17節 進行度1 リコレクションクエスト(2/3)": {
     "JP": null,
@@ -39621,24 +40076,24 @@
   },
   "第17節 進行度1 リコレクションクエスト(2/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第17节 进度1 回顾关卡(2/4)",
+    "TW": "第17節 進度1 追憶任務(2/4)",
+    "NA": "Section 17 Node 1 Recollection Quest (2/4)",
+    "KR": "제17절 진행도1 리컬렉션 퀘스트(2/4)"
   },
   "第17節 進行度6 スーパーリコレクションクエスト(2/3)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第17节 进度6 超级回顾关卡(2/3)",
+    "TW": "第17節 進度6 超級追憶任務(2/3)",
+    "NA": "Section 17 Node 6 Super Recollection Quest (2/3)",
+    "KR": "제17절 진행도6 슈퍼 리컬렉션 퀘스트(2/3)"
   },
   "第17節 進行度6 リコレクションクエスト(2/3)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第17节 进度6 回顾关卡(2/3)",
+    "TW": "第17節 進度6 追憶任務(2/3)",
+    "NA": "Section 17 Node 6 Recollection Quest (2/3)",
+    "KR": "제17절 진행도6 리컬렉션 퀘스트(2/3)"
   },
   "第17節 黒い少女": {
     "JP": null,
@@ -39654,6 +40109,13 @@
     "NA": "Section 17: The Battle for the Final Area",
     "KR": "제17절 ‘최종 에어리어 탈환전’"
   },
+  "第17節「角と稀なる力」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第18節 パパチェック４／加虐という安堵": {
     "JP": null,
     "CN": null,
@@ -39666,6 +40128,13 @@
     "CN": "第18节 罪否、过否、恶否",
     "TW": null,
     "NA": "Section 18: Is It a Sin? Is It to be Blame? Is It Evil?",
+    "KR": null
+  },
+  "第18節「ドラゴンこばなし（Ⅳ）」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "第18節「顕れる神」": {
@@ -39698,17 +40167,17 @@
   },
   "第19節 進行度1 スーパーリコレクションクエスト(4/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第19节 进度1 超级回顾关卡(4/6)",
+    "TW": "第19節 進度1 超級追憶任務(4/6)",
     "NA": "Section 19 - Node 1 Super Recollection Quest (4/6)",
-    "KR": null
+    "KR": "제19절 진행도1 슈퍼 리컬렉션 퀘스트(4/6)"
   },
   "第19節 進行度1 リコレクションクエスト(4/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第19节 进度1 回顾关卡(4/6)",
+    "TW": "第19節 進度1 追憶任務(4/6)",
     "NA": "Section 19 - Node 1 Recollection Quest (4/6)",
-    "KR": null
+    "KR": "제19절 진행도1 리컬렉션 퀘스트(4/6)"
   },
   "第19節 進行度4 スーパーリコレクションクエスト(2/3)": {
     "JP": null,
@@ -39719,10 +40188,10 @@
   },
   "第19節 進行度4 スーパーリコレクションクエスト(5/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第19节 进度4 超级回顾关卡(5/6)",
+    "TW": "第19節 進度4 超級追憶任務(5/6)",
     "NA": "Section 19 - Node 4 Super Recollection Quest (5/6)",
-    "KR": null
+    "KR": "제19절 진행도4 슈퍼 리컬렉션 퀘스트(5/6)"
   },
   "第19節 進行度4 リコレクションクエスト(2/3)": {
     "JP": null,
@@ -39733,10 +40202,10 @@
   },
   "第19節 進行度4 リコレクションクエスト(5/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第19节 进度4 回顾关卡(5/6)",
+    "TW": "第19節 進度4 追憶任務(5/6)",
     "NA": "Section 13 - Node 4 Recollection Quest (5/6)",
-    "KR": null
+    "KR": "제19절 진행도4 리컬렉션 퀘스트(5/6)"
   },
   "第19節 進行度5 スーパーリコレクションクエスト(3/3)": {
     "JP": null,
@@ -39747,10 +40216,10 @@
   },
   "第19節 進行度5 スーパーリコレクションクエスト(6/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第19节 进度5 超级回顾关卡(6/6)",
+    "TW": "第19節 進度5 超級追憶任務(6/6)",
     "NA": "Section 19 - Node 5 Super Recollection Quest (6/6)",
-    "KR": null
+    "KR": "제19절 진행도5 슈퍼 리컬렉션 퀘스트(6/6)"
   },
   "第19節 進行度5 リコレクションクエスト(3/3)": {
     "JP": null,
@@ -39761,9 +40230,16 @@
   },
   "第19節 進行度5 リコレクションクエスト(6/6)": {
     "JP": null,
+    "CN": "第19节 进度5 回顾关卡(6/6)",
+    "TW": "第19節 進度5 追憶任務(6/6)",
+    "NA": "Section 19 - Node 5 Recollection Quest (6/6)",
+    "KR": "제19절 진행도5 리컬렉션 퀘스트(6/6)"
+  },
+  "第19節「大地の至る形」": {
+    "JP": null,
     "CN": null,
     "TW": null,
-    "NA": "Section 19 - Node 5 Recollection Quest (6/6)",
+    "NA": null,
     "KR": null
   },
   "第1R「特異点の邪竜」": {
@@ -39874,9 +40350,9 @@
   "第1節 今は旧き辺獄の底": {
     "JP": null,
     "CN": "第1节 今在古老灵薄狱深渊",
-    "TW": null,
+    "TW": "第1節 今在古老靈薄獄深淵",
     "NA": "Section 1: Under the Depths of an Ancient Limbo",
-    "KR": null
+    "KR": "제1절 지금은 옛 변옥의 밑바닥"
   },
   "第1節 冥界に雪の降る": {
     "JP": null,
@@ -39887,7 +40363,7 @@
   },
   "第1節 幕開けまであとわずか": {
     "JP": null,
-    "CN": "第1节 开幕在即",
+    "CN": "第1节 幕布即将拉开",
     "TW": null,
     "NA": "Section 1: A Little More Until the Opening of the Play",
     "KR": null
@@ -39948,6 +40424,13 @@
     "NA": "Section 1: The Sisters and the Innocents",
     "KR": "제1절 ‘자매와 무구한 자들’"
   },
+  "第1節「鱗あるものたちの大地」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第1節『ヒューリー荒野の邂逅』": {
     "JP": null,
     "CN": "第1节『愤怒荒野的邂逅』",
@@ -39985,17 +40468,17 @@
   },
   "第20節 進行度4 スーパーリコレクションクエスト(3/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第20节 进度4 超级回顾关卡(3/5)",
+    "TW": "第20節 進度4 超級追憶任務(3/5)",
+    "NA": "Section 20 Node 4 Super Recollection Quest (3/5)",
+    "KR": "제20절 진행도4 슈퍼 리컬렉션 퀘스트(3/5)"
   },
   "第20節 進行度4 リコレクションクエスト(3/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第20节 进度4 回顾关卡(3/5)",
+    "TW": "第20節 進度4 追憶任務(3/5)",
+    "NA": "Section 20 Node 4 Recollection Quest (3/5)",
+    "KR": "제20절 진행도4 리컬렉션 퀘스트(3/5)"
   },
   "第20節(2/3) スーパーリコレクションクエスト": {
     "JP": null,
@@ -40011,6 +40494,20 @@
     "NA": "Section 20 (2/3) Recollection Quest",
     "KR": "제20절(2/3) 리컬렉션 퀘스트"
   },
+  "第20節「貪るもの」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第21節「廻る蛇」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第22節(3/4) スーパーリコレクションクエスト": {
     "JP": null,
     "CN": "第22节(3/4) 超级回顾关卡",
@@ -40025,19 +40522,26 @@
     "NA": "Section 22 (3/4) Recollection Quest",
     "KR": "제22절(3/4) 리컬렉션 퀘스트"
   },
-  "第23節 進行度1 スーパーリコレクションクエスト(3/3)": {
+  "第22節「不滅の邪竜、アジ・ダハーカ」": {
     "JP": null,
     "CN": null,
     "TW": null,
     "NA": null,
     "KR": null
   },
+  "第23節 進行度1 スーパーリコレクションクエスト(3/3)": {
+    "JP": null,
+    "CN": "第23节 进度1 超级回顾关卡(3/3)",
+    "TW": "第23節 進度1 超級追憶任務(3/3)",
+    "NA": "Section 23 Node 1 Super Recollection Quest (3/3)",
+    "KR": "제23절 진행도1 슈퍼 리컬렉션 퀘스트(3/3)"
+  },
   "第23節 進行度1 リコレクションクエスト(3/3)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第23节 进度1 回顾关卡(3/3)",
+    "TW": "第23節 進度1 追憶任務(3/3)",
+    "NA": "Section 23 Node 1 Recollection Quest (3/3)",
+    "KR": "제23절 진행도1 리컬렉션 퀘스트(3/3)"
   },
   "第23節 進行度2 スーパーリコレクションクエスト(3/3)": {
     "JP": null,
@@ -40048,10 +40552,10 @@
   },
   "第23節 進行度2 スーパーリコレクションクエスト(4/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第23节 进度2 超级回顾关卡(4/5)",
+    "TW": "第23節 進度2 超級追憶任務(4/5)",
+    "NA": "Section 23 Node 2 Super Recollection Quest (4/5)",
+    "KR": "제23절 진행도2 슈퍼 리컬렉션 퀘스트(4/5)"
   },
   "第23節 進行度2 リコレクションクエスト(3/3)": {
     "JP": null,
@@ -40062,10 +40566,10 @@
   },
   "第23節 進行度2 リコレクションクエスト(4/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第23节 进度2 回顾关卡(4/5)",
+    "TW": "第23節 進度2 追憶任務(4/5)",
+    "NA": "Section 23 Node 2 Recollection Quest (4/5)",
+    "KR": "제23절 진행도2 리컬렉션 퀘스트(4/5)"
   },
   "第23節 進行度3 スーパーリコレクションクエスト(3/3)": {
     "JP": null,
@@ -40076,17 +40580,17 @@
   },
   "第23節 進行度3 スーパーリコレクションクエスト(3/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第23节 进度3 超级回顾关卡(3/4)",
+    "TW": "第23節 進度3 超級追憶任務(3/4)",
+    "NA": "Section 23 Node 3 Super Recollection Quest (3/4)",
+    "KR": "제23절 진행도3 슈퍼 리컬렉션 퀘스트(3/4)"
   },
   "第23節 進行度3 スーパーリコレクションクエスト(5/5)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第23节 进度3 超级回顾关卡(5/5)",
+    "TW": "第23節 進度3 超級追憶任務(5/5)",
+    "NA": "Section 23 Node 3 Super Recollection Quest (5/5)",
+    "KR": "제23절 진행도3 슈퍼 리컬렉션 퀘스트(5/5)"
   },
   "第23節 進行度3 リコレクションクエスト(3/3)": {
     "JP": null,
@@ -40097,12 +40601,19 @@
   },
   "第23節 進行度3 リコレクションクエスト(3/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第23节 进度3 回顾关卡(3/4)",
+    "TW": "第23節 進度3 追憶任務(3/4)",
+    "NA": "Section 23 Node 3 Recollection Quest (3/4)",
+    "KR": "제23절 진행도3 리컬렉션 퀘스트(3/4)"
   },
   "第23節 進行度3 リコレクションクエスト(5/5)": {
+    "JP": null,
+    "CN": "第23节 进度3 回顾关卡(5/5)",
+    "TW": "第23節 進度3 追憶任務(5/5)",
+    "NA": "Section 23 Node 3 Recollection Quest (5/5)",
+    "KR": "제23절 진행도3 리컬렉션 퀘스트(5/5)"
+  },
+  "第23節「鱗ある者たちの見る幻想（ゆめ）」": {
     "JP": null,
     "CN": null,
     "TW": null,
@@ -40111,17 +40622,17 @@
   },
   "第24節 進行度2 スーパーリコレクションクエスト(4/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第24节 进度2 超级回顾关卡(4/6)",
+    "TW": "第24節 進度2 超級追憶任務(4/6)",
+    "NA": "Section 24 Node 2 Super Recollection Quest (4/6)",
+    "KR": "제24절 진행도2 슈퍼 리컬렉션 퀘스트(4/6)"
   },
   "第24節 進行度2 リコレクションクエスト(4/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第24节 进度2 回顾关卡(4/6)",
+    "TW": "第24節 進度2 追憶任務(4/6)",
+    "NA": "Section 24 Node 2 Recollection Quest (4/6)",
+    "KR": "제24절 진행도2 리컬렉션 퀘스트(4/6)"
   },
   "第24節 進行度4 スーパーリコレクションクエスト(2/3)": {
     "JP": null,
@@ -40132,10 +40643,10 @@
   },
   "第24節 進行度4 スーパーリコレクションクエスト(5/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第24节 进度4 超级回顾关卡(5/6)",
+    "TW": "第24節 進度4 超級追憶任務(5/6)",
+    "NA": "Section 24 Node 4 Super Recollection Quest (5/6)",
+    "KR": "제24절 진행도4 슈퍼 리컬렉션 퀘스트(5/6)"
   },
   "第24節 進行度4 リコレクションクエスト(2/3)": {
     "JP": null,
@@ -40146,24 +40657,24 @@
   },
   "第24節 進行度4 リコレクションクエスト(5/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第24节 进度4 回顾关卡(5/6)",
+    "TW": "第24節 進度4 追憶任務(5/6)",
+    "NA": "Section 24 Node 4 Recollection Quest (5/6)",
+    "KR": "제24절 진행도4 리컬렉션 퀘스트(5/6)"
   },
   "第26節 進行度4 スーパーリコレクションクエスト(4/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第26节 进度4 超级回顾关卡(4/4)",
+    "TW": "第26節 進度4 超級追憶任務(4/4)",
+    "NA": "Section 26 Node 4 Super Recollection Quest (4/4)",
+    "KR": "제26절 진행도4 슈퍼 리컬렉션 퀘스트(4/4)"
   },
   "第26節 進行度4 リコレクションクエスト(4/4)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第26节 进度4 回顾关卡(4/4)",
+    "TW": "第26節 進度4 追憶任務(4/4)",
+    "NA": "Section 26 Node 4 Recollection Quest (4/4)",
+    "KR": "제26절 진행도4 리컬렉션 퀘스트(4/4)"
   },
   "第2R「乱れ咲くなり氷花」": {
     "JP": null,
@@ -40237,7 +40748,7 @@
   },
   "第2節 『シラノ・ド・ベルジュラック』第31回公演": {
     "JP": null,
-    "CN": "第2节 『风流剑客』第31次公演",
+    "CN": "第2节 『大鼻子情圣』第31次公演",
     "TW": null,
     "NA": "Section 2: Cyrano de Bergerac's 31st Public Performance",
     "KR": null
@@ -40273,16 +40784,16 @@
   "第2節 君が獣、戦場（1/2）": {
     "JP": null,
     "CN": "第2节 汝之兽，汝之战场（1/2）",
-    "TW": null,
+    "TW": "第2節 汝之獸，汝之戰場（1/2）",
     "NA": "Section 2: You are the Beast on the Battlefield (1/2)",
-    "KR": null
+    "KR": "제2절 그대가 짐승, 전장(1/2)"
   },
   "第2節 君が獣、戦場（2/2）": {
     "JP": null,
     "CN": "第2节 汝之兽，汝之战场（2/2）",
-    "TW": null,
+    "TW": "第2節 汝之獸，汝之戰場（2/2）",
     "NA": "Section 2: You are the Beast on the Battlefield (2/2)",
-    "KR": null
+    "KR": "제2절 그대가 짐승, 전장(2/2)"
   },
   "第2節 大衝突": {
     "JP": null,
@@ -40361,6 +40872,13 @@
     "NA": "Section 2: Defense: Millennia Fortress",
     "KR": "제2절 ‘방위: 밀레니아 성채’"
   },
+  "第2節「黒き姫の来たる町」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第2節『ナイン・シスターズ』": {
     "JP": null,
     "CN": "第2节『Nine Sisters』",
@@ -40384,10 +40902,10 @@
   },
   "第30節 進行度3 スーパーリコレクションクエスト(6/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第30节 进度3 超级回顾关卡(6/6)",
+    "TW": "第30節 進度3 超級追憶任務(6/6)",
+    "NA": "Section 30 Node 3 Super Recollection Quest (6/6)",
+    "KR": "제30절 진행도3 슈퍼 리컬렉션 퀘스트(6/6)"
   },
   "第30節 進行度3 リコレクションクエスト(3/3)": {
     "JP": null,
@@ -40398,10 +40916,10 @@
   },
   "第30節 進行度3 リコレクションクエスト(6/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第30节 进度3 回顾关卡(6/6)",
+    "TW": "第30節 進度3 追憶任務(6/6)",
+    "NA": "Section 30 Node 3 Recollection Quest (6/6)",
+    "KR": "제30절 진행도3 리컬렉션 퀘스트(6/6)"
   },
   "第3R「浜辺の星と竜の絆」": {
     "JP": null,
@@ -40489,7 +41007,7 @@
   },
   "第3節 くじけず前を向いて": {
     "JP": null,
-    "CN": "第3节 不败不馁展望前方",
+    "CN": "第3节 坚持不懈地向前",
     "TW": null,
     "NA": "Section 3: Always Facing Forward without Losing Heart",
     "KR": null
@@ -40532,9 +41050,9 @@
   "第3節 果てなき空の進路を辿れ": {
     "JP": null,
     "CN": "第3节 沿无穷天际之路前进",
-    "TW": null,
+    "TW": "第3節 沿無窮天際之路前進",
     "NA": "Section 3: Tracing a Path with Endless Skies",
-    "KR": null
+    "KR": "제3절 끝없는 하늘의 진로를 나아가라"
   },
   "第3節 永遠を目指す者": {
     "JP": null,
@@ -40559,17 +41077,17 @@
   },
   "第3節 進行度4 スーパーリコレクションクエスト(1/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第3节 进度4 超级回顾关卡(1/6)",
+    "TW": "第3節 進度4 超級追憶任務(1/6)",
     "NA": "Section 3 - Node 4 Super Recollection Quest (1/6)",
-    "KR": null
+    "KR": "제3절 진행도4 슈퍼 리컬렉션 퀘스트(1/6)"
   },
   "第3節 進行度4 リコレクションクエスト(1/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
+    "CN": "第3节 进度4 回顾关卡(1/6)",
+    "TW": "第3節 進度4 追憶任務(1/6)",
     "NA": "Section 3 - Node 4 Recollection Quest (1/6)",
-    "KR": null
+    "KR": "제3절 진행도4 리컬렉션 퀘스트(1/6)"
   },
   "第3節 黎明に星を見る": {
     "JP": null,
@@ -40605,6 +41123,13 @@
     "TW": "第3節「第一區域奪回戰」",
     "NA": "Section 3: The Battle To Reclaim Area One",
     "KR": "제3절 ‘제1에어리어 탈환전’"
+  },
+  "第3節「開かずの鱗門」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第3節『アイムバック・アイムホーム』(1/2)": {
     "JP": null,
@@ -40734,7 +41259,7 @@
   },
   "第4節 立ち上がっては打ち倒されて": {
     "JP": null,
-    "CN": "第4节 振作起身复被击倒",
+    "CN": "第4节 振作却又被击倒",
     "TW": null,
     "NA": "Section 4: Rising Up Only to be Knocked Back Down",
     "KR": null
@@ -40742,16 +41267,16 @@
   "第4節 臨界観光都市バビロン（1/2）": {
     "JP": null,
     "CN": "第4节 临界观光都市巴比伦（1/2）",
-    "TW": null,
+    "TW": "第4節 臨界觀光都市巴比倫（1/2）",
     "NA": "Section 4: Critical Tourist City: Babylon (1/2)",
-    "KR": null
+    "KR": "제4절 임계관광도시 바빌론(1/2)"
   },
   "第4節 臨界観光都市バビロン（2/2）": {
     "JP": null,
     "CN": "第4节 临界观光都市巴比伦（2/2）",
-    "TW": null,
+    "TW": "第4節 臨界觀光都市巴比倫（2/2）",
     "NA": "Section 4: Critical Tourist City: Babylon (2/2)",
-    "KR": null
+    "KR": "제4절 임계관광도시 바빌론(2/2)"
   },
   "第4節　愛が重すぎる": {
     "JP": null,
@@ -40780,6 +41305,13 @@
     "TW": "第4節「對決：雙劍與騎兵」",
     "NA": "Section 4: Confrontation: Dual Swords and Cavalry",
     "KR": "제4절 ‘대결: 쌍검과 기병’"
+  },
+  "第4節「育ちの場」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第4節『どっこい生きてる槍男』": {
     "JP": null,
@@ -40818,7 +41350,7 @@
   },
   "第5節 『シラノ・ド・ベルジュラック』第32回公演": {
     "JP": null,
-    "CN": "第5节 『风流剑客』第32次公演",
+    "CN": "第5节 『大鼻子情圣』第32次公演",
     "TW": null,
     "NA": "Section 5: Cyrano de Bergerac's 32nd Public Performance",
     "KR": null
@@ -40854,9 +41386,9 @@
   "第5節 ピントもチューニングもズレてる": {
     "JP": null,
     "CN": "第5节 焦点与调谐都错位了",
-    "TW": null,
+    "TW": "第5節 焦點與調音都有偏差",
     "NA": "Section 5: Both the Focal Point and the Tuning are Out of Alignment",
-    "KR": null
+    "KR": "제5절 핀트도 튜닝도 어긋나있다"
   },
   "第5節 ワンジナと砂漠に君臨する太陽王（テンション高）": {
     "JP": null,
@@ -40921,6 +41453,13 @@
     "NA": "Section 5: Biting Bunyips",
     "KR": "제5절 ‘잡아먹는 괴물’"
   },
+  "第5節「色づく竜鱗、鮮やかに」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第5節『獅子王カッコカリ』": {
     "JP": null,
     "CN": "第5节『狮子王括号暂定』",
@@ -40979,7 +41518,7 @@
   },
   "第6節 夢の狭間と現実の隙間": {
     "JP": null,
-    "CN": "第6节 梦之夹缝与现实的间隙",
+    "CN": "第6节 梦之狭缝与现实之间隙",
     "TW": null,
     "NA": "Section 6: Valley of Dreams and Crevice of Reality",
     "KR": null
@@ -41028,17 +41567,17 @@
   },
   "第6節 進行度4 スーパーリコレクションクエスト(1/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第6节 进度4 超级回顾关卡(1/6)",
+    "TW": "第6節 進度4 超級追憶任務(1/6)",
+    "NA": "Section 6 Node 4 Super Recollection Quest (1/6)",
+    "KR": "제6절 진행도4 슈퍼 리컬렉션 퀘스트(1/6)"
   },
   "第6節 進行度4 リコレクションクエスト(1/6)": {
     "JP": null,
-    "CN": null,
-    "TW": null,
-    "NA": null,
-    "KR": null
+    "CN": "第6节 进度4 回顾关卡(1/6)",
+    "TW": "第6節 進度4 追憶任務(1/6)",
+    "NA": "Section 6 Node 4 Recollection Quest (1/6)",
+    "KR": "제6절 진행도4 리컬렉션 퀘스트(1/6)"
   },
   "第6節 遊牧は夢の鳴る": {
     "JP": null,
@@ -41057,9 +41596,9 @@
   "第6節 魔宴渇望遠征ロスト･エルサレム": {
     "JP": null,
     "CN": "第6节 魔宴渴望远征失落的耶路撒冷",
-    "TW": null,
+    "TW": "第6節 魔宴渴望遠征失落的耶路撒冷",
     "NA": "Section 6: Festival of Cravings Expedition: Lost Jerusalem",
-    "KR": null
+    "KR": "제6절 마연갈망원정 로스트 예루살렘"
   },
   "第6節　オルテンシアをさがせ": {
     "JP": null,
@@ -41089,6 +41628,13 @@
     "NA": "Section 6: The Battle To Reclaim Area Two",
     "KR": "제6절 ‘제2에어리어 탈환전’"
   },
+  "第6節「黒姫伝説」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第6節『機械の獣、叫喚す』": {
     "JP": null,
     "CN": "第6节『机械兽，呐喊』",
@@ -41112,7 +41658,7 @@
   },
   "第7節 『シラノ・ド・ベルジュラック』最終公演": {
     "JP": null,
-    "CN": "第7节 『风流剑客』最终公演",
+    "CN": "第7节 『大鼻子情圣』最终公演",
     "TW": null,
     "NA": "Section 7: Cyrano de Bergerac's Final Public Performance",
     "KR": null
@@ -41183,16 +41729,16 @@
   "第7節 手にした聖地ぶち壊して（1/2）": {
     "JP": null,
     "CN": "第7节 将获得的圣地彻底破坏（1/2）",
-    "TW": null,
+    "TW": "第7節 將獲得的聖地徹底破壞（1/2）",
     "NA": "Section 7: Destroying the Holy Land We've Conquered (1/2)",
-    "KR": null
+    "KR": "제7절 손에 넣은 성지를 파괴하고(1/2)"
   },
   "第7節 手にした聖地ぶち壊して（2/2）": {
     "JP": null,
     "CN": "第7节 将获得的圣地彻底破坏（2/2）",
-    "TW": null,
+    "TW": "第7節 將獲得的聖地徹底破壞（2/2）",
     "NA": "Section 7: Destroying the Holy Land We've Conquered (2/2)",
-    "KR": null
+    "KR": "제7절 손에 넣은 성지를 파괴하고(2/2)"
   },
   "第7節 昼の進撃 後": {
     "JP": null,
@@ -41220,6 +41766,13 @@
     "CN": "第7节「Business District(Ⅱ)/ From Beyond The Stars」",
     "TW": null,
     "NA": "Section 7: \"Business District(II)/ From Beyond The Stars\"",
+    "KR": null
+  },
+  "第7節「憩う蛇竜たち」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "第7節「決戦：空中庭園」": {
@@ -41288,9 +41841,9 @@
   "第8節 北米神話大殲イ・プルーリバス・ウナム": {
     "JP": null,
     "CN": "第8节 北美神话大歼合众为一",
-    "TW": null,
+    "TW": "第8節 北美神話大殲合眾為一",
     "NA": "Section 8: North American Myth Massacre: E Pluribus Unum",
-    "KR": null
+    "KR": "제8절 북미신화대전 에 플루리부스 우눔"
   },
   "第8節 夏以外をあきらめて": {
     "JP": null,
@@ -41325,6 +41878,13 @@
     "CN": "第8节「Desert Dubai(Ⅰ)/ Bane」",
     "TW": null,
     "NA": "Section 8: \"Desert Dubai(I)/ Bane\"",
+    "KR": null
+  },
+  "第8節「ドラゴンこばなし（Ⅱ）」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "第8節「妖霧蠢動」": {
@@ -41386,9 +41946,9 @@
   "第9節 病めるものも、繋ぐものも": {
     "JP": null,
     "CN": "第9节 痛苦之物，维系之物",
-    "TW": null,
+    "TW": "第9節 痛苦之物，維繫之物",
     "NA": "Section 9: The Ailing Ones and the Connected Ones",
-    "KR": null
+    "KR": "제9절 아픈 것도, 잇는 것도"
   },
   "第9節 進行度3 スーパーリコレクションクエスト(1/3)": {
     "JP": null,
@@ -41424,6 +41984,13 @@
     "TW": "第9節「再次回歸安穩的沉睡」",
     "NA": "Section 9: \"Returning to Tranquil Slumber\"",
     "KR": "제9절 ‘그리고 또 다시 평온한 잠으로’"
+  },
+  "第9節「勇者の証」": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第9節「水門に棲まうこと能わず」": {
     "JP": null,
@@ -41513,7 +42080,7 @@
     "JP": null,
     "CN": "第一冥界特拉特拉乌基",
     "TW": "第一冥界特拉特拉烏基",
-    "NA": "First Underworld: Tlatlauqui",
+    "NA": "First Underworld: Tlatlauhqui",
     "KR": "제1명계 틀라틀라우키"
   },
   "第一夜 ダレイオス君": {
@@ -41623,7 +42190,7 @@
   },
   "第一幕 魔物に逢うては 魔物を斬る": {
     "JP": null,
-    "CN": "第一幕 遇魔物便斩魔物",
+    "CN": "第一幕 见魔物斩魔物",
     "TW": null,
     "NA": "Act 1: If You See the Monster, Kill the Monster",
     "KR": null
@@ -41856,7 +42423,7 @@
     "JP": null,
     "CN": "第一节『虽然我祈祷赐予祝福』",
     "TW": "第一節『雖然我祈禱賜予祝福』",
-    "NA": "Section 1: Blessed but I Shall Continue to Pray",
+    "NA": "Section 1: Blessings Upon You",
     "KR": "제1절 ‘나는 축복이 있으라고 빌지만’"
   },
   "第一部 「勃興！カルデア家の野望！」": {
@@ -41959,7 +42526,7 @@
   },
   "第七幕 合戦は逆巻く怒涛の如きもの": {
     "JP": null,
-    "CN": "第七章 会战如怒涛翻涌",
+    "CN": "第七幕 合战如怒涛席卷",
     "TW": null,
     "NA": "Act 7: A Battle Akin to Surging Waves",
     "KR": null
@@ -42295,7 +42862,7 @@
   },
   "第三幕 めぐる盈月 殺し合い": {
     "JP": null,
-    "CN": "第三幕 盈月流转 彼此厮杀",
+    "CN": "第三幕 轮回盈月 生死厮杀",
     "TW": null,
     "NA": "Act 3: Battle to the Death, as the Waxing Moon Comes Around",
     "KR": null
@@ -42591,7 +43158,7 @@
     "JP": null,
     "CN": "第三节『第一锁链：印度的超英雄』",
     "TW": "第三節『第一鎖鏈：印度的超英雄』",
-    "NA": "Section 3: \"The First Chain: India's Superhero\"",
+    "NA": "Section 3: First Chain: India's Superhero",
     "KR": "제3절 ‘제1의 사슬: 인도의 초영웅’"
   },
   "第三節『第二の秘宝：赤と青の扉』": {
@@ -42666,7 +43233,7 @@
   },
   "第九幕 冥土の土産か 地獄花": {
     "JP": null,
-    "CN": "第九幕 算得上黄泉路上的伴手礼吗 地狱之花",
+    "CN": "第九幕 黄泉伴手礼 地狱花",
     "TW": null,
     "NA": "Act 9: Rest in Peace, or Flower of Hell",
     "KR": null
@@ -42829,8 +43396,36 @@
     "JP": null,
     "CN": "第二冥界伊斯塔乌基",
     "TW": "第二冥界伊斯塔烏基",
-    "NA": "Second Underworld: Iztauhqui",
+    "NA": "Second Underworld: Iztaccíhuatl",
     "KR": "제2명계 이스타우키"
+  },
+  "第二十二節 進行度7 スーパーリコレクションクエスト(2/3)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第二十二節 進行度7 リコレクションクエスト(2/3)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第二十五節 進行度2 スーパーリコレクションクエスト(3/3)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第二十五節 進行度2 リコレクションクエスト(3/3)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第二夜 その名はマリーちゃん": {
     "JP": null,
@@ -42939,7 +43534,7 @@
   },
   "第二幕 眩き夜に 因果はめぐる": {
     "JP": null,
-    "CN": "第二幕 因果轮回于眩目之夜",
+    "CN": "第二幕 长夜通明 因果轮回",
     "TW": null,
     "NA": "Act 2: In the Dazzling Night, What Goes Around Comes Around",
     "KR": null
@@ -43172,7 +43767,7 @@
     "JP": null,
     "CN": "第二节『天使与恶魔与愿望』",
     "TW": "第二節『天使與惡魔與願望』",
-    "NA": "Section 2: Wishes of Angels and Demons",
+    "NA": "Section 2: An Angel, a Devil, and a Wish",
     "KR": "제2절 ‘천사와 악마와 소원’"
   },
   "第二節『ワンス・アポン・ア・タイム』": {
@@ -43387,7 +43982,7 @@
   },
   "第五幕 魔人の狂宴 荒ぶる魂": {
     "JP": null,
-    "CN": "第五幕 魔人的狂宴 暴乱的魂灵",
+    "CN": "第五幕 魔人的狂宴 狂暴之魂",
     "TW": null,
     "NA": "Act 5: The Outlawed Soul, and the Revelry of a Sorcerer",
     "KR": null
@@ -43578,7 +44173,7 @@
     "JP": null,
     "CN": "第五节『第三锁链：用拳头与权杖与料理对话系圣女军团的小小建议』",
     "TW": "第五節『第三鎖鏈：用拳頭與權杖與料理對話系聖女軍團的小小建議』",
-    "NA": "Section 5: \"The Third Chain: The Modest Advice from the Saintess Corps who Only Speaks the Language of Fists, Staves and Culinary\"",
+    "NA": "Section 5: Third Chain: Subtle Advice from a Legion of Holy Maidens Who Speak with Their Fists, Staff, and Cooking",
     "KR": "제5절 ‘제3의 사슬: 주먹과 지팡이와 요리로 말하는 성녀 군단의 소소한 조언’"
   },
   "第伍話「二人の龍馬」": {
@@ -43597,7 +44192,7 @@
   },
   "第八幕 蛇は衣を脱ぎ捨てて 鬼は再び蘇る": {
     "JP": null,
-    "CN": "第八幕 有蛇蜕皮 鬼又复苏",
+    "CN": "第八幕 蛇蜕旧衣 鬼再复生",
     "TW": null,
     "NA": "Act 8: The Serpent Molts, and the Oni is Resurrected Once Again",
     "KR": null
@@ -43849,7 +44444,7 @@
   },
   "第六幕 さながら戦国乱世の如く": {
     "JP": null,
-    "CN": "第六幕 便如战国乱世般",
+    "CN": "第六幕 恰似战国乱世",
     "TW": null,
     "NA": "Act 6: Just Like the Turbulent Times",
     "KR": null
@@ -44033,12 +44628,12 @@
     "JP": null,
     "CN": "第六节『第四锁链：小丑的怪物穿透虚无』",
     "TW": "第六節『第四鎖鏈：小丑的怪物貫穿虛無』",
-    "NA": "Section 6: \"The Fourth Chain: The Clown Monster who Pierces through Nothingness\"",
+    "NA": "Section 6: Fourth Chain: The Clown Monster Pierces the Void",
     "KR": "제6절 ‘제4의 사슬: 광대 괴물은 허무를 꿰뚫는다’"
   },
   "第十一幕 夢を見て 運命を想う": {
     "JP": null,
-    "CN": "第十一幕 眼见幻梦 思索命运",
+    "CN": "第十一幕 凝望梦想 思索命运",
     "TW": null,
     "NA": "Act 11: Observing a Dream, Thinking about Destiny",
     "KR": null
@@ -44092,6 +44687,20 @@
     "NA": "Section 11: What Awaits Beyond Death and Terror",
     "KR": "제11절 ‘죽음과 공포의 저편에서 기다리는 것’"
   },
+  "第十七節 進行度4 スーパーリコレクションクエスト(1/3)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "第十七節 進行度4 リコレクションクエスト(1/3)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "第十三幕 剣客残影 地獄篇": {
     "JP": null,
     "CN": "第十三幕 剑客残影 地狱篇",
@@ -44129,7 +44738,7 @@
   },
   "第十二幕 百花撩乱 空割れて": {
     "JP": null,
-    "CN": "第十二幕 百花缭乱 破碎天穹",
+    "CN": "第十二幕 百花缭乱 天裂",
     "TW": null,
     "NA": "Act 12: Flowers Blooming in Profusion, Divide the Sky",
     "KR": null
@@ -44171,7 +44780,7 @@
   },
   "第十五幕 神に逢うては 神を斬る": {
     "JP": null,
-    "CN": "第十五幕 遇神便斩神",
+    "CN": "第十五幕 见神斩神",
     "TW": null,
     "NA": "Act 15: If You See a God, Slay the God",
     "KR": null
@@ -44192,7 +44801,7 @@
   },
   "第十六幕 天国からいちばん遠い月": {
     "JP": null,
-    "CN": "第十六幕 距离天国最为遥远的明月",
+    "CN": "第十六幕 距天国最遥远之月",
     "TW": null,
     "NA": "Act 16: The Furthest Moon from Heaven",
     "KR": null
@@ -44234,7 +44843,7 @@
   },
   "第十幕 地獄の地右衛門 怨讐の焔": {
     "JP": null,
-    "CN": "第十幕 地狱的地右卫门 怨仇之焰",
+    "CN": "第十幕 地狱的地右卫门 复仇的火焰",
     "TW": null,
     "NA": "Act 10: : Hell's Chiemon Gate, and the Flames of Resentment",
     "KR": null
@@ -44486,7 +45095,7 @@
   },
   "第四幕 剣の病か 女の肌か": {
     "JP": null,
-    "CN": "第四幕 是剑之病 抑或女人肌",
+    "CN": "第四幕 剑之病 或女人肌肤",
     "TW": null,
     "NA": "Act 4: Is the Fault on the Sword, or the Skin of a Woman",
     "KR": null
@@ -44775,7 +45384,7 @@
     "JP": null,
     "CN": "第四节『第二锁链：蚀毒的女帝（施工中）』",
     "TW": "第四節『第二鎖鏈：蝕毒的女帝（施工中）』",
-    "NA": "Section 4: \"The Second Chain: Queen of Toxicity (Under Construction)\"",
+    "NA": "Section 4: Second Chain: Poisonous Empress (Under Construction)",
     "KR": "제4절 ‘제2의 사슬: 식독의 여제(공사 중)’"
   },
   "第四節『鉄のように、鋼のように』": {
@@ -45018,7 +45627,7 @@
   },
   "第１節「鎖に繋がれた乙女」": {
     "JP": null,
-    "CN": "第1节「被连在锁链上的少女」",
+    "CN": "第１节「被锁链拴住的少女」",
     "TW": null,
     "NA": "Section 1: The Maiden Restrained by Chains",
     "KR": null
@@ -45036,6 +45645,13 @@
     "TW": "第1節：愉快的夥伴與美妙的工作（2/2）",
     "NA": "Section 1: The Delightful Companions' Lovely Job (2/2)",
     "KR": "제1절: 유쾌한 동료들의 멋진 일(2/2)"
+  },
+  "第１話　なかよし！　噂の暗殺集団！": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第１０節「降誕」": {
     "JP": null,
@@ -45130,7 +45746,7 @@
   },
   "第２節「英雄／願望」": {
     "JP": null,
-    "CN": "第2节「英雄/愿望」",
+    "CN": "第２节「英雄／愿望」",
     "TW": null,
     "NA": "Section 2: Heroes/Desires",
     "KR": null
@@ -45155,6 +45771,13 @@
     "TW": "第2節：Wrong Way Walk of Positive Row（3/3）",
     "NA": "Section 2: Walking the Wrong Way on Positivity Row (3/3)",
     "KR": "제2절: Wrong Way Walk of Positive Row(3/3)"
+  },
+  "第２話　ホント？　よみがえる聖女伝説": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第３のゲーム：破滅の播種者": {
     "JP": null,
@@ -45228,14 +45851,14 @@
   },
   "第３節「愛のかたちのかたち」": {
     "JP": null,
-    "CN": "第3节「爱的形状的形状」",
+    "CN": "第３节「爱之表现的形态」",
     "TW": null,
     "NA": "Section 3: The Shape of the Form of Love",
     "KR": null
   },
   "第３節「愛のかたちのかたち」選択肢2": {
     "JP": null,
-    "CN": null,
+    "CN": "第３节「爱之表现的形态」选项2",
     "TW": null,
     "NA": "Section 3: The Shape of the Form of Love - Second Choice",
     "KR": null
@@ -45260,6 +45883,13 @@
     "TW": "第3節：應有之姿的理想與現實（3/3）",
     "NA": "Section 3: The Ideals and Reality of Being a Role Model (3/3)",
     "KR": "제3절: 원하는 모습의 이상과 현실(3/3)"
+  },
+  "第３話　かんぱいのオウガ・パーティー！": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第４のゲーム：激突の軍団": {
     "JP": null,
@@ -45340,7 +45970,7 @@
   },
   "第４節「戦う者へ祝福あれ」": {
     "JP": null,
-    "CN": "第4节「向奋战者赐下祝福吧」",
+    "CN": "第４节「祝福战斗之人」",
     "TW": null,
     "NA": "Section 4: Bless Our Champion",
     "KR": null
@@ -45372,6 +46002,13 @@
     "TW": "第4節：通往神話的漫長旅程（3/3）",
     "NA": "Section 4: The Long Road to Mythdom (3/3)",
     "KR": "제4절: 신화를 향한 긴 여행(3/3)"
+  },
+  "第４話　魔の年末進行": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第５のゲーム：戸隠捜竜伝(1/8)": {
     "JP": null,
@@ -45508,7 +46145,7 @@
   },
   "第５節「隣にいるということ」": {
     "JP": null,
-    "CN": "第5节「所谓的在你身旁」",
+    "CN": "第５节「陪伴在身旁的意义」",
     "TW": null,
     "NA": "Section 5: What It Means to be Beside Someone",
     "KR": null
@@ -45526,6 +46163,13 @@
     "TW": "第5節：為了抓住夢中的星辰……（2/2）",
     "NA": "Section 5: To Grab the Star of Dreams... (2/2)",
     "KR": "제5절: 꿈꾸었던 별을 잡으려면……(2/2)"
+  },
+  "第５話　そんな！？　明かされる真実": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第６ラウンド：名乗り": {
     "JP": null,
@@ -45599,7 +46243,7 @@
   },
   "第６節「理想のあなたに会う日まで」": {
     "JP": null,
-    "CN": "第6节「直到和理想中的你相会的那天」",
+    "CN": "第６节「直到遇见理想的你」",
     "TW": null,
     "NA": "Section 6: Until the Day I Meet My Ideal One",
     "KR": null
@@ -45617,6 +46261,13 @@
     "TW": "第6節：決戰！　密西根湖",
     "NA": "Section 6: Showdown on Lake Michigan",
     "KR": "제6절: 결전! 미시간 호수"
+  },
+  "第６話　その名はサンタズムーン！": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第７ラウンド：名乗り": {
     "JP": null,
@@ -45690,7 +46341,7 @@
   },
   "第７節「チョコレート・リバーのその先に」": {
     "JP": null,
-    "CN": "第7节「在巧克力之河的前方」",
+    "CN": "第７节「前往巧克力之河的尽头」",
     "TW": null,
     "NA": "Section 7: Beyond the Chocolate River",
     "KR": null
@@ -45708,6 +46359,13 @@
     "TW": "第7節：偶像墜落之刻",
     "NA": "Section 7: When an Idol Falls",
     "KR": "제7절: 우상이 무너질 때"
+  },
+  "第７話　良いお年を！　2025年もよろしくね！": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "第８ラウンド：名乗り": {
     "JP": null,
@@ -45944,7 +46602,7 @@
     "JP": null,
     "CN": "没有尽头之河",
     "TW": "沒有盡頭之河",
-    "NA": "Endless Stream",
+    "NA": "Endless River",
     "KR": "끝없는 강"
   },
   "終夜の訪問者たち": {
@@ -45970,7 +46628,7 @@
   },
   "終幕 その手を離し 去りゆく君へ": {
     "JP": null,
-    "CN": "终幕 致放手离去的你",
+    "CN": "终幕 致放手远去的你",
     "TW": null,
     "NA": "Final Act: Parting with that Hand, and Leaving for You",
     "KR": null
@@ -46014,7 +46672,7 @@
     "JP": null,
     "CN": "末日观测所梅兹蒂特兰",
     "TW": "末日觀測所梅茲蒂特蘭",
-    "NA": "End Times Observatory Metztitlán",
+    "NA": "Terminal Observatory Metztitlán",
     "KR": "종말관측소 메츠티틀란"
   },
   "終焉": {
@@ -46398,9 +47056,9 @@
   "聖墓隠し通路": {
     "JP": null,
     "CN": "圣墓隐藏通道",
-    "TW": null,
+    "TW": "聖墓隱藏通道",
     "NA": "Concealed Passageway Under the Holy Tomb",
-    "KR": null
+    "KR": "성묘 숨겨진 통로"
   },
   "聖夜の拳闘祭": {
     "JP": null,
@@ -46727,9 +47385,9 @@
   "色欲の都": {
     "JP": null,
     "CN": "色欲之都",
-    "TW": null,
+    "TW": "色慾之都",
     "NA": "Capital of Lust",
-    "KR": null
+    "KR": "색욕의 도시"
   },
   "花の少女剣士": {
     "JP": null,
@@ -46742,7 +47400,7 @@
     "JP": null,
     "CN": "鲜花战争",
     "TW": "鮮花戰爭",
-    "NA": "Flower War",
+    "NA": "Xōchiyāōyōtl",
     "KR": "꽃의 전쟁"
   },
   "花の都": {
@@ -48588,7 +49246,7 @@
   },
   "迎撃戦 増上寺": {
     "JP": null,
-    "CN": "迎击战 増上寺",
+    "CN": "迎击战 增上寺",
     "TW": null,
     "NA": "Interception Battle: Zojo-ji Temple",
     "KR": null
@@ -48933,14 +49591,14 @@
     "JP": null,
     "CN": "银河沙丘",
     "TW": "銀河沙丘",
-    "NA": "Milky Way Dunes",
+    "NA": "Galactic Sand Dune",
     "KR": "은하사구"
   },
   "銃、戦争、死別": {
     "JP": null,
     "CN": "枪、战争、死别",
     "TW": "槍、戰爭、死別",
-    "NA": "Guns, Wars, Losses",
+    "NA": "Guns, War, and Death",
     "KR": "총, 전쟁, 사별"
   },
   "銃身塔バトル": {
@@ -50549,9 +51207,9 @@
   "闇の底はまだ知れない": {
     "JP": null,
     "CN": "仍未知晓黑暗之底",
-    "TW": null,
+    "TW": "仍未知曉黑暗之底",
     "NA": "The Bottom of the Oblivion is Still Unknown",
-    "KR": null
+    "KR": "어둠의 밑바닥은 아직 모른다"
   },
   "闇夜の訪問者 ～納骨堂の怪～1": {
     "JP": null,
@@ -50846,6 +51504,83 @@
     "TW": "風雅的走廊",
     "NA": "Elegant Corridor",
     "KR": "우아한 복도"
+  },
+  "集めよドラゴンパワー！ 恐るべき花嫁竜": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 水竜の舞姫": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 水辺を駆ける腹ペコ竜": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 猛毒の支配者": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 竜頭を飾る者": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 蘇りし古竜？": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 蟒蛇の巣": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 辰の落とし子": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 迫り来る夫婦竜": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 逆鱗の多い暴れ竜": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "集めよドラゴンパワー！ 龍神の影": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "雉休みの湯 羅刹級": {
     "JP": null,
@@ -51176,6 +51911,20 @@
     "NA": "Spirit Font Conflict: Torikoe Shrine",
     "KR": null
   },
+  "霊基獲得クエスト 岸波白野(女性)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "霊基獲得クエスト 岸波白野(男性)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "霊基解放クエスト オベロン": {
     "JP": null,
     "CN": "灵基解放关卡 奥伯龙",
@@ -51195,11 +51944,18 @@
     "CN": "灵基解放关卡 所多玛之兽／德拉科",
     "TW": null,
     "NA": "Spirit Origin Release Quest: Sodom's Beast/Draco",
-    "KR": null
+    "KR": "영기해방 퀘스트 소돔즈 비스트/드라코"
   },
   "霊基解放クエスト ツタンカーメン": {
     "JP": null,
     "CN": "灵基解放关卡 图坦卡蒙",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "霊基解放クエスト ビショーネ": {
+    "JP": null,
+    "CN": "灵基解放关卡 比肖内",
     "TW": null,
     "NA": null,
     "KR": null
@@ -52289,6 +53045,13 @@
     "NA": "Mystic Code Quest: Anniversary Blonde",
     "KR": "마술예장 퀘스트・애니버서리 블론드"
   },
+  "魔術礼装クエスト・ウィンターカジュアル": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "魔術礼装クエスト・カルデア戦闘服": {
     "JP": null,
     "CN": "魔术礼装任务·迦勒底战斗服",
@@ -52321,7 +53084,7 @@
     "JP": null,
     "CN": "魔术礼装关卡·新春装束",
     "TW": "魔術禮裝任務．新春裝束",
-    "NA": "Mystic Code Quest: New Year's Attire",
+    "NA": "Mystic Code Quest: New Year's Wardrobe",
     "KR": "마술예장 퀘스트・새해의 옷차림"
   },
   "魔術礼装クエスト・晴れの新年": {
@@ -53070,7 +53833,7 @@
     "JP": null,
     "CN": "ORT之日",
     "TW": "ORT之日",
-    "NA": "Day of ORT",
+    "NA": "ORT's Day",
     "KR": "ORT의 날"
   },
   "ＳＡＩＴＡＭＡバレー": {
