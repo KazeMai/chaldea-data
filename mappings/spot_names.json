@@ -702,7 +702,7 @@
   "のどかな川": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "寧靜之川",
     "NA": null,
     "KR": null
   },
@@ -940,7 +940,7 @@
   "アラビアエリア": {
     "JP": null,
     "CN": "阿拉伯地区",
-    "TW": null,
+    "TW": "阿拉伯地區",
     "NA": "Arabian Area",
     "KR": null
   },
@@ -1444,7 +1444,7 @@
   "キャンプサイト": {
     "JP": null,
     "CN": "露营据点",
-    "TW": null,
+    "TW": "露營據點",
     "NA": null,
     "KR": null
   },
@@ -1542,7 +1542,7 @@
   "クリークハーバー": {
     "JP": null,
     "CN": "克里克港",
-    "TW": null,
+    "TW": "克里克港",
     "NA": "Creek Harbor",
     "KR": null
   },
@@ -1668,7 +1668,7 @@
   "コロッセオ": {
     "JP": null,
     "CN": "斗兽场",
-    "TW": null,
+    "TW": "羅馬競技場",
     "NA": null,
     "KR": null
   },
@@ -1689,7 +1689,7 @@
   "ゴッホ生家の部屋": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "梵谷的故居房間",
     "NA": null,
     "KR": null
   },
@@ -1703,7 +1703,7 @@
   "ゴールマス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "終點格",
     "NA": "Goal Space",
     "KR": null
   },
@@ -1892,7 +1892,7 @@
   "スタートマス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "起點格",
     "NA": "Start Space",
     "KR": null
   },
@@ -2389,7 +2389,7 @@
   "ドバイ・フレーム": {
     "JP": null,
     "CN": "迪拜画框",
-    "TW": null,
+    "TW": "杜拜畫框",
     "NA": null,
     "KR": null
   },
@@ -2529,7 +2529,7 @@
   "バトルマス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "戰鬥格",
     "NA": "Battle Space",
     "KR": null
   },
@@ -2592,7 +2592,7 @@
   "パーム・ジュメイラ": {
     "JP": null,
     "CN": "掌心朱美拉",
-    "TW": null,
+    "TW": "朱美拉棕櫚島",
     "NA": null,
     "KR": null
   },
@@ -2620,7 +2620,7 @@
   "ビッグシティ": {
     "JP": null,
     "CN": "大城市",
-    "TW": null,
+    "TW": "大城市",
     "NA": null,
     "KR": null
   },
@@ -3096,7 +3096,7 @@
   "ムーン・ドバイ上空": {
     "JP": null,
     "CN": "月之迪拜上空",
-    "TW": null,
+    "TW": "月之杜拜上空",
     "NA": null,
     "KR": null
   },
@@ -3222,7 +3222,7 @@
   "ユニットビーチ": {
     "JP": null,
     "CN": "尤尼特海滩",
-    "TW": null,
+    "TW": "組合式海灘",
     "NA": null,
     "KR": null
   },
@@ -3446,7 +3446,7 @@
   "ローマ市街": {
     "JP": null,
     "CN": "罗马街道",
-    "TW": null,
+    "TW": "羅馬街道",
     "NA": null,
     "KR": null
   },
@@ -3754,7 +3754,7 @@
   "仄暗い聖堂": {
     "JP": null,
     "CN": "黯淡圣堂",
-    "TW": null,
+    "TW": "陰暗的聖堂",
     "NA": null,
     "KR": null
   },
@@ -4160,7 +4160,7 @@
   "千年城遊園地": {
     "JP": null,
     "CN": "千年城游乐园",
-    "TW": null,
+    "TW": "千年城遊樂園",
     "NA": null,
     "KR": null
   },
@@ -4398,7 +4398,7 @@
   "噴水広場": {
     "JP": null,
     "CN": "喷泉广场",
-    "TW": null,
+    "TW": "噴水廣場",
     "NA": null,
     "KR": null
   },
@@ -4559,7 +4559,7 @@
   "城主の寝室": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "城主的寢室",
     "NA": null,
     "KR": null
   },
@@ -4888,7 +4888,7 @@
   "大聖杯レプリカ": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "大聖杯複製品",
     "NA": null,
     "KR": null
   },
@@ -4958,7 +4958,7 @@
   "太陽神殿": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "太陽神殿",
     "NA": null,
     "KR": null
   },
@@ -5014,7 +5014,7 @@
   "子供部屋": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "兒童房",
     "NA": null,
     "KR": null
   },
@@ -5063,7 +5063,7 @@
   "宝物神殿": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "寶物神殿",
     "NA": null,
     "KR": null
   },
@@ -5196,7 +5196,7 @@
   "展望台": {
     "JP": null,
     "CN": "瞭望台",
-    "TW": null,
+    "TW": "觀景台",
     "NA": null,
     "KR": null
   },
@@ -5378,7 +5378,7 @@
   "巨大違法建築": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "巨大違法建築",
     "NA": null,
     "KR": null
   },
@@ -5511,7 +5511,7 @@
   "廃材捨て場": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "廢材捨棄場",
     "NA": null,
     "KR": null
   },
@@ -5532,7 +5532,7 @@
   "建築予定地": {
     "JP": null,
     "CN": "建筑规划地",
-    "TW": null,
+    "TW": "建築預定地",
     "NA": null,
     "KR": null
   },
@@ -5546,7 +5546,7 @@
   "待合室": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "候車室",
     "NA": null,
     "KR": null
   },
@@ -6288,7 +6288,7 @@
   "月面上空": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "月面上空",
     "NA": null,
     "KR": null
   },
@@ -6337,7 +6337,7 @@
   "未来ステーション": {
     "JP": null,
     "CN": "未来车站",
-    "TW": null,
+    "TW": "未來車站",
     "NA": null,
     "KR": null
   },
@@ -6617,14 +6617,14 @@
   "森奥の広場": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "森林深處廣場",
     "NA": null,
     "KR": null
   },
   "棺の間": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "棺之間",
     "NA": null,
     "KR": null
   },
@@ -6750,7 +6750,7 @@
   "武装城塞": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "武裝城塞",
     "NA": null,
     "KR": null
   },
@@ -7359,7 +7359,7 @@
   "炎上城塞": {
     "JP": null,
     "CN": "燃烧城塞",
-    "TW": null,
+    "TW": "燃燒城塞",
     "NA": null,
     "KR": null
   },
@@ -7996,7 +7996,7 @@
   "秘密の実験場": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "祕密的實驗場",
     "NA": null,
     "KR": null
   },
@@ -8129,7 +8129,7 @@
   "第3地下室": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "第3地下室",
     "NA": null,
     "KR": null
   },
@@ -8269,35 +8269,35 @@
   "第１ＣＰ": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "第１檢查點",
     "NA": "First Checkpoint",
     "KR": null
   },
   "第２ＣＰ": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "第２檢查點",
     "NA": "Second Checkpoint",
     "KR": null
   },
   "第３ＣＰ": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "第３檢查點",
     "NA": "Third Checkpoint",
     "KR": null
   },
   "第４ＣＰ": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "第４檢查點",
     "NA": "Fourth Checkpoint",
     "KR": null
   },
   "第５ＣＰ": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "第５檢查點",
     "NA": "Fifth Checkpoint",
     "KR": null
   },
@@ -9053,7 +9053,7 @@
   "訓練場": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "訓練場",
     "NA": null,
     "KR": null
   },
@@ -9305,14 +9305,14 @@
   "迷宮のとば口": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "迷宮的入口",
     "NA": null,
     "KR": null
   },
   "迷宮の終点": {
     "JP": null,
     "CN": "迷宫的终点",
-    "TW": null,
+    "TW": "迷宮的終點",
     "NA": null,
     "KR": null
   },
@@ -9424,7 +9424,7 @@
   "選別の間": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "選別之間",
     "NA": null,
     "KR": null
   },
@@ -9480,7 +9480,7 @@
   "重汚染地帯": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "重汙染地帶",
     "NA": null,
     "KR": null
   },
@@ -9704,7 +9704,7 @@
   "隠し部屋": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "隱藏房間",
     "NA": null,
     "KR": null
   },
@@ -10082,7 +10082,7 @@
   "魔力研究所": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "魔力研究所",
     "NA": null,
     "KR": null
   },

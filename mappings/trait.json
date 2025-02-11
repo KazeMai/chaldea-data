@@ -394,7 +394,7 @@
   "1003": {
     "JP": "artificialDemon",
     "CN": null,
-    "TW": null,
+    "TW": "人造惡魔",
     "NA": "artificialDemon",
     "KR": null
   },
@@ -422,7 +422,7 @@
   "1101": {
     "JP": "amazoness",
     "CN": null,
-    "TW": null,
+    "TW": "亞馬遜人",
     "NA": "amazoness",
     "KR": null
   },
@@ -1213,7 +1213,7 @@
   "2884": {
     "JP": "暗闇",
     "CN": "黑暗",
-    "TW": "暗闇",
+    "TW": "漆黑",
     "NA": "Darkness",
     "KR": null
   },
@@ -1339,28 +1339,28 @@
   "2925": {
     "JP": null,
     "CN": "樱系列系",
-    "TW": null,
+    "TW": "樱系列系",
     "NA": "Sakura Serials",
     "KR": null
   },
   "3000": {
     "JP": "attackPhysical",
     "CN": null,
-    "TW": null,
+    "TW": "物理攻擊",
     "NA": "attackPhysical",
     "KR": null
   },
   "3001": {
     "JP": "attackProjectile",
     "CN": null,
-    "TW": null,
+    "TW": "射擊攻擊",
     "NA": "attackProjectile",
     "KR": null
   },
   "3002": {
     "JP": "attackMagical",
     "CN": null,
-    "TW": null,
+    "TW": "魔法攻擊",
     "NA": "attackMagical",
     "KR": null
   },
@@ -1955,7 +1955,7 @@
   "3104": {
     "JP": "buff対粛正防御貫通",
     "CN": "buff对肃正防御贯通",
-    "TW": null,
+    "TW": "buff對肅正防禦貫通",
     "NA": "buff Anti-Enforcement DEF Pierce",
     "KR": null
   },
@@ -1983,14 +1983,14 @@
   "3109": {
     "JP": null,
     "CN": "buff对特性回避",
-    "TW": null,
+    "TW": "buff對特性迴避",
     "NA": "buff Evade vs Trait",
     "KR": null
   },
   "3110": {
     "JP": "buff防御力ダウン",
     "CN": "buff防御力下降",
-    "TW": null,
+    "TW": "buff防禦力下降",
     "NA": "buff DEF Down",
     "KR": null
   },
@@ -2074,7 +2074,7 @@
   "5000": {
     "JP": "canBeInBattle",
     "CN": null,
-    "TW": null,
+    "TW": "可進戰鬥",
     "NA": "canBeInBattle",
     "KR": null
   },
@@ -2095,7 +2095,7 @@
   "94000049": {
     "JP": "eventNeroFest2",
     "CN": null,
-    "TW": null,
+    "TW": "尼祿祭2",
     "NA": "eventNeroFest2",
     "KR": null
   }

@@ -464,7 +464,7 @@
   "エンフォーサー": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "執法者",
     "NA": "Enforcer",
     "KR": null
   },
@@ -576,14 +576,14 @@
   "ガーゴイル": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "石像鬼",
     "NA": null,
     "KR": null
   },
   "ガードエンフォーサー": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "護衛執法者",
     "NA": "Guard Enforcer",
     "KR": null
   },
@@ -1276,7 +1276,7 @@
   "ダイダロス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "代達洛斯",
     "NA": null,
     "KR": null
   },
@@ -1339,7 +1339,7 @@
   "テュフォン・エフェメロス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "提豐・歐赫邁羅斯",
     "NA": "Typhon Ephemeros",
     "KR": null
   },
@@ -1507,14 +1507,14 @@
   "ハントエンフォーサー": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "獵人執法者",
     "NA": "Hunt Enforcer",
     "KR": null
   },
   "バイアクヘー": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "拜亞基",
     "NA": null,
     "KR": null
   },
@@ -1871,7 +1871,7 @@
   "ミリタントマシン": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "武鬥機器",
     "NA": null,
     "KR": null
   },
@@ -1899,7 +1899,7 @@
   "ムーン・キャンサー＠ボス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "Moon Cancer@Boss",
     "NA": "Moon Cancer@Boss",
     "KR": null
   },
@@ -2018,7 +2018,7 @@
   "ヤメルンノス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "矢目努諾斯",
     "NA": "Succunnos",
     "KR": null
   },
@@ -2074,7 +2074,7 @@
   "リードエンフォーサー": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "領隊執法者",
     "NA": "Lead Enforcer",
     "KR": null
   },
@@ -2102,14 +2102,14 @@
   "ロック鳥": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "洛克鳥",
     "NA": "Rock Bird",
     "KR": null
   },
   "ワァフスフィンクス": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "永劫斯芬克斯",
     "NA": "Huah Sphinx",
     "KR": null
   },
@@ -2746,7 +2746,7 @@
   "椀々様": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "椀椀大人",
     "NA": "Ms. Bowl",
     "KR": null
   },
@@ -3600,7 +3600,7 @@
   "魔性菩薩＠水着": {
     "JP": null,
     "CN": "魔性菩萨@泳装",
-    "TW": null,
+    "TW": "魔性菩薩＠泳裝",
     "NA": "Devilish Bodhisattva@Swimsuit",
     "KR": null
   },
@@ -3859,7 +3859,7 @@
   "？？？": {
     "JP": null,
     "CN": null,
-    "TW": null,
+    "TW": "？？？",
     "NA": "???",
     "KR": null
   },
