@@ -29,7 +29,7 @@
   },
   "CBC2024 シャルルマーニュのモンジョワ・騎士道！": {
     "JP": null,
-    "CN": "CBC2024 查理曼的Montjoie骑士道！",
+    "CN": "CBC2025 查理曼的蒙茹瓦骑士道！",
     "TW": "CBC2024 查理曼的Montjoie騎士道！",
     "NA": "CBC2024 Charlemagne's Montjoie Chivalrism!",
     "KR": null
@@ -410,6 +410,13 @@
     "CN": "情人节2025 ～前往巧克力之河的尽头～",
     "TW": "情人節2024 ～在巧克力之河的彼端～",
     "NA": "Valentine's 2024 - Beyond the Chocolate River",
+    "KR": null
+  },
+  "バレンタイン2025": {
+    "JP": null,
+    "CN": "情人节2025",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "ブルースカイランド": {
@@ -1320,7 +1327,7 @@
     "CN": "风云机关伊莉雅城 ～果心居士微不足道的野心～",
     "TW": "風雲機關伊莉雅城 ～果心居士的小小野心～",
     "NA": "Fuun Karakuri Illya's Castle ~Kashin Koji's Humble Ambition~",
-    "KR": null
+    "KR": "풍운 꼭두각시 이리야성 ~카신 거사의 자그마한 야망~"
   },
   "鬼楽百重塔": {
     "JP": null,

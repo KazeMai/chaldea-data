@@ -14655,7 +14655,8 @@
   },
   "extraBanners": {},
   "noticeLink": {
-    "JP": "https://news.fate-go.jp/2024/valentine2024/"
+    "JP": "https://news.fate-go.jp/2024/valentine2024/",
+    "CN": "15094"
   },
   "extraFixedItems": [],
   "extraItems": [],
@@ -15546,6 +15547,25 @@
   "extraBanners": {},
   "noticeLink": {
     "JP": "https://news.fate-go.jp/2025/feasts_cp9/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": 80514,
+  "name": "小野小町古今抄 ～雪消月のキラキラ蓮華～",
+  "mcLink": "小野小町古今抄_～雪消月的闪耀莲华～",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/f/fd/小野小町古今抄_～雪消月的闪耀莲华～_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/valentine2025_full_pekac/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/valentine2025/"
   },
   "extraFixedItems": [],
   "extraItems": [],

@@ -34,6 +34,13 @@
     "NA": "Lady Yu Doll",
     "KR": null
   },
+  "すずめ紋の葛籠": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ちびノブ": {
     "JP": null,
     "CN": "迷你信",
@@ -111,6 +118,13 @@
     "NA": null,
     "KR": null
   },
+  "キラキラ平安女子": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "コード：イービル": {
     "JP": null,
     "CN": "纹章：邪恶",
@@ -183,7 +197,7 @@
   },
   "サンタマリア・ボランテ": {
     "JP": null,
-    "CN": "飞翔的圣玛丽亚",
+    "CN": "圣玛利亚舵轮",
     "TW": "飛翔的聖瑪麗亞",
     "NA": "Santa Maria Volante",
     "KR": null
@@ -417,7 +431,7 @@
     "CN": "人造女忍",
     "TW": "人造女忍者",
     "NA": "Artificial Kunoichi",
-    "KR": null
+    "KR": "인조 쿠노이치"
   },
   "仄黒き妄執の令印": {
     "JP": null,
@@ -921,7 +935,7 @@
     "CN": "雕刻理想的王之凿",
     "TW": "雕刻理想的王之鑿",
     "NA": "The King's Chisel that Carves the Ideal",
-    "KR": null
+    "KR": "이상을 조각하는 왕의 끌"
   },
   "画狂の大筆": {
     "JP": null,
@@ -960,7 +974,7 @@
   },
   "砂の海の蜃気楼": {
     "JP": null,
-    "CN": "沙海中的海市蜃楼",
+    "CN": "沙海的海市蜃楼",
     "TW": "沙海中的海市蜃樓",
     "NA": "Mirage on the Sea of Sands",
     "KR": null
@@ -1147,6 +1161,13 @@
     "NA": "Your Faithful Sheep",
     "KR": "당신의 충실한 양"
   },
+  "赤い唐傘": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "赤き宝石嬢の令印": {
     "JP": null,
     "CN": "赤色宝石小姐的令印",
@@ -1222,7 +1243,7 @@
     "CN": "雪之婴儿的战友",
     "TW": "雪之嬰兒的戰友",
     "NA": "Infant of the Snow's Comrade",
-    "KR": null
+    "KR": "눈의 영아의 전우"
   },
   "雪原の嬰児": {
     "JP": null,
@@ -1233,7 +1254,7 @@
   },
   "雷霆運ぶ天の馬": {
     "JP": null,
-    "CN": "带来雷霆的天马",
+    "CN": "搬运雷霆的天马",
     "TW": "帶來雷霆的天馬",
     "NA": "Thunder-Wielding Pegasus",
     "KR": null
