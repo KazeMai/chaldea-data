@@ -1385,6 +1385,13 @@
     "NA": "Darius III",
     "KR": "다리우스 3세"
   },
+  "ダンテ・アリギエーリ": {
+    "JP": null,
+    "CN": "但丁·阿利吉耶里",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ダ・ヴィンチ": {
     "JP": null,
     "CN": "达·芬奇",
@@ -1502,14 +1509,14 @@
     "CN": "难敌",
     "TW": "難敵",
     "NA": "Duryodhana",
-    "KR": null
+    "KR": "두료다나"
   },
   "ドゥルガー": {
     "JP": null,
     "CN": "杜尔伽",
     "TW": "難近母",
     "NA": "Durga",
-    "KR": null
+    "KR": "두르가"
   },
   "ドブルイニャ・ニキチッチ": {
     "JP": null,
@@ -1823,7 +1830,7 @@
     "JP": null,
     "CN": "比肖内〔乌洛波洛斯转变〕",
     "TW": null,
-    "NA": null,
+    "NA": "Biscione (Ouroboros Shift)",
     "KR": null
   },
   "ビリー": {
@@ -1866,7 +1873,7 @@
     "CN": "怖军",
     "TW": "怖軍",
     "NA": "Bhima",
-    "KR": null
+    "KR": "비마"
   },
   "ファンタズムーン": {
     "JP": null,
@@ -2824,7 +2831,7 @@
     "JP": null,
     "CN": "小野小町",
     "TW": null,
-    "NA": null,
+    "NA": "Ono no Komachi",
     "KR": null
   },
   "山南敬助": {
@@ -3602,6 +3609,13 @@
     "CN": "E－水蓝玛丽",
     "TW": "E-水藍瑪麗",
     "NA": "E-Aqua Marie",
+    "KR": null
+  },
+  "Ｅ－グランマリー": {
+    "JP": null,
+    "CN": "E－宏伟玛丽",
+    "TW": null,
+    "NA": "E-Grand Marie",
     "KR": null
   },
   "Ｅ－フレアマリー": {

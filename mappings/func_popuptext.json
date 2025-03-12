@@ -1067,7 +1067,7 @@
     "JP": null,
     "CN": "技能冷却减少",
     "TW": "技能冷卻減少",
-    "NA": "Cooldown Reduced",
+    "NA": "Reduce skill cooldown",
     "KR": "스킬 턴 DOWN"
   },
   "スキルランクアップ解除": {
@@ -1668,7 +1668,7 @@
   "威力アップ・対拘束状態": {
     "JP": null,
     "CN": "威力提升·对束缚状态",
-    "TW": "威力提升·對拘束狀態",
+    "TW": "威力提升．對束縛狀態",
     "NA": "STR Up vs. Bound",
     "KR": "위력 UP・대 구속 상태"
   },
@@ -2343,6 +2343,13 @@
     "TW": "終焉特權",
     "NA": "Demise Privilege",
     "KR": "종언특권"
+  },
+  "罪の刻印消費": {
+    "JP": null,
+    "CN": "罪之刻印消耗",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "行動不能状態・封印状態解除": {
     "JP": null,

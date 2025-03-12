@@ -58756,6 +58756,15 @@
         "eventId": 80503,
         "startedAt": 1730451600,
         "endedAt": 1732978799
+      }, {
+        "priority": 8053200,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80532,
+        "startedAt": 1741597200,
+        "endedAt": 1742183999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1],
@@ -58898,6 +58907,15 @@
         "eventId": 80382,
         "startedAt": 1655888400,
         "endedAt": 1656475199
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1740387600,
+        "endedAt": 1740974399
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -59887,6 +59905,15 @@
         "eventId": 80398,
         "startedAt": 1662541200,
         "endedAt": 1663127999
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆絆Lv.3で開放",
+        "overlayClosedMessage": "終局特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1739782800,
+        "endedAt": 1740369599
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -60218,6 +60245,24 @@
         "eventId": 80398,
         "startedAt": 1662541200,
         "endedAt": 1663127999
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第三特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1739782800,
+        "endedAt": 1740369599
+      }, {
+        "priority": 80531,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.2で開放",
+        "overlayClosedMessage": "第三特異点をクリアで開放",
+        "eventId": 80531,
+        "startedAt": 1740819600,
+        "endedAt": 1743433199
       }],
       "phases": [1],
       "phasesWithEnemies": [1],
@@ -60277,6 +60322,15 @@
         "eventId": 80398,
         "startedAt": 1662541200,
         "endedAt": 1663127999
+      }, {
+        "priority": 80531,
+        "condType": "questClear",
+        "condId": 3000421,
+        "closedMessage": "Lostbelt No.4をクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.4をクリアで開放",
+        "eventId": 80531,
+        "startedAt": 1740819600,
+        "endedAt": 1743433199
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -62353,6 +62407,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80531,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80531,
+        "startedAt": 1740819600,
+        "endedAt": 1743433199
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -62512,6 +62575,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 8053200,
+        "condType": "questClear",
+        "condId": 3000531,
+        "closedMessage": "Lostbelt No.5 アトランティスをクリア＆霊基再臨3段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "Lostbelt No.5 アトランティスをクリアで開放",
+        "eventId": 80532,
+        "startedAt": 1741597200,
+        "endedAt": 1742183999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -62592,6 +62664,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.3で開放",
+        "overlayClosedMessage": "第三特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1740387600,
+        "endedAt": 1740974399
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -62960,6 +63041,23 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 8053200,
+        "condType": "questClear",
+        "condId": 1000413,
+        "closedMessage": "第四特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点をクリアで開放",
+        "eventId": 80532,
+        "startedAt": 1741597200,
+        "endedAt": 1742183999
+      }, {
+        "priority": 8053200,
+        "condType": "questClear",
+        "condId": 91400301,
+        "overlayClosedMessage": "一つ前の幕間の物語をクリア＆第四特異点をクリアで開放",
+        "eventId": 80532,
+        "startedAt": 1741597200,
+        "endedAt": 1742183999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -63037,6 +63135,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 8053200,
+        "condType": "questClear",
+        "condId": 1000314,
+        "closedMessage": "第三特異点をクリア＆霊基再臨1段階目＆絆Lv.1で開放",
+        "overlayClosedMessage": "第三特異点をクリアで開放",
+        "eventId": 80532,
+        "startedAt": 1741597200,
+        "endedAt": 1742183999
       }],
       "phases": [1, 2, 3],
       "phasesWithEnemies": [1, 2, 3],
@@ -63713,6 +63820,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 3000628,
+        "closedMessage": "Lostbelt No.5 オリュンポスをクリア＆霊基再臨4段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "Lostbelt No.5 オリュンポスをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1740387600,
+        "endedAt": 1740974399
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -63880,6 +63996,15 @@
         "eventId": 80497,
         "startedAt": 1727773200,
         "endedAt": 1730386799
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 1000822,
+        "closedMessage": "終局特異点をクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "終局特異点をクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1740387600,
+        "endedAt": 1740974399
       }],
       "phases": [1, 2, 3, 4],
       "phasesWithEnemies": [1, 2, 3, 4],
@@ -66703,6 +66828,15 @@
         "eventId": 80503,
         "startedAt": 1730451600,
         "endedAt": 1732978799
+      }, {
+        "priority": 8053200,
+        "condType": "questClear",
+        "condId": 1000011,
+        "closedMessage": "特異点Fをクリア＆霊基再臨2段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "特異点Fをクリアで開放",
+        "eventId": 80532,
+        "startedAt": 1741597200,
+        "endedAt": 1742183999
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1],
@@ -66770,6 +66904,24 @@
         "eventId": 80503,
         "startedAt": 1730451600,
         "endedAt": 1732978799
+      }, {
+        "priority": 80525,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80525,
+        "startedAt": 1740387600,
+        "endedAt": 1740974399
+      }, {
+        "priority": 80531,
+        "condType": "questClear",
+        "condId": 3000303,
+        "closedMessage": "Lostbelt No.3 プロローグをクリア＆霊基再臨3段階目＆絆Lv.5で開放",
+        "overlayClosedMessage": "Lostbelt No.3 プロローグをクリアで開放",
+        "eventId": 80531,
+        "startedAt": 1740819600,
+        "endedAt": 1743433199
       }],
       "phases": [1, 2],
       "phasesWithEnemies": [1, 2],
@@ -85341,8 +85493,8 @@
     []
   ],
   "age": "-",
-  "name": "バレンタイン2025",
-  "longName": "バレンタイン2025",
+  "name": "小野小町古今抄",
+  "longName": "小野小町古今抄 ～雪消月のキラキラ蓮華～",
   "flags": ["isEvent", "noClearMarkWithComplete"],
   "banner": "https://static.atlasacademy.io/JP/Banner/event_war_80497.png",
   "priority": 10003,
@@ -85552,7 +85704,7 @@
       "closedAt": 1741147199
     }, {
       "id": 94140204,
-      "name": "",
+      "name": "第4節『花の色はうつりにけりな』",
       "type": "main",
       "consume": 5,
       "afterClear": "close",
@@ -85565,6 +85717,9 @@
         "num": 1
       }],
       "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
         "type": "questClear",
         "targetId": 94140203
       }, {
@@ -85576,16 +85731,183 @@
         "targetId": 80514,
         "value": 100000,
         "closedMessage": "きらめきポイント100,000以上\n＆2月15日18時00分以降に開放"
-      }, {
-        "type": "forceFalse",
-        "targetId": 0,
-        "closedMessage": "データ更新後に開放"
       }],
       "phases": [1, 2, 3],
+      "phasesWithEnemies": [1, 2],
       "phasesNoBattle": [3],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414020410",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020410.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414020420",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020420.txt"
+        }]
+      }, {
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414020430",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020430.txt"
+        }]
+      }],
       "priority": 94140495,
       "noticeAt": 1739523600,
       "openedAt": 1739610000,
+      "closedAt": 1741147199
+    }, {
+      "id": 94140205,
+      "name": "第5節『あなめあなめ』",
+      "type": "main",
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "50",
+      "spotId": 839201,
+      "warId": 8392,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
+        "type": "questClear",
+        "targetId": 94140204
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "2月16日18時00分以降に開放"
+      }, {
+        "type": "eventTotalPoint",
+        "targetId": 80514,
+        "value": 200000,
+        "closedMessage": "きらめきポイント200,000以上\n＆2月16日18時00分以降に開放"
+      }],
+      "phases": [1, 2],
+      "phasesWithEnemies": [2],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414020510",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020510.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414020520",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020520.txt"
+        }, {
+          "scriptId": "9414020521",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020521.txt"
+        }]
+      }],
+      "priority": 94140494,
+      "noticeAt": 1739610000,
+      "openedAt": 1739696400,
+      "closedAt": 1741147199
+    }, {
+      "id": 94140206,
+      "name": "第6節『小野とは言はじ』",
+      "type": "main",
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "60",
+      "spotId": 839201,
+      "warId": 8392,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
+        "type": "questClear",
+        "targetId": 94140205
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "2月17日18時00分以降に開放"
+      }, {
+        "type": "eventTotalPoint",
+        "targetId": 80514,
+        "value": 310000,
+        "closedMessage": "きらめきポイント310,000以上\n＆2月17日18時00分以降に開放"
+      }],
+      "phases": [1, 2],
+      "phasesWithEnemies": [1],
+      "phasesNoBattle": [2],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414020610",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020610.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414020620",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020620.txt"
+        }]
+      }],
+      "priority": 94140493,
+      "noticeAt": 1739696400,
+      "openedAt": 1739782800,
+      "closedAt": 1741147199
+    }, {
+      "id": 94140207,
+      "name": "エピローグ『しづく花の色さやかにも』",
+      "type": "main",
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "55",
+      "spotId": 839201,
+      "warId": 8392,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/3.png",
+      "gifts": [{
+        "id": 94140208,
+        "type": "servant",
+        "objectId": 9809560,
+        "num": 1
+      }, {
+        "id": 94140208,
+        "objectId": 7999,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94140206
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2],
+      "phasesWithEnemies": [1],
+      "phasesNoBattle": [2],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414020710",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020710.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414020720",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414020720.txt"
+        }]
+      }],
+      "priority": 94140492,
+      "noticeAt": 1739782800,
+      "openedAt": 1739782800,
       "closedAt": 1741147199
     }, {
       "id": 94140301,
@@ -85821,7 +86143,7 @@
       "closedAt": 1741147199
     }, {
       "id": 94140309,
-      "name": "",
+      "name": "きらめき探索絵巻『私の幸せな日常』",
       "type": "event",
       "flags": ["displayLoopmark"],
       "consume": 40,
@@ -85835,6 +86157,9 @@
         "num": 100
       }],
       "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
         "type": "questClear",
         "targetId": 94140201
       }, {
@@ -85845,19 +86170,16 @@
         "type": "date",
         "targetId": 0,
         "closedMessage": "エピローグクリア\n＆2月17日18時00分以降に開放"
-      }, {
-        "type": "forceFalse",
-        "targetId": 0,
-        "closedMessage": "データ更新後に開放"
       }],
       "phases": [1],
+      "phasesWithEnemies": [1],
       "priority": 94140290,
       "noticeAt": 1739350800,
       "openedAt": 1739782800,
       "closedAt": 1741147199
     }, {
       "id": 94140310,
-      "name": "",
+      "name": "きらめき探索絵巻『ウサギの仮面』",
       "type": "event",
       "flags": ["displayLoopmark"],
       "consume": 40,
@@ -85871,6 +86193,9 @@
         "num": 200
       }],
       "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
         "type": "questClear",
         "targetId": 94140201
       }, {
@@ -85881,16 +86206,1250 @@
         "type": "date",
         "targetId": 0,
         "closedMessage": "エピローグクリア\n＆2月17日18時00分以降に開放"
-      }, {
-        "type": "forceFalse",
-        "targetId": 0,
-        "closedMessage": "データ更新後に開放"
       }],
       "phases": [1],
+      "phasesWithEnemies": [1],
       "priority": 94140289,
       "noticeAt": 1739350800,
       "openedAt": 1739782800,
       "closedAt": 1741147199
+    }, {
+      "id": 94140401,
+      "name": "【高難易度】むすめふさほせ",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "notRetrievable", "notDisplayResultGetPoint"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 839201,
+      "warId": 8392,
+      "gifts": [{
+        "id": 21701,
+        "objectId": 6999,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000822,
+        "closedMessage": "終局特異点クリア\n＆2月18日18時00分以降に開放"
+      }, {
+        "type": "questClear",
+        "targetId": 94140207
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "2月18日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94140398,
+      "noticeAt": 1739782800,
+      "openedAt": 1739869200,
+      "closedAt": 1741147199
+    }]
+  }]
+}, {
+  "id": 8393,
+  "coordinates": [
+    [],
+    []
+  ],
+  "age": "-",
+  "name": "CBC2025 彼の名はダンテ",
+  "longName": "CBC2025 彼の名はダンテ ～ホテル・デノヴォのコンシェルジュ～",
+  "flags": ["isEvent", "noClearMarkWithComplete"],
+  "banner": "https://static.atlasacademy.io/JP/Banner/event_war_80501.png",
+  "priority": 10005,
+  "bgm": {
+    "id": 0
+  },
+  "script": "https://static.atlasacademy.io/JP/Script/Common/NONE.txt",
+  "eventId": 80520,
+  "eventName": "CBC2025 彼の名はダンテ　\n～ホテル・デノヴォのコンシェルジュ～",
+  "releaseConditions": [{
+    "priority": 10000,
+    "condType": "questNotClear",
+    "condId": 4000426,
+    "warDisplayType": "close",
+    "closedDialogMessage": "期間限定イベント『CBC2025 彼の名はダンテ』は\n3月26日 12:59 まで開催します。\n\n期間限定イベントを始めるには\n『奏章Ⅲ』をクリアしている必要があります。"
+  }],
+  "warAdds": [{
+    "warId": 8393,
+    "type": "bgImage",
+    "priority": 1,
+    "overwriteId": 242900,
+    "condType": "questClear",
+    "targetId": 94141500,
+    "startedAt": 1741172400,
+    "endedAt": 1742961599
+  }],
+  "maps": [{
+    "id": 8393,
+    "mapImage": "https://static.atlasacademy.io/JP/Terminal/MapImgs/img_questmap_008393/img_questmap_008393.png",
+    "bgm": {
+      "id": 0
+    }
+  }],
+  "spots": [{
+    "id": 839301,
+    "mapId": 8393,
+    "name": "カルデアゲート",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter8393/QMap_Cap8393_Atlas/spot_839301.png",
+    "quests": [{
+      "id": 94141500,
+      "name": "第１節 ホテル・デノヴォへようこそ",
+      "type": "main",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 4000426
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150010",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150010.txt"
+        }]
+      }],
+      "priority": 94141700,
+      "noticeAt": 1741172400,
+      "openedAt": 1741172400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141501,
+      "name": "第２節 コンシェルジュ・マスター",
+      "type": "main",
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "70",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141500
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2, 3, 4, 5],
+      "phasesWithEnemies": [1, 2, 3, 4],
+      "phasesNoBattle": [5],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150110",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150110.txt"
+        }, {
+          "scriptId": "9414150111",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150111.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414150120",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150120.txt"
+        }, {
+          "scriptId": "9414150121",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150121.txt"
+        }]
+      }, {
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414150130",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150130.txt"
+        }, {
+          "scriptId": "9414150131",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150131.txt"
+        }]
+      }, {
+        "phase": 4,
+        "scripts": [{
+          "scriptId": "9414150140",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150140.txt"
+        }, {
+          "scriptId": "9414150141",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150141.txt"
+        }]
+      }, {
+        "phase": 5,
+        "scripts": [{
+          "scriptId": "9414150150",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150150.txt"
+        }]
+      }],
+      "priority": 94141699,
+      "noticeAt": 1741172400,
+      "openedAt": 1741172400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141502,
+      "name": "第３節 リセット・ホテル（１回目）",
+      "type": "main",
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141501
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [2, 3],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150210",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150210.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414150220",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150220.txt"
+        }, {
+          "scriptId": "9414150221",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150221.txt"
+        }]
+      }, {
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414150230",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150230.txt"
+        }, {
+          "scriptId": "9414150231",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150231.txt"
+        }]
+      }],
+      "priority": 94141698,
+      "noticeAt": 1741172400,
+      "openedAt": 1741251600,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141503,
+      "name": "第４節 リセット・ホテル（２回目）",
+      "type": "main",
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
+        "type": "questClear",
+        "targetId": 94141502
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2, 3],
+      "phasesWithEnemies": [2],
+      "phasesNoBattle": [1, 3],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150310",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150310.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414150320",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150320.txt"
+        }, {
+          "scriptId": "9414150321",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150321.txt"
+        }]
+      }, {
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414150330",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150330.txt"
+        }]
+      }],
+      "priority": 94141697,
+      "noticeAt": 1741251600,
+      "openedAt": 1741338000,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141504,
+      "name": "第５節 必然炎のごとく",
+      "type": "main",
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141503
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2],
+      "phasesWithEnemies": [2],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150410",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150410.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414150420",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150420.txt"
+        }, {
+          "scriptId": "9414150421",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150421.txt"
+        }]
+      }],
+      "priority": 94141693,
+      "noticeAt": 1741338000,
+      "openedAt": 1741424400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141505,
+      "name": "第６節 アンサンブルな客たち",
+      "type": "main",
+      "consume": 5,
+      "afterClear": "close",
+      "recommendLv": "70",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
+        "type": "questClear",
+        "targetId": 94141504
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2, 3, 4],
+      "phasesWithEnemies": [1, 2, 3, 4],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150510",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150510.txt"
+        }, {
+          "scriptId": "9414150511",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150511.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414150520",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150520.txt"
+        }, {
+          "scriptId": "9414150521",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150521.txt"
+        }]
+      }, {
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414150530",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150530.txt"
+        }, {
+          "scriptId": "9414150531",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150531.txt"
+        }]
+      }, {
+        "phase": 4,
+        "scripts": [{
+          "scriptId": "9414150540",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150540.txt"
+        }, {
+          "scriptId": "9414150541",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150541.txt"
+        }]
+      }],
+      "priority": 94141692,
+      "noticeAt": 1741424400,
+      "openedAt": 1741510800,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141506,
+      "name": "第７節 あなたの物語は果てしなく",
+      "type": "main",
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "giftIcon": "https://static.atlasacademy.io/JP/Items/3.png",
+      "gifts": [{
+        "id": 20058,
+        "objectId": 7999,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
+        "type": "questClear",
+        "targetId": 94141505
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1, 2, 3, 4],
+      "phasesWithEnemies": [3],
+      "phasesNoBattle": [1, 2, 4],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414150610",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150610.txt"
+        }]
+      }, {
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414150620",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150620.txt"
+        }]
+      }, {
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414150630",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150630.txt"
+        }, {
+          "scriptId": "9414150631",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150631.txt"
+        }]
+      }, {
+        "phase": 4,
+        "scripts": [{
+          "scriptId": "9414150640",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414150640.txt"
+        }]
+      }],
+      "priority": 94141687,
+      "noticeAt": 1741510800,
+      "openedAt": 1741597200,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141594,
+      "name": "第４節 リセット・ホテル（２回目）",
+      "type": "main",
+      "flags": ["branch"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "phases": [2],
+      "phaseScripts": [{
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414159421",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414159421.txt"
+        }]
+      }],
+      "priority": 94141696,
+      "noticeAt": 1741251600,
+      "openedAt": 1741338000,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141595,
+      "name": "第６節 アンサンブルな客たち",
+      "type": "main",
+      "flags": ["branch"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "phases": [3],
+      "phaseScripts": [{
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414159530",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414159530.txt"
+        }]
+      }],
+      "priority": 94141691,
+      "noticeAt": 1741510800,
+      "openedAt": 1741510800,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141596,
+      "name": "第４節 リセット・ホテル（２回目）",
+      "type": "main",
+      "flags": ["branch"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "phases": [2],
+      "phaseScripts": [{
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414159621",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414159621.txt"
+        }]
+      }],
+      "priority": 94141695,
+      "noticeAt": 1741251600,
+      "openedAt": 1741338000,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141597,
+      "name": "第４節 リセット・ホテル（２回目）",
+      "type": "main",
+      "flags": ["branch"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "phases": [2],
+      "phaseScripts": [{
+        "phase": 2,
+        "scripts": [{
+          "scriptId": "9414159721",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414159721.txt"
+        }]
+      }],
+      "priority": 94141694,
+      "noticeAt": 1741251600,
+      "openedAt": 1741338000,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141598,
+      "name": "第６節 アンサンブルな客たち",
+      "type": "main",
+      "flags": ["branch"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "phases": [3],
+      "phaseScripts": [{
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414159830",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414159830.txt"
+        }]
+      }],
+      "priority": 94141690,
+      "noticeAt": 1741510800,
+      "openedAt": 1741510800,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141599,
+      "name": "第６節 アンサンブルな客たち",
+      "type": "main",
+      "flags": ["branch"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 200,
+        "objectId": 2,
+        "num": 1
+      }],
+      "phases": [3],
+      "phaseScripts": [{
+        "phase": 3,
+        "scripts": [{
+          "scriptId": "9414159930",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414159930.txt"
+        }]
+      }],
+      "priority": 94141689,
+      "noticeAt": 1741510800,
+      "openedAt": 1741510800,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141600,
+      "name": "コンシェルジュ日誌 苦労性な客室案内人",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 13000,
+        "objectId": 101,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141501
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141600,
+      "noticeAt": 1741172400,
+      "openedAt": 1741172400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141601,
+      "name": "コンシェルジュ日誌 天下無双の害虫退治",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 13000,
+        "objectId": 101,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141501
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141599,
+      "noticeAt": 1741172400,
+      "openedAt": 1741172400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141602,
+      "name": "コンシェルジュ日誌 外道だらけの魚釣り",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 13000,
+        "objectId": 101,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141501
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141598,
+      "noticeAt": 1741172400,
+      "openedAt": 1741172400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141603,
+      "name": "コンシェルジュ日誌 豪華絢爛プランニング",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "75",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141501
+      }, {
+        "type": "questClear",
+        "targetId": 94141502,
+        "closedMessage": "第３節クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "第３節クリア\n＆3月6日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141597,
+      "noticeAt": 1741172400,
+      "openedAt": 1741251600,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141604,
+      "name": "コンシェルジュ日誌 心尽くしのクロークルーム",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "80",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141502
+      }, {
+        "type": "questClear",
+        "targetId": 94141503,
+        "closedMessage": "第４節クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "第４節クリア\n＆3月7日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141596,
+      "noticeAt": 1741251600,
+      "openedAt": 1741338000,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141605,
+      "name": "コンシェルジュ日誌 ルームクリーニングの極意",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "85",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141503
+      }, {
+        "type": "questClear",
+        "targetId": 94141504,
+        "closedMessage": "第５節クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "第５節クリア\n＆3月8日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141595,
+      "noticeAt": 1741338000,
+      "openedAt": 1741424400,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141606,
+      "name": "コンシェルジュ日誌 ワイルドレスキュー",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 12000,
+        "objectId": 100,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141504
+      }, {
+        "type": "questClear",
+        "targetId": 94141505,
+        "closedMessage": "第６節クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "第６節クリア\n＆3月9日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141594,
+      "noticeAt": 1741424400,
+      "openedAt": 1741510800,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141607,
+      "name": "コンシェルジュ日誌 難攻不落のフロント対応",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 327,
+        "objectId": 3,
+        "num": 100
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141505
+      }, {
+        "type": "questClear",
+        "targetId": 94141506,
+        "closedMessage": "第７節クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "第７節クリア\n＆3月10日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141592,
+      "noticeAt": 1741510800,
+      "openedAt": 1741597200,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141608,
+      "name": "コンシェルジュ日誌 五つ星ラウンドサービス",
+      "type": "event",
+      "flags": ["displayLoopmark"],
+      "consume": 40,
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 337,
+        "objectId": 3,
+        "num": 200
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 94141505
+      }, {
+        "type": "questClear",
+        "targetId": 94141506,
+        "closedMessage": "第７節クリアで開放"
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "第７節クリア\n＆3月10日18時00分以降に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141591,
+      "noticeAt": 1741510800,
+      "openedAt": 1741597200,
+      "closedAt": 1742961599
+    }, {
+      "id": 94141700,
+      "name": "【高難易度】最上級のおもてなし 顧客満足度チェック",
+      "type": "event",
+      "flags": ["dropFirstTimeOnly", "notRetrievable"],
+      "consume": 5,
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 839301,
+      "warId": 8393,
+      "gifts": [{
+        "id": 21701,
+        "objectId": 6999,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "none",
+        "targetId": 0
+      }, {
+        "type": "questClear",
+        "targetId": 94141506
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesWithEnemies": [1],
+      "priority": 94141800,
+      "noticeAt": 1741597200,
+      "openedAt": 1741683600,
+      "closedAt": 1742961599
+    }]
+  }, {
+    "id": 839302,
+    "mapId": 8393,
+    "name": "",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter8393/QMap_Cap8393_Atlas/spot_839302.png",
+    "quests": [{
+      "id": 94141800,
+      "name": "「ダンテからのメッセージ 1日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180010",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180010.txt"
+        }]
+      }],
+      "priority": 94141500,
+      "noticeAt": 1741172400,
+      "openedAt": 1741172400,
+      "closedAt": 1741251599
+    }, {
+      "id": 94141801,
+      "name": "「ダンテからのメッセージ 2日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180110",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180110.txt"
+        }]
+      }],
+      "priority": 94141499,
+      "noticeAt": 1741251600,
+      "openedAt": 1741251600,
+      "closedAt": 1741337999
+    }, {
+      "id": 94141802,
+      "name": "「ダンテからのメッセージ 3日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180210",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180210.txt"
+        }]
+      }],
+      "priority": 94141498,
+      "noticeAt": 1741338000,
+      "openedAt": 1741338000,
+      "closedAt": 1741424399
+    }, {
+      "id": 94141803,
+      "name": "「ダンテからのメッセージ 4日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180310",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180310.txt"
+        }]
+      }],
+      "priority": 94141497,
+      "noticeAt": 1741424400,
+      "openedAt": 1741424400,
+      "closedAt": 1741510799
+    }, {
+      "id": 94141804,
+      "name": "「ダンテからのメッセージ 5日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180410",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180410.txt"
+        }]
+      }],
+      "priority": 94141496,
+      "noticeAt": 1741510800,
+      "openedAt": 1741510800,
+      "closedAt": 1741597199
+    }, {
+      "id": 94141805,
+      "name": "「ダンテからのメッセージ 6日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180510",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180510.txt"
+        }]
+      }],
+      "priority": 94141495,
+      "noticeAt": 1741597200,
+      "openedAt": 1741597200,
+      "closedAt": 1741683599
+    }, {
+      "id": 94141806,
+      "name": "「ダンテからのメッセージ 7日目」",
+      "type": "event",
+      "flags": ["noBattle"],
+      "consume": 0,
+      "afterClear": "close",
+      "recommendLv": "1",
+      "spotId": 839302,
+      "warId": 8393,
+      "gifts": [{
+        "id": 94141506,
+        "objectId": 4001,
+        "num": 1
+      }, {
+        "id": 94141506,
+        "objectId": 94138205,
+        "num": 1
+      }],
+      "releaseConditions": [{
+        "type": "questClear",
+        "targetId": 1000011
+      }, {
+        "type": "date",
+        "targetId": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+      }],
+      "phases": [1],
+      "phasesNoBattle": [1],
+      "phaseScripts": [{
+        "phase": 1,
+        "scripts": [{
+          "scriptId": "9414180610",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9414/9414180610.txt"
+        }]
+      }],
+      "priority": 94141494,
+      "noticeAt": 1741683600,
+      "openedAt": 1741683600,
+      "closedAt": 1741769999
     }]
   }]
 }]

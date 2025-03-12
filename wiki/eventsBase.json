@@ -1,4 +1,95 @@
 [{
+  "id": -8919530,
+  "name": "CBC2025(カルデアボーイズコレクション2025)",
+  "mcLink": "CBC2025(迦勒底男性精选2025)",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/a/a2/CBC2025_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/cbc2025_cp_khfqj/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/cbc2025_cp/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": -8909737,
+  "name": "「奏章Ⅲ」クリア応援キャンペーン",
+  "mcLink": "「奏章Ⅲ」通关应援活动",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/6/63/「奏章Ⅲ」通关应援活动_jp.png"
+  },
+  "officialBanner": {},
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/ordeal_call_3_clear_cp/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": -8907372,
+  "name": "「大統領特異点」クリア応援キャンペーン",
+  "mcLink": "「大总统特异点」通关应援活动",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/1/1e/「大总统特异点」通关应援活动_jp.png"
+  },
+  "officialBanner": {},
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/olgamally_quest_clear_cp/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": -8902545,
+  "name": "巡霊の祝祭 第10弾",
+  "mcLink": "巡灵的祝祭_第10弹",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/3/36/巡灵的祝祭_第10弹_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/feasts_cp10_eftgd/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/feasts_cp10/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": -8900702,
+  "name": "リリース3500日突破キャンペーン",
+  "mcLink": "上线3500日纪念活动",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/7/7d/上线3500日_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/3500days_epafs/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/3500days/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
   "id": -8854530,
   "name": "「FGO カルデア･サテライトステーション 2024-2025」岡山会場開催記念キャンペーン",
   "mcLink": "「FGO_迦勒底卫星基站_2024-2025」冈山会场举办纪念活动",
@@ -824,14 +915,17 @@
   "fandomLink": null,
   "shown": null,
   "titleBanner": {
-    "JP": "https://media.fgo.wiki/f/fb/CBC2024_jp.png"
+    "JP": "https://media.fgo.wiki/f/fb/CBC2024_jp.png",
+    "CN": "https://media.fgo.wiki/0/04/CBC2025.png"
   },
   "officialBanner": {
-    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/cbc2024_cp_gfqda/top_banner.png"
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/cbc2024_cp_gfqda/top_banner.png",
+    "CN": "https://i0.hdslb.com/bfs/game/127c7b92b4c2964b112f31c20a5dc90a851f21ad.png"
   },
   "extraBanners": {},
   "noticeLink": {
-    "JP": "https://news.fate-go.jp/2024/cbc2024_cp/"
+    "JP": "https://news.fate-go.jp/2024/cbc2024_cp/",
+    "CN": "15214"
   },
   "extraFixedItems": [],
   "extraItems": [],
@@ -843,12 +937,16 @@
   "fandomLink": null,
   "shown": null,
   "titleBanner": {
-    "JP": "https://media.fgo.wiki/c/c3/「奏章Ⅱ」开幕前夕纪念活动_jp.png"
+    "JP": "https://media.fgo.wiki/c/c3/「奏章Ⅱ」开幕前夕纪念活动_jp.png",
+    "CN": "https://media.fgo.wiki/1/1a/「奏章Ⅱ」开幕前夕纪念活动.png"
   },
-  "officialBanner": {},
+  "officialBanner": {
+    "CN": "https://i0.hdslb.com/bfs/game/1497a79a15275d9392aa2f7dbd3973e9d934cd90.png"
+  },
   "extraBanners": {},
   "noticeLink": {
-    "JP": "https://news.fate-go.jp/2024/new_chapter_cp/"
+    "JP": "https://news.fate-go.jp/2024/new_chapter_cp/",
+    "CN": "15175"
   },
   "extraFixedItems": [],
   "extraItems": [],
@@ -14644,14 +14742,16 @@
 }, {
   "id": 80460,
   "name": "バレンタイン2024\n～チョコレート・リバーのその先に～",
-  "mcLink": "情人节2024_～在巧克力之河的前方～",
+  "mcLink": "情人节2024_～前往巧克力之河的尽头～",
   "fandomLink": "Valentine_2024",
   "shown": null,
   "titleBanner": {
-    "JP": "https://media.fgo.wiki/d/da/情人节2024_jp.png"
+    "JP": "https://media.fgo.wiki/d/da/情人节2024_jp.png",
+    "CN": "https://media.fgo.wiki/a/a0/情人节2025.png"
   },
   "officialBanner": {
-    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/valentine2024_full_ohcrp/top_banner.png"
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/valentine2024_full_ohcrp/top_banner.png",
+    "CN": "https://i0.hdslb.com/bfs/game/b5f93e8cf575caedb5a07207cbc3444add19d096.png"
   },
   "extraBanners": {},
   "noticeLink": {
@@ -14664,18 +14764,21 @@
 }, {
   "id": 80462,
   "name": "CBC2024 \nシャルルマーニュのモンジョワ・騎士道！",
-  "mcLink": "CBC2024_查理曼的Montjoie骑士道！",
+  "mcLink": "CBC2024_查理曼的蒙茹瓦骑士道！",
   "fandomLink": null,
   "shown": null,
   "titleBanner": {
-    "JP": "https://media.fgo.wiki/6/63/查理曼的Montjoie骑士道_jp.png"
+    "JP": "https://media.fgo.wiki/e/e6/查理曼的蒙茹瓦骑士道_jp.png",
+    "CN": "https://media.fgo.wiki/8/8b/查理曼的蒙茹瓦骑士道.png"
   },
   "officialBanner": {
-    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/cbc2024_aefbd/top_banner.png"
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/cbc2024_aefbd/top_banner.png",
+    "CN": "https://i0.hdslb.com/bfs/game/62df4e8a699b5b8b81d013c60baf9b7c9b29c706.png"
   },
   "extraBanners": {},
   "noticeLink": {
-    "JP": "https://news.fate-go.jp/2024/cbc2024/"
+    "JP": "https://news.fate-go.jp/2024/cbc2024/",
+    "CN": "15212"
   },
   "extraFixedItems": [],
   "extraItems": [],
@@ -15622,6 +15725,44 @@
   "extraItems": [],
   "script": {}
 }, {
+  "id": 80520,
+  "name": "CBC2025 彼の名はダンテ　\n～ホテル・デノヴォのコンシェルジュ～",
+  "mcLink": "CBC2025_他名为但丁_～酒店De_novo的礼宾员～",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/2/23/CBC2025_他名为但丁_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/cbc2025_onjae/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/cbc2025/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": 80521,
+  "name": "オルガマリークエスト_3",
+  "mcLink": "白纸化地球上出现「奥尔加玛丽关卡_3」",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/9/90/白纸化地球上出现「奥尔加玛丽关卡_3」_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/olgamally_quest_3_mdbmc/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/olgamally_quest_3/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
   "id": 80523,
   "name": "リコレクションクエスト",
   "mcLink": "「奏章Ⅱ」通关应援活动",
@@ -15634,6 +15775,57 @@
   "extraBanners": {},
   "noticeLink": {
     "JP": "https://news.fate-go.jp/2025/ordeal_call_2_clear_cp/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": 80528,
+  "name": "カルデアボーイズコレクション2024",
+  "mcLink": null,
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {},
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/cbc2025_cp_khfqj/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/cbc2025_cp/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": 80529,
+  "name": "期間限定で第10弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！",
+  "mcLink": null,
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {},
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/feasts_cp10_eftgd/top_banner.png"
+  },
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/feasts_cp10/"
+  },
+  "extraFixedItems": [],
+  "extraItems": [],
+  "script": {}
+}, {
+  "id": 80530,
+  "name": "リコレクションクエスト",
+  "mcLink": "「奏章Ⅲ」通关应援活动",
+  "fandomLink": null,
+  "shown": null,
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/6/63/「奏章Ⅲ」通关应援活动_jp.png"
+  },
+  "officialBanner": {},
+  "extraBanners": {},
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/ordeal_call_3_clear_cp/"
   },
   "extraFixedItems": [],
   "extraItems": [],

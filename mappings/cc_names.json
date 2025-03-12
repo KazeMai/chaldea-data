@@ -36,7 +36,7 @@
   },
   "すずめ紋の葛籠": {
     "JP": null,
-    "CN": null,
+    "CN": "麻雀花纹的葛笼",
     "TW": null,
     "NA": null,
     "KR": null
@@ -120,7 +120,7 @@
   },
   "キラキラ平安女子": {
     "JP": null,
-    "CN": null,
+    "CN": "闪耀的平安女子",
     "TW": null,
     "NA": null,
     "KR": null
@@ -587,6 +587,13 @@
     "NA": "Angel's Bed",
     "KR": "천사의 침대"
   },
+  "天使の剣": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "天帝の貴妃": {
     "JP": null,
     "CN": "天帝的贵妃",
@@ -933,7 +940,7 @@
   "理想を刻する王の鑿": {
     "JP": null,
     "CN": "雕刻理想的王之凿",
-    "TW": "雕刻理想的王之鑿",
+    "TW": "刻畫理想的王之鑿",
     "NA": "The King's Chisel that Carves the Ideal",
     "KR": "이상을 조각하는 왕의 끌"
   },
@@ -1163,7 +1170,7 @@
   },
   "赤い唐傘": {
     "JP": null,
-    "CN": null,
+    "CN": "红色唐伞",
     "TW": null,
     "NA": null,
     "KR": null

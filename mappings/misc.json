@@ -348,6 +348,20 @@
       "TW": "Buster提升",
       "NA": "Buster Up",
       "KR": "버스터 UP"
+    },
+    "天国化(Arts強化)": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
+    },
+    "地獄化(Buster強化)": {
+      "JP": null,
+      "CN": null,
+      "TW": null,
+      "NA": null,
+      "KR": null
     }
   },
   "selectTreasureDeviceInfo": {
@@ -556,28 +570,28 @@
       "CN": "穿越森林",
       "TW": "踏破森林",
       "NA": "Forest Traversing",
-      "KR": null
+      "KR": "숲 답파"
     },
     "巨大樹": {
       "JP": null,
       "CN": "巨大树木",
       "TW": "巨大樹",
       "NA": "Gigantic Tree",
-      "KR": null
+      "KR": "거대수"
     },
     "ポートレイト集め": {
       "JP": null,
       "CN": "收集照片",
       "TW": "肖像蒐集",
       "NA": "Portrait Collecting",
-      "KR": null
+      "KR": "포트레이트 수집"
     },
     "追加ポートレイト集め": {
       "JP": null,
       "CN": "收集追加照片",
       "TW": "追加肖像蒐集",
       "NA": "Additional Portrait Collecting",
-      "KR": null
+      "KR": "추가 포트레이트 수집"
     }
   },
   "master_name": {
@@ -698,21 +712,21 @@
       "CN": "欧西里斯之尘",
       "TW": "歐西里斯之塵",
       "NA": "Dust of Osiris",
-      "KR": null
+      "KR": "오시리스의 먼지"
     },
     "マキリ": {
       "JP": null,
       "CN": "玛奇里",
       "TW": "馬奇里",
       "NA": "Makiri",
-      "KR": null
+      "KR": "마키리"
     },
     "セレシェイラ": {
       "JP": null,
       "CN": "赛雷婕拉",
       "TW": "瑟蕾榭菈",
       "NA": "Cerejeiras",
-      "KR": null
+      "KR": "세레제이라"
     },
     "由井正雪": {
       "JP": null,

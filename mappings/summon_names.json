@@ -386,23 +386,44 @@
   },
   "CBC2024 ピックアップ召喚": {
     "JP": null,
-    "CN": "CBC2024 推荐召唤",
+    "CN": "CBC2025 推荐召唤",
     "TW": null,
     "NA": "CBC2026 Pickup Summon",
     "KR": null
   },
   "CBC2024 モンジョワ･騎士道！ アストルフォ(セイバー)ピックアップ召喚": {
     "JP": null,
-    "CN": "CBC2024 Montjoie骑士道！ 阿斯托尔福(Saber)推荐召唤",
+    "CN": "CBC2025 蒙茹瓦骑士道！ 阿斯托尔福(Saber)推荐召唤",
     "TW": null,
     "NA": "CBC2024 Montjoie Chivalry! Astolfo (Saber) pickup summon",
     "KR": null
   },
   "CBC2024 モンジョワ･騎士道！ シャルルマーニュピックアップ召喚": {
     "JP": null,
-    "CN": "CBC2024 Montjoie骑士道！ 查理曼推荐召唤",
+    "CN": "CBC2025 蒙茹瓦骑士道！ 查理曼推荐召唤",
     "TW": null,
     "NA": "CBC2024 Montjoie Chivalry! Charlemagne pickup summon",
+    "KR": null
+  },
+  "CBC2025 ピックアップ召喚": {
+    "JP": null,
+    "CN": "CBC2025 推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2025 彼の名はダンテ ～ホテル･デノヴォのコンシェルジュ～ ジェームズ･モリアーティ(アーチャー)(新宿のアーチャー)ピックアップ召喚": {
+    "JP": null,
+    "CN": "CBC2025 他名为但丁 ～酒店De novo的礼宾员～ 詹姆斯·莫里亚蒂(Archer)(新宿的Archer)推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "CBC2025 彼の名はダンテ ～ホテル･デノヴォのコンシェルジュ～ ダンテ･アリギエーリピックアップ召喚": {
+    "JP": null,
+    "CN": "CBC2025 他名为但丁 ～酒店De novo的礼宾员～ 但丁·阿利吉耶里推荐召唤",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "FGO Fes. 2019 ～4th Anniversary～ Lostbelt＆亜種特異点ピックアップ召喚": {
@@ -1030,7 +1051,7 @@
   },
   "「奏章Ⅱ」開幕直前ピックアップ召喚": {
     "JP": null,
-    "CN": "「奏章Ⅱ」开幕前夕推荐召唤",
+    "CN": "「奏章II」开幕前夕推荐召唤",
     "TW": null,
     "NA": "\"Sovereign's Memorial ⅠⅠ\" Pre-Release Pickup Summon",
     "KR": null
@@ -1175,6 +1196,13 @@
     "NA": null,
     "KR": null
   },
+  "【週替り】アヴェンジャーピックアップ召喚": {
+    "JP": null,
+    "CN": "【每周替换】Avenger推荐召唤",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "【週替り】アーチャーピックアップ1召喚": {
     "JP": null,
     "CN": "【每周替换】Archer推荐召唤1",
@@ -1201,6 +1229,27 @@
     "CN": "【每周替换】Saber推荐召唤2",
     "TW": null,
     "NA": "[Weekly Rotation] Saber Pickup Summon 2",
+    "KR": null
+  },
+  "【週替り】ライダーピックアップ1召喚": {
+    "JP": null,
+    "CN": "【每周替换】Rider推荐召唤1",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【週替り】ランサーピックアップ1召喚": {
+    "JP": null,
+    "CN": "【每周替换】Lancer推荐召唤1",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "【週替り】ランサーピックアップ2召喚": {
+    "JP": null,
+    "CN": "【每周替换】Lancer推荐召唤2",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "【週替り】ルーラーピックアップ召喚": {

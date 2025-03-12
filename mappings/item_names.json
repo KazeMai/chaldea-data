@@ -402,14 +402,21 @@
     "JP": null,
     "CN": "3月兑换券(2024)",
     "TW": "12月兌換券(2024)",
-    "NA": "Exchange Ticket (MAR 2023)",
-    "KR": null
+    "NA": "Exchange Ticket (MAR 2025)",
+    "KR": "3월 로그인 보너스 교환티켓"
   },
   "3月交換券(2024)": {
     "JP": null,
     "CN": "3月兑换券(2025)",
     "TW": "3月交換券(2024 JP)",
     "NA": "Exchange Ticket (MAR 2024)",
+    "KR": null
+  },
+  "3月交換券(2025)": {
+    "JP": null,
+    "CN": "3月交换券(2025 JP)",
+    "TW": "3月交換券(2025 JP)",
+    "NA": "Exchange Ticket (MAR 2025)",
     "KR": null
   },
   "456ダイス": {
@@ -801,14 +808,21 @@
     "JP": null,
     "CN": "CBC2024特别优待券",
     "TW": "CBC2024特別優待券",
-    "NA": "CBC2023 Special Coupon",
+    "NA": "CBC 2025 Shareholder Benefits Ticket",
     "KR": "CBC 2024 특별 우대권"
   },
   "CBC2024特別交換券": {
     "JP": null,
-    "CN": "CBC2025特別兑换券",
+    "CN": "CBC2025特别兑换券",
     "TW": "CBC2024特別交換券",
     "NA": "CBC2024 Special Exchange Ticket",
+    "KR": null
+  },
+  "CBC2025特別交換券": {
+    "JP": null,
+    "CN": "CBC2025特别交换券",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "EXTELLAチケット": {
@@ -1299,7 +1313,7 @@
     "CN": "以太收光体",
     "TW": "以太蓄光體",
     "NA": "Ether Photon Converger",
-    "KR": null
+    "KR": "에테르 수광체"
   },
   "エードラム合金": {
     "JP": null,
@@ -1657,6 +1671,13 @@
     "TW": "庫庫爾假面",
     "NA": "Kukulcan Mask",
     "KR": "쿠쿨칸 마스크"
+  },
+  "クラシックタオル": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "クラフトウッド": {
     "JP": null,
@@ -2300,7 +2321,7 @@
     "CN": "风暴罐",
     "TW": "Storm Pod",
     "NA": "Storm Pod",
-    "KR": null
+    "KR": "스톰 포드"
   },
   "ストーリー限定★4サーヴァントコイン（補填）": {
     "JP": null,
@@ -2798,6 +2819,13 @@
     "TW": "苦味可可粉",
     "NA": "Bitter Powder",
     "KR": "비터 파우더"
+  },
+  "ビンテージクローシュ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ビームクッキー": {
     "JP": null,
@@ -3331,6 +3359,13 @@
     "NA": "Red Tea Leaves",
     "KR": "레드 찻잎"
   },
+  "レトロルームキー": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ロックオンチョコ": {
     "JP": null,
     "CN": "锁定巧克力",
@@ -3689,11 +3724,11 @@
     "KR": null
   },
   "占星茶壶": {
-    "JP": null,
-    "CN": null,
+    "JP": "星見のティーポット",
+    "CN": "占星茶壶",
     "TW": "占星茶壺",
-    "NA": null,
-    "KR": null
+    "NA": "Stargazer's Teapot",
+    "KR": "별을 보는 자의 티포트"
   },
   "原初の産毛": {
     "JP": null,
@@ -4309,7 +4344,7 @@
     "CN": "新星火炬",
     "TW": "新星火炬",
     "NA": "Torch of Nova",
-    "KR": null
+    "KR": "신성의 토치"
   },
   "新選組": {
     "JP": null,
@@ -4351,14 +4386,14 @@
     "CN": "明星火炬",
     "TW": "明星火炬",
     "NA": "Torch of Morning Star",
-    "KR": null
+    "KR": "명성의 토치"
   },
   "星光の砂": {
     "JP": null,
     "CN": "星光之砂",
     "TW": "星光之砂",
     "NA": "Stellar Sand",
-    "KR": null
+    "KR": "별빛의 모래"
   },
   "星出しスプーン": {
     "JP": null,
@@ -4533,7 +4568,7 @@
     "CN": "极星火炬",
     "TW": "極星火炬",
     "NA": "Torch of Polar Star",
-    "KR": null
+    "KR": "극성의 토치"
   },
   "槍のコインチョコ": {
     "JP": null,
@@ -4883,7 +4918,7 @@
     "CN": "疯狂的残渣",
     "TW": "瘋狂的殘渣",
     "NA": "Vestige of Madness",
-    "KR": null
+    "KR": "광기의 잔재"
   },
   "狸の果たし状": {
     "JP": null,
@@ -6114,15 +6149,22 @@
     "JP": null,
     "CN": "XIASHAN茶",
     "TW": "SAYAMA茶",
-    "NA": "SAYAMA Ocha",
+    "NA": "SAYAMA Tea",
     "KR": "SAYAMA 차"
   },
   "ＴＡＫＡＳＵＧＩポイント": {
     "JP": null,
     "CN": "GAOSHAN点数",
     "TW": "TAKASUGI點數",
-    "NA": "TAKASUGI Points",
+    "NA": "TAKASUGI Point",
     "KR": "TAKASUGI 포인트"
+  },
+  "Ｕピース〔地〕": {
+    "JP": null,
+    "CN": "U碎片〔地〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "Ｕピース〔水〕": {
     "JP": null,
@@ -6156,14 +6198,14 @@
     "JP": null,
     "CN": "CAOXIE猪排饭",
     "TW": "WARAJI豬排飯",
-    "NA": "WARAJI Katsudon",
+    "NA": "WARAJI Katsu Don",
     "KR": "WARAJI 카츠동"
   },
   "ＺＥＲＹフライ": {
     "JP": null,
     "CN": "ZERY豆饼",
     "TW": "ZERY可樂餅",
-    "NA": "ZERY Deep-Fry",
+    "NA": "ZELLY Fry",
     "KR": "ZERY 프라이"
   }
 }

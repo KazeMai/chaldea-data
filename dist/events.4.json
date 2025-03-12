@@ -108240,7 +108240,7 @@
   }, {
     "id": 80462101,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462101,
       "condType": "questClear",
       "condNum": 1
@@ -108263,7 +108263,7 @@
   }, {
     "id": 80462102,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462102,
       "condType": "questClear",
       "condNum": 1
@@ -108286,7 +108286,7 @@
   }, {
     "id": 80462103,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462103,
       "condType": "questClear",
       "condNum": 1
@@ -108309,7 +108309,7 @@
   }, {
     "id": 80462104,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462104,
       "condType": "questClear",
       "condNum": 1
@@ -108332,7 +108332,7 @@
   }, {
     "id": 80462105,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462105,
       "condType": "questClear",
       "condNum": 1
@@ -108355,7 +108355,7 @@
   }, {
     "id": 80462106,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462106,
       "condType": "questClear",
       "condNum": 1
@@ -108378,7 +108378,7 @@
   }, {
     "id": 80462107,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462107,
       "condType": "questClear",
       "condNum": 1
@@ -108401,7 +108401,7 @@
   }, {
     "id": 80462108,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462108,
       "condType": "questClear",
       "condNum": 1
@@ -108424,7 +108424,7 @@
   }, {
     "id": 80462109,
     "releaseConditions": [{
-      "condValues": [94093301],
+      "condValues": [1000011],
       "shopId": 80462109,
       "condType": "questClear",
       "condNum": 1
@@ -170774,6 +170774,34 @@
         "condType": "eventPeriod",
         "value": 80514
       }]
+    }, {
+      "name": "ショップボイス〔第二ブロック〕 6",
+      "condType": "eventEnd",
+      "priority": 3995,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 6",
+      "id": ["0_I1060", "0_I1061", "0_I1062", "0_I1063"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1060.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1061.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1062.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1063.mp3"],
+      "delay": [0.0, 0.3, 0.1, 0.1],
+      "face": [4, 4, 9, 1],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }]
+    }, {
+      "name": "ショップボイス〔第二ブロック〕 7",
+      "condType": "eventEnd",
+      "priority": 3994,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 7",
+      "id": ["0_I1070", "0_I1071", "0_I1072", "0_I1073"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1070.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1071.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1072.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_603100/0_I1073.mp3"],
+      "delay": [0.0, 0.1, 0.1, 0.1],
+      "face": [1, 6, 6, 11],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }]
     }]
   }, {
     "svtId": 109831560,
@@ -170876,6 +170904,34 @@
         "condValue": 2,
         "condValues": [2]
       }]
+    }, {
+      "name": "イベントについて 6",
+      "condType": "eventEnd",
+      "priority": 6940,
+      "svtVoiceType": "eventReward",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 6",
+      "id": ["0_N060", "0_N061", "0_N062", "0_N063"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N060.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N061.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N062.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N063.mp3"],
+      "delay": [0.0, 0.3, 0.1, 0.3],
+      "face": [33, 8, 8, 1],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }]
+    }, {
+      "name": "イベントについて 7",
+      "condType": "eventEnd",
+      "priority": 6930,
+      "svtVoiceType": "eventReward",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 7",
+      "id": ["0_N070", "0_N071", "0_N072", "0_N073"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N070.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N071.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N072.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_N073.mp3"],
+      "delay": [0.0, 0.1, 0.1, 0.1],
+      "face": [0, 20, 30, 30],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }]
     }]
   }, {
     "svtId": 109831560,
@@ -170923,6 +170979,41 @@
         "value": 80514
       }]
     }, {
+      "name": "ショップついて 31",
+      "condType": "eventEnd",
+      "priority": 6180,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 11",
+      "id": ["0_I310", "0_I311", "0_I312", "0_I313", "0_I314"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I310.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I311.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I312.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I313.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I314.mp3"],
+      "delay": [0.0, 0.3, 0.3, 0.3, 0.1],
+      "face": [28, 28, 24, 23, 0],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }]
+    }, {
+      "name": "ショップついて 32",
+      "condType": "eventEnd",
+      "priority": 6179,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 12",
+      "id": ["0_I320", "0_I321", "0_I322"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I320.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I321.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I322.mp3"],
+      "delay": [0.0, 0.1, 0.3],
+      "face": [9, 10, 3],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }],
+      "playConds": [{
+        "condGroup": 1,
+        "condType": "purchaseValidShopGroup",
+        "targetId": 8051402,
+        "condValue": 0,
+        "condValues": [0]
+      }]
+    }, {
       "name": "ショップついて 32",
       "condType": "eventEnd",
       "priority": 6170,
@@ -170964,6 +171055,41 @@
         "condType": "eventNoend",
         "value": 80514
       }]
+    }, {
+      "name": "ショップついて 34",
+      "condType": "eventEnd",
+      "priority": 6140,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 16",
+      "id": ["0_I510", "0_I511", "0_I512", "0_I513", "0_I514", "0_I515"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I510.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I511.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I512.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I513.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I514.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I515.mp3"],
+      "delay": [0.0, 0.1, 0.3, 0.1, 0.3, 0.1],
+      "face": [0, 0, 9, 9, 9, 22],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }]
+    }, {
+      "name": "ショップついて 35",
+      "condType": "eventEnd",
+      "priority": 6130,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "小野小町古今抄 ～雪消月のキラキラ蓮華～ 17",
+      "id": ["0_I520", "0_I521", "0_I522", "0_I523", "0_I524"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I520.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I521.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I522.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I523.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_109831560/0_I524.mp3"],
+      "delay": [0.0, 0.3, 0.1, 0.3, 0.1],
+      "face": [2, 20, 3, 9, 9],
+      "conds": [{
+        "condType": "eventEnd",
+        "value": 80514
+      }],
+      "playConds": [{
+        "condGroup": 1,
+        "condType": "purchaseValidShopGroup",
+        "targetId": 8051401,
+        "condValue": 0,
+        "condValues": [0]
+      }]
     }]
   }]
 }, {
@@ -171002,11 +171128,11 @@
   "type": "eventQuest",
   "name": "お試しクエスト",
   "detail": "お試しクエスト",
-  "bannerPriority": 940277,
-  "noticeAt": 1737363600,
-  "startedAt": 1737363600,
-  "endedAt": 1740974399,
-  "finishedAt": 1740974399
+  "bannerPriority": 940285,
+  "noticeAt": 1740992400,
+  "startedAt": 1740992400,
+  "endedAt": 1743998399,
+  "finishedAt": 1743998399
 }, {
   "id": 80518,
   "type": "eventQuest",
@@ -171035,6 +171161,1225 @@
   "startedAt": 1736154000,
   "endedAt": 1738555199,
   "finishedAt": 1738555199
+}, {
+  "id": 80520,
+  "type": "eventQuest",
+  "name": "CBC2025 彼の名はダンテ　\n～ホテル・デノヴォのコンシェルジュ～",
+  "shortName": "CBC2025 彼の名はダンテ",
+  "detail": "CBC2025 彼の名はダンテ　\n～ホテル・デノヴォのコンシェルジュ～",
+  "noticeBanner": "https://static.atlasacademy.io/JP/Banner/event_war_80500.png",
+  "banner": "https://static.atlasacademy.io/JP/Banner/event_war_80501.png",
+  "bannerPriority": 940290,
+  "noticeAt": 1741172400,
+  "startedAt": 1741172400,
+  "endedAt": 1742961599,
+  "finishedAt": 1743566399,
+  "warIds": [8393],
+  "shop": [{
+    "id": 80520001,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520001,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 10,
+    "name": "伝承結晶",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 300
+    },
+    "purchaseType": "item",
+    "targetIds": [6999],
+    "limitNum": 2,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520002,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520002,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 20,
+    "name": "伝承結晶",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 300
+    },
+    "purchaseType": "item",
+    "targetIds": [6999],
+    "limitNum": 2,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520003,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520003,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 30,
+    "name": "伝承結晶",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 300
+    },
+    "purchaseType": "item",
+    "targetIds": [6999],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520004,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520004,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 40,
+    "name": "英霊結晶・流星のフォウくん",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 150
+    },
+    "purchaseType": "servant",
+    "targetIds": [9570400],
+    "limitNum": 2,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520005,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520005,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 50,
+    "name": "英霊結晶・流星のフォウくん",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 150
+    },
+    "purchaseType": "servant",
+    "targetIds": [9570400],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520006,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520006,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 60,
+    "name": "英霊結晶・日輪のフォウくん",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 150
+    },
+    "purchaseType": "servant",
+    "targetIds": [9670400],
+    "limitNum": 2,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520007,
+    "releaseConditions": [{
+      "condValues": [94141506],
+      "shopId": 80520007,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "priority": 70,
+    "name": "英霊結晶・日輪のフォウくん",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 150
+    },
+    "purchaseType": "servant",
+    "targetIds": [9670400],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520008,
+    "eventId": 80520,
+    "priority": 80,
+    "name": "巡霊の葉",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [48],
+    "setNum": 10,
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520009,
+    "eventId": 80520,
+    "priority": 90,
+    "name": "巡霊の葉",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [48],
+    "setNum": 10,
+    "limitNum": 30,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520010,
+    "eventId": 80520,
+    "priority": 100,
+    "name": "巡霊の葉",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [48],
+    "setNum": 10,
+    "limitNum": 30,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520011,
+    "eventId": 80520,
+    "priority": 110,
+    "name": "バスター・コード・オープナー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 50
+    },
+    "purchaseType": "item",
+    "targetIds": [5002],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520012,
+    "eventId": 80520,
+    "priority": 120,
+    "name": "アーツ・コード・オープナー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 50
+    },
+    "purchaseType": "item",
+    "targetIds": [5001],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520013,
+    "eventId": 80520,
+    "priority": 130,
+    "name": "クイック・コード・オープナー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 50
+    },
+    "purchaseType": "item",
+    "targetIds": [5000],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520014,
+    "eventId": 80520,
+    "priority": 140,
+    "name": "コード・リムーバー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [5003],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520015,
+    "eventId": 80520,
+    "priority": 150,
+    "name": "コード・リムーバー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [5003],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520016,
+    "eventId": 80520,
+    "priority": 160,
+    "name": "コード・リムーバー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [5003],
+    "limitNum": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520017,
+    "eventId": 80520,
+    "priority": 200,
+    "name": "英霊結晶・星のフォウくん",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "servant",
+    "targetIds": [9570300],
+    "limitNum": 40,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520018,
+    "eventId": 80520,
+    "priority": 210,
+    "name": "英霊結晶・太陽のフォウくん",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "servant",
+    "targetIds": [9670300],
+    "limitNum": 40,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520019,
+    "eventId": 80520,
+    "priority": 220,
+    "name": "叡智の業火",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 5
+    },
+    "purchaseType": "servant",
+    "targetIds": [9770500],
+    "limitNum": 100,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520020,
+    "eventId": 80520,
+    "priority": 230,
+    "name": "叡智の猛火",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 3
+    },
+    "purchaseType": "servant",
+    "targetIds": [9770400],
+    "limitNum": 200,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520021,
+    "eventId": 80520,
+    "priority": 240,
+    "name": "叡智の大火",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9770300],
+    "limitNum": 200,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520022,
+    "eventId": 80520,
+    "priority": 250,
+    "name": "鬼炎鬼灯",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [6548],
+    "limitNum": 20,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520023,
+    "eventId": 80520,
+    "priority": 260,
+    "name": "煌星のカケラ",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [6544],
+    "limitNum": 20,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520024,
+    "eventId": 80520,
+    "priority": 270,
+    "name": "エーテル収光体",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6556],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520025,
+    "eventId": 80520,
+    "priority": 280,
+    "name": "魔術髄液",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 5
+    },
+    "purchaseType": "item",
+    "targetIds": [6530],
+    "limitNum": 60,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520026,
+    "eventId": 80520,
+    "priority": 290,
+    "name": "蛮神の心臓",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [6517],
+    "limitNum": 20,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520027,
+    "eventId": 80520,
+    "priority": 300,
+    "name": "神脈霊子",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6545],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520028,
+    "eventId": 80520,
+    "priority": 310,
+    "name": "光銀の冠",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6543],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520029,
+    "eventId": 80520,
+    "priority": 320,
+    "name": "宵哭きの鉄杭",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 5
+    },
+    "purchaseType": "item",
+    "targetIds": [6533],
+    "limitNum": 60,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520030,
+    "eventId": 80520,
+    "priority": 330,
+    "name": "血の涙石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [6520],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520031,
+    "eventId": 80520,
+    "priority": 340,
+    "name": "禁断の頁",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6511],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520032,
+    "eventId": 80520,
+    "priority": 350,
+    "name": "凶骨",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 5
+    },
+    "purchaseType": "item",
+    "targetIds": [6516],
+    "limitNum": 60,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520033,
+    "eventId": 80520,
+    "priority": 360,
+    "name": "赦免の小鐘",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 5
+    },
+    "purchaseType": "item",
+    "targetIds": [6549],
+    "limitNum": 60,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520034,
+    "eventId": 80520,
+    "priority": 400,
+    "name": "剣の秘石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [6201],
+    "limitNum": 20,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520035,
+    "eventId": 80520,
+    "priority": 410,
+    "name": "弓の秘石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [6202],
+    "limitNum": 20,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520036,
+    "eventId": 80520,
+    "priority": 420,
+    "name": "槍の秘石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 20
+    },
+    "purchaseType": "item",
+    "targetIds": [6203],
+    "limitNum": 20,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520037,
+    "eventId": 80520,
+    "priority": 430,
+    "name": "剣の魔石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [6101],
+    "limitNum": 30,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520038,
+    "eventId": 80520,
+    "priority": 440,
+    "name": "弓の魔石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [6102],
+    "limitNum": 30,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520039,
+    "eventId": 80520,
+    "priority": 450,
+    "name": "槍の魔石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [6103],
+    "limitNum": 30,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520040,
+    "eventId": 80520,
+    "priority": 460,
+    "name": "剣の輝石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6001],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520041,
+    "eventId": 80520,
+    "priority": 470,
+    "name": "弓の輝石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6002],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520042,
+    "eventId": 80520,
+    "priority": 480,
+    "name": "槍の輝石",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [6003],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520043,
+    "eventId": 80520,
+    "priority": 500,
+    "name": "セイバーモニュメント",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [7101],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520044,
+    "eventId": 80520,
+    "priority": 510,
+    "name": "アーチャーモニュメント",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [7102],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520045,
+    "eventId": 80520,
+    "priority": 520,
+    "name": "ランサーモニュメント",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 15
+    },
+    "purchaseType": "item",
+    "targetIds": [7103],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520046,
+    "eventId": 80520,
+    "priority": 530,
+    "name": "セイバーピース",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [7001],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520047,
+    "eventId": 80520,
+    "priority": 540,
+    "name": "アーチャーピース",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [7002],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520048,
+    "eventId": 80520,
+    "priority": 550,
+    "name": "ランサーピース",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [7003],
+    "limitNum": 40,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520049,
+    "eventId": 80520,
+    "priority": 600,
+    "name": "レトロルームキー",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141502,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [94141503],
+    "limitNum": 0,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520050,
+    "eventId": 80520,
+    "priority": 610,
+    "name": "ビンテージクローシュ",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141501,
+      "amount": 10
+    },
+    "purchaseType": "item",
+    "targetIds": [94141502],
+    "limitNum": 0,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520051,
+    "eventId": 80520,
+    "priority": 700,
+    "name": "10,000 QP",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141503,
+      "amount": 2
+    },
+    "purchaseType": "item",
+    "targetIds": [1],
+    "setNum": 10000,
+    "limitNum": 0,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520101,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520101,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 10,
+    "name": "探偵クリスト～未来邂逅編～",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408400],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520102,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520102,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 11,
+    "name": "コール・ラヴァ",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408410],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520103,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520103,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 12,
+    "name": "ウェザー・リポート＜Ｐ＞",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408420],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520104,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520104,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 13,
+    "name": "ブラザー・スペシャル",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408430],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520105,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520105,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 14,
+    "name": "おむすび・れむなんと",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408440],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520106,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520106,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 15,
+    "name": "カルデア・エージェンツ",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408450],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520107,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520107,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 16,
+    "name": "とある神父の晩餐会",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408460],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520108,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520108,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 17,
+    "name": "デリバリー・ヒーリング",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408470],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }, {
+    "id": 80520109,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80520109,
+      "condType": "questClear",
+      "condNum": 1
+    }],
+    "eventId": 80520,
+    "slot": 1,
+    "priority": 18,
+    "name": "弓術談義",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141504,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9408480],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1743566399
+  }],
+  "rewardScenes": [{
+    "type": 1,
+    "guides": [{
+      "imageId": 2801000,
+      "limitCount": 1,
+      "image": "https://static.atlasacademy.io/JP/CharaFigure/28010001/28010001_merged.png",
+      "faceId": 2
+    }],
+    "tabOnImage": "https://static.atlasacademy.io/JP/EventReward/btn_txt_on_80520_0.png",
+    "tabOffImage": "https://static.atlasacademy.io/JP/EventReward/btn_txt_off_80520_0.png",
+    "bg": "https://static.atlasacademy.io/JP/Back/back243000.png",
+    "bgm": {
+      "id": 606
+    },
+    "afterBgm": {
+      "id": 606
+    },
+    "flags": ["isHideTab"]
+  }, {
+    "slot": 1,
+    "type": 1,
+    "guides": [{
+      "imageId": 2801000,
+      "limitCount": 1,
+      "image": "https://static.atlasacademy.io/JP/CharaFigure/28010001/28010001_merged.png",
+      "faceId": 2
+    }],
+    "tabOnImage": "https://static.atlasacademy.io/JP/EventReward/btn_txt_on_80520_1.png",
+    "tabOffImage": "https://static.atlasacademy.io/JP/EventReward/btn_txt_off_80520_1.png",
+    "bg": "https://static.atlasacademy.io/JP/Back/back243100.png",
+    "bgm": {
+      "id": 606
+    },
+    "afterBgm": {
+      "id": 606
+    },
+    "flags": []
+  }],
+  "voices": [{
+    "svtId": 2801000,
+    "type": "eventShop",
+    "voiceLines": [{
+      "name": "ショップついて 1",
+      "condType": "eventEnd",
+      "priority": 6490,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 1",
+      "id": ["0_I010", "0_I011"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I010.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I011.mp3"],
+      "delay": [0.0, 0.3],
+      "face": [4, 3],
+      "conds": [{
+        "condType": "eventNoend",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップついて 2",
+      "condType": "eventEnd",
+      "priority": 6480,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 2",
+      "id": ["0_I020", "0_I021"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I020.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I021.mp3"],
+      "delay": [0.0, 0.3],
+      "face": [17, 5],
+      "conds": [{
+        "condType": "eventNoend",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップついて 3",
+      "condType": "eventEnd",
+      "priority": 6470,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 3",
+      "id": ["0_I030", "0_I031", "0_I032"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I030.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I031.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I032.mp3"],
+      "delay": [0.0, 0.1, 0.3],
+      "face": [4, 2, 14],
+      "conds": [{
+        "condType": "eventShopPurchase",
+        "value": 80520
+      }, {
+        "condType": "eventPeriod",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップついて 4",
+      "condType": "eventEnd",
+      "priority": 6460,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 4",
+      "id": ["0_I040", "0_I041"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I040.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I041.mp3"],
+      "delay": [0.0, 0.3],
+      "face": [3, 5],
+      "conds": [{
+        "condType": "eventShopPurchase",
+        "value": 80520
+      }, {
+        "condType": "eventPeriod",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップついて 5",
+      "condType": "eventEnd",
+      "priority": 6450,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 5",
+      "id": ["0_I050", "0_I051"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I050.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I051.mp3"],
+      "delay": [0.0, 0.1],
+      "face": [13, 11],
+      "conds": [{
+        "condType": "eventShopPurchase",
+        "value": 80520
+      }, {
+        "condType": "eventPeriod",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップボイス〔第二ブロック〕 1",
+      "condType": "eventEnd",
+      "priority": 4000,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 8",
+      "id": ["0_I1010", "0_I1011"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I1010.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I1011.mp3"],
+      "delay": [0.0, 0.3],
+      "face": [4, 14],
+      "conds": [{
+        "condType": "eventNoend",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップボイス〔第二ブロック〕 2",
+      "condType": "eventEnd",
+      "priority": 3999,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 9",
+      "id": ["0_I1020"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I1020.mp3"],
+      "delay": [0.0],
+      "face": [6],
+      "conds": [{
+        "condType": "eventNoend",
+        "value": 80520
+      }]
+    }, {
+      "name": "ショップボイス〔第二ブロック〕 3",
+      "condType": "eventEnd",
+      "priority": 3998,
+      "svtVoiceType": "eventShop",
+      "overwriteName": "CBC2025 彼の名はダンテ \n～ホテル・デノヴォのコンシェルジュ～ 10",
+      "id": ["0_I1030", "0_I1031"],
+      "audioAssets": ["https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I1030.mp3", "https://static.atlasacademy.io/JP/Audio/ChrVoice_2801000/0_I1031.mp3"],
+      "delay": [0.0, 0.3],
+      "face": [0, 18],
+      "conds": [{
+        "condType": "spacificShopPurchase",
+        "value": 80520
+      }, {
+        "condType": "eventPeriod",
+        "value": 80520
+      }]
+    }]
+  }]
+}, {
+  "id": 80521,
+  "type": "eventQuest",
+  "name": "オルガマリークエスト_3",
+  "shortName": "オルガマリークエスト_3",
+  "detail": "オルガマリークエスト_3",
+  "noticeAt": 1740733200,
+  "startedAt": 1740733200,
+  "endedAt": 1893423600,
+  "finishedAt": 1893423600
 }, {
   "id": 80523,
   "type": "eventQuest",
@@ -171075,4 +172420,274 @@
   "startedAt": 1738573200,
   "endedAt": 1740974399,
   "finishedAt": 1740974399
+}, {
+  "id": 80528,
+  "type": "eventQuest",
+  "name": "カルデアボーイズコレクション2024",
+  "detail": "カルデアボーイズコレクション2024",
+  "bannerPriority": 940295,
+  "noticeAt": 1741172400,
+  "startedAt": 1741172400,
+  "endedAt": 1741172400,
+  "finishedAt": 1741172400,
+  "shop": [{
+    "id": 80528001,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528001,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 10,
+    "name": "ＢＲＤ",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407640],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528002,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528002,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 11,
+    "name": "カプリシャス",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407650],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528003,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528003,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 12,
+    "name": "弧悦同舟",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407660],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528004,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528004,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 13,
+    "name": "魔術の嗜み",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407670],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528005,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528005,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 14,
+    "name": "カルデア刑事",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407680],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528006,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528006,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 15,
+    "name": "グリーディー・ダイス",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407690],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528007,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528007,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 16,
+    "name": "クリスタル・オブ・ウィズダム",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407700],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528008,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528008,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 17,
+    "name": "スムース・セーリング",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407710],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }, {
+    "id": 80528009,
+    "releaseConditions": [{
+      "condValues": [1000011],
+      "shopId": 80528009,
+      "condType": "questClear",
+      "condNum": 1,
+      "priority": 100
+    }],
+    "eventId": 80528,
+    "priority": 18,
+    "name": "デイ・オフ・マスター",
+    "payType": "eventItem",
+    "cost": {
+      "itemId": 94141505,
+      "amount": 1
+    },
+    "purchaseType": "servant",
+    "targetIds": [9407720],
+    "limitNum": 1,
+    "defaultLv": 1,
+    "openedAt": 1741172400,
+    "closedAt": 1741172400
+  }]
+}, {
+  "id": 80529,
+  "type": "eventQuest",
+  "name": "期間限定で第10弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！",
+  "detail": "期間限定で第10弾で召喚可能となったイベント限定サーヴァントはすべてのクエストで攻撃威力50%アップ！",
+  "noticeAt": 1741165200,
+  "startedAt": 1741165200,
+  "endedAt": 1741751999,
+  "finishedAt": 1741751999,
+  "campaignQuests": [{
+    "questId": 0
+  }]
+}, {
+  "id": 80530,
+  "type": "eventQuest",
+  "name": "リコレクションクエスト",
+  "detail": "リコレクションクエスト",
+  "noticeBanner": "https://static.atlasacademy.io/JP/Banner/event_war_80509.png",
+  "banner": "https://static.atlasacademy.io/JP/Banner/event_war_80508.png",
+  "bannerPriority": 940282,
+  "noticeAt": 1740819600,
+  "startedAt": 1740819600,
+  "endedAt": 1743433199,
+  "finishedAt": 1743433199,
+  "warIds": [9191],
+  "eventAdds": [{
+    "overwriteType": "banner",
+    "overwriteId": 80509,
+    "overwriteBanner": "https://static.atlasacademy.io/JP/Banner/event_war_80509.png",
+    "condType": "commonRelease",
+    "targetId": 10143201,
+    "startedAt": 1740819600,
+    "endedAt": 1743433199
+  }]
+}, {
+  "id": 80531,
+  "type": "interludeCampaign",
+  "name": "[FFFF00]開放条件緩和中！[-]",
+  "detail": "開放条件緩和中！",
+  "noticeAt": 1740819600,
+  "startedAt": 1740819600,
+  "endedAt": 1743433199,
+  "finishedAt": 1743433199
+}, {
+  "id": 80532,
+  "type": "interludeCampaign",
+  "name": "[FFFF00]開放条件緩和中！[-]",
+  "detail": "開放条件緩和中！",
+  "noticeAt": 1740992400,
+  "startedAt": 1740992400,
+  "endedAt": 1743998399,
+  "finishedAt": 1743998399
 }]

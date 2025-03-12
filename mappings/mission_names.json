@@ -76,6 +76,13 @@
     "NA": null,
     "KR": null
   },
+  "大統領特異点クリア応援": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "奏章Ⅰクリア応援キャンペーン": {
     "JP": null,
     "CN": null,
@@ -111,10 +118,31 @@
     "NA": null,
     "KR": null
   },
+  "奏章Ⅲクリア応援1": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "奏章Ⅲクリア応援2": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "巡霊の祝祭 新春キャンペーン": {
     "JP": null,
     "CN": "巡灵的祝祭 新春纪念活动",
     "TW": "巡靈的祝祭 新春紀念活動",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭 第10弾": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   },

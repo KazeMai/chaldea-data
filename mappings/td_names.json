@@ -53,7 +53,7 @@
     "CN": "依然存在的梦想之城",
     "TW": "至今猶存的夢想之城",
     "NA": "Lord Camelot",
-    "KR": null
+    "KR": "지금은 지나간 몽상의 성"
   },
   "いまは脆き夢想の城": {
     "JP": null,
@@ -599,7 +599,7 @@
     "CN": "由一而生的持国百子",
     "TW": "從一而生的百王子",
     "NA": "The Firstborn Among the Hundred Sons",
-    "KR": null
+    "KR": "하나에서 태어난 백왕자"
   },
   "一刀両断": {
     "JP": null,
@@ -711,7 +711,7 @@
     "CN": "粉碎世界的胜利之舞",
     "TW": "破碎世界的勝利之舞",
     "NA": "World-Shattering Victory Dance",
-    "KR": null
+    "KR": "세계를 부수는 승리의 무도"
   },
   "串刺の雷刃": {
     "JP": null,
@@ -1894,7 +1894,7 @@
     "CN": "愤怒啊，愿望啊，戮尽诸魔的女神啊",
     "TW": "忿怒啊，願望啊，屠盡群魔的女神啊",
     "NA": "O Fury, O Prayers, O Goddess who Exterminates the Devils",
-    "KR": null
+    "KR": "분노여, 소원이여, 마를 몰살하는 여신이여"
   },
   "急射撃": {
     "JP": null,
@@ -1943,7 +1943,7 @@
     "CN": "怪物的黄金剑",
     "TW": "怪物的黃金劍",
     "NA": "Monstrous Golden Blade",
-    "KR": null
+    "KR": "괴물의 황금검"
   },
   "恋もて堕とすは愛果てなり": {
     "JP": null,
@@ -2517,6 +2517,13 @@
     "CN": "永动机·妖精帝国",
     "TW": "永久機關・妖精帝國",
     "NA": "Perpetual Heart - Fae Empire",
+    "KR": null
+  },
+  "汝、この門を潜る者、一切の希望を捨てよ": {
+    "JP": null,
+    "CN": "汝，来入此门者，快将一切希望弃扬",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "波動砲": {
@@ -3375,7 +3382,7 @@
   },
   "終局宇宙に閃く獣冠": {
     "JP": null,
-    "CN": "闪耀于终局宇宙的兽冠",
+    "CN": "闪烁于终局宇宙的兽冠",
     "TW": "閃耀於終局宇宙的獸冠",
     "NA": null,
     "KR": null
@@ -3404,7 +3411,7 @@
   "絡繰外法・獅子奮迅": {
     "JP": null,
     "CN": "机关外法·狮子奋迅",
-    "TW": "機關外法・獅子奮迅",
+    "TW": "機關外法．獅子奮迅",
     "NA": "Mechanical Heterodox Art - Ferocious like a Lion",
     "KR": "꼭두각시 외법・사자분신"
   },
@@ -3895,7 +3902,7 @@
     "JP": null,
     "CN": "超级维新·奇兵队",
     "TW": "超級維新．奇兵隊",
-    "NA": "Choukyuu Ishin - Kiheitai",
+    "NA": "Super Restoration, Kiheitai",
     "KR": "초급유신・기병대"
   },
   "蹴り穿つ死翔の槍": {
@@ -4253,7 +4260,7 @@
     "CN": "风神之子，在此",
     "TW": "風神之子，在此",
     "NA": "The Child of the God of Winds is Here",
-    "KR": null
+    "KR": "풍신의 아이, 여기 있노라"
   },
   "飛翔せよ、わが金色の大翼": {
     "JP": null,

@@ -629,6 +629,13 @@
     "NA": "Altera Timer",
     "KR": "알테라 타이머"
   },
+  "イデアル・ホテリエ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "イマジナリ・エクスプローラー": {
     "JP": null,
     "CN": "幻想探索者",
@@ -1602,6 +1609,20 @@
     "NA": "Field Change [Millennium Castle]",
     "KR": "필드 변화[천년성]"
   },
+  "フィールド変化〔地獄〕": {
+    "JP": null,
+    "CN": "场地变化〔地狱〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールド変化〔天国〕": {
+    "JP": null,
+    "CN": "场地变化〔天国〕",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "フィールド変化〔暗闇〕": {
     "JP": null,
     "CN": "场地变化〔黑暗〕",
@@ -1714,6 +1735,27 @@
     "NA": "Dance of the Seven Veils",
     "KR": "일곱 베일의 춤"
   },
+  "三大パワー〔紅〕": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "三大パワー〔翠〕": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "三大パワー〔藍〕": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "与HP回復量アップ": {
     "JP": null,
     "CN": "付与生命值回复量提升",
@@ -1775,7 +1817,7 @@
     "CN": "令咒激发",
     "TW": "令咒激發",
     "NA": "Command Spell Excitation",
-    "KR": null
+    "KR": "영주여기"
   },
   "保護対象": {
     "JP": null,
@@ -2263,7 +2305,7 @@
   "威力アップ〔拘束〕": {
     "JP": null,
     "CN": "威力提升〔束缚〕",
-    "TW": "威力提升〔拘束〕",
+    "TW": "威力提升〔束縛〕",
     "NA": "Strength Up [Bound]",
     "KR": "위력 UP[구속]"
   },
@@ -3188,7 +3230,7 @@
     "JP": null,
     "CN": "攻击时追加效果",
     "TW": "攻擊時追加效果",
-    "NA": "Bonus Attack Effect",
+    "NA": "Bonus Effect on Attack",
     "KR": "공격 시 추가 효과"
   },
   "攻撃時追加効果(強化)": {
@@ -3856,6 +3898,13 @@
     "NA": "Wrath of the Spirits",
     "KR": null
   },
+  "罪の刻印": {
+    "JP": null,
+    "CN": "罪之刻印",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "聖杯所持": {
     "JP": null,
     "CN": "持有圣杯",
@@ -4096,7 +4145,7 @@
   },
   "謳花爛漫": {
     "JP": null,
-    "CN": null,
+    "CN": "讴花烂漫",
     "TW": null,
     "NA": null,
     "KR": null
@@ -4491,7 +4540,7 @@
     "CN": "魔性的战斗美",
     "TW": "魔性的戰鬥美",
     "NA": "Demonic Combat Beauty",
-    "KR": null
+    "KR": "마성의 전투미"
   },
   "魔法少女力": {
     "JP": null,

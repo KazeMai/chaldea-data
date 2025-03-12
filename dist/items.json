@@ -5348,6 +5348,18 @@
   "startedAt": 946652400,
   "endedAt": 1910876400
 }, {
+  "id": 280100001,
+  "name": "サーヴァントコイン",
+  "type": "svtCoin",
+  "detail": "【サーヴァント強化素材】\nサーヴァントの霊基のカケラ。",
+  "icon": "https://static.atlasacademy.io/JP/Coins/2801000.png",
+  "background": "silver",
+  "value": 2801000,
+  "priority": 57,
+  "dropPriority": 1003,
+  "startedAt": 946652400,
+  "endedAt": 1910876400
+}, {
   "id": 330010001,
   "name": "サーヴァントコイン",
   "type": "svtCoin",
@@ -9469,6 +9481,58 @@
     "requireNum": 1
   }]
 }, {
+  "id": 10091,
+  "name": "3月交換券(2025)",
+  "type": "itemSelect",
+  "detail": "5種類の素材アイテムの中から一つと交換ができます。",
+  "icon": "https://static.atlasacademy.io/JP/Items/10000.png",
+  "background": "silver",
+  "priority": 200,
+  "dropPriority": 9001,
+  "startedAt": 1443625200,
+  "endedAt": 1751295599,
+  "itemSelects": [{
+    "idx": 1,
+    "gifts": [{
+      "id": 21301,
+      "objectId": 6501,
+      "num": 1
+    }],
+    "requireNum": 1
+  }, {
+    "idx": 2,
+    "gifts": [{
+      "id": 25688,
+      "objectId": 6557,
+      "num": 1
+    }],
+    "requireNum": 1
+  }, {
+    "idx": 3,
+    "gifts": [{
+      "id": 20701,
+      "objectId": 6515,
+      "num": 1
+    }],
+    "requireNum": 1
+  }, {
+    "idx": 4,
+    "gifts": [{
+      "id": 25622,
+      "objectId": 6551,
+      "num": 1
+    }],
+    "requireNum": 1
+  }, {
+    "idx": 5,
+    "gifts": [{
+      "id": 25384,
+      "objectId": 6534,
+      "num": 1
+    }],
+    "requireNum": 1
+  }]
+}, {
   "id": 94092201,
   "name": "2024年お正月限定素材交換券",
   "type": "itemSelect",
@@ -10848,6 +10912,17 @@
   "priority": 9001,
   "dropPriority": 2001,
   "startedAt": 1712912400,
+  "endedAt": 1910876400
+}, {
+  "id": 202,
+  "name": "Ｕピース〔地〕",
+  "type": "eventItem",
+  "detail": "【？？？】\n地の力を宿した謎の金属片。\n寛大、慢心。これぞ僕らの大統領。",
+  "icon": "https://static.atlasacademy.io/JP/Items/202.png",
+  "background": "gold",
+  "priority": 9002,
+  "dropPriority": 2002,
+  "startedAt": 1740733200,
   "endedAt": 1910876400
 }, {
   "id": 80059,
@@ -25601,6 +25676,76 @@
   "startedAt": 1738400400,
   "endedAt": 1910876400
 }, {
+  "id": 94141501,
+  "name": "クラシックタオル",
+  "type": "eventItem",
+  "detail": "【イベント収集アイテム】\n『彼の名はダンテ』\nで手に入れた、風格のあるタオル。\n清潔に保たれ綺麗に畳まれた生地が\nホテルの格式の高さを感じさせる。",
+  "individuality": [{
+    "id": 10932
+  }],
+  "icon": "https://static.atlasacademy.io/JP/Items/94141501.png",
+  "background": "bronze",
+  "priority": 94141501,
+  "dropPriority": 2001,
+  "startedAt": 1741172400,
+  "endedAt": 1743566399
+}, {
+  "id": 94141502,
+  "name": "ビンテージクローシュ",
+  "type": "eventItem",
+  "detail": "【イベント収集アイテム】\n『彼の名はダンテ』\nで手に入れた、年代物のクローシュ。\nよく手入れされた銀のカバーが\nホテルで食べる料理の特別感を演出する。",
+  "individuality": [{
+    "id": 10933
+  }],
+  "icon": "https://static.atlasacademy.io/JP/Items/94141502.png",
+  "background": "silver",
+  "priority": 94141502,
+  "dropPriority": 2002,
+  "startedAt": 1741172400,
+  "endedAt": 1743566399
+}, {
+  "id": 94141503,
+  "name": "レトロルームキー",
+  "type": "eventItem",
+  "detail": "【イベント収集アイテム】\n『彼の名はダンテ』\nで手に入れた、古風なルームキー。\nホテルの部屋から出る時は鍵を忘れずに。",
+  "individuality": [{
+    "id": 10934
+  }],
+  "icon": "https://static.atlasacademy.io/JP/Items/94141503.png",
+  "background": "gold",
+  "priority": 94141503,
+  "dropPriority": 2003,
+  "startedAt": 1741172400,
+  "endedAt": 1743566399
+}, {
+  "id": 94141504,
+  "name": "CBC2025特別交換券",
+  "type": "eventItem",
+  "detail": "【イベント交換アイテム】\n『カルデアボーイズコレクション2025』\nで届けられた、特別な宿泊客用の交換券。",
+  "individuality": [{
+    "id": 10935
+  }],
+  "icon": "https://static.atlasacademy.io/JP/Items/94141504.png",
+  "background": "gold",
+  "priority": 94141504,
+  "dropPriority": 2004,
+  "startedAt": 1741172400,
+  "endedAt": 1743566399
+}, {
+  "id": 94141505,
+  "name": "CBC2024特別交換券",
+  "type": "eventItem",
+  "detail": "【イベント交換アイテム】\n『カルデアボーイズコレクション2024』\nで届けられた、VIP席のお客様用の交換券。",
+  "individuality": [{
+    "id": 10836
+  }],
+  "icon": "https://static.atlasacademy.io/JP/Items/94093304.png",
+  "background": "gold",
+  "priority": 94141505,
+  "dropPriority": 2005,
+  "startedAt": 1741172400,
+  "endedAt": 1910876400
+}, {
   "id": 94088501,
   "name": "霊脈石",
   "type": "continueItem",
@@ -25743,6 +25888,17 @@
   "dropPriority": 9000,
   "startedAt": 1738400400,
   "endedAt": 1740754799
+}, {
+  "id": 94143201,
+  "name": "霊脈石",
+  "type": "continueItem",
+  "detail": "【コンティニューアイテム】\n メインストーリーのバトルにおいて\n パーティ全滅時に使用することで、\n パーティを全員復活させることができる。\n \n ※使用期限 2025/3/31(月) 23:59",
+  "icon": "https://static.atlasacademy.io/JP/Items/94054401.png",
+  "background": "gold",
+  "priority": 100000000,
+  "dropPriority": 9000,
+  "startedAt": 1740819600,
+  "endedAt": 1743433199
 }, {
   "id": 94086301,
   "name": "星見のティーポット",
@@ -25963,6 +26119,17 @@
   "dropPriority": 9004,
   "startedAt": 1738335600,
   "endedAt": 1743433199
+}, {
+  "id": 94138205,
+  "name": "星見のティーポット",
+  "type": "friendshipUpItem",
+  "detail": "【絆ブーストアイテム】\nクエストクリア時のパーティ全体(控え含む)の\n絆獲得量を2倍にする。\n(絆を獲得できないクエストでは消費されない)\n\n※使用期限 2025/4/30(水) 23:59",
+  "icon": "https://static.atlasacademy.io/JP/Items/94065901.png",
+  "background": "silver",
+  "priority": 200000005,
+  "dropPriority": 9005,
+  "startedAt": 1740754800,
+  "endedAt": 1746025199
 }, {
   "id": 990000000,
   "name": "期間限定★5サーヴァントコイン（補填）",

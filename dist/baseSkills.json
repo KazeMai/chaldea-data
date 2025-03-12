@@ -10888,6 +10888,23 @@
     }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
   }]
 }, {
+  "id": 83252,
+  "name": "陣地作成 D++",
+  "ruby": "じんちさくせい",
+  "unmodifiedDetail": "自身のArtsカードの性能を少しアップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00104.png",
+  "coolDown": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "functions": [{
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 52
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }]
+}, {
   "id": 83350,
   "name": "陣地作成 C",
   "ruby": "じんちさくせい",
@@ -17815,6 +17832,7 @@
     "svtId": 300400,
     "num": 2,
     "priority": 1,
+    "strengthStatus": 1,
     "condLimitCount": 1
   }, {
     "svtId": 9945710,
@@ -40099,6 +40117,7 @@
     "svtId": 301400,
     "num": 2,
     "priority": 1,
+    "strengthStatus": 1,
     "condLimitCount": 1
   }],
   "functions": [{
@@ -45783,6 +45802,7 @@
     "svtId": 603300,
     "num": 3,
     "priority": 1,
+    "strengthStatus": 1,
     "condLimitCount": 3
   }, {
     "svtId": 9945290,
@@ -45823,6 +45843,116 @@
       "Turn": 1,
       "Count": -1,
       "Value": 300
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }]
+}, {
+  "id": 485551,
+  "name": "撃剣矯捷なること隼の如し A+",
+  "ruby": "げきけんきょうしょうなることはやぶさのごとし",
+  "unmodifiedDetail": "自身のArtsカード性能をアップ[{0}](1ターン)[g][o]▲[/o][/g]＆スター集中度をアップ[{0}](1ターン) ＋ スターを獲得[{0}][g][o]▲[/o][/g]",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+  "coolDown": [5, 5, 5, 5, 5, 4, 4, 4, 4, 3],
+  "skillSvts": [{
+    "svtId": 603300,
+    "num": 3,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condQuestId": 94143300,
+    "condQuestPhase": 3,
+    "condLimitCount": 3
+  }],
+  "functions": [{
+    "funcId": 110,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 1,
+      "Count": -1,
+      "Value": 100
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }, {
+    "funcId": 365,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 1,
+      "Count": -1,
+      "Value": 3000
+    }, {
+      "Value": 3200
+    }, {
+      "Value": 3400
+    }, {
+      "Value": 3600
+    }, {
+      "Value": 3800
+    }, {
+      "Value": 4000
+    }, {
+      "Value": 4200
+    }, {
+      "Value": 4400
+    }, {
+      "Value": 4600
+    }, {
+      "Value": 5000
+    }]
+  }, {
+    "funcId": 215,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 1,
+      "Count": -1,
+      "Value": 300
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 476,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 5
+    }, {
+      "Value": 6
+    }, {
+      "Value": 7
+    }, {
+      "Value": 8
+    }, {
+      "Value": 9
+    }, {
+      "Value": 10
+    }, {
+      "Value": 11
+    }, {
+      "Value": 12
+    }, {
+      "Value": 13
+    }, {
+      "Value": 15
+    }]
+  }, {
+    "funcId": 215,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 2,
+      "Count": -1,
+      "Value": 200
     }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
   }]
 }, {
@@ -88893,6 +89023,129 @@
     }]
   }]
 }, {
+  "id": 940379,
+  "name": "イデアル・ホテリエ EX",
+  "unmodifiedDetail": "自身の『CBC2025 彼の名はダンテ』における攻撃の威力を100%アップ【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22502,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 1000
+    }]
+  }]
+}, {
+  "id": 940380,
+  "name": "イデアル・ホテリエ A",
+  "unmodifiedDetail": "自身の『CBC2025 彼の名はダンテ』における攻撃の威力を50%アップ【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22502,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 500
+    }]
+  }]
+}, {
+  "id": 940381,
+  "name": "イデアル・ホテリエ B",
+  "unmodifiedDetail": "自身の『CBC2025 彼の名はダンテ』における攻撃の威力を30%アップ【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22501,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 300
+    }]
+  }]
+}, {
+  "id": 940382,
+  "name": "三大パワー〔翠〕 EX",
+  "unmodifiedDetail": "自身の『小野小町古今抄』におけるQuickカードの威力を50%アップ＆クエストクリア時に得られる絆を50%増やす【『小野小町古今抄』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22515,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 500,
+      "ShowState": 1
+    }]
+  }, {
+    "funcId": 22422,
+    "svals": [{
+      "Target": 1,
+      "Individuality": 0,
+      "EventId": 80514,
+      "RateCount": 500
+    }]
+  }]
+}, {
+  "id": 940383,
+  "name": "三大パワー〔藍〕 EX",
+  "unmodifiedDetail": "自身の『小野小町古今抄』におけるArtsカードの威力を50%アップ＆クエストクリア時に得られる絆を50%増やす【『小野小町古今抄』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22518,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 500,
+      "ShowState": 1
+    }]
+  }, {
+    "funcId": 22422,
+    "svals": [{
+      "Target": 1,
+      "Individuality": 0,
+      "EventId": 80514,
+      "RateCount": 500
+    }]
+  }]
+}, {
+  "id": 940384,
+  "name": "三大パワー〔紅〕 EX",
+  "unmodifiedDetail": "自身の『小野小町古今抄』におけるBusterカードの威力を50%アップ＆クエストクリア時に得られる絆を50%増やす【『小野小町古今抄』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22521,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 500,
+      "ShowState": 1
+    }]
+  }, {
+    "funcId": 22422,
+    "svals": [{
+      "Target": 1,
+      "Individuality": 0,
+      "EventId": 80514,
+      "RateCount": 500
+    }]
+  }]
+}, {
   "id": 940385,
   "name": "謳花爛漫 B",
   "unmodifiedDetail": "自身の『小野小町古今抄』における攻撃の威力を30%アップ＆クエストクリア時に得られる絆を20%増やす【『小野小町古今抄』イベント期間限定】",
@@ -88913,6 +89166,71 @@
       "Target": 1,
       "Individuality": 0,
       "EventId": 80514,
+      "RateCount": 200
+    }]
+  }]
+}, {
+  "id": 940386,
+  "name": "巡霊の祝祭",
+  "ruby": "じゅんれいのしゅくさい",
+  "unmodifiedDetail": "自身の攻撃の威力を50%アップ【巡霊の祝祭 第10弾期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00301.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 20850,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 500
+    }]
+  }]
+}, {
+  "id": 940387,
+  "name": "ホスピタリティ・マインド EX",
+  "unmodifiedDetail": "自身の『CBC2025 彼の名はダンテ』のクエストクリア時に得られる絆を50%増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00205.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22503,
+    "svals": [{
+      "Target": 1,
+      "Individuality": 0,
+      "EventId": 80520,
+      "RateCount": 500
+    }]
+  }]
+}, {
+  "id": 940388,
+  "name": "ホスピタリティ・マインド A",
+  "unmodifiedDetail": "自身の『CBC2025 彼の名はダンテ』のクエストクリア時に得られる絆を30%増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00205.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22503,
+    "svals": [{
+      "Target": 1,
+      "Individuality": 0,
+      "EventId": 80520,
+      "RateCount": 300
+    }]
+  }]
+}, {
+  "id": 940389,
+  "name": "ホスピタリティ・マインド B",
+  "unmodifiedDetail": "自身の『CBC2025 彼の名はダンテ』のクエストクリア時に得られる絆を20%増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00205.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22503,
+    "svals": [{
+      "Target": 1,
+      "Individuality": 0,
+      "EventId": 80520,
       "RateCount": 200
     }]
   }]
@@ -103251,6 +103569,63 @@
       "Turn": 3,
       "Count": -1,
       "Value": 1000
+    }]
+  }]
+}, {
+  "id": 970630,
+  "name": "",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_999999.png",
+  "coolDown": [1],
+  "functions": [{
+    "funcId": 6551,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 0,
+      "Value2": 1,
+      "CheckDead": 1,
+      "DisplayNoEffectCauses": "Avoided"
+    }]
+  }, {
+    "funcId": 22557,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 0,
+      "Value2": 1,
+      "TriggeredFuncPosition": 1
+    }]
+  }, {
+    "funcId": 145,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100,
+      "TriggeredFuncPosition": 2
+    }]
+  }]
+}, {
+  "id": 970631,
+  "name": "",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_999999.png",
+  "coolDown": [1],
+  "functions": [{
+    "funcId": 22557,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 0,
+      "Value2": 1
+    }]
+  }, {
+    "funcId": 145,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100,
+      "TriggeredFuncPosition": 1,
+      "ExtendBuffHalfTurnInOpponentTurn": 1
     }]
   }]
 }, {
@@ -223740,6 +224115,23 @@
     "svals": [{}]
   }]
 }, {
+  "id": 994598,
+  "name": "カルデア・パステルメモリー",
+  "ruby": "-",
+  "unmodifiedDetail": "効果なし",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_999999.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9809560,
+    "num": 1,
+    "priority": 1
+  }],
+  "functions": [{
+    "funcId": 0,
+    "svals": [{}]
+  }]
+}, {
   "id": 994600,
   "name": "マイ・リトル・ドラゴン",
   "ruby": "-",
@@ -224019,6 +224411,1241 @@
     }]
   }]
 }, {
+  "id": 994609,
+  "name": "探偵クリスト～未来邂逅編～",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のQuickカード性能を8%アップ＆Artsカード性能を8%アップ＆NP獲得量を8%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408400,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 336,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 754,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": 1,
+      "Value": 2
+    }]
+  }]
+}, {
+  "id": 994610,
+  "name": "探偵クリスト～未来邂逅編～",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のQuickカード性能を10%アップ＆Artsカード性能を10%アップ＆NP獲得量を10%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408400,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }, {
+    "funcId": 336,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }, {
+    "funcId": 754,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": 1,
+      "Value": 2
+    }]
+  }]
+}, {
+  "id": 994611,
+  "name": "レトロルームキーのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "レトロルームキーのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408400,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22504,
+    "svals": [{
+      "Individuality": 10934,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994612,
+  "name": "レトロルームキーのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "レトロルームキーのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408400,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22504,
+    "svals": [{
+      "Individuality": 10934,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994613,
+  "name": "コール・ラヴァ",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に防御無視状態を付与＆Quickカード性能を6%アップ＆Artsカード性能を6%アップ＆Busterカード性能を6%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00334.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408410,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 1588,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1
+    }]
+  }, {
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 60
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 60
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 60
+    }]
+  }]
+}, {
+  "id": 994614,
+  "name": "コール・ラヴァ",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に防御無視状態を付与＆Quickカード性能を8%アップ＆Artsカード性能を8%アップ＆Busterカード性能を8%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00334.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408410,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 1588,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1
+    }]
+  }, {
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }]
+}, {
+  "id": 994615,
+  "name": "レトロルームキーのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "レトロルームキーのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408410,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22504,
+    "svals": [{
+      "Individuality": 10934,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994616,
+  "name": "レトロルームキーのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "レトロルームキーのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408410,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22504,
+    "svals": [{
+      "Individuality": 10934,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994617,
+  "name": "ウェザー・リポート＜Ｐ＞",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に毎ターンNP4%獲得状態を付与＆Artsカード性能を3%アップ＆Busterカード性能を3%アップ＆NP獲得量を3%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00607.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408420,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 324,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 400
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 336,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }]
+}, {
+  "id": 994618,
+  "name": "ウェザー・リポート＜Ｐ＞",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に毎ターンNP5%獲得状態を付与＆Artsカード性能を5%アップ＆Busterカード性能を5%アップ＆NP獲得量を5%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00607.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408420,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 324,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 500
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }, {
+    "funcId": 336,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }]
+}, {
+  "id": 994619,
+  "name": "ビンテージクローシュのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "ビンテージクローシュのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408420,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22505,
+    "svals": [{
+      "Individuality": 10933,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994620,
+  "name": "ビンテージクローシュのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "ビンテージクローシュのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408420,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22505,
+    "svals": [{
+      "Individuality": 10933,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994621,
+  "name": "ブラザー・スペシャル",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のスター集中度を300%アップ＆Busterカード性能を3%アップ＆クリティカル威力を5%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408430,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 365,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 3000
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 199,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }]
+}, {
+  "id": 994622,
+  "name": "ブラザー・スペシャル",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のスター集中度を400%アップ＆Busterカード性能を5%アップ＆クリティカル威力を10%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00311.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408430,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 365,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 4000
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }, {
+    "funcId": 199,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }]
+}, {
+  "id": 994623,
+  "name": "ビンテージクローシュのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "ビンテージクローシュのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408430,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22505,
+    "svals": [{
+      "Individuality": 10933,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994624,
+  "name": "ビンテージクローシュのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "ビンテージクローシュのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408430,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22505,
+    "svals": [{
+      "Individuality": 10933,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994625,
+  "name": "おむすび・れむなんと",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆HP回復量を10%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408440,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 80
+    }]
+  }, {
+    "funcId": 492,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }]
+}, {
+  "id": 994626,
+  "name": "おむすび・れむなんと",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のArtsカード性能を10%アップ＆Busterカード性能を10%アップ＆HP回復量を20%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408440,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }, {
+    "funcId": 492,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 200
+    }]
+  }]
+}, {
+  "id": 994627,
+  "name": "ビンテージクローシュのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "ビンテージクローシュのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408440,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22505,
+    "svals": [{
+      "Individuality": 10933,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994628,
+  "name": "ビンテージクローシュのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "ビンテージクローシュのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408440,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22505,
+    "svals": [{
+      "Individuality": 10933,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994629,
+  "name": "カルデア・エージェンツ",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に毎ターンスター1個獲得状態を付与＆NP獲得量を3%アップ＆被強化成功率を3%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00605.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408450,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 333,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 1
+    }]
+  }, {
+    "funcId": 336,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 2217,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }]
+}, {
+  "id": 994630,
+  "name": "カルデア・エージェンツ",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に毎ターンスター2個獲得状態を付与＆NP獲得量を5%アップ＆被強化成功率を5%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00605.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408450,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 333,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 2
+    }]
+  }, {
+    "funcId": 336,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }, {
+    "funcId": 2217,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }]
+}, {
+  "id": 994631,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408450,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994632,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408450,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994633,
+  "name": "とある神父の晩餐会",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のNPを10%チャージした状態でバトルを開始する＆Quickカード性能を2%アップ＆Artsカード性能を2%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408460,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 460,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 1000
+    }]
+  }, {
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 20
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 20
+    }]
+  }]
+}, {
+  "id": 994634,
+  "name": "とある神父の晩餐会",
+  "ruby": "-",
+  "unmodifiedDetail": "自身のNPを20%チャージした状態でバトルを開始する＆Quickカード性能を3%アップ＆Artsカード性能を3%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408460,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 460,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 2000
+    }]
+  }, {
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }]
+}, {
+  "id": 994635,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408460,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994636,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408460,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994637,
+  "name": "デリバリー・ヒーリング",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に毎ターンHP50回復状態を付与＆Quickカード性能を2%アップ＆Artsカード性能を2%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00606.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408470,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 310,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }, {
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 20
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 20
+    }]
+  }]
+}, {
+  "id": 994638,
+  "name": "デリバリー・ヒーリング",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に毎ターンHP100回復状態を付与＆Quickカード性能を3%アップ＆Artsカード性能を3%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00606.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408470,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 310,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 100
+    }]
+  }, {
+    "funcId": 100,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }]
+}, {
+  "id": 994639,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408470,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994640,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408470,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994641,
+  "name": "弓術談義",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に必中状態を付与＆Artsカード性能を2%アップ＆Busterカード性能を2%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408480,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 288,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 20
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 20
+    }]
+  }]
+}, {
+  "id": 994642,
+  "name": "弓術談義",
+  "ruby": "-",
+  "unmodifiedDetail": "自身に必中状態を付与＆Artsカード性能を3%アップ＆Busterカード性能を3%アップ[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00310.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408480,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 288,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1
+    }]
+  }, {
+    "funcId": 109,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }, {
+    "funcId": 118,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 30
+    }]
+  }]
+}, {
+  "id": 994643,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408480,
+    "num": 2,
+    "priority": 1,
+    "strengthStatus": 1,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 1
+    }]
+  }]
+}, {
+  "id": 994644,
+  "name": "クラシックタオルのドロップ獲得数アップ",
+  "ruby": "-",
+  "unmodifiedDetail": "クラシックタオルのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00200.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408480,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4,
+    "eventId": 80520
+  }],
+  "functions": [{
+    "funcId": 22506,
+    "svals": [{
+      "Individuality": 10932,
+      "EventId": 80520,
+      "AddCount": 2
+    }]
+  }]
+}, {
+  "id": 994645,
+  "name": "罪の剣",
+  "ruby": "-",
+  "unmodifiedDetail": "[servantName 2801000](プリテンダー)装備時のみ、自身の宝具威力を30%アップ＆「クリティカル攻撃時に〔罪の刻印〕状態を1つ消費して自身の攻撃力を10%アップ(3ターン)する状態」を付与",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00515.png",
+  "coolDown": [0],
+  "actIndividuality": [{
+    "id": 2801000
+  }],
+  "skillSvts": [{
+    "svtId": 9309010,
+    "num": 1,
+    "priority": 1
+  }],
+  "functions": [{
+    "funcId": 248,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 300
+    }]
+  }, {
+    "funcId": 22563,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 994656,
+      "Value2": 1
+    }]
+  }]
+}, {
+  "id": 994646,
+  "name": "天使の剣",
+  "ruby": "てんしのつるぎ",
+  "unmodifiedDetail": "刻印されたカードによる攻撃時にスターを2個獲得 ＋ 刻印されたカードのNP獲得量を5%アップ",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 21636,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 994655,
+      "Value2": 1,
+      "ShowState": -1
+    }]
+  }, {
+    "funcId": 5623,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": -1,
+      "Count": -1,
+      "Value": 50
+    }]
+  }]
+}, {
   "id": 994647,
   "name": "赤い唐傘",
   "ruby": "あかいからかさ",
@@ -224100,6 +225727,25 @@
     }]
   }]
 }, {
+  "id": 994650,
+  "name": "巡霊の祝祭／拾",
+  "ruby": "-",
+  "unmodifiedDetail": "サポートで得られるフレンドポイントが＋10される(重複可能)",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00202.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9309020,
+    "num": 1,
+    "priority": 1
+  }],
+  "functions": [{
+    "funcId": 5607,
+    "svals": [{
+      "AddCount": 10
+    }]
+  }]
+}, {
   "id": 994651,
   "name": "",
   "type": "passive",
@@ -224125,6 +225771,86 @@
     "svals": [{
       "Rate": 1000,
       "Value": 2000
+    }]
+  }]
+}, {
+  "id": 994653,
+  "name": "至誠の一針",
+  "ruby": "-",
+  "unmodifiedDetail": "クエストクリア時に得られる〔霊衣を持つ者〕の絆を4%増やす",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00205.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408390,
+    "num": 1,
+    "priority": 1,
+    "strengthStatus": 1
+  }],
+  "functions": [{
+    "funcId": 22546,
+    "svals": [{
+      "Individuality": 0,
+      "RateCount": 40
+    }]
+  }]
+}, {
+  "id": 994654,
+  "name": "至誠の一針",
+  "ruby": "-",
+  "unmodifiedDetail": "クエストクリア時に得られる〔霊衣を持つ者〕の絆を20%増やす[最大解放]",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00205.png",
+  "coolDown": [0],
+  "skillSvts": [{
+    "svtId": 9408390,
+    "num": 1,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condLimitCount": 4
+  }],
+  "functions": [{
+    "funcId": 22546,
+    "svals": [{
+      "Individuality": 0,
+      "RateCount": 200
+    }]
+  }]
+}, {
+  "id": 994655,
+  "name": "",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_999999.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 475,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 2
+    }]
+  }]
+}, {
+  "id": 994656,
+  "name": "",
+  "type": "passive",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_999999.png",
+  "coolDown": [0],
+  "functions": [{
+    "funcId": 22557,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 0,
+      "Value2": 1,
+      "DisplayNoEffectCauses": "Avoided"
+    }]
+  }, {
+    "funcId": 145,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100,
+      "TriggeredFuncPosition": 1
     }]
   }]
 }, {
@@ -253235,30 +254961,6 @@
       "Count": -1,
       "Value": 2887
     }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
-  }, {
-    "funcId": 21675,
-    "svals": [{
-      "Rate": 5000,
-      "Turn": -1,
-      "Count": -1,
-      "Value": 3
-    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
-  }, {
-    "funcId": 21676,
-    "svals": [{
-      "Rate": 5000,
-      "Turn": -1,
-      "Count": -1,
-      "Value": 201
-    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
-  }, {
-    "funcId": 21677,
-    "svals": [{
-      "Rate": 5000,
-      "Turn": -1,
-      "Count": -1,
-      "Value": 202
-    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
   }]
 }, {
   "id": 2344150,
@@ -264920,6 +266622,16 @@
   "type": "passive",
   "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00326.png",
   "coolDown": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "skillAdd": [{
+    "priority": 0,
+    "releaseConditions": [{
+      "id": 40140203,
+      "condType": "questClear",
+      "condId": 91505801
+    }],
+    "name": "菩薩の化身 B",
+    "ruby": "ぼさつのけしん"
+  }],
   "functions": [{
     "funcId": 265,
     "svals": [{
@@ -265278,6 +266990,770 @@
     }, {
       "Value": 500
     }]
+  }]
+}, {
+  "id": 2466650,
+  "name": "太陽神の閃光 EX",
+  "ruby": "たいようしんのせんこう",
+  "unmodifiedDetail": "自身のQuickカード性能をアップ[{0}](3ターン)[g][o]▲[/o][/g]＆Busterカード性能をアップ[{0}](3ターン[g][o]▲[/o][/g])＆宝具威力をアップ[{0}](3ターン[g][o]▲[/o][/g])",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00316.png",
+  "coolDown": [7, 7, 7, 7, 7, 6, 6, 6, 6, 5],
+  "skillSvts": [{
+    "svtId": 300400,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condQuestId": 94143250,
+    "condQuestPhase": 3,
+    "condLimitCount": 1
+  }],
+  "functions": [{
+    "funcId": 101,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 200
+    }, {
+      "Value": 210
+    }, {
+      "Value": 220
+    }, {
+      "Value": 230
+    }, {
+      "Value": 240
+    }, {
+      "Value": 250
+    }, {
+      "Value": 260
+    }, {
+      "Value": 270
+    }, {
+      "Value": 280
+    }, {
+      "Value": 300
+    }]
+  }, {
+    "funcId": 119,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 200
+    }, {
+      "Value": 210
+    }, {
+      "Value": 220
+    }, {
+      "Value": 230
+    }, {
+      "Value": 240
+    }, {
+      "Value": 250
+    }, {
+      "Value": 260
+    }, {
+      "Value": 270
+    }, {
+      "Value": 280
+    }, {
+      "Value": 300
+    }]
+  }, {
+    "funcId": 248,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }]
+}, {
+  "id": 2467650,
+  "name": "三世界放浪 EX",
+  "ruby": "さんせかいほうろう",
+  "unmodifiedDetail": "自身のQuickカード性能をアップ[{0}](3ターン)＆Artsカード性能をアップ[{0}](3ターン)＆Busterカード性能をアップ[{0}](3ターン)＆ガッツ状態を付与(1回・3ターン)",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00317.png",
+  "coolDown": [8, 8, 8, 8, 8, 7, 7, 7, 7, 6],
+  "skillSvts": [{
+    "svtId": 2801000,
+    "num": 1,
+    "priority": 1
+  }],
+  "functions": [{
+    "funcId": 101,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }, {
+    "funcId": 110,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }, {
+    "funcId": 119,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }, {
+    "funcId": 292,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": 1,
+      "Value": 1000
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }]
+}, {
+  "id": 2468551,
+  "name": "百歌の星 A+",
+  "ruby": "ひゃっかのほし",
+  "unmodifiedDetail": "スターを獲得[{0}] ＋ フィールドを〔天国〕または〔地獄〕状態にする(5ターン)【効果を選択】 ＋ フィールドが〔天国〕の時、味方全体のArtsカード性能をアップ[{0}](3ターン)＆クリティカル威力をアップ[{0}](3ターン)＆毎ターンHP回復状態を付与(3ターン) ＋ フィールドが〔地獄〕の時、味方全体のBusterカード性能をアップ[{0}](3ターン)＆宝具威力をアップ[{0}](3ターン)＋自身に毎ターンNP獲得状態を付与(3ターン)",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00603.png",
+  "coolDown": [8, 8, 8, 8, 8, 7, 7, 7, 7, 6],
+  "script": {
+    "SelectAddInfo": [{
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }, {
+      "title": "どの効果を得るか選択してください",
+      "btn": [{
+        "name": "天国化(Arts強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }, {
+        "name": "地獄化(Buster強化)",
+        "conds": [{
+          "cond": "NONE"
+        }]
+      }]
+    }]
+  },
+  "skillSvts": [{
+    "svtId": 2801000,
+    "num": 2,
+    "priority": 1,
+    "condLimitCount": 1
+  }],
+  "functions": [{
+    "funcId": 476,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 10
+    }, {
+      "Value": 11
+    }, {
+      "Value": 12
+    }, {
+      "Value": 13
+    }, {
+      "Value": 14
+    }, {
+      "Value": 15
+    }, {
+      "Value": 16
+    }, {
+      "Value": 17
+    }, {
+      "Value": 18
+    }, {
+      "Value": 20
+    }]
+  }, {
+    "funcId": 215,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 2,
+      "Count": -1,
+      "Value": 200
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22561,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 5,
+      "Count": -1,
+      "FieldIndividuality": [2949],
+      "TakeOverFieldState": 1,
+      "RemoveFieldBuffActorDeath": 1,
+      "FieldBuffGrantType": 2,
+      "ActSelectIndex": 0,
+      "PriorityBgm": -1,
+      "PriorityBg": -1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22562,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 5,
+      "Count": -1,
+      "FieldIndividuality": [2950],
+      "TakeOverFieldState": 1,
+      "RemoveFieldBuffActorDeath": 1,
+      "FieldBuffGrantType": 2,
+      "ActSelectIndex": 1,
+      "PriorityBgm": -1,
+      "PriorityBg": -1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22548,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100,
+      "ShowQuestNoEffect": 1
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }, {
+    "funcId": 22549,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 300,
+      "ShowQuestNoEffect": 1
+    }, {
+      "Value": 320
+    }, {
+      "Value": 340
+    }, {
+      "Value": 360
+    }, {
+      "Value": 380
+    }, {
+      "Value": 400
+    }, {
+      "Value": 420
+    }, {
+      "Value": 440
+    }, {
+      "Value": 460
+    }, {
+      "Value": 500
+    }]
+  }, {
+    "funcId": 22550,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 1000,
+      "ShowQuestNoEffect": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22551,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100,
+      "ShowQuestNoEffect": 1
+    }, {
+      "Value": 110
+    }, {
+      "Value": 120
+    }, {
+      "Value": 130
+    }, {
+      "Value": 140
+    }, {
+      "Value": 150
+    }, {
+      "Value": 160
+    }, {
+      "Value": 170
+    }, {
+      "Value": 180
+    }, {
+      "Value": 200
+    }]
+  }, {
+    "funcId": 22552,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 200,
+      "ShowQuestNoEffect": 1
+    }, {
+      "Value": 210
+    }, {
+      "Value": 220
+    }, {
+      "Value": 230
+    }, {
+      "Value": 240
+    }, {
+      "Value": 250
+    }, {
+      "Value": 260
+    }, {
+      "Value": 270
+    }, {
+      "Value": 280
+    }, {
+      "Value": 300
+    }]
+  }, {
+    "funcId": 22553,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 1000,
+      "ShowQuestNoEffect": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22554,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 1,
+      "ShowQuestNoEffect": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }]
+}, {
+  "id": 2469450,
+  "name": "七罪の刻印 B",
+  "ruby": "しちざいのこくいん",
+  "unmodifiedDetail": "自身のNPを増やす[{0}]＆〔罪の刻印〕状態<特殊な弱体耐性ダウン状態・弱体解除で解除不能>を7つ付与(3ターン)【デメリット】＆「自身に〔罪の刻印〕状態が付与されている場合、攻撃時に対象の強化状態を1つ解除＆解除成功時、〔罪の刻印〕状態を1つ消費して自身の攻撃力をアップ(3ターン)する状態」を付与(3ターン)＆「ガッツ発動時、〔罪の刻印〕状態を1つ消費して自身の攻撃力をアップ(3ターン)する状態」を付与(3ターン)",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+  "coolDown": [8, 8, 8, 8, 8, 7, 7, 7, 7, 6],
+  "skillSvts": [{
+    "svtId": 2801000,
+    "num": 3,
+    "priority": 1,
+    "condLimitCount": 3
+  }],
+  "functions": [{
+    "funcId": 460,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 3000
+    }, {
+      "Value": 3200
+    }, {
+      "Value": 3400
+    }, {
+      "Value": 3600
+    }, {
+      "Value": 3800
+    }, {
+      "Value": 4000
+    }, {
+      "Value": 4200
+    }, {
+      "Value": 4400
+    }, {
+      "Value": 4600
+    }, {
+      "Value": 5000
+    }]
+  }, {
+    "funcId": 470,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22555,
+    "svals": [{
+      "Rate": 5000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 100
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22556,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 970630,
+      "Value2": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 22560,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 970631,
+      "Value2": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }]
+}, {
+  "id": 2470550,
+  "name": "生死流転の武 A",
+  "ruby": "せいしるてんのぶ",
+  "unmodifiedDetail": "自身のQuickカード性能をアップ[{0}](3ターン[g][o]▲[/o][/g])＆Artsカード性能をアップ[{0}](3ターン)[g][o]▲[/o][/g]＆精神異常耐性を大アップ(3ターン)＆NPを増やす[{0}][g][o]▲[/o][/g]",
+  "type": "active",
+  "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00314.png",
+  "coolDown": [7, 7, 7, 7, 7, 6, 6, 6, 6, 5],
+  "skillSvts": [{
+    "svtId": 301400,
+    "num": 2,
+    "priority": 2,
+    "strengthStatus": 99,
+    "condQuestId": 94143301,
+    "condQuestPhase": 3,
+    "condLimitCount": 1
+  }],
+  "functions": [{
+    "funcId": 102,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 300
+    }, {
+      "Value": 320
+    }, {
+      "Value": 340
+    }, {
+      "Value": 360
+    }, {
+      "Value": 380
+    }, {
+      "Value": 400
+    }, {
+      "Value": 420
+    }, {
+      "Value": 440
+    }, {
+      "Value": 460
+    }, {
+      "Value": 500
+    }]
+  }, {
+    "funcId": 111,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 300
+    }, {
+      "Value": 320
+    }, {
+      "Value": 340
+    }, {
+      "Value": 360
+    }, {
+      "Value": 380
+    }, {
+      "Value": 400
+    }, {
+      "Value": 420
+    }, {
+      "Value": 440
+    }, {
+      "Value": 460
+    }, {
+      "Value": 500
+    }]
+  }, {
+    "funcId": 411,
+    "svals": [{
+      "Rate": 1000,
+      "Turn": 3,
+      "Count": -1,
+      "Value": 1000
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+  }, {
+    "funcId": 460,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 2000
+    }, {
+      "Value": 2100
+    }, {
+      "Value": 2200
+    }, {
+      "Value": 2300
+    }, {
+      "Value": 2400
+    }, {
+      "Value": 2500
+    }, {
+      "Value": 2600
+    }, {
+      "Value": 2700
+    }, {
+      "Value": 2800
+    }, {
+      "Value": 3000
+    }]
+  }, {
+    "funcId": 470,
+    "svals": [{
+      "Rate": 1000,
+      "Value": 1
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}]
   }]
 }, {
   "id": 3001000,

@@ -575,7 +575,7 @@
   },
   "おさるさんチョコ": {
     "JP": null,
-    "CN": null,
+    "CN": "巧克力猴子",
     "TW": null,
     "NA": null,
     "KR": null
@@ -607,6 +607,13 @@
     "TW": "關東煮巧克力",
     "NA": "Chocolate Oden",
     "KR": "어묵 초콜릿"
+  },
+  "おむすび・れむなんと": {
+    "JP": null,
+    "CN": "饭团·Remnant",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "おもちゃのピアノ": {
     "JP": null,
@@ -722,7 +729,7 @@
   },
   "こみっく・がーる": {
     "JP": null,
-    "CN": null,
+    "CN": "漫画女孩",
     "TW": null,
     "NA": null,
     "KR": null
@@ -978,6 +985,13 @@
     "TW": "發生在某片海中之事",
     "NA": "An Incident at Sea",
     "KR": "어느 바다에서 생긴 일"
+  },
+  "とある神父の晩餐会": {
+    "JP": null,
+    "CN": "某神父的晩餐会",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ときめきアイアンウィップ": {
     "JP": null,
@@ -1296,7 +1310,7 @@
   },
   "アトムマクロス・ムリアンスイーツ": {
     "JP": null,
-    "CN": null,
+    "CN": "原子极巨化·缪瑞恩甜点",
     "TW": null,
     "NA": null,
     "KR": null
@@ -1439,7 +1453,7 @@
     "CN": "It's Only a Paper Moon",
     "TW": "It's Only A Paper Moon",
     "NA": "It's Only A Paper Moon",
-    "KR": null
+    "KR": "잇츠 온리 어 페이퍼 문"
   },
   "イノセント・ブルー": {
     "JP": null,
@@ -1535,7 +1549,7 @@
   "ウィナーズ・アイ": {
     "JP": null,
     "CN": "胜者之眼",
-    "TW": "勝者的視線",
+    "TW": "勝者之眼",
     "NA": "Winner's Eye",
     "KR": "위너즈 아이"
   },
@@ -1559,6 +1573,13 @@
     "TW": "冬日派對",
     "NA": "Winter Party",
     "KR": "윈터 파티"
+  },
+  "ウェザー・リポート＜Ｐ＞": {
+    "JP": null,
+    "CN": "天气预报＜P＞",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ウェルカム・ダイナー": {
     "JP": null,
@@ -1641,7 +1662,7 @@
     "JP": null,
     "CN": "永恒的罗马",
     "TW": "永恆的羅馬",
-    "NA": "Eternal Roma",
+    "NA": "Rome, Eternal",
     "KR": "이터널 로마"
   },
   "エトワール・オーナメント": {
@@ -1795,7 +1816,7 @@
     "JP": null,
     "CN": "始终燃烧",
     "TW": "始終燃燒",
-    "NA": "All the Way Bang",
+    "NA": "All the Way Burn",
     "KR": "올웨이 번"
   },
   "オールナイト・フィーバー": {
@@ -1877,7 +1898,7 @@
   },
   "カプリシャス": {
     "JP": null,
-    "CN": "变幻无常",
+    "CN": "变幻莫测",
     "TW": "變幻無常",
     "NA": "Capricious",
     "KR": null
@@ -1994,6 +2015,13 @@
     "NA": "Chaldea Express",
     "KR": "칼데아 익스프레스"
   },
+  "カルデア・エージェンツ": {
+    "JP": null,
+    "CN": "迦勒底特工",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "カルデア・サマーオーダー": {
     "JP": null,
     "CN": "迦勒底夏日指定",
@@ -2036,6 +2064,13 @@
     "NA": "Chaldea New Order",
     "KR": "칼데아 뉴 오더"
   },
+  "カルデア・パステルメモリー": {
+    "JP": null,
+    "CN": "迦勒底粉彩回忆",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "カルデア・ビーチバレー": {
     "JP": null,
     "CN": "迦勒底沙滩排球",
@@ -2066,7 +2101,7 @@
   },
   "カルデア・モーニング": {
     "JP": null,
-    "CN": "迦勒底晨光",
+    "CN": "迦勒底之晨",
     "TW": "迦勒底清晨",
     "NA": "Chaldea Morning",
     "KR": null
@@ -2284,7 +2319,7 @@
   "ギミック・マスター": {
     "JP": null,
     "CN": "机关大师",
-    "TW": "機巧大師",
+    "TW": "機關大師",
     "NA": "Gimmick Master",
     "KR": "기믹 마스터"
   },
@@ -2374,7 +2409,7 @@
   },
   "クリスタル・オブ・ウィズダム": {
     "JP": null,
-    "CN": "智慧的结晶",
+    "CN": "智慧的水晶",
     "TW": "智慧的結晶",
     "NA": "Crystal of Wisdom",
     "KR": null
@@ -2546,6 +2581,13 @@
     "TW": "高德隆．西蒙",
     "NA": "Caudron Simoun",
     "KR": "코드론・시문"
+  },
+  "コール・ラヴァ": {
+    "JP": null,
+    "CN": "Cole Lava",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "ゴッズ・ディール": {
     "JP": null,
@@ -2804,7 +2846,7 @@
     "CN": "沙恭尼的骰子",
     "TW": "沙恭尼的骰子",
     "NA": "Shakuni's Dice",
-    "KR": null
+    "KR": "샤크니의 주사위"
   },
   "シャスマティス": {
     "JP": null,
@@ -2885,7 +2927,7 @@
   },
   "シラノ・ド・ベルジュラック": {
     "JP": null,
-    "CN": "风流剑客",
+    "CN": "大鼻子情圣",
     "TW": "風流劍客",
     "NA": "Cyrano de Bergerac",
     "KR": null
@@ -3095,7 +3137,7 @@
   },
   "スイート・レモン": {
     "JP": null,
-    "CN": null,
+    "CN": "甜蜜柠檬",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3112,7 +3154,7 @@
     "CN": "呕心沥血",
     "TW": "嘔心瀝血",
     "NA": "Sweat Blood",
-    "KR": null
+    "KR": "스웨트・블러드"
   },
   "スケープゴート": {
     "JP": null,
@@ -3263,7 +3305,7 @@
   },
   "スムース・セーリング": {
     "JP": null,
-    "CN": "顺遂的航海",
+    "CN": "一帆风顺",
     "TW": "順遂的航海",
     "NA": "Smooth Sailing",
     "KR": null
@@ -3536,7 +3578,7 @@
   },
   "チョコレート×63": {
     "JP": null,
-    "CN": null,
+    "CN": "巧克力×63",
     "TW": null,
     "NA": null,
     "KR": null
@@ -3648,7 +3690,7 @@
   },
   "デイ・オフ・マスター": {
     "JP": null,
-    "CN": "御主的一日",
+    "CN": "御主之日",
     "TW": "御主的一日",
     "NA": "Day of Master",
     "KR": null
@@ -3687,6 +3729,13 @@
     "TW": "迪朗達爾複製品",
     "NA": "Durendal Replica",
     "KR": "뒤랑달 레플리카"
+  },
+  "デリバリー・ヒーリング": {
+    "JP": null,
+    "CN": "疗愈的配送",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "デンジャラス・ビースト": {
     "JP": null,
@@ -4155,7 +4204,7 @@
     "CN": "牛牧的菜刀",
     "TW": "般度族的菜刀",
     "NA": "Pandava's Cleaver",
-    "KR": null
+    "KR": "발라바의 식칼"
   },
   "バディ・コップ": {
     "JP": null,
@@ -4442,7 +4491,7 @@
     "CN": "搁置",
     "TW": "被棄置的",
     "NA": "Be Shelved",
-    "KR": null
+    "KR": "비 셸브드"
   },
   "ピエドラ・デル・ソル": {
     "JP": null,
@@ -4708,6 +4757,13 @@
     "CN": "明亮之蓝",
     "TW": "明亮之藍",
     "NA": "Bright Blue",
+    "KR": null
+  },
+  "ブラザー・スペシャル": {
+    "JP": null,
+    "CN": "兄长特别订制",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "ブラック・ブラック・キス": {
@@ -5146,14 +5202,14 @@
   },
   "マスター・イン・ザ・デザートグラス": {
     "JP": null,
-    "CN": null,
+    "CN": "杯中沙海里的御主",
     "TW": null,
     "NA": null,
     "KR": null
   },
   "マスター人形": {
     "JP": null,
-    "CN": null,
+    "CN": "御主人偶",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5349,7 +5405,7 @@
   },
   "メモリアル・チョコフレーム": {
     "JP": null,
-    "CN": null,
+    "CN": "巧克力纪念画框",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5671,7 +5727,7 @@
   },
   "リリー・ショコラ": {
     "JP": null,
-    "CN": null,
+    "CN": "巧克力色百合",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5692,7 +5748,7 @@
   },
   "ルギマート！": {
     "JP": null,
-    "CN": null,
+    "CN": "炸糖丸！",
     "TW": null,
     "NA": null,
     "KR": null
@@ -5888,7 +5944,7 @@
   },
   "ヴィランズ・スウィート・バー": {
     "JP": null,
-    "CN": null,
+    "CN": "Villain's Sweet Bar",
     "TW": null,
     "NA": null,
     "KR": null
@@ -6724,7 +6780,7 @@
     "CN": "勇猛的神兽",
     "TW": "勇猛的神獸",
     "NA": "Valiant Divine Beast",
-    "KR": null
+    "KR": "용맹한 신수"
   },
   "勇者の杯": {
     "JP": null,
@@ -6773,7 +6829,7 @@
     "CN": "匠之心魂",
     "TW": "匠之心魂",
     "NA": "Artisanal Soul",
-    "KR": null
+    "KR": "장인의 심혼"
   },
   "匠の餅": {
     "JP": null,
@@ -7171,7 +7227,7 @@
     "JP": null,
     "CN": "夜幕燃灯",
     "TW": "夜幕燃燈",
-    "NA": "Illuminating the Veil of Darkness",
+    "NA": "Light Inside Night's Curtain",
     "KR": "밤의 장막에 등불을"
   },
   "夜を見届ける者達": {
@@ -7431,7 +7487,7 @@
     "CN": "太阳之花",
     "TW": "太陽之花",
     "NA": "Flower of the Sun",
-    "KR": null
+    "KR": "태양의 꽃"
   },
   "失われた右腕": {
     "JP": null,
@@ -7542,7 +7598,7 @@
     "JP": null,
     "CN": "婴儿的摇篮",
     "TW": "嬰兒的搖籃",
-    "NA": "Cradle of Infants",
+    "NA": "Homunculus Cradle",
     "KR": "영아의 요람"
   },
   "子象たち": {
@@ -7605,7 +7661,7 @@
     "JP": null,
     "CN": "为宵增趣话不尽",
     "TW": "夜晚趣話不盡",
-    "NA": "Withered with an Interesting Evening Discussion",
+    "NA": "An Evening of Endless Conversation",
     "KR": "초저녁의 환담은 끝나지 않고"
   },
   "家族の肖像": {
@@ -7708,7 +7764,7 @@
   },
   "少女漫画お気に入りセット": {
     "JP": null,
-    "CN": null,
+    "CN": "少女漫画个人精选套装",
     "TW": null,
     "NA": null,
     "KR": null
@@ -7745,6 +7801,13 @@
     "JP": null,
     "CN": "巡灵的祝祭／贰",
     "TW": "巡靈的祝祭／貳",
+    "NA": null,
+    "KR": null
+  },
+  "巡霊の祝祭／拾": {
+    "JP": null,
+    "CN": "巡灵的祝祭／拾",
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -7888,6 +7951,13 @@
     "NA": "Guardians of the Garden",
     "KR": "정원의 수호자"
   },
+  "弓術談義": {
+    "JP": null,
+    "CN": "弓术交流",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "弧悦同舟": {
     "JP": null,
     "CN": "弧悦同舟",
@@ -7960,7 +8030,7 @@
   },
   "待ち人の声": {
     "JP": null,
-    "CN": null,
+    "CN": "等候者之声",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8047,7 +8117,7 @@
     "CN": "怪物的黄金剑",
     "TW": "怪物的黃金劍",
     "NA": "Monstrous Golden Blade",
-    "KR": null
+    "KR": "괴물의 황금검"
   },
   "恋するあなたへの贈り物": {
     "JP": null,
@@ -8229,7 +8299,7 @@
     "CN": "忏悔之箱",
     "TW": "懺悔之箱",
     "NA": "Elevator of Penitence",
-    "KR": null
+    "KR": "참회의 상자"
   },
   "我が愛しき日々": {
     "JP": null,
@@ -8331,7 +8401,7 @@
   },
   "手作りツタンごはん": {
     "JP": null,
-    "CN": null,
+    "CN": "手工制作的图坦饭",
     "TW": null,
     "NA": null,
     "KR": null
@@ -8462,6 +8532,13 @@
     "NA": "Castle in her Palms",
     "KR": "장상누각"
   },
+  "探偵クリスト～未来邂逅編～": {
+    "JP": null,
+    "CN": "侦探基督山 ～未来邂逅篇～",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "探偵ヱドモン～新章突入編～": {
     "JP": null,
     "CN": "侦探爱德蒙～开启新章篇～",
@@ -8578,7 +8655,7 @@
     "JP": null,
     "CN": "教授们的午餐时光",
     "TW": "教授們的午餐時光",
-    "NA": "Professors' Lunchtime",
+    "NA": "The Professors' Lunchtime",
     "KR": "교수들의 런치타임"
   },
   "文明の灯火": {
@@ -8795,7 +8872,7 @@
     "JP": null,
     "CN": "春阳灿灿",
     "TW": "春陽燦燦",
-    "NA": "Brilliant Springtime",
+    "NA": "Brilliant Spring Sunshine",
     "KR": "춘양찬란"
   },
   "春風遊歩道": {
@@ -9054,7 +9131,7 @@
     "JP": null,
     "CN": "寝至天明后",
     "TW": "寢至天明後",
-    "NA": "After Waking Up Late in the Morning",
+    "NA": "After a Morning Nap",
     "KR": "아침잠 후에"
   },
   "朝餉一膳": {
@@ -9559,7 +9636,7 @@
     "CN": "残花的迷宫",
     "TW": "殘花的迷宮",
     "NA": "Labyrinth of the Last Flowers in Bloom",
-    "KR": null
+    "KR": "잔화의 미궁"
   },
   "殲滅リスト": {
     "JP": null,
@@ -11087,6 +11164,13 @@
     "NA": "Prosperity",
     "KR": "번영"
   },
+  "罪の剣": {
+    "JP": null,
+    "CN": "罪之剑",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "羅天大醮": {
     "JP": null,
     "CN": "罗天大醮",
@@ -11338,6 +11422,13 @@
     "TW": "應至之地",
     "NA": "His Rightful Place",
     "KR": "이르러야 할 장소"
+  },
+  "至誠の一針": {
+    "JP": null,
+    "CN": "至诚的一针",
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "至高の学び舎": {
     "JP": null,
@@ -14148,7 +14239,7 @@
   },
   "西部の破戒僧": {
     "JP": null,
-    "CN": "西部酒肉和尚",
+    "CN": "西部破戒僧",
     "TW": "西部的破戒僧",
     "NA": "Depraved Monk of the West",
     "KR": null
@@ -14403,7 +14494,7 @@
     "CN": "赤色庶胤之梦",
     "TW": "赤色落胤之夢",
     "NA": "Dreams of the Crimson Illegitimate Daughter",
-    "KR": null
+    "KR": "붉은 유랑아의 꿈"
   },
   "赤の黒鍵": {
     "JP": null,
@@ -14491,7 +14582,7 @@
   },
   "返礼の品": {
     "JP": null,
-    "CN": null,
+    "CN": "答赠回礼",
     "TW": null,
     "NA": null,
     "KR": null
@@ -14914,7 +15005,7 @@
     "CN": "灵树的宿根",
     "TW": "靈樹之宿根",
     "NA": "Spirit Tree's Perennial Root",
-    "KR": null
+    "KR": "영수의 숙근"
   },
   "霊爛の洋館": {
     "JP": null,

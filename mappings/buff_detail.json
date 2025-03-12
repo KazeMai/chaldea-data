@@ -375,7 +375,7 @@
     "CN": "Buster攻击时，获得暴击星",
     "TW": "Buster攻擊時，獲得爆擊星",
     "NA": "Gain C. Stars when using Buster Cards",
-    "KR": null
+    "KR": "버스터 공격 시, 스타 획득"
   },
   "Buster攻撃時、ダメージ前に自身に必中状態を付与": {
     "JP": null,
@@ -403,7 +403,7 @@
     "CN": "Buster攻击时，自身的暴击率提升",
     "TW": "Buster指令卡攻擊時，自身的爆擊發生率提升",
     "NA": "Increase your Critical Hit Rate when attacking with Buster Cards",
-    "KR": null
+    "KR": "버스터 공격 시 자신의 크리티컬 발생률 UP"
   },
   "Buster通常攻撃時、ダメージ前に自身のクリティカル威力をアップ": {
     "JP": null,
@@ -611,7 +611,7 @@
   "Quickカードでの通常攻撃時に自身のNPを増やす": {
     "JP": null,
     "CN": "Quick指令卡普通攻击时，自身的NP增加",
-    "TW": "Quick指令卡普通攻擊時賦予自身NP增加狀態",
+    "TW": "Quick指令卡普通攻擊時，自身的NP增加",
     "NA": "Gain NP when attacking with normal Quick Cards",
     "KR": "퀵 카드로 통상 공격 시 자신의 NP 증가"
   },
@@ -732,7 +732,7 @@
     "CN": "Quick攻击时，造成伤害前自身的暴击威力提升",
     "TW": "用Quick指令卡攻擊時，造成傷害前使自身的爆擊威力提升",
     "NA": "When attacking with Quick Cards, before damage increase your Critical Strength",
-    "KR": null
+    "KR": "퀵 공격 시 대미지 전에 자신의 크리티컬 위력 UP"
   },
   "Quick攻撃時、ダメージ前に自身のクリティカル発生率をアップ": {
     "JP": null,
@@ -753,7 +753,7 @@
     "CN": "Quick攻击时，付与对象诅咒状态",
     "TW": "用Quick指令卡攻擊時，賦予對象詛咒狀態",
     "NA": "When attacking with Quick Cards, inflict Curse state to target",
-    "KR": null
+    "KR": "퀵 공격 시 대상에게 저주 상태 부여"
   },
   "Quick攻撃時、自身のNPを増やす": {
     "JP": null,
@@ -843,7 +843,7 @@
     "JP": null,
     "CN": "在『CBC2024 迦勒底重工故事』中造成的伤害提升",
     "TW": "在『CBC2024 迦勒底重工故事』中造成的傷害提升",
-    "NA": null,
+    "NA": "Increase damage dealt during \"CBC 2025: The Story of Chaldea Heavy Industries\"",
     "KR": "“CBC 2024 칼데아 중공 이야기” 에서 주는 대미지 UP"
   },
   "『CBC2024 シャルルマーニュのモンジョワ・騎士道！』において与えるダメージをアップ": {
@@ -851,6 +851,13 @@
     "CN": "在『CBC2025 查理曼的蒙茹瓦骑士道！』中造成的伤害提升",
     "TW": "在『CBC2024 查理曼的Montjoie騎士道！』中造成的傷害提升",
     "NA": "Increase damage dealt during \"CBC2024 Charlemagne's Montjoie Chivalrism!\"",
+    "KR": null
+  },
+  "『CBC2025 彼の名はダンテ』において与えるダメージをアップ": {
+    "JP": null,
+    "CN": "在『CBC2025 他名为但丁』中造成的伤害提升",
+    "TW": null,
+    "NA": null,
     "KR": null
   },
   "『Fate20周年記念キャンペーン』開催期間中において与えるダメージをアップ": {
@@ -1082,7 +1089,7 @@
     "CN": "在『魔眼·交响曲』中造成的伤害提升",
     "TW": "在『魔眼交響曲』中造成的傷害提升",
     "NA": "Increase damage dealt during \"Mystic Eyes Symphony\"",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 주는 대미지 UP"
   },
   "『メイキング・クリスマス・パーティー！』において与えるダメージをアップ": {
     "JP": null,
@@ -1121,8 +1128,29 @@
   },
   "『妖精双六虫籠遊戯』において与えるダメージをアップ": {
     "JP": null,
-    "CN": null,
+    "CN": "在『妖精双六虫笼游戏』中造成的伤害提升",
     "TW": "在『妖精雙六蟲籠遊戲』中造成的傷害提升",
+    "NA": null,
+    "KR": null
+  },
+  "『小野小町古今抄』においてArtsカードの威力をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "『小野小町古今抄』においてBusterカードの威力をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "『小野小町古今抄』においてQuickカードの威力をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -1130,7 +1158,7 @@
     "JP": null,
     "CN": "在『小野小町古今抄』中造成的伤害提升",
     "TW": null,
-    "NA": null,
+    "NA": "Increase damage dealt during \"Ono-no-Komachi: Annotated Edition\"",
     "KR": null
   },
   "『影の国の舞闘会 ～ネコとバニーと聖杯戦争～』において与えるダメージをアップ": {
@@ -1896,6 +1924,34 @@
     "NA": null,
     "KR": null
   },
+  "〔地獄〕のフィールドにおいてのみ、Busterカードの性能をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔地獄〕のフィールドにおいてのみ、〔地の力〕に与えるダメージをアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔地獄〕のフィールドにおいてのみ、ターン終了時にNPが増える": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔地獄〕のフィールドにおいてのみ、宝具で与えるダメージをアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "〔増殖〕状態の間、攻撃力をアップ": {
     "JP": null,
     "CN": "处于〔增殖〕状态时，攻击力提升",
@@ -1923,6 +1979,34 @@
     "TW": "對〔天之力〕造成的傷害提升",
     "NA": "Increase damage dealt against [Power of Heaven]",
     "KR": "[천의 힘]에 주는 대미지 UP"
+  },
+  "〔天国〕のフィールドにおいてのみ、Artsカードの性能をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔天国〕のフィールドにおいてのみ、〔天の力〕に与えるダメージをアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔天国〕のフィールドにおいてのみ、クリティカル時のダメージをアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "〔天国〕のフィールドにおいてのみ、ターン終了時にHPが回復する": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "〔女性〕からの魅了耐性をダウン": {
     "JP": null,
@@ -1997,7 +2081,7 @@
   "〔拘束〕状態の敵に与えるダメージをアップ": {
     "JP": null,
     "CN": "对〔束缚〕状态的敌人造成的伤害提升",
-    "TW": "對〔拘束〕狀態的敵人造成的傷害提升",
+    "TW": "對〔束縛〕狀態的敵人造成的傷害提升",
     "NA": null,
     "KR": "[구속] 상태인 적에게 주는 대미지 UP"
   },
@@ -2757,6 +2841,13 @@
     "NA": "Increase NP Gauge for yourself when Guts is activated",
     "KR": "근성 발동 시 자신의 NP 증가"
   },
+  "ガッツ発動時、自身の〔罪の刻印〕を1つ消費して自身の攻撃力をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ガッツ発動時、自身のクリティカル発生率をアップ": {
     "JP": null,
     "CN": null,
@@ -2871,8 +2962,15 @@
   },
   "クリティカル攻撃時、自身に〔王勇〕状態を付与": {
     "JP": null,
-    "CN": null,
+    "CN": "暴击攻击时，付与自身〔王威〕状态",
     "TW": "爆擊攻擊時，賦予自身〔王勇〕狀態",
+    "NA": null,
+    "KR": null
+  },
+  "クリティカル攻撃時、追加効果が発動": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -3317,6 +3415,20 @@
     "NA": "Change field to [Millennium Castle]",
     "KR": "필드를 [천년성] 상태로 한다"
   },
+  "フィールドを〔地獄〕状態にする": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "フィールドを〔天国〕状態にする": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "フィールドを〔暗闇〕状態にする": {
     "JP": null,
     "CN": null,
@@ -3646,6 +3758,13 @@
     "NA": "Decrease debuff resistance",
     "KR": "약화 효과 내성 DOWN"
   },
+  "弱体耐性をダウン(弱体解除で解除不能)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "弱体耐性をダウン(強化扱い)": {
     "JP": null,
     "CN": "弱化耐性下降(视为强化)",
@@ -3938,7 +4057,7 @@
     "CN": "攻击力提升＆防御力提升",
     "TW": "攻擊力提升＆防禦力提升",
     "NA": null,
-    "KR": null
+    "KR": "공격력 UP&방어력 UP"
   },
   "攻撃力をダウン": {
     "JP": null,
@@ -4002,6 +4121,13 @@
     "TW": "攻擊時，對象發生弱化效果",
     "NA": "Target receives debuffs when attacking",
     "KR": "공격 시 대상에게 약화 효과 발생"
+  },
+  "攻撃時、対象の強化状態を1つ解除＆解除成功時、自身の〔罪の刻印〕を1つ消費して自身の攻撃力をアップ": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "攻撃時、自身に〔いいね！〕状態を付与": {
     "JP": null,
@@ -4169,14 +4295,14 @@
     "CN": "每回合有概率触发技能封印状态",
     "TW": "每回合有一定機率觸發技能封印狀態",
     "NA": "Chance to Skill Seal each turn",
-    "KR": "매 턴 확률로 스킬 봉인 상태 부여"
+    "KR": "매 턴마다 확률로 스킬 봉인 상태 부여"
   },
   "毎ターン確率で一度だけスタン状態を付与": {
     "JP": null,
     "CN": "每回合有概率付与晕眩（仅一次）",
     "TW": "每回合有一定機率賦予暈眩﹝僅一次﹞",
     "NA": "Chance to Stun once each turn",
-    "KR": "매 턴 확률로 한 번만 스턴 상태 부여"
+    "KR": "매 턴마다 확률로 한 번만 스턴 상태 부여"
   },
   "毎ターン終了時、味方全体のHPを回復＆弱体状態を解除": {
     "JP": null,
@@ -4869,7 +4995,7 @@
     "CN": "普通攻击时，向对象附加弱化效果",
     "TW": "普通攻擊時，賦予敵方單體弱化效果",
     "NA": "Target receives debuffs with normal attacks",
-    "KR": "통상 공격 시, 대상에게 약화 효과를 발생시킨다"
+    "KR": "통상 공격 시 대상에게 약화 효과를 발생시킨다"
   },
   "通常攻撃時、対象に強化効果が発生する": {
     "JP": null,
@@ -4918,7 +5044,7 @@
     "CN": "普通攻击时，付与对象毒状态",
     "TW": "普通攻擊時，賦予對象毒狀態",
     "NA": null,
-    "KR": "통상 공격 시, 대상에게 독 상태 부여"
+    "KR": "통상 공격 시 대상에게 독 상태 부여"
   },
   "通常攻撃時に消費され、その攻撃の間だけ攻撃力アップ効果を得る": {
     "JP": null,
@@ -4946,7 +5072,7 @@
     "CN": "普通攻击造成伤害前，付与敌方单体诅咒状态",
     "TW": "普通攻擊造成傷害前，賦予敵方單體詛咒狀態",
     "NA": null,
-    "KR": "통상 공격 시, 대미지를 주기 전에 적 하나에게 저주 상태 부여"
+    "KR": "통상 공격 시 대미지를 주기 전에 적 하나에게 저주 상태 부여"
   },
   "通常攻撃時ダメージ前に、自身のクリティカル威力をアップ": {
     "JP": null,

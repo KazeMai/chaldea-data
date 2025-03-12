@@ -4294,6 +4294,326 @@
   "closedAt": 1739764799,
   "detailUrl": "/25_okroi/aleg_w_pu_l"
 }, {
+  "id": 50026361,
+  "name": "バレンタイン2025 \nアルトリア･ペンドラゴン(ランサー)ピックアップ召喚",
+  "imageId": 82797,
+  "priority": 3000120,
+  "openedAt": 1739610000,
+  "closedAt": 1739764799,
+  "detailUrl": "/25_vqija/valentine_3"
+}, {
+  "id": 50026371,
+  "name": "バレンタイン2025 女王メイヴ(ライダー)ピックアップ召喚",
+  "imageId": 82798,
+  "priority": 3000110,
+  "openedAt": 1739610000,
+  "closedAt": 1739764799,
+  "detailUrl": "/25_vqija/valentine_4"
+}, {
+  "id": 50026381,
+  "name": "バレンタイン2025 \nマリー･アントワネット〔オルタ〕ピックアップ召喚",
+  "imageId": 82799,
+  "priority": 3000140,
+  "openedAt": 1739696400,
+  "closedAt": 1739851199,
+  "detailUrl": "/25_vqija/valentine_5"
+}, {
+  "id": 50026391,
+  "name": "バレンタイン2025 ケツァル･コアトルピックアップ召喚",
+  "imageId": 82800,
+  "priority": 3000130,
+  "openedAt": 1739696400,
+  "closedAt": 1739851199,
+  "detailUrl": "/25_vqija/valentine_6"
+}, {
+  "id": 50026401,
+  "name": "バレンタイン2025 シトナイピックアップ召喚",
+  "imageId": 82801,
+  "priority": 3000160,
+  "openedAt": 1739782800,
+  "closedAt": 1739937599,
+  "detailUrl": "/25_vqija/valentine_7"
+}, {
+  "id": 50026411,
+  "name": "バレンタイン2025 オリオンピックアップ召喚",
+  "imageId": 82802,
+  "priority": 3000150,
+  "openedAt": 1739782800,
+  "closedAt": 1739937599,
+  "detailUrl": "/25_vqija/valentine_8"
+}, {
+  "id": 50026421,
+  "name": "バレンタイン2025 ブラダマンテピックアップ召喚",
+  "imageId": 82803,
+  "priority": 3000180,
+  "openedAt": 1739869200,
+  "closedAt": 1740023999,
+  "detailUrl": "/25_vqija/valentine_9"
+}, {
+  "id": 50026431,
+  "name": "バレンタイン2025 アナスタシアピックアップ召喚",
+  "imageId": 82804,
+  "priority": 3000170,
+  "openedAt": 1739869200,
+  "closedAt": 1740023999,
+  "detailUrl": "/25_vqija/valentine_10"
+}, {
+  "id": 50026441,
+  "name": "バレンタイン2025 \nシェヘラザード(不夜城のキャスター)ピックアップ召喚",
+  "imageId": 82805,
+  "priority": 3000200,
+  "openedAt": 1739955600,
+  "closedAt": 1740110399,
+  "detailUrl": "/25_vqija/valentine_11"
+}, {
+  "id": 50026451,
+  "name": "バレンタイン2025 玄奘三蔵ピックアップ召喚",
+  "imageId": 82806,
+  "priority": 3000190,
+  "openedAt": 1739955600,
+  "closedAt": 1740110399,
+  "detailUrl": "/25_vqija/valentine_12"
+}, {
+  "id": 50026461,
+  "name": "バレンタイン2025 フランシス･ドレイクピックアップ召喚",
+  "imageId": 82807,
+  "priority": 3000220,
+  "openedAt": 1740042000,
+  "closedAt": 1740196799,
+  "detailUrl": "/25_vqija/valentine_13"
+}, {
+  "id": 50026471,
+  "name": "バレンタイン2025 アルテラピックアップ召喚",
+  "imageId": 82808,
+  "priority": 3000210,
+  "openedAt": 1740042000,
+  "closedAt": 1740196799,
+  "detailUrl": "/25_vqija/valentine_14"
+}, {
+  "id": 50026481,
+  "name": "バレンタイン2025 ニトクリス〔オルタ〕ピックアップ召喚",
+  "imageId": 82809,
+  "priority": 3000240,
+  "openedAt": 1740128400,
+  "closedAt": 1740283199,
+  "detailUrl": "/25_vqija/valentine_15"
+}, {
+  "id": 50026491,
+  "name": "バレンタイン2025 ガラテアピックアップ召喚",
+  "imageId": 82810,
+  "priority": 3000230,
+  "openedAt": 1740128400,
+  "closedAt": 1740283199,
+  "detailUrl": "/25_vqija/valentine_16"
+}, {
+  "id": 50026201,
+  "name": "【週替り】 スカサハ(ランサー)ピックアップ召喚",
+  "imageId": 82781,
+  "priority": 2500660,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_a"
+}, {
+  "id": 50026211,
+  "name": "【週替り】 カルナピックアップ召喚",
+  "imageId": 82782,
+  "priority": 2500650,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_b"
+}, {
+  "id": 50026221,
+  "name": "【週替り】 ブリュンヒルデ(ランサー)ピックアップ召喚",
+  "imageId": 82783,
+  "priority": 2500640,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_c"
+}, {
+  "id": 50026231,
+  "name": "【週替り】 アルトリア･ペンドラゴン(ランサー)ピックアップ召喚",
+  "imageId": 82784,
+  "priority": 2500630,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_d"
+}, {
+  "id": 50026241,
+  "name": "【週替り】 玉藻の前(ランサー)ピックアップ召喚",
+  "imageId": 82785,
+  "priority": 2500620,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_e"
+}, {
+  "id": 50026251,
+  "name": "【週替り】 エルキドゥピックアップ召喚",
+  "imageId": 82786,
+  "priority": 2500610,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_f"
+}, {
+  "id": 50026261,
+  "name": "【週替り】 エレシュキガル(ランサー)ピックアップ召喚",
+  "imageId": 82787,
+  "priority": 2500600,
+  "openedAt": 1739782800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_plqpu/lancer_w_pu_g"
+}, {
+  "id": 50026501,
+  "name": "バレンタイン2025 ヴリトラピックアップ召喚",
+  "imageId": 82811,
+  "priority": 3000260,
+  "openedAt": 1740214800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_vqija/valentine_17"
+}, {
+  "id": 50026511,
+  "name": "バレンタイン2025 玉藻の前(キャスター)ピックアップ召喚",
+  "imageId": 82812,
+  "priority": 3000250,
+  "openedAt": 1740214800,
+  "closedAt": 1740369599,
+  "detailUrl": "/25_vqija/valentine_18"
+}, {
+  "id": 50026521,
+  "name": "バレンタイン2025 \nアルトリア･ペンドラゴン(セイバー)ピックアップ召喚",
+  "imageId": 82813,
+  "priority": 3000270,
+  "openedAt": 1740301200,
+  "closedAt": 1740455999,
+  "detailUrl": "/25_vqija/valentine_19"
+}, {
+  "id": 50026531,
+  "name": "バレンタイン2025 ジャンヌ･ダルク(ルーラー)ピックアップ召喚",
+  "imageId": 82814,
+  "priority": 3000280,
+  "openedAt": 1740301200,
+  "closedAt": 1740455999,
+  "detailUrl": "/25_vqija/valentine_20"
+}, {
+  "id": 50026541,
+  "name": "バレンタイン2025 果心居士ピックアップ召喚",
+  "imageId": 82815,
+  "priority": 3000300,
+  "openedAt": 1740387600,
+  "closedAt": 1740542399,
+  "detailUrl": "/25_vqija/valentine_21"
+}, {
+  "id": 50026551,
+  "name": "バレンタイン2025 ナイチンゲールピックアップ召喚",
+  "imageId": 82816,
+  "priority": 3000290,
+  "openedAt": 1740387600,
+  "closedAt": 1740542399,
+  "detailUrl": "/25_vqija/valentine_22"
+}, {
+  "id": 50026561,
+  "name": "バレンタイン2025 ジャック･ザ･リッパーピックアップ召喚",
+  "imageId": 82817,
+  "priority": 3000310,
+  "openedAt": 1740474000,
+  "closedAt": 1740628799,
+  "detailUrl": "/25_vqija/valentine_23"
+}, {
+  "id": 50026571,
+  "name": "バレンタイン2025 モードレッド(セイバー)ピックアップ召喚",
+  "imageId": 82818,
+  "priority": 3000320,
+  "openedAt": 1740474000,
+  "closedAt": 1740628799,
+  "detailUrl": "/25_vqija/valentine_24"
+}, {
+  "id": 50026581,
+  "name": "バレンタイン2025 \nジナコ＝カリギリ(大いなる石像神)ピックアップ召喚",
+  "imageId": 82819,
+  "priority": 3000330,
+  "openedAt": 1740560400,
+  "closedAt": 1740715199,
+  "detailUrl": "/25_vqija/valentine_25"
+}, {
+  "id": 50026591,
+  "name": "バレンタイン2025 エウロペピックアップ召喚",
+  "imageId": 82820,
+  "priority": 3000340,
+  "openedAt": 1740560400,
+  "closedAt": 1740715199,
+  "detailUrl": "/25_vqija/valentine_26"
+}, {
+  "id": 50026601,
+  "name": "バレンタイン2025 ディオスクロイピックアップ召喚",
+  "imageId": 82821,
+  "priority": 3000350,
+  "openedAt": 1740646800,
+  "closedAt": 1740801599,
+  "detailUrl": "/25_vqija/valentine_27"
+}, {
+  "id": 50026611,
+  "name": "バレンタイン2025 ロウヒピックアップ召喚",
+  "imageId": 82822,
+  "priority": 3000360,
+  "openedAt": 1740646800,
+  "closedAt": 1740801599,
+  "detailUrl": "/25_vqija/valentine_28"
+}, {
+  "id": 50026271,
+  "name": "【週替り】 ブラダマンテピックアップ召喚",
+  "imageId": 82788,
+  "priority": 2500730,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_a"
+}, {
+  "id": 50026281,
+  "name": "【週替り】 ロムルス＝クィリヌスピックアップ召喚",
+  "imageId": 82789,
+  "priority": 2500720,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_b"
+}, {
+  "id": 50026291,
+  "name": "【週替り】 ヴリトラピックアップ召喚",
+  "imageId": 82790,
+  "priority": 2500710,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_c"
+}, {
+  "id": 50026301,
+  "name": "【週替り】 \nメリュジーヌ(ランサー)(妖精騎士ランスロット)ピックアップ召喚",
+  "imageId": 82791,
+  "priority": 2500700,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_d"
+}, {
+  "id": 50026311,
+  "name": "【週替り】 坂本龍馬(ランサー)ピックアップ召喚",
+  "imageId": 82792,
+  "priority": 2500690,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_e"
+}, {
+  "id": 50026321,
+  "name": "【週替り】 ブリトマートピックアップ召喚",
+  "imageId": 82793,
+  "priority": 2500680,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_f"
+}, {
+  "id": 50026331,
+  "name": "【週替り】 ビーマピックアップ召喚",
+  "imageId": 82794,
+  "priority": 2500670,
+  "openedAt": 1740387600,
+  "closedAt": 1740974399,
+  "detailUrl": "/25_lczhr/lancer_pu_2_g"
+}, {
   "id": 50026341,
   "name": "バレンタイン2025 小野小町ピックアップ召喚",
   "imageId": 82795,
@@ -4309,6 +4629,334 @@
   "openedAt": 1739523600,
   "closedAt": 1741147199,
   "detailUrl": "/25_vqija/valentine_2"
+}, {
+  "id": 50026691,
+  "name": "【週替り】 巌窟王 エドモン･ダンテスピックアップ召喚",
+  "imageId": 82830,
+  "priority": 2500830,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_a"
+}, {
+  "id": 50026701,
+  "name": "【週替り】 \nジャンヌ･ダルク〔オルタ〕(アヴェンジャー)ピックアップ召喚",
+  "imageId": 82831,
+  "priority": 2500820,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_b"
+}, {
+  "id": 50026711,
+  "name": "【週替り】 魔王信長(織田信長)ピックアップ召喚",
+  "imageId": 82832,
+  "priority": 2500810,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_c"
+}, {
+  "id": 50026721,
+  "name": "【週替り】 スペース･イシュタルピックアップ召喚",
+  "imageId": 82833,
+  "priority": 2500800,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_d"
+}, {
+  "id": 50026731,
+  "name": "【週替り】 平景清ピックアップ召喚",
+  "imageId": 82834,
+  "priority": 2500790,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_e"
+}, {
+  "id": 50026741,
+  "name": "【週替り】 カーマ(アヴェンジャー)ピックアップ召喚",
+  "imageId": 82835,
+  "priority": 2500780,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_f"
+}, {
+  "id": 50026751,
+  "name": "【週替り】 ニトクリス〔オルタ〕ピックアップ召喚",
+  "imageId": 82836,
+  "priority": 2500770,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_g"
+}, {
+  "id": 50026761,
+  "name": "【週替り】 源頼光／丑御前ピックアップ召喚",
+  "imageId": 82837,
+  "priority": 2500760,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_h"
+}, {
+  "id": 50026771,
+  "name": "【週替り】 マリー･アントワネット〔オルタ〕ピックアップ召喚",
+  "imageId": 82838,
+  "priority": 2500750,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_i"
+}, {
+  "id": 50026781,
+  "name": "【週替り】 巌窟王 モンテ･クリストピックアップ召喚",
+  "imageId": 82839,
+  "priority": 2500740,
+  "openedAt": 1740992400,
+  "closedAt": 1741579199,
+  "detailUrl": "/25_biwbo/avenger_pu_j"
+}, {
+  "id": 50027161,
+  "name": "CBC2025 クー･フーリン〔オルタ〕ピックアップ召喚",
+  "imageId": 82877,
+  "priority": 3000380,
+  "openedAt": 1741510800,
+  "closedAt": 1741665599,
+  "detailUrl": "/25_caofr/cbc_3_a"
+}, {
+  "id": 50027171,
+  "name": "CBC2025 ニコラ･テスラピックアップ召喚",
+  "imageId": 82878,
+  "priority": 3000370,
+  "openedAt": 1741510800,
+  "closedAt": 1741665599,
+  "detailUrl": "/25_caofr/cbc_3_b"
+}, {
+  "id": 50027181,
+  "name": "CBC2025 李書文(アサシン)ピックアップ召喚",
+  "imageId": 82879,
+  "priority": 3000400,
+  "openedAt": 1741597200,
+  "closedAt": 1741751999,
+  "detailUrl": "/25_caofr/cbc_3_c"
+}, {
+  "id": 50027191,
+  "name": "CBC2025 ビーマピックアップ召喚",
+  "imageId": 82880,
+  "priority": 3000390,
+  "openedAt": 1741597200,
+  "closedAt": 1741751999,
+  "detailUrl": "/25_caofr/cbc_3_d"
+}, {
+  "id": 50027201,
+  "name": "CBC2025 ナポレオンピックアップ召喚",
+  "imageId": 82881,
+  "priority": 3000420,
+  "openedAt": 1741683600,
+  "closedAt": 1741838399,
+  "detailUrl": "/25_caofr/cbc_3_e"
+}, {
+  "id": 50027211,
+  "name": "CBC2025 ヴラド三世ピックアップ召喚",
+  "imageId": 82882,
+  "priority": 3000410,
+  "openedAt": 1741683600,
+  "closedAt": 1741838399,
+  "detailUrl": "/25_caofr/cbc_3_f"
+}, {
+  "id": 50027151,
+  "name": "CBC2025 彼の名はダンテ ～ホテル･デノヴォのコンシェルジュ～ \nジェームズ･モリアーティ(アーチャー)(新宿のアーチャー)\nピックアップ召喚",
+  "imageId": 82876,
+  "priority": 4000170,
+  "openedAt": 1741338000,
+  "closedAt": 1741924799,
+  "detailUrl": "/25_koypq/cbc_2"
+}, {
+  "id": 50027221,
+  "name": "CBC2025 エルキドゥピックアップ召喚",
+  "imageId": 82883,
+  "priority": 3000440,
+  "openedAt": 1741770000,
+  "closedAt": 1741924799,
+  "detailUrl": "/25_caofr/cbc_3_g"
+}, {
+  "id": 50027231,
+  "name": "CBC2025 源為朝ピックアップ召喚",
+  "imageId": 82884,
+  "priority": 3000430,
+  "openedAt": 1741770000,
+  "closedAt": 1741924799,
+  "detailUrl": "/25_caofr/cbc_3_h"
+}, {
+  "id": 50027241,
+  "name": "CBC2025 ネモピックアップ召喚",
+  "imageId": 82885,
+  "priority": 3000460,
+  "openedAt": 1741856400,
+  "closedAt": 1742011199,
+  "detailUrl": "/25_caofr/cbc_3_i"
+}, {
+  "id": 50027251,
+  "name": "CBC2025 項羽ピックアップ召喚",
+  "imageId": 82886,
+  "priority": 3000450,
+  "openedAt": 1741856400,
+  "closedAt": 1742011199,
+  "detailUrl": "/25_caofr/cbc_3_j"
+}, {
+  "id": 50027261,
+  "name": "CBC2025 アキレウスピックアップ召喚",
+  "imageId": 82887,
+  "priority": 3000480,
+  "openedAt": 1741942800,
+  "closedAt": 1742097599,
+  "detailUrl": "/25_caofr/cbc_3_k"
+}, {
+  "id": 50027271,
+  "name": "CBC2025 太公望ピックアップ召喚",
+  "imageId": 82888,
+  "priority": 3000470,
+  "openedAt": 1741942800,
+  "closedAt": 1742097599,
+  "detailUrl": "/25_caofr/cbc_3_l"
+}, {
+  "id": 50026791,
+  "name": "【週替り】 フランシス･ドレイクピックアップ召喚",
+  "imageId": 82840,
+  "priority": 2500920,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_a"
+}, {
+  "id": 50026801,
+  "name": "【週替り】 女王メイヴ(ライダー)ピックアップ召喚",
+  "imageId": 82841,
+  "priority": 2500910,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_b"
+}, {
+  "id": 50026811,
+  "name": "【週替り】 イスカンダルピックアップ召喚",
+  "imageId": 82842,
+  "priority": 2500900,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_c"
+}, {
+  "id": 50026821,
+  "name": "【週替り】 オジマンディアスピックアップ召喚",
+  "imageId": 82843,
+  "priority": 2500890,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_d"
+}, {
+  "id": 50026831,
+  "name": "【週替り】 ケツァル･コアトルピックアップ召喚",
+  "imageId": 82844,
+  "priority": 2500880,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_e"
+}, {
+  "id": 50026841,
+  "name": "【週替り】 \nアルトリア･ペンドラゴン〔オルタ〕(ライダー)ピックアップ召喚",
+  "imageId": 82845,
+  "priority": 2500870,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_f"
+}, {
+  "id": 50026851,
+  "name": "【週替り】 イヴァン雷帝ピックアップ召喚",
+  "imageId": 82846,
+  "priority": 2500860,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_g"
+}, {
+  "id": 50026861,
+  "name": "【週替り】 アキレウスピックアップ召喚",
+  "imageId": 82847,
+  "priority": 2500850,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_h"
+}, {
+  "id": 50026871,
+  "name": "【週替り】 司馬懿〔ライネス〕ピックアップ召喚",
+  "imageId": 82848,
+  "priority": 2500840,
+  "openedAt": 1741597200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_mjdbv/rider_pu_i"
+}, {
+  "id": 50027281,
+  "name": "CBC2025 諸葛孔明〔エルメロイⅡ世〕ピックアップ召喚",
+  "imageId": 82889,
+  "priority": 3000500,
+  "openedAt": 1742029200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_caofr/cbc_3_m"
+}, {
+  "id": 50027291,
+  "name": "CBC2025 カルナピックアップ召喚",
+  "imageId": 82890,
+  "priority": 3000490,
+  "openedAt": 1742029200,
+  "closedAt": 1742183999,
+  "detailUrl": "/25_caofr/cbc_3_n"
+}, {
+  "id": 50027301,
+  "name": "CBC2025 アルジュナピックアップ召喚",
+  "imageId": 82891,
+  "priority": 3000520,
+  "openedAt": 1742115600,
+  "closedAt": 1742270399,
+  "detailUrl": "/25_caofr/cbc_3_o"
+}, {
+  "id": 50027311,
+  "name": "CBC2025 オデュッセウスピックアップ召喚",
+  "imageId": 82892,
+  "priority": 3000510,
+  "openedAt": 1742115600,
+  "closedAt": 1742270399,
+  "detailUrl": "/25_caofr/cbc_3_p"
+}, {
+  "id": 50027321,
+  "name": "CBC2025 オジマンディアスピックアップ召喚",
+  "imageId": 82893,
+  "priority": 3000540,
+  "openedAt": 1742202000,
+  "closedAt": 1742356799,
+  "detailUrl": "/25_caofr/cbc_3_q"
+}, {
+  "id": 50027331,
+  "name": "CBC2025 ディオスクロイピックアップ召喚",
+  "imageId": 82894,
+  "priority": 3000530,
+  "openedAt": 1742202000,
+  "closedAt": 1742356799,
+  "detailUrl": "/25_caofr/cbc_3_r"
+}, {
+  "id": 50027141,
+  "name": "CBC2025 彼の名はダンテ ～ホテル･デノヴォのコンシェルジュ～ \nダンテ･アリギエーリピックアップ召喚",
+  "imageId": 82875,
+  "priority": 6000070,
+  "openedAt": 1741172400,
+  "closedAt": 1742961599,
+  "detailUrl": "/25_fophi/cbc"
+}, {
+  "id": 4,
+  "name": "期間限定 岸波白野(男性)ピックアップフレンドポイント召喚",
+  "imageId": 70321,
+  "priority": 2,
+  "type": 3,
+  "openedAt": 1740819600,
+  "closedAt": 1743433199
+}, {
+  "id": 5,
+  "name": "期間限定 岸波白野(女性)ピックアップフレンドポイント召喚",
+  "imageId": 70322,
+  "priority": 3,
+  "type": 3,
+  "openedAt": 1740819600,
+  "closedAt": 1743433199
 }, {
   "id": 1,
   "name": "フレンドポイント召喚",

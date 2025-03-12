@@ -170,7 +170,7 @@
   "Artsカードに刻印時のみ、刻印されたカードのクリティカル威力を15%アップ": {
     "JP": null,
     "CN": "仅当被刻印在Arts指令卡上时,被刻印的指令卡的暴击威力提升15%",
-    "TW": "僅當被刻印在Arts指令卡上時，被刻印的指令卡爆擊威力提升15%",
+    "TW": "僅當被刻印在Arts指令卡上時，被刻印的指令卡的爆擊威力提升15%",
     "NA": "When engraved on  Arts Card:\n Increases critical damage by 15% of the engraved card.",
     "KR": "아츠 카드에 각인 시, 각인된 카드의 크리티컬 위력 15% UP"
   },
@@ -207,14 +207,14 @@
     "CN": "Arts暴击威力提升4%",
     "TW": "Arts指令卡爆擊威力提升4%",
     "NA": "Increase Arts Card Critical Strength by 4%",
-    "KR": "아츠 카드 크리티컬 위력 4% UP"
+    "KR": "아츠 카드의 크리티컬 위력 4% UP"
   },
   "Artsカードのクリティカル威力を8%アップ": {
     "JP": null,
     "CN": "Arts暴击威力提升8%",
     "TW": "Arts指令卡爆擊威力提升8%",
     "NA": "Increase Arts Card Critical Strength by 8%",
-    "KR": "아츠 카드 크리티컬 위력 8% UP"
+    "KR": "아츠 카드의 크리티컬 위력 8% UP"
   },
   "Artsカードの威力を2%アップ": {
     "JP": null,
@@ -277,14 +277,14 @@
     "CN": "Buster暴击威力提升2%",
     "TW": "Buster指令卡爆擊威力提升2%",
     "NA": "Increase Buster Card Critical Strength by 2%",
-    "KR": "버스터 카드 크리티컬 위력 2% UP"
+    "KR": "버스터 카드의 크리티컬 위력 2% UP"
   },
   "Busterカードのクリティカル威力を4%アップ": {
     "JP": null,
     "CN": "Buster暴击威力提升4%",
     "TW": "Buster指令卡爆擊威力提升4%",
     "NA": "Increase Buster Card Critical Strength by 4%",
-    "KR": "버스터 카드 크리티컬 위력 4% UP"
+    "KR": "버스터 카드의 크리티컬 위력 4% UP"
   },
   "Busterカードの威力を2%アップ": {
     "JP": null,
@@ -305,7 +305,7 @@
     "CN": "Extra攻击指令卡性能提升10%",
     "TW": "Extra攻擊指令卡性能提升10%",
     "NA": "Increase Extra Attack Card's effectiveness by 10%",
-    "KR": "엑스트라 카드 성능 10% UP"
+    "KR": "엑스트라 공격 카드의 성능 10% UP"
   },
   "Gain +10 Friend Points when used as Support (Stackable)": {
     "JP": "サポートで得られるフレンドポイントが＋10される(重複可能)",
@@ -361,14 +361,14 @@
     "CN": "Quick暴击威力提升12%",
     "TW": "Quick指令卡爆擊威力提升12%",
     "NA": "Increase Quick Card Critical Strength by 12%",
-    "KR": "퀵 카드 크리티컬 위력 12% UP"
+    "KR": "퀵 카드의 크리티컬 위력 12% UP"
   },
   "Quickカードのクリティカル威力を6%アップ": {
     "JP": null,
     "CN": "Quick暴击威力提升6%",
     "TW": "Quick指令卡爆擊威力提升6%",
     "NA": "Increase Quick Card Critical Strength by 6%",
-    "KR": "퀵 카드 크리티컬 위력 6% UP"
+    "KR": "퀵 카드의 크리티컬 위력 6% UP"
   },
   "Quickカードの威力を2%アップ": {
     "JP": null,
@@ -704,7 +704,7 @@
     "CN": "[servantName 105600](Saber)装备,且自身在场时,己方全体的Quick指令卡性能提升10%＋所有〔拥有地之力的己方〕宝具威力提升15%",
     "TW": "美杜莎(Saber)裝備，且自身在場時，我方全體的Quick指令卡性能提升10%＋〔擁有地之力的我方〕全體的寶具威力提升15%",
     "NA": "When equipped on Medusa (Saber):\n Increases party's Quick performance by 10%,\n Increases the NP damage of allies with Earth Attribute by 15%\nwhile self is on the field.",
-    "KR": null
+    "KR": "[servantName 105600](세이버) 장착 시 자신이 필드에 있는 동안 아군 전체의 퀵 카드 성능 10% UP + [지의 힘을 가진 적] 전체의 보구 위력 15% UP"
   },
   "[servantName 105700](セイバー)装備時のみ、自身がフィールドにいる間、味方全体のQuickカード性能を10%アップ＆〔猛獣〕特攻状態を10%付与": {
     "JP": null,
@@ -946,7 +946,7 @@
   },
   "[servantName 203800](アーチャー)装備時のみ、自身に毎ターンスター8個獲得状態を付与 ＋ 自身がフィールドにいる間、味方全体のクリティカル威力を15%アップ": {
     "JP": null,
-    "CN": "[servantName 203800](Archer)装备时,付与自身每回合获得8个暴击星的状态＋当自身在场时,己方全体的暴击威力提升15%",
+    "CN": "[servantName 203800](Archer)装备时,付与自身每回合获得8个暴击星的状态＋自身在场时，己方全体的暴击威力提升15%",
     "TW": "[servantName 203800](Archer)裝備時，賦予自身每回合獲得8個爆擊星的狀態+當自身在場時，我方全體的爆擊威力提升15%",
     "NA": "Gain 8 Critical Stars each turn for yourself + Increase Critical Strength by 15% for all allies only if [servantName 203800] (Archer) is equipped with this Craft Essence when he is on the field",
     "KR": "[servantName 203800](아처) 장착 시 자신에게 매 턴 스타 8개 획득 상태 부여 + 자신이 필드에 있는 동안 아군 전체 크리티컬 위력 15% UP"
@@ -1011,7 +1011,7 @@
     "JP": null,
     "CN": "[servantName 204700](Archer)装备,且自身在场时,己方全体的Quick指令卡性能提升8%＆Buster指令卡性能提升8%＆暴击威力提升10%",
     "TW": "[servantName 204700](Archer)裝備，且自身在場時，我方全體的Quick指令卡性能提升8%＆Buster指令卡性能提升8%＆爆擊威力提升10%",
-    "NA": "When equipped on Takasugi Shinsaku:\n Increases party's Quick performance by 8%,\n Increases party's Buster performance by 8%,\n Increases party's critical damage by 10%\nwhile self is on the field.",
+    "NA": "Increase Quick Card effectiveness by 8% & Buster Card effectiveness by 8% & Critical Strength by 10% for all allies only if [servantName 204700] (Archer) is equipped with this Craft Essence when he is on the field.",
     "KR": "[servantName 204700](아처) 장착 시 자신이 필드에 있는 동안 아군 전체의 퀵 카드 성능 8% UP&버스터 카드 성능 8% UP&크리티컬 위력 10% UP"
   },
   "[servantName 204800](アーチャー)装備時のみ、自身がフィールドにいる間、味方全体に〔天の力を持つ敵〕特攻状態を15%付与＆〔魔性〕特攻状態を15%付与": {
@@ -1019,7 +1019,7 @@
     "CN": "[servantName 204800](Archer)装备,且自身在场时,付与己方全体对〔拥有天之力的敌人〕15%的特攻状态＆对〔魔性〕15%的特攻状态",
     "TW": "難近母(Archer)裝備，且自身在場時，賦予我方全體對〔擁有天之力的敵人〕15%的特攻狀態＆對〔魔性〕15%的特攻狀態",
     "NA": "When equipped on Durga:\n Increases party's damage against enemies with Sky Attribute by 15%,\n Increases party's damage against Demonic enemies by 15%\nwhile self is on the field.",
-    "KR": null
+    "KR": "[servantName 204800](아처) 장착 시 자신이 필드에 있는 동안 아군 전체에게 [천의 힘을 가진 적] 특공 상태 15% 부여&[마성] 특공 상태 15% 부여"
   },
   "[servantName 204900](アーチャー)装備時のみ、自身がフィールドにいる間、味方全体のArtsカード性能を10%アップ ＋ 〔炎上〕しているフィールドにおいてのみ、味方全体のArtsカード性能を10%アップ": {
     "JP": null,
@@ -1072,14 +1072,14 @@
   },
   "[servantName 2300300](ムーンキャンサー)装備時のみ、自身に毎ターンスター8個獲得状態を付与 + 自身がフィールドにいる間、味方全体のHPを毎ターン300回復": {
     "JP": null,
-    "CN": "[servantName 2300300](MoonCancer)装备时,付与自身每回合获得8个暴击星的状态＋当自身在场时,己方全体每回合回复300生命值",
+    "CN": "[servantName 2300300](MoonCancer)装备时,付与自身每回合获得8个暴击星的状态＋自身在场时，己方全体每回合回复300生命值",
     "TW": "[servantName 2300300](Moon Cancer)裝備時，賦予自身每回合獲得8個爆擊星的狀態＋當自身在場時，我方全體每回合HP恢復300",
     "NA": "Gain 8 Critical Stars each turn only if [servantName 2300300] (Moon Cancer) is equipped with this Craft Essence + Restore all allies' HP by 300 each turn while she is on the field",
     "KR": "[servantName 2300300](문캔서) 장착 시 자신에게 매 턴 스타 8개 획득 상태 부여 + 자신이 필드에 있는 동안 아군 전체 HP를 매 턴 300 회복"
   },
   "[servantName 2300400](ムーンキャンサー)装備時のみ、自身にガッツ状態(1回・HP100%回復・他のガッツ状態と重複可能)を付与 ＋ 自身がフィールドにいる間、自身を除く味方全体の最大HPを1000減らす【デメリット】": {
     "JP": null,
-    "CN": "[servantName 2300400](MoonCancer)装备时,付与自身毅力状态(1次·回复100%的生命值·可与其他毅力状态重复)＋当自身在场时,除自身以外的己方全体最大生命值减少1000【负面效果】",
+    "CN": "[servantName 2300400](MoonCancer)装备时,付与自身毅力状态(1次·回复100%的生命值·可与其他毅力状态重复)＋自身在场时，除自身以外的己方全体最大生命值减少1000【负面效果】",
     "TW": "[servantName 2300400](MoonCancer)裝備時，賦予自身毅力狀態(1次．恢復100%的HP．可與其他毅力狀態重複)＋當自身在場時，除自身以外的我方全體最大HP減少1000【負面效果】",
     "NA": "Apply Guts (1 time, HP recovery 100%, stackable with other Guts) for yourself only if [servantName 2300400] is equipped with this Craft Essence + Decrease Max HP by 1000 for all allies except yourself [Demerit] when she is on the field",
     "KR": "[servantName 2300400](문캔서) 장착 시 자신에게 근성 상태(1회・HP 100% 회복・다른 근성 상태와 중복 가능) 부여 + 자신이 필드에 있는 동안 자신을 제외한 아군 전체의 최대 HP 1000 감소【단점】"
@@ -1294,6 +1294,13 @@
     "NA": "When equipped on Phantasmoon:\n Increases own NP damage by 30%.\n Increases own Extra Attack performance by 100%.",
     "KR": null
   },
+  "[servantName 2801000](プリテンダー)装備時のみ、自身の宝具威力を30%アップ＆「クリティカル攻撃時に〔罪の刻印〕状態を1つ消費して自身の攻撃力を10%アップ(3ターン)する状態」を付与": {
+    "JP": null,
+    "CN": "但丁·阿利吉耶里(Pretender)装备时，自身的宝具威力提升30%＆付与「暴击攻击时，消耗1个〔罪之刻印〕状态后，自身的攻击力提升10%(3回合)」的状态",
+    "TW": null,
+    "NA": "When equipped on Dante Alighieri:\n Increases own NP damage by 30%.\n Grants self Buff-On-Attack buff.\n( Removes own one latest  Brand of Sin status when critical attacking.\nIf successfully removed  Brand of Sin status,  increases own attack by 10% for 3 turns.)",
+    "KR": null
+  },
   "[servantName 301400](ランサー)装備時のみ、自身がフィールドにいる間、味方全体のQuickカード性能を10%アップ＆クリティカル威力を15%アップ": {
     "JP": null,
     "CN": "[servantName 301400](Lancer)装备,且自身在场时,己方全体的Quick指令卡性能提升10%＆自身的暴击威力提升15%",
@@ -1373,7 +1380,7 @@
   },
   "[servantName 304000](ランサー)装備時のみ、自身のArtsカード性能を20%アップ＆クリティカル威力を30%アップ ＋ 自身がフィールドにいる間、自身を除く味方全体のクリティカル威力を10%ダウン【デメリット】": {
     "JP": null,
-    "CN": "[servantName 304000](Lancer)装备时,自身的Arts指令卡性能提升20%＆暴击威力提升30%＋当自身在场时,除自身以外的己方全体暴击威力降低10%【负面效果】",
+    "CN": "[servantName 304000](Lancer)装备时,自身的Arts指令卡性能提升20%＆暴击威力提升30%＋自身在场时，除自身以外的己方全体暴击威力降低10%【负面效果】",
     "TW": "[servantName 304000](Lancer)裝備時，自身的Arts指令卡性能提升20%＆爆擊威力提升30%+當自身在場時，除自身以外的我方全體爆擊威力降低10%【負面效果】",
     "NA": "Increase Arts Card effectiveness by 20% & Critical Strength by 30% for yourself only if [servantName 304000] (Lancer) is equipped with this Craft Essence + Decrease Critical Strength by 10% for all allies except yourself [Demerit] when she is on the field",
     "KR": "[servantName 304000](랜서) 장착 시 자신의 아츠 카드 성능 20% UP&크리티컬 위력 30% UP + 자신이 필드에 있는 동안 자신을 제외한 아군 전체 크리티컬 위력 10% DOWN【단점】"
@@ -1460,7 +1467,7 @@
     "CN": "[servantName 305400](Lancer)装备时,自身的宝具威力提升30%＋自身登场时获得20个暴击星(1次)",
     "TW": "怖軍(Lancer)裝備時，自身的寶具威力提升30% ＋ 自身登場時獲得20個爆擊星(1次)",
     "NA": "When equipped on Bhima:\n Increases own NP damage by 30%.\n Gains 20 critical stars for 1 time when entering the field.",
-    "KR": null
+    "KR": "[servantName 305400](랜서) 장착 시 자신의 보구 위력 30% UP + 자신의 등장 시 스타 20개 획득(1회)"
   },
   "[servantName 305500](ランサー)装備時のみ、自身がフィールドにいる間、味方全体に〔竜〕特攻状態を10%付与＆〔地の力を持つ敵〕特攻状態を10%付与": {
     "JP": null,
@@ -1863,7 +1870,7 @@
   },
   "[servantName 505800](キャスター)装備時のみ、自身の宝具威力を30%アップ＆即死付与成功率を100%アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "小野小町(Caster)装备时，自身的宝具威力提升30%＆即死付与成功率提升100%",
     "TW": null,
     "NA": "When equipped on Ono no Komachi:\n Increases own NP damage by 30%.\n Increases own Instant-Kill success rate by 100%.",
     "KR": null
@@ -2032,7 +2039,7 @@
   "[servantName 604900](アサシン)装備時のみ、自身がフィールドにいる間、味方全体に〔拘束〕状態特攻状態を30%付与": {
     "JP": null,
     "CN": "[servantName 604900](Assassin)装备,且自身在场时,付与己方全体对〔束缚〕状态30%的特攻状态",
-    "TW": "果心居士(Assassin)裝備，且自身在場時，賦予我方全體對〔拘束〕30%的特攻狀態",
+    "TW": "[servantName 604900](Assassin)裝備，且自身在場時，賦予我方全體對〔束縛〕狀態30%的特攻狀態",
     "NA": "When equipped on Kashin Koji:\n Increases party's damage against enemies with  Bound status by 30%\nwhile self is on the field.",
     "KR": "[servantName 604900](어쌔신) 장착 시 자신이 필드에 있는 동안 아군 전체에게 [구속] 상태 특공 상태 30% 부여"
   },
@@ -2188,7 +2195,7 @@
     "CN": "[servantName 704600](Berserker)装备时,自身登场时获得30个暴击星(1次)",
     "TW": "難敵(Berserker)裝備時，自身登場時獲得30個爆擊星(1次)",
     "NA": "When equipped on Duryodhana:\n Gains 30 critical stars for 1 time when entering the field.",
-    "KR": null
+    "KR": "[servantName 704600](버서커) 장착 시 자신의 등장 시 스타 30개 획득(1회)"
   },
   "[servantName 704700](バーサーカー)装備時のみ、自身がフィールドにいる間、味方全体に〔混沌〕特攻状態を15%付与＆〔神性〕特攻状態を15%付与": {
     "JP": null,
@@ -3539,49 +3546,49 @@
     "CN": "在『魔眼·交响曲』中，★3(R)及以下的从者或玛修装备时,自身的攻击威力提升30%【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，僅當★3(R)或以下從者或瑪修裝備時，自身的攻擊威力提升30%【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 30% in \"Mystic Eyes Symphony\" for yourself only when equipped on Servants ★3 (R) or under or Mash [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 ★3(R) 이하의 서번트 또는 마슈에게 장착 시 자신의 공격 위력 30% UP[“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ミスティックアイズ・シンフォニー』において、★3(R)以下のサーヴァントまたはマシュに装備時のみ、自身の攻撃の威力を60%アップ[最大解放]【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "在『魔眼·交响曲』中，★3(R)及以下的从者或玛修装备时,自身的攻击威力提升60%[最大解放]【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，僅當★3(R)或以下從者或瑪修裝備時，自身的攻擊威力提升60%[最大解放]【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 60% in \"Mystic Eyes Symphony\" for yourself only when equipped on Servants ★3 (R) or under or Mash [MAX] [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 ★3(R) 이하의 서번트 또는 마슈에게 장착 시 자신의 공격 위력 60% UP[최대해방][“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ミスティックアイズ・シンフォニー』において、★4(SR)以下のサーヴァントに装備時のみ、自身の攻撃の威力を40%アップ【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "在『魔眼·交响曲』中，★4(SR)及以下的从者装备时,自身的攻击威力提升40%【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，僅當★4(SR)或以下從者裝備時，自身的攻擊威力提升40%【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 40% in \"Mystic Eyes Symphony\" for yourself only when equipped on Servants ★4 (SR) or under or Mash [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 ★4(SR) 이하의 서번트에게 장착 시 자신의 공격 위력 40% UP[“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ミスティックアイズ・シンフォニー』において、★4(SR)以下のサーヴァントに装備時のみ、自身の攻撃の威力を80%アップ[最大解放]【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "在『魔眼·交响曲』中，★4(SR)及以下的从者装备时,自身的攻击威力提升80%[最大解放]【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，僅當★4(SR)或以下從者裝備時，自身的攻擊威力提升80%[最大解放]【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 80% in \"Mystic Eyes Symphony\" for yourself only when equipped on Servants ★4 (SR) or under or Mash [MAX] [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 ★4(SR) 이하의 서번트에게 장착 시 자신의 공격 위력 80% UP[최대해방][“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ミスティックアイズ・シンフォニー』において、★5(SSR)以下のサーヴァントに装備時のみ、自身の攻撃の威力を100%アップ[最大解放]【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "在『魔眼·交响曲』中，★5(SSR)及以下的从者装备时,自身的攻击威力提升100%[最大解放]【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，僅當★5(SSR)或以下從者裝備時，自身的攻擊威力提升100%[最大解放]【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 100% in \"Mystic Eyes Symphony\" for yourself only when equipped on Servants ★5 (SSR) or under or Mash [MAX] [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 ★5(SSR) 이하의 서번트에게 장착 시 자신의 공격 위력 100% UP[최대해방][“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ミスティックアイズ・シンフォニー』において、★5(SSR)以下のサーヴァントに装備時のみ、自身の攻撃の威力を50%アップ【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "在『魔眼·交响曲』中，★5(SSR)及以下的从者装备时,自身的攻击威力提升50%【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，僅當★5(SSR)或以下從者裝備時，自身的攻擊威力提升50%【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 50% in \"Mystic Eyes Symphony\" for yourself only when equipped on Servants ★5 (SSR) or under or Mash [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 ★5(SSR) 이하의 서번트에게 장착 시 자신의 공격 위력 50% UP[“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ミスティックアイズ・シンフォニー』において、自身の攻撃の威力を100%アップ＆クエストクリア時に得られる絆を50%増やす＆「疲労」状態の回復速度を200%アップ【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "在『魔眼·交响曲』中，自身的攻击威力提升100%＆关卡通关时获得的牵绊值提升50%＆「疲劳」状态的回复速度提升200%【『魔眼·交响曲』活动限定】",
     "TW": "在『魔眼交響曲』中，自身的攻擊威力提升100%＆任務通關時獲得的羈絆值提升50%＆「疲勞」狀態的恢復速度提升200%【『魔眼交響曲』活動限定】",
     "NA": "Increase ATK Strength by 100% in \"Mystic Eyes Symphony\" & increase Bond gained when completing quests by 50% & increase recovery speed of \"Exhaustion\" by 200% for yourself [Event Only]",
-    "KR": null
+    "KR": "“미스틱 아이즈 심포니” 이벤트에서 자신의 공격 위력 100% UP&퀘스트 클리어 시 얻는 인연 포인트 50% 증가&‘피로’ 상태의 회복 속도 200% UP[“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "『ヨハンナさんと未確認の愛』におけるバトル開始時に自身のNPを最大まで増やす＆クエストクリア時に得られる絆を50%増やす【『ヨハンナさんと未確認の愛』イベント期間限定】": {
     "JP": null,
@@ -3655,14 +3662,14 @@
   },
   "『妖精双六虫籠遊戯』において、自身の攻撃の威力を100%アップ【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "自身在『妖精双六虫笼游戏』中的攻击威力提升100%【『妖精双六虫笼游戏』活动限定】",
     "TW": "自身在『妖精雙六蟲籠遊戲』中的攻擊威力提升100%【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "『妖精双六虫籠遊戯』において、自身の攻撃の威力を200%アップ[最大解放]【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "自身在『妖精双六虫笼游戏』中的攻击威力提升200%[最大解放]【『妖精双六虫笼游戏』活动限定】",
     "TW": "自身在『妖精雙六蟲籠遊戲』中的攻擊威力提升200%[最大解放]【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
@@ -4322,14 +4329,14 @@
     "JP": null,
     "CN": "〔人工生命体幼体〕的掉落率提升25%<对原本掉落率进行乘算>[最大解放]",
     "TW": "〔人工生命體幼體〕的掉落率提升25%<對原本掉落率進行乘算>[最大解放]",
-    "NA": "Increases Homunculus Baby's drop rate by 25%. (Multiply by the original drop rate)",
+    "NA": "Increase chance of (Homunculus Baby) drops by 25% <Applied to original drop rate> [MAX]",
     "KR": "[호문쿨루스 베이비]의 드롭률 25% UP<원래의 드롭률에 곱셈>[최대해방]"
   },
   "〔ホムンクルスベビー〕のドロップ率を5%アップする<元のドロップ率に対して乗算>": {
     "JP": null,
     "CN": "〔人工生命体幼体〕的掉落率提升5%<对原本掉落率进行乘算>",
     "TW": "〔人工生命體幼體〕的掉落率提升5%<對原本掉落率進行乘算>",
-    "NA": "Increases Homunculus Baby's drop rate by 5%. (Multiply by the original drop rate)",
+    "NA": "Increase chance of (Homunculus Baby) drops by 5% <Applied to original drop rate>",
     "KR": "[호문쿨루스 베이비]의 드롭률 5% UP<원래의 드롭률에 곱셈>"
   },
   "〔ライダー〕クラスが装備した場合宝具威力を15%アップ": {
@@ -4680,14 +4687,14 @@
     "CN": "〔精灵根〕的掉落率提升25%<对原本掉落率进行乘算>[最大解放]",
     "TW": "〔精靈根〕的掉落率提升25%<對原本掉落率進行乘算>[最大解放]",
     "NA": "Increases Spirit Root's drop rate by 25%. (Multiply by the original drop rate)",
-    "KR": null
+    "KR": "[정령근]의 드롭률 25% UP<원래의 드롭률에 곱셈>[최대해방]"
   },
   "〔精霊根〕のドロップ率を5%アップする<元のドロップ率に対して乗算>": {
     "JP": null,
     "CN": "〔精灵根〕的掉落率提升5%<对原本掉落率进行乘算>",
     "TW": "〔精靈根〕的掉落率提升5%<對原本掉落率進行乘算>",
     "NA": "Increases Spirit Root's drop rate by 5%. (Multiply by the original drop rate)",
-    "KR": null
+    "KR": "[정령근]의 드롭률 5% UP<원래의 드롭률에 곱셈>"
   },
   "〔英雄の証〕のドロップ率を25%アップする<元のドロップ率に対して乗算>[最大解放]": {
     "JP": null,
@@ -4852,42 +4859,42 @@
   },
   "おおきなキャンディーのドロップ獲得数を1個増やす【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "大大糖果的掉落获得数增加1个【『妖精双六虫笼游戏』活动限定】",
     "TW": "大大糖果的掉落獲得數增加1個【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "おおきなキャンディーのドロップ獲得数を2個増やす[最大解放]【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "大大糖果的掉落获得数增加2个[最大解放]【『妖精双六虫笼游戏』活动限定】",
     "TW": "大大糖果的掉落獲得數增加2個[最大解放]【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "おおきなクッキーのドロップ獲得数を1個増やす【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "大大饼干的掉落获得数增加1个【『妖精双六虫笼游戏』活动限定】",
     "TW": "大大餅乾的掉落獲得數增加1個【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "おおきなクッキーのドロップ獲得数を2個増やす[最大解放]【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "大大饼干的掉落获得数增加2个[最大解放]【『妖精双六虫笼游戏』活动限定】",
     "TW": "大大餅乾的掉落獲得數增加2個[最大解放]【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "おおきなケーキのドロップ獲得数を1個増やす【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "大大蛋糕的掉落获得数增加1个【『妖精双六虫笼游戏』活动限定】",
     "TW": "大大蛋糕的掉落獲得數增加1個【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "おおきなケーキのドロップ獲得数を2個増やす[最大解放]【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "大大蛋糕的掉落获得数增加2个[最大解放]【『妖精双六虫笼游戏』活动限定】",
     "TW": "大大蛋糕的掉落獲得數增加2個[最大解放]【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
@@ -6021,14 +6028,14 @@
   },
   "クエストクリア時に得られる〔今を生きる人類(一部の疑似サーヴァント、デミ・サーヴァントなど)〕の絆を20%増やす[最大解放]": {
     "JP": null,
-    "CN": "关卡通关时〔活在当下的人类(部分拟似从者、亚从者等)〕获得的牵绊值提升20%[最大解放]",
+    "CN": "关卡通关时获得的〔活在当下的人类(部分拟似从者、亚从者等)〕的牵绊值提升20%[最大解放]",
     "TW": "關卡通關時〔活在當下的人類(部分擬似從者、亞從者等)〕獲得的羈絆值提升20%[最大解放]",
     "NA": "Increases the Bond Points gained of Living Human allies by 20%.",
     "KR": null
   },
   "クエストクリア時に得られる〔今を生きる人類(一部の疑似サーヴァント、デミ・サーヴァントなど)〕の絆を4%増やす": {
     "JP": null,
-    "CN": "关卡通关时〔活在当下的人类(部分拟似从者、亚从者等)〕获得的牵绊值提升4%",
+    "CN": "关卡通关时获得的〔活在当下的人类(部分拟似从者、亚从者等)〕的牵绊值提升4%",
     "TW": "關卡通關時〔活在當下的人類(部分擬似從者、亞從者等)〕獲得的羈絆值提升4%",
     "NA": "Increases the Bond Points gained of Living Human allies by 4%.",
     "KR": null
@@ -6045,6 +6052,20 @@
     "CN": "关卡通关时〔秩序且善〕特性获得的牵绊值提升4%",
     "TW": "關卡通關時〔秩序且善〕特性獲得的羈絆提升4%",
     "NA": "Increases the Bond Points gained of allies with Lawful-Good Alignment by 4%.",
+    "KR": null
+  },
+  "クエストクリア時に得られる〔霊衣を持つ者〕の絆を20%増やす[最大解放]": {
+    "JP": null,
+    "CN": "关卡通关时〔持有灵衣之人〕获得的牵绊值提升20%[最大解放]",
+    "TW": null,
+    "NA": "Increases the Bond Points gained of Costume-Owning allies by 20%.",
+    "KR": null
+  },
+  "クエストクリア時に得られる〔霊衣を持つ者〕の絆を4%増やす": {
+    "JP": null,
+    "CN": "关卡通关时〔持有灵衣之人〕获得的牵绊值提升4%",
+    "TW": null,
+    "NA": "Increases the Bond Points gained of Costume-Owning allies by 4%.",
     "KR": null
   },
   "クエストクリア時に得られるマスターEXPを1%増やす(サポート時は3%増やす)": {
@@ -6236,6 +6257,20 @@
     "NA": "Increase [Military Affairs] progress by 20% when completing quests [MAX] [Event Only]",
     "KR": "퀘스트 클리어 시 [군무]의 획득 진행도 20% 증가[최대해방][“108인의 할로윈 리벨리온” 이벤트 기간한정]"
   },
+  "クラシックタオルのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "クラシックタオルのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "クラフトウッド、クラフトストーン、クラフトメタルのドロップ獲得数を1個増やす【『ぶち壊せ！ ミステリーハウス・クラフターズ』イベント期間限定】": {
     "JP": null,
     "CN": null,
@@ -6269,7 +6304,7 @@
     "CN": "暴击威力提升5%",
     "TW": "爆擊威力提升5%",
     "NA": "Increase Critical Strength by 5%",
-    "KR": null
+    "KR": "크리티컬 위력 5% UP"
   },
   "クレオパトラ(アサシン)装備時のみ、自身がフィールドにいる間、味方全体の宝具威力を25%アップ＆防御力を10%ダウン【デメリット】": {
     "JP": null,
@@ -6611,7 +6646,7 @@
     "JP": null,
     "CN": "支援中获得的友情点＋25(可以重复)＆关卡通关时获得的御主经验增加2.5%＆关卡通关时获得的魔术礼装经验增加2.5%[最大解放]",
     "TW": "支援中獲得的友情點＋25(可以重複)＆任務通關時獲得的御主經驗增加2.5%＆任務通關時獲得的魔術禮裝經驗增加2.5%[最大解放]",
-    "NA": "Increases Friend Points gained when using a Friend Support by 25. (Stackable)\nIncreases Master EXP gained by 2.5%.\nIncreases Mystic Code EXP gained by 2.5%.",
+    "NA": "Gain +25 Friend Points when used as Support (Stackable) & increase the amount of Master EXP gained when completing quests by 2.5% & increase the amount of Mystic Code EXP gained when completing quests by 2.5% [MAX]",
     "KR": "서포트로 얻는 친구 포인트 +25(중복 가능)&퀘스트 클리어 시 얻는 마스터 EXP 2.5% 증가&퀘스트 클리어 시 얻는 마술예장 EXP 2.5% 증가[최대해방]"
   },
   "サポートで得られるフレンドポイントが＋25される(重複可能)＆クエストクリア時に得られるマスターEXPを5%増やす[最大解放]": {
@@ -6688,7 +6723,7 @@
     "JP": null,
     "CN": "支援中获得的友情点＋5(可以重复)＆关卡通关时获得的御主经验增加0.5%＆关卡通关时获得的魔术礼装经验增加0.5%",
     "TW": "支援中獲得的友情點＋5(可以重複)＆任務通關時獲得的御主經驗增加0.5%＆任務通關時獲得的魔術禮裝經驗增加0.5%",
-    "NA": "Increases Friend Points gained when using a Friend Support by 5. (Stackable)\nIncreases Master EXP gained by 0.5%.\nIncreases Mystic Code EXP gained by 0.5%.",
+    "NA": "Gain +5 Friend Points when used as Support (Stackable) & increase the amount of Master EXP gained when completing quests by 0.5% & increase the amount of Mystic Code EXP gained when completing quests by 0.5%",
     "KR": "서포트로 얻는 친구 포인트 +5(중복 가능)&퀘스트 클리어 시 얻는 마스터 EXP 0.5% 증가&퀘스트 클리어 시 얻는 마술예장 EXP 0.5% 증가"
   },
   "サポートで得られるフレンドポイントが＋5される(重複可能)＆クエストクリア時に得られるマスターEXPを1%増やす": {
@@ -7111,6 +7146,13 @@
     "NA": "Gain Critical Stars [{0}]",
     "KR": "스타 획득[{0}]"
   },
+  "スターを獲得[{0}] ＋ フィールドを〔天国〕または〔地獄〕状態にする(5ターン)【効果を選択】 ＋ フィールドが〔天国〕の時、味方全体のArtsカード性能をアップ[{0}](3ターン)＆クリティカル威力をアップ[{0}](3ターン)＆毎ターンHP回復状態を付与(3ターン) ＋ フィールドが〔地獄〕の時、味方全体のBusterカード性能をアップ[{0}](3ターン)＆宝具威力をアップ[{0}](3ターン)＋自身に毎ターンNP獲得状態を付与(3ターン)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "スターを獲得[{0}] ＋ 味方全体のNPを少し増やす": {
     "JP": null,
     "CN": "获得暴击星[{0}]＋己方全体的NP小幅增加",
@@ -7172,14 +7214,14 @@
     "CN": "暴击星掉落率提升10%",
     "TW": "爆擊星掉落率提升10%",
     "NA": "Increase C. Star Drop Rate by 10%",
-    "KR": null
+    "KR": "스타 발생률 10% UP"
   },
   "スター発生率を5%アップ": {
     "JP": null,
     "CN": "暴击星掉落率提升5%",
     "TW": "爆擊星掉落率提升5%",
     "NA": "Increase C. Star Drop Rate by 5%",
-    "KR": null
+    "KR": "스타 발생률 5% UP"
   },
   "ステンノ(アサシン)装備時のみ、自身がフィールドにいる間、味方全体のQuickカード性能を15%アップ": {
     "JP": null,
@@ -8098,6 +8140,20 @@
     "NA": "Increase all allies' Critical Strength by 25% only if Billy the Kid (Archer) is equipped with this Craft Essence when he is on the field.",
     "KR": "빌리 더 키드(아처) 장착 시 자신이 필드에 있는 동안 아군 전체 크리티컬 위력 25% UP"
   },
+  "ビンテージクローシュのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "ビンテージクローシュのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ビームクッキーのドロップ獲得数を1個増やす【『復刻:ハロウィン・ストライク！ 魔のビルドクライマー／姫路城大決戦 ライト版』イベント期間限定】": {
     "JP": null,
     "CN": "光线曲奇的掉落获得数增加1个【『复刻:万圣节·强袭！ 魔城攀登者／姬路城大决战 轻量版』活动限定】",
@@ -8278,7 +8334,7 @@
     "CN": "贝奥武夫(Berserker)装备,且自身在场时,为己方全体付与对〔龙〕20%的特攻状态",
     "TW": "貝奧武夫(Berserker)裝備，且自身在場時，為我方全體賦予對〔龍〕20%的特攻狀態",
     "NA": "Apply 20% Special Attack [Dragon] for all allies only if Beowulf (Berserker) is equipped with this Craft Essence when he is on the field.",
-    "KR": "베오울프(버서커) 장착 시 자신이 필드에 있는 동안 아군 전체에게 [용] 특공 상태를 20% 부여"
+    "KR": "베오울프(버서커) 장착 시 자신이 필드에 있는 동안 아군 전체에게 [용] 특공 상태 20% 부여"
   },
   "ベディヴィエール(セイバー)装備時のみ、自身がフィールドにいる間、味方全体のBusterカード性能を10%アップ＆NP獲得量を10%アップ": {
     "JP": null,
@@ -8952,6 +9008,20 @@
     "NA": "Increase all allies' Buster Card effectiveness by 15% only if Leonidas (Lancer) is equipped with this Craft Essence when he is on the field.",
     "KR": "레오니다스(랜서) 장착 시 자신이 필드에 있는 동안 아군 전체 버스터 카드 성능 15% UP"
   },
+  "レトロルームキーのドロップ獲得数を1個増やす【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "レトロルームキーのドロップ獲得数を2個増やす[最大解放]【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ロビンフッド(アーチャー)装備時のみ、自身がフィールドにいる間、味方全体のArtsカード性能を15%アップ": {
     "JP": null,
     "CN": "罗宾汉(Archer)装备,且自身在场时,己方全体的Arts指令卡性能提升15%",
@@ -9258,7 +9328,7 @@
     "CN": "使用令咒时，对象的攻击力提升10%(1回合)＆防御力提升10%(1回合)",
     "TW": "使用令咒時，對象的攻擊力提升10%(1回合)&防禦力提升10%(1回合)",
     "NA": "Increase target's ATK by 10% (1 turn) & DEF by 10% (1 turn) when using Command Spell",
-    "KR": null
+    "KR": "영주 사용 시, 대상의 공격력 10% UP(1턴)&방어력 10% UP(1턴)"
   },
   "佐々木小次郎(アサシン)装備時のみ、自身がフィールドにいる間、味方全体のQuickカード性能を15%アップ": {
     "JP": null,
@@ -9269,14 +9339,14 @@
   },
   "信念のゼリーのドロップ獲得数を1個増やす【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
     "JP": null,
-    "CN": "信念果冻的掉落获得数增加1个【『CBC2024 查理曼的Montjoie骑士道！』活动限定】",
+    "CN": "信念啫喱的掉落获得数增加1个【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "信念果凍的掉落獲得數增加1個【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
     "NA": "Increase Jelly of Conviction amount per drop by 1 [Event Only]",
     "KR": null
   },
   "信念のゼリーのドロップ獲得数を2個増やす[最大解放]【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
     "JP": null,
-    "CN": "信念果冻的掉落获得数增加2个[最大解放]【『CBC2024 查理曼的Montjoie骑士道！』活动限定】",
+    "CN": "信念啫喱的掉落获得数增加2个[最大解放]【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "信念果凍的掉落獲得數增加2個[最大解放]【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
     "NA": "Increase Jelly of Conviction amount per drop by 2 [MAX] [Event Only]",
     "KR": null
@@ -9416,7 +9486,7 @@
   },
   "刻印されたカードに〔人の力を持つ敵〕特攻効果を10%付与＆〔中立のサーヴァント〕特攻効果を10%付与＆〔シャドウサーヴァント〕特攻効果を10%付与": {
     "JP": null,
-    "CN": null,
+    "CN": "付与被刻印的指令卡10%〔拥有人之力的敌人〕＆付与被刻印的指令卡10%〔中立从者〕特攻效果＆付与被刻印的指令卡10%〔影从者〕特攻效果",
     "TW": null,
     "NA": "Increases damage against enemies with Man Attribute by 10% of the engraved card.\n Increases damage against Servant enemies with Neutral Alignment by 10% of the engraved card.\n Increases damage against Shadow Servant enemies by 10% of the engraved card.",
     "KR": null
@@ -9606,7 +9676,7 @@
   "刻印されたカードに〔魔性〕特攻効果を15%付与 ＋ 刻印されたカードによる攻撃時にスターを2個獲得": {
     "JP": null,
     "CN": "付与被刻印的指令卡对〔魔性〕15%的特攻效果＋当使用被刻印的指令卡进行攻击时,获得2个暴击星",
-    "TW": "賦予被刻印的指令卡15%〔魔性〕特攻效果 ＋ 當使用被刻印的指令卡進行攻擊時，獲得2個爆擊星",
+    "TW": "賦予被刻印的指令卡對〔魔性〕15%的特攻效果＋當使用被刻印的指令卡進行攻擊時，獲得2個爆擊星",
     "NA": "Increases damage against Demonic enemies by 15% of the engraved card.\n Gains 2 critical stars when attacking using the engraved card.",
     "KR": "각인된 카드에 [마성] 특공 효과 15% 부여 + 각인된 카드로 공격 시 스타 2개 획득"
   },
@@ -10170,6 +10240,13 @@
     "NA": "Gain 2 C. Stars when attacking with the engraved Card + Apply 20% Special Attack [Charm] effect to the engraved Card",
     "KR": "각인된 카드로 공격 시 스타 2개 획득 + 각인된 카드에 [매료] 상태 특공 효과 20% 부여"
   },
+  "刻印されたカードによる攻撃時にスターを2個獲得 ＋ 刻印されたカードのNP獲得量を5%アップ": {
+    "JP": null,
+    "CN": "当使用被刻印的指令卡进行攻击时，获得2个暴击星 ＋ 被刻印的指令卡NP获得量提升5%",
+    "TW": null,
+    "NA": "Gains 2 critical stars when attacking using the engraved card.\n Increases NP generation rate by 5% of the engraved card.",
+    "KR": null
+  },
   "刻印されたカードによる攻撃時にスターを2個獲得＋敵単体のクリティカル発生率アップ状態を1つ解除": {
     "JP": null,
     "CN": "当使用被刻印的指令卡进行攻击时,获得2个暴击星＋解除1个敌方单体的暴击率提升状态",
@@ -10347,7 +10424,7 @@
   },
   "刻印されたカードのNP獲得量を5%アップ ＋ 刻印されたカードによる攻撃時に、自身の宝具威力を5%アップ(1ターン) ": {
     "JP": null,
-    "CN": null,
+    "CN": "被刻印的指令卡NP获得量提升5% ＋ 当使用被刻印的指令卡进行攻击时，自身的宝具威力提升5%(1回合)",
     "TW": null,
     "NA": "Increases NP generation rate by 5% of the engraved card.\n Increases NP damage by 5% for 1 turn when attacking using the engraved card.",
     "KR": null
@@ -10382,7 +10459,7 @@
   },
   "刻印されたカードの〔人の力を持つ敵〕に対するクリティカル威力を15%アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "被刻印的指令卡对〔拥有人之力的敌人〕的暴击威力提升15%",
     "TW": null,
     "NA": "Increases critical damage against enemies with Man Attribute by 15% of the engraved card.",
     "KR": null
@@ -10432,7 +10509,7 @@
   "刻印されたカードのクリティカル威力を10%アップ ＋ 刻印されたカードによる攻撃時に自身のHPを200回復": {
     "JP": null,
     "CN": "被刻印的指令卡的暴击威力提升10%＋当使用被刻印的指令卡进行攻击时,自身的生命值回复200",
-    "TW": "被刻印的指令卡爆擊威力提升10% ＋ 當使用被刻印的指令卡進行攻擊時，自身的HP回復200",
+    "TW": "被刻印的指令卡的爆擊威力提升10%＋當使用被刻印的指令卡進行攻擊時，自身的HP恢復200",
     "NA": "Increases critical damage by 10% of the engraved card.\n Recovers HP by 200 When attacking using the engraved card.",
     "KR": "각인된 카드의 크리티컬 위력 10% UP + 각인된 카드로 공격 시 자신의 HP 200 회복"
   },
@@ -10573,7 +10650,7 @@
     "JP": null,
     "CN": "被刻印的指令卡暴击星集中度提高50%＋当使用被刻印的指令卡进行攻击时,获得2个暴击星",
     "TW": "被刻印的指令卡爆擊星集中提高50%＋當使用被刻印的指令卡進行攻擊時，獲得2個爆擊星",
-    "NA": "Increases critical star absorption rate by 50% of the engraved card.\n Gains 2 critical stars when attacking using the engraved card.",
+    "NA": "Increase C. Star Gather Rate by 50% for the engraved Card + Gain 2 C. Stars when attacking with the engraved Card ",
     "KR": "각인된 카드의 스타 집중도 50% UP + 각인된 카드로 공격 시 스타 2개 획득"
   },
   "刻印されたカードのスター集中度を50%アップ＆クリティカル威力を10%アップ": {
@@ -10606,14 +10683,14 @@
   },
   "勇気のキャンディのドロップ獲得数を1個増やす【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
     "JP": null,
-    "CN": "勇气糖果的掉落获得数增加1个【『CBC2024 查理曼的Montjoie骑士道！』活动限定】",
+    "CN": "勇气糖果的掉落获得数增加1个【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "勇氣糖果的掉落獲得數增加1個【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
     "NA": "Increase Candy of Valor amount per drop by 1 [Event Only]",
     "KR": null
   },
   "勇気のキャンディのドロップ獲得数を2個増やす[最大解放]【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
     "JP": null,
-    "CN": "勇气糖果的掉落获得数增加2个[最大解放]【『CBC2024 查理曼的Montjoie骑士道！』活动限定】",
+    "CN": "勇气糖果的掉落获得数增加2个[最大解放]【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "勇氣糖果的掉落獲得數增加2個[最大解放]【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
     "NA": "Increase Candy of Valor amount per drop by 2 [MAX] [Event Only]",
     "KR": null
@@ -10634,14 +10711,14 @@
   },
   "博愛のマカロンのドロップ獲得数を1個増やす【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
     "JP": null,
-    "CN": "博爱马卡龙的掉落获得数增加1个【『CBC2024 查理曼的Montjoie骑士道！』活动限定】",
+    "CN": "博爱马卡龙的掉落获得数增加1个【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "博愛馬卡龍的掉落獲得數增加1個【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
     "NA": "Increase Macaron of Philanthropy amount per drop by 1 [Event Only]",
     "KR": null
   },
   "博愛のマカロンのドロップ獲得数を2個増やす[最大解放]【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
     "JP": null,
-    "CN": "博爱马卡龙的掉落获得数增加2个[最大解放]【『CBC2024 查理曼的Montjoie骑士道！』活动限定】",
+    "CN": "博爱马卡龙的掉落获得数增加2个[最大解放]【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "博愛馬卡龍的掉落獲得數增加2個[最大解放]【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
     "NA": "Increase Macaron of Philanthropy amount per drop by 2 [MAX] [Event Only]",
     "KR": null
@@ -10887,7 +10964,7 @@
   "味方全体に無敵状態を付与(1回・3ターン) ＋ 自身のNPを増やす[{0}] ＋ スターを獲得[{0}]": {
     "JP": null,
     "CN": "付与己方全体无敌状态(1次·3回合)＋自身的NP增加[{0}]＋获得暴击星[{0}]",
-    "TW": "賦予我方全體無敵狀態(1次·3回合)＋自身的NP增加[{0}]＋獲得爆擊星[{0}]",
+    "TW": "賦予我方全體無敵狀態(1次．3回合)＋自身的NP增加[{0}]＋獲得爆擊星[{0}]",
     "NA": "Apply Invincible (1 time, 3 turns) for all allies + Increase NP Gauge for yourself + Gain C. Stars [{0}]",
     "KR": "아군 전체에게 무적 상태 부여(1회・3턴) + 자신의 NP 증가[{0}] + 스타 획득[{0}]"
   },
@@ -11883,7 +11960,7 @@
     "CN": "己方全体的攻击力提升[{0}](3回合)＆暴击威力提升[{0}](3回合)＋随机己方单体的暴击星集中度提升(1回合)",
     "TW": "我方全體的攻擊力提升[{0}](3回合)＆爆擊威力提升[{0}](3回合)＋隨機賦予我方單體爆擊星集中度提升(1回合)",
     "NA": "Increase ATK [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for all allies + Increase one random ally's C. Star Gather Rate (1 turn)",
-    "KR": null
+    "KR": "아군 전체의 공격력 UP[{0}](3턴)&크리티컬 위력 UP[{0}](3턴) + 랜덤한 아군 한 명의 스타 집중도 UP(1턴)"
   },
   "味方全体の攻撃力をアップ[{0}](3ターン)＆クリティカル威力をアップ[{0}](3ターン) ＋ 味方全体の〔夏モードのサーヴァント〕のNP獲得量をアップ[{0}](3ターン)": {
     "JP": null,
@@ -12447,7 +12524,7 @@
   },
   "味方単体に無敵状態を付与(2回・3ターン) ＋ 自身に「クリティカル攻撃時に自身に〔王勇〕状態(5ターン)を付与する状態」を付与(5ターン)▲ ＋ 自身が無敵状態でない時、自身のNP獲得量をアップ[{0}](5ターン)＆「被ダメージ時に自身に〔王勇〕状態(5ターン)を付与する状態」を付与(5ターン) ＋ 自身が無敵状態の時、自身に宝具封印状態を付与(1ターン)【デメリット】 ＋ スターを獲得[{0}]▲": {
     "JP": null,
-    "CN": null,
+    "CN": "付与己方单体无敌状态(2次·3回合)＋付与自身「暴击攻击时付与自身〔王威〕状态(5回合)」(5回合)▲＋自身并非无敌状态时，自身的NP获得量提升[{0}](5回合)＆付与自身「受到伤害时付与自身〔王威〕状态(5回合)」(5回合)＋自身处于无敌状态时，付与自身宝具封印状态(1回合)【负面效果】＋获得暴击星[{0}]▲",
     "TW": "賦予我方單體無敵狀態(2次·3回合) + 賦予自身「爆擊攻擊時賦予自身〔王勇〕狀態(5回合)」(5回合)▲ ＋ 自身未處於無敵狀態時，自身的NP獲得量提升[{0}](5回合) ＆ 賦予「被傷害時賦予自身〔王威〕狀態(5回合)」的狀態(5回合) + 自身處於無敵狀態時，賦予自身寶具封印狀態(1回合)【負面效果】＋獲得爆擊星[{0}]▲",
     "NA": null,
     "KR": null
@@ -13058,7 +13135,7 @@
     "JP": null,
     "CN": "己方单体的暴击威力提升[{0}](3回合)＆技能冷却减少1回合",
     "TW": "我方單體的爆擊威力提升[{0}](3回合)＆技能冷卻減少1回合",
-    "NA": "Increase Critical Strength [{0}] (3 turns) & Reduce skill cooldown by 1 for one ally",
+    "NA": "Increase Critical Strength [{0}] (3 turns) & reduce skill cooldown by 1 for a single ally",
     "KR": "아군 하나의 크리티컬 위력 UP[{0}](3턴)&스킬 쿨타임 1 감소"
   },
   "味方単体のクリティカル威力をアップ[{0}](3ターン)＆スター発生率をアップ[{0}]▲(3ターン)＆防御力をダウン(3ターン)【デメリット】": {
@@ -13178,7 +13255,7 @@
     "CN": "己方单体的暴击星集中度提升[{0}](3回合)＋付与自身每回合获得暴击星的状态[{0}](3回合)＆付与每回合获得NP的状态(3回合)＋敌方全体弱化耐性下降[{0}](1回合)",
     "TW": "我方單體的爆擊星集中提升[{0}](3回合)＋賦予自身每回合獲得爆擊星的狀態[{0}](3回合)＆賦予每回合獲得NP的狀態(3回合)＋敵方全體弱化耐性下降[{0}](1回合)",
     "NA": "Increase C. Star Gather Rate [{0}] (3 turns) for one ally + Gain C. Stars each turn [{0}] (3 turns) & increase NP Gauge each turn (3 turns) for yourself + decrease Debuff Resist [{0}] (1 turn) for all enemies",
-    "KR": null
+    "KR": "아군 한 명의 스타 집중도 UP[{0}](3턴) + 자신에게 매 턴 스타 획득 상태 부여[{0}](3턴)&매 턴 NP 획득 상태 부여(3턴) + 적 전체의 약화 내성 DOWN[{0}](1턴)"
   },
   "味方単体のスター集中度をアップ[{0}](3ターン)＆HPを回復[{0}]": {
     "JP": null,
@@ -13458,7 +13535,7 @@
     "CN": "天草四郎(Ruler)装备,且自身在场时,为己方全体付与对〔死灵与恶魔〕20%的特攻状态",
     "TW": "天草四郎(Ruler)裝備，且自身在場時，為我方全體賦予對〔死靈與惡魔〕20%的特攻狀態",
     "NA": "Apply 20% Special Attack [Undead & Demon] for all allies only if Amakusa Shirou (Ruler) is equipped with this Craft Essence when he is on the field.",
-    "KR": "아마쿠사 시로(룰러) 장착 시 자신이 필드에 있는 동안 아군 전체에게 [사령과 악마] 특공 상태를 20% 부여"
+    "KR": "아마쿠사 시로(룰러) 장착 시 자신이 필드에 있는 동안 아군 전체에게 [사령과 악마] 특공 상태 20% 부여"
   },
   "太陽のバンテージのドロップ獲得数を1個増やす【『復刻:栄光のサンタクロース・ロード ～封じられたクリスマスプレゼント～ ライト版』イベント期間限定】": {
     "JP": null,
@@ -13535,7 +13612,7 @@
     "CN": "宝具威力提升5%",
     "TW": "寶具威力提升5%",
     "NA": "Increases NP Damage by 5%",
-    "KR": null
+    "KR": "보구 위력 5% UP"
   },
   "宮本武蔵(セイバー)装備時のみ、自身の宝具威力を30%アップ＆弱体無効状態(3回)を付与": {
     "JP": null,
@@ -14527,7 +14604,7 @@
   "敵単体に確率[{0}]で拘束状態を付与(1ターン) ＋ 自身のスター集中度をアップ[{0}](1ターン)＆クリティカル威力をアップ[{0}](1ターン)": {
     "JP": null,
     "CN": "一定概率[{0}]付与敌方单体束缚状态(1回合)＋自身暴击星集中度提升[{0}](1回合)＆暴击威力提升[{0}](1回合)",
-    "TW": "一定機率賦予敵方單體拘束狀態[{0}](1回合)＋自身的爆擊星集中度提升[{0}](1回合)＆爆擊威力提升[{0}](1回合)",
+    "TW": "一定機率[{0}]賦予敵方單體束縛狀態(1回合)＋自身爆擊星集中提升[{0}](1回合)＆爆擊威力提升[{0}](1回合)",
     "NA": "Chance to inflict Bound [{0}] (1 turn) for single enemy + Increase C. Star Gather Rate [{0}] (1 turn) & Critical Strength [{0}] (1 turn) for yourself",
     "KR": "적 하나에게 확률[{0}]로 구속 상태 부여(1턴) + 자신의 스타 집중도 UP[{0}](1턴)&크리티컬 위력 UP[{0}](1턴)"
   },
@@ -14536,7 +14613,7 @@
     "CN": "付与敌方单体一定概率[{0}]无法行动的状态(1回合)＋自身Quick指令卡的暴击威力提升[{0}](3回合)＆付与「Quick攻击时付与敌方单体诅咒状态(5回合)的状态」(3回合)",
     "TW": "一定機率賦予敵方單體無法行動狀態[{0}](1回合)＋自身的Quick指令卡爆擊威力提升[{0}](3回合)＆賦予「Quick攻擊時賦予敵方單體詛咒狀態(5回合)的狀態」(3回合)",
     "NA": "Chance to inflict Unable to act [{0}] (1 turn) for single enemy + Increase Quick Card's Critical Strength [{0}] (3 turns) & apply a state that \"inflict Curse (5 turns) to a single enemy when attacking with a Quick Card\" for yourself",
-    "KR": null
+    "KR": "적 하나에게 확률[{0}]로 행동불능 상태 부여(1턴) + 자신의 퀵 카드의 크리티컬 위력 UP[{0}](3턴)&‘퀵 공격 시 적 하나에게 저주 상태(5턴)를 부여하는 상태’ 부여(3턴)"
   },
   "敵単体に高確率[{0}]で宝具封印状態を付与(1ターン)": {
     "JP": null,
@@ -15716,7 +15793,7 @@
   },
   "自身がフィールドにいる間、〔混沌〕特性の味方全体のNP獲得量を少しアップ<霊基第一・第二段階と第三段階時とで効果量が変化> ＋ 〔善〕特性の味方全体のNP獲得量を少しアップ<霊基第一・第二段階と第三段階時とで効果量が変化> ＋ 味方全体に「被ダメージ時に〔祭神の怒り〕状態<特殊なクリティカル威力アップ状態>(1ターン)を付与する状態」を付与": {
     "JP": null,
-    "CN": "当自身在场时,〔混沌〕特性己方全体的NP获得量小幅提升<灵基第一、第二阶段时与第三阶段时的效果量会发生变化>＋〔善〕特性己方全体的NP获得量小幅提升<灵基第一、第二阶段时与第三阶段时的效果量会发生变化>＋付与己方全体「受击时付与〔祭神之怒〕状态<特殊的暴击威力提升状态>(1回合)」",
+    "CN": "自身在场时，〔混沌〕特性己方全体的NP获得量小幅提升<灵基第一、第二阶段时与第三阶段时的效果量会发生变化>＋〔善〕特性己方全体的NP获得量小幅提升<灵基第一、第二阶段时与第三阶段时的效果量会发生变化>＋付与己方全体「受击时付与〔祭神之怒〕状态<特殊的暴击威力提升状态>(1回合)」",
     "TW": "自身在場時，〔混沌〕特性的我方全體NP獲得量小幅提升<靈基第一·第二階段與第三階段時效果量不同>＋〔善〕特性的我方全體NP獲得量小幅提升＋賦予我方全體「被傷害時，賦予〔祭神之怒〕狀態<特殊的爆擊威力提升狀態>(1回合)」的狀態",
     "NA": "When you are on the field, slightly increase NP Gain for all [Chaotic] allies <Effect value changes between Ascension Form 1&2 and Ascension Form 3> + slightly increase NP Gain for all [Good] allies <Effect value changes between Ascension Form 1&2 and Ascension Form 3> + apply a state \"Apply [Wrath of the Enshrined Deity] <Special Critical Strength Up state> when damaged\" for all allies",
     "KR": null
@@ -15730,7 +15807,7 @@
   },
   "自身がフィールドにいる間、味方全体<控え含む>の〔フォーリナー〕クラス以外に対する弱体付与成功率をアップ ＋ 味方全体<控え含む>の〔マーリン〕の強化付与成功率をダウン【デメリット】": {
     "JP": null,
-    "CN": "当自身在场时,己方全体<包括替补>的〔Foreigner〕职阶以外的对弱化付与成功率提升＋己方全体<包括替补>的〔梅林〕强化付与成功率下降【负面效果】",
+    "CN": "自身在场时，对己方全体<包括替补>的〔Foreigner〕职阶以外的弱化付与成功率提升＋己方全体<包括替补>的〔梅林〕强化付与成功率下降【负面效果】",
     "TW": "當自身在場時，我方全體<包括替補>的〔Foreigner〕職階以外的對弱化賦予成功率提升＋我方全體<包括替補>的〔梅林〕強化賦予成功率下降【負面效果】",
     "NA": "Increase Debuff Success Rate against all enemies other than [Foreigner] classes for all allies <including sub-members> when you are on the field + Decrease Buff Success Rate for all [Merlin] allies <including sub-members> [Demerit]",
     "KR": "자신이 필드에 있는 동안 아군 전체<후열 포함>의 [포리너] 클래스 이외에 대한 약화 부여 성공률 UP + 아군 전체<후열 포함>의 [멀린]의 강화 부여 성공률 DOWN【단점】"
@@ -15744,7 +15821,7 @@
   },
   "自身がフィールドにいる間、味方全体のスター発生率をアップ": {
     "JP": null,
-    "CN": "当自身在场时,己方全体的暴击星掉落率提升",
+    "CN": "自身在场时，己方全体的暴击星掉落率提升",
     "TW": "自身在場時，我方全體的爆擊星掉落率提升",
     "NA": "Increase all allies' C. Star Drop Rate when you are on the field",
     "KR": null
@@ -15936,14 +16013,14 @@
     "CN": "付与自身对〔Caster〕职阶10%的特攻状态[最大解放]",
     "TW": "賦予自身對〔Caster〕職階10%的特攻狀態[最大解放]",
     "NA": "Apply 10% Special Attack [Caster] for yourself [MAX]",
-    "KR": "자신에게 [캐스터] 클래스에 대한 특공 상태를 10% 부여[최대해방]"
+    "KR": "자신에게 [캐스터] 클래스에 대한 특공 상태 10% 부여[최대해방]"
   },
   "自身に〔キャスター〕クラスへの特攻状態を8%付与": {
     "JP": null,
     "CN": "付与自身对〔Caster〕职阶8%的特攻状态",
     "TW": "賦予自身對〔Caster〕職階8%的特攻狀態",
     "NA": "Apply 8% Special Attack [Caster] for yourself",
-    "KR": "자신에게 [캐스터] 클래스에 대한 특공 상태를 8% 부여"
+    "KR": "자신에게 [캐스터] 클래스에 대한 특공 상태 8% 부여"
   },
   "自身に〔サクラシリーズ系〕特攻状態を付与＆自身のクラスと同一のクラスに対する特攻状態を付与<一部の特殊なクラスに対しては無効>": {
     "JP": null,
@@ -15964,14 +16041,14 @@
     "CN": "付与自身对〔Rider〕职阶10%的特攻状态[最大解放]",
     "TW": "賦予自身對〔Rider〕職階10%的特攻狀態[最大解放]",
     "NA": "Apply 10% Special Attack [Rider] for yourself [MAX]",
-    "KR": "자신에게 [라이더] 클래스에 대한 특공 상태를 10% 부여[최대해방]"
+    "KR": "자신에게 [라이더] 클래스에 대한 특공 상태 10% 부여[최대해방]"
   },
   "自身に〔ライダー〕クラスへの特攻状態を8%付与": {
     "JP": null,
     "CN": "付与自身对〔Rider〕职阶8%的特攻状态",
     "TW": "賦予自身對〔Rider〕職階8%的特攻狀態",
     "NA": "Apply 8% Special Attack [Rider] for yourself",
-    "KR": "자신에게 [라이더] 클래스에 대한 특공 상태를 8% 부여"
+    "KR": "자신에게 [라이더] 클래스에 대한 특공 상태 8% 부여"
   },
   "自身に〔ルーラー〕クラスに対する攻撃優位状態を付与": {
     "JP": null,
@@ -16020,14 +16097,14 @@
     "CN": "付与自身对〔人型〕25%的特攻状态",
     "TW": "賦予自身對〔人型〕25%的特攻狀態",
     "NA": "Apply 25% Special Attack [Humanoid] for yourself",
-    "KR": "자신에게 [인간형] 특공 상태를 25% 부여"
+    "KR": "자신에게 [인간형] 특공 상태 25% 부여"
   },
   "自身に〔人型〕特攻状態を30%付与[最大解放]": {
     "JP": null,
     "CN": "付与自身对〔人型〕30%的特攻状态[最大解放]",
     "TW": "賦予自身對〔人型〕30%的特攻狀態[最大解放]",
     "NA": "Apply 30% Special Attack [Humanoid] for yourself [MAX]",
-    "KR": "자신에게 [인간형] 특공 상태를 30% 부여[최대해방]"
+    "KR": "자신에게 [인간형] 특공 상태 30% 부여[최대해방]"
   },
   "自身に〔人型〕特攻状態を付与[{0}](1ターン)＆クリティカル威力をアップ[{0}](1ターン)": {
     "JP": null,
@@ -16216,14 +16293,14 @@
     "CN": "付与自身对〔男性〕25%的特攻状态＆弱化付与成功率提升12%",
     "TW": "賦予自身對〔男性〕25%的特攻狀態＆弱化賦予成功率提升12%",
     "NA": "Apply 25% Special Attack [Male] & increase Debuff Success Rate by 12% for yourself",
-    "KR": "자신에게 [남성] 특공 상태를 25% 부여&약화 상태 부여 성공률 12% UP"
+    "KR": "자신에게 [남성] 특공 상태 25% 부여&약화 상태 부여 성공률 12% UP"
   },
   "自身に〔男性〕特攻状態を30%付与＆弱体付与成功率を15%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身对〔男性〕30%的特攻状态＆弱化付与成功率提升15%[最大解放]",
     "TW": "賦予自身對〔男性〕30%的特攻狀態＆弱化賦予成功率提升15%[最大解放]",
     "NA": "Apply 30% Special Attack [Male] & increase Debuff Success Rate by 15% [MAX] for yourself",
-    "KR": "자신에게 [남성] 특공 상태를 30% 부여&약화 상태 부여 성공률 15% UP[최대해방]"
+    "KR": "자신에게 [남성] 특공 상태 30% 부여&약화 상태 부여 성공률 15% UP[최대해방]"
   },
   "自身に〔男性〕特攻状態を付与[{0}](1ターン)": {
     "JP": null,
@@ -16300,14 +16377,14 @@
     "CN": "付与自身对〔神性〕25%的特攻状态＆NP已达30%的状态开始战斗",
     "TW": "賦予自身對〔神性〕25%的特攻狀態＆NP已達30%的狀態開始戰鬥",
     "NA": "Apply 25% Special Attack [Divine] & begin battle with NP charged at 30% for yourself",
-    "KR": "자신에게 [신성] 특공 상태를 25% 부여&NP를 30% 차지한 상태로 배틀을 개시"
+    "KR": "자신에게 [신성] 특공 상태 25% 부여&NP를 30% 차지한 상태로 배틀을 개시"
   },
   "自身に〔神性〕特攻状態を30%付与＆NPを50%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
     "CN": "付与自身对〔神性〕30%的特攻状态＆NP已达50%的状态开始战斗[最大解放]",
     "TW": "賦予自身對〔神性〕30%的特攻狀態＆NP已達50%的狀態開始戰鬥[最大解放]",
     "NA": "Apply 30% Special Attack [Divine] & begin battle with NP charged at 50% [MAX] for yourself",
-    "KR": "자신에게 [신성] 특공 상태를 30% 부여&NP를 50% 차지한 상태로 배틀을 개시[최대해방]"
+    "KR": "자신에게 [신성] 특공 상태 30% 부여&NP를 50% 차지한 상태로 배틀을 개시[최대해방]"
   },
   "自身に〔神性〕特攻状態を80%付与(3ターン)＆〔神性〕特防状態を40%付与(3ターン)": {
     "JP": null,
@@ -16767,14 +16844,14 @@
   "自身にガッツ状態を付与(1回・HP1回復)＆HP回復量を10%アップ": {
     "JP": null,
     "CN": "付与自身毅力状态(1次·回复1生命值)＆生命值回复量提升10%",
-    "TW": "賦予自身毅力狀態(1次·HP回復1)＆HP回復量提升10%",
+    "TW": "賦予自身毅力狀態(1次．恢復1HP)＆HP恢復量提升10%",
     "NA": "Grants Guts status for 1 time. (Revives with 1 HP.)\n Increases healing received by 10%.",
     "KR": "자신에게 근성 상태 부여(1회・HP 1 회복)&HP 회복량 10% UP"
   },
   "自身にガッツ状態を付与(1回・HP1回復)＆HP回復量を20%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身毅力状态(1次·回复1生命值)＆生命值回复量提升20%[最大解放]",
-    "TW": "賦予自身毅力狀態(1次·HP回復1)＆HP回復量提升20%[最大解放]",
+    "TW": "賦予自身毅力狀態(1次．恢復1HP)＆HP恢復量提升20%[最大解放]",
     "NA": "Grants Guts status for 1 time. (Revives with 1 HP.)\n Increases healing received by 20%.",
     "KR": "자신에게 근성 상태 부여(1회・HP 1 회복)&HP 회복량 20% UP[최대해방]"
   },
@@ -16874,13 +16951,13 @@
     "CN": "付与自身毅力状态[{0}](1次·3回合)＆NP增加[{0}]＆解除弱化状态",
     "TW": "賦予自身毅力狀態[{0}](1次·3回合)＆NP增加[{0}]＆解除弱化狀態",
     "NA": "Apply Guts [{0}] (1 time, 3 turns) & Charges own NP gauge & remove Debuffs for yourself",
-    "KR": null
+    "KR": "자신에게 근성 상태 부여[{0}](1회・3턴)&NP 증가[{0}]&약화 상태 해제"
   },
   "自身にガッツ状態を付与[{0}](1回・3ターン)＆NPを増やす[{0}]＆攻撃力をアップ[{0}](3ターン)": {
     "JP": null,
     "CN": "付与自身毅力状态[{0}](1次·3回合)＆NP增加[{0}]＆攻击力提升[{0}](3回合)",
     "TW": "賦予自身毅力狀態[{0}](1次．3回合)＆NP增加[{0}]＆攻擊力提升[{0}](3回合)",
-    "NA": "Apply Guts [{0}] (1 time, 3 turns) & Charges own NP gauge & increase ATK [{0}] (3 turns) for yourself",
+    "NA": "Apply Guts [{0}] (1 time, 3 turns) & increase NP Gauge [{0}] & increase ATK [{0}] (3 turns) for yourself",
     "KR": "자신에게 근성 상태 부여[{0}](1회・3턴)&NP 증가[{0}]&공격력 UP[{0}](3턴)"
   },
   "自身にガッツ状態を付与[{0}](1回・3ターン)＆Quickカード性能をアップ[{0}](3ターン)▲＆NP獲得量をアップ[{0}](3ターン)▲＆弱体耐性をダウン(3ターン)【デメリット】 ＋ 味方全体の強化成功率をアップ[{0}](3ターン)": {
@@ -17196,7 +17273,7 @@
     "CN": "付与自身目标集中状态(1回合)＆暴击威力提升[{0}](3回合▲)＆对〔神性〕的特攻状态[{0}](3回合)▲＆NP增加[{0}]▲",
     "TW": "賦予自身目標集中狀態(1回合)＆爆擊威力提升[{0}](3回合▲)＆賦予對〔神性〕特攻狀態[{0}](3回合)▲＆NP增加[{0}]▲",
     "NA": "Apply Target Focus (1 turn) & increase Critical Strength [{0}] (3 turns ▲) & apply Special Attack [Divine] [{0}] (3 turns)▲ & increase NP Gauge [{0}] ▲ for yourself",
-    "KR": null
+    "KR": "자신에게 타깃 집중 상태 부여(1턴)&크리티컬 위력 UP[{0}](3턴▲)&[신성] 특공 상태 부여[{0}](3턴)▲&NP 증가[{0}]▲"
   },
   "自身にターゲット集中状態を付与(1ターン)＆無敵状態を付与(1ターン)＆弱体耐性を10%アップ": {
     "JP": null,
@@ -17727,14 +17804,14 @@
     "JP": null,
     "CN": "付与自身回避状态(1次)＆被暴击发生耐性提升3%",
     "TW": "賦予自身迴避狀態(1次)＆被爆擊發生耐性提升3%",
-    "NA": "Grants Evasion for 1 attack.\n Increases critical attack chance resistance by 3%.",
+    "NA": "Apply Evade (1 time) & 3% Critical Resistance Up for yourself",
     "KR": "자신에게 회피 상태(1회) 부여&받는 크리티컬 발생 내성 3% UP"
   },
   "自身に回避状態(1回)を付与＆被クリティカル発生耐性を5%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身回避状态(1次)＆被暴击发生耐性提升5%[最大解放]",
     "TW": "賦予自身迴避狀態(1次)＆被爆擊發生耐性提升5%[最大解放]",
-    "NA": "Grants Evasion for 1 attack.\n Increases critical attack chance resistance by 5%.",
+    "NA": "Apply Evade (1 time) & 5% Critical Resistance Up for yourself [MAX]",
     "KR": "자신에게 회피 상태(1회) 부여&받는 크리티컬 발생 내성 5% UP[최대해방]"
   },
   "自身に回避状態(3回)を付与＆ダメージを300カットする状態を付与": {
@@ -18189,14 +18266,14 @@
     "JP": null,
     "CN": "付与自身弱化无效状态(1次)＆NP获得量提升15%",
     "TW": "賦予自身弱化無效狀態(1次)＆NP獲得量提升15%",
-    "NA": "Grants Debuff Immunity for 1 time.\n Increases NP generation rate by 15%.",
+    "NA": "Apply Debuff Immune (1 time) & increase NP Gain by 15% for yourself",
     "KR": "자신에게 약화 무효 상태(1회) 부여&NP 획득량 15% UP"
   },
   "自身に弱体無効状態(1回)を付与＆NP獲得量を20%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身弱化无效状态(1次)＆NP获得量提升20%[最大解放]",
     "TW": "賦予自身弱化無效狀態(1次)＆NP獲得量提升20%[最大解放]",
-    "NA": "Grants Debuff Immunity for 1 time.\n Increases NP generation rate by 20%.",
+    "NA": "Apply Debuff Immune (1 time) & increase NP Gain by 20% for yourself [MAX]",
     "KR": "자신에게 약화 무효 상태(1회) 부여&NP 획득량 20% UP[최대해방]"
   },
   "自身に弱体無効状態(1回)を付与＆クリティカル威力を10%アップ＆NPを30%チャージした状態でバトルを開始する": {
@@ -18204,14 +18281,14 @@
     "CN": "付与自身弱化无效状态(1次)＆暴击威力提升10%＆自身以NP已达30%的状态开始战斗",
     "TW": "賦予自身弱化無效狀態(1次)＆爆擊威力提升10%＆以NP已達30%的狀態開始戰鬥",
     "NA": "Grants Debuff Immunity for 1 time.\n Increases critical damage by 10%.\n Starts battle with 30% NP gauge charged.",
-    "KR": null
+    "KR": "자신에게 약화 무효 상태(1회) 부여&크리티컬 위력 10% UP&NP를 30% 차지한 상태로 배틀을 개시"
   },
   "自身に弱体無効状態(1回)を付与＆クリティカル威力を15%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
     "CN": "付与自身弱化无效状态(1次)＆暴击威力提升15%＆自身以NP已达50%的状态开始战斗[最大解放]",
     "TW": "賦予自身弱化無效狀態(1次)＆爆擊威力提升15%＆以NP已達50%的狀態開始戰鬥[最大解放]",
     "NA": "Grants Debuff Immunity for 1 time.\n Increases critical damage by 15%.\n Starts battle with 50% NP gauge charged.",
-    "KR": null
+    "KR": "자신에게 약화 무효 상태(1회) 부여&크리티컬 위력 15% UP&NP를 50% 차지한 상태로 배틀을 개시[최대해방]"
   },
   "自身に弱体無効状態(1回)を付与＆宝具威力を10%アップ＆NPを30%チャージした状態でバトルを開始する": {
     "JP": null,
@@ -18542,6 +18619,20 @@
     "NA": "Apply Sure Hit (5 turns) & apply a state where \"your NP Strength increases [{0}] (1 time, 5 turns) each turn\" (5 turns) & increase NP Gauge [{0}] each turn (5 turns) for yourself",
     "KR": "자신에게 필중 상태 부여(5턴)&‘매 턴 자신의 보구 위력을 UP[{0}](1회・5턴) 하는 상태’ 부여(5턴)&매 턴 NP 획득 상태 부여[{0}](5턴)"
   },
+  "自身に必中状態を付与＆Artsカード性能を2%アップ＆Busterカード性能を2%アップ": {
+    "JP": null,
+    "CN": "付与自身必中状态＆Arts指令卡性能提升2%＆Buster指令卡性能提升2%",
+    "TW": null,
+    "NA": "Ignores Evasion.\n Increases Arts performance by 2%.\n Increases Buster performance by 2%.",
+    "KR": null
+  },
+  "自身に必中状態を付与＆Artsカード性能を3%アップ＆Busterカード性能を3%アップ[最大解放]": {
+    "JP": null,
+    "CN": "付与自身必中状态＆Arts指令卡性能提升3%＆Buster指令卡性能提升3%[最大解放]",
+    "TW": null,
+    "NA": "Ignores Evasion.\n Increases Arts performance by 3%.\n Increases Buster performance by 3%.",
+    "KR": null
+  },
   "自身に必中状態を付与＆Artsカード性能を4%アップ＆Busterカード性能を4%アップ＆NPを30%チャージした状態でバトルを開始する": {
     "JP": null,
     "CN": "付与自身必中状态＆Arts指令卡性能提升4%＆Buster指令卡性能提升4%＆以NP已达30%的状态开始战斗",
@@ -18581,14 +18672,14 @@
     "JP": null,
     "CN": "付与自身必中状态＆Buster指令卡性能提升3%",
     "TW": "賦予自身必中狀態＆Buster指令卡性能提升3%",
-    "NA": "Ignores Evasion.\n Increases Buster performance by 3%.",
+    "NA": "Apply Sure Hit & increase Buster Card effectiveness by 3% for yourself",
     "KR": "자신에게 필중 상태 부여&버스터 카드 성능 3% UP"
   },
   "自身に必中状態を付与＆Busterカード性能を5%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身必中状态＆Buster指令卡性能提升5%[最大解放]",
     "TW": "賦予自身必中狀態＆Buster指令卡性能提升5%[最大解放]",
-    "NA": "Ignores Evasion.\n Increases Buster performance by 5%.",
+    "NA": "Apply Sure Hit & increase Buster Card effectiveness by 5% for yourself [MAX]",
     "KR": "자신에게 필중 상태 부여&버스터 카드 성능 5% UP[최대해방]"
   },
   "自身に必中状態を付与＆Busterカード性能を8%アップ": {
@@ -18845,7 +18936,7 @@
   },
   "自身に毎ターンHP100回復状態を付与＆Artsカード性能を3%アップ＆Busterカード性能を3%アップ[最大解放]": {
     "JP": null,
-    "CN": "付与自身每回合HP回复100的状态＆Arts指令卡性能提升3%＆Buster指令卡性能提升3%[最大解放]",
+    "CN": "付与自身每回合回复100生命值的状态＆Arts指令卡性能提升3%＆Buster指令卡性能提升3%[最大解放]",
     "TW": "賦予自身每回合HP回復100的狀態＆Arts指令卡性能提升3%＆Buster指令卡性能提升3%[最大解放]",
     "NA": "Recovers HP by 100 every turn.\n Increases Arts performance by 3%.\n Increases Buster performance by 3%.",
     "KR": null
@@ -18871,6 +18962,13 @@
     "NA": "Restore HP by 100 each turn & increase NP Gain by 10% for yourself [MAX]",
     "KR": "자신에게 매 턴 HP 100 회복 상태 부여&NP 획득량 10% UP[최대해방]"
   },
+  "自身に毎ターンHP100回復状態を付与＆Quickカード性能を3%アップ＆Artsカード性能を3%アップ[最大解放]": {
+    "JP": null,
+    "CN": "付与自身每回合HP回复100的状态＆Quick指令卡性能提升3%＆Arts指令卡性能提升3%[最大解放]",
+    "TW": null,
+    "NA": "Recovers HP by 100 every turn.\n Increases Quick performance by 3%.\n Increases Arts performance by 3%.",
+    "KR": null
+  },
   "自身に毎ターンHP100回復状態を付与＆Quickカード性能を5%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身每回合生命值回复100的状态＆Quick指令卡性能提升5%[最大解放]",
@@ -18889,7 +18987,7 @@
     "JP": null,
     "CN": "付与自身每回合回复生命值100的状态＆宝具威力提升10%[最大解放]",
     "TW": "賦予自身每回合HP恢復100的狀態＆寶具威力提升10%[最大解放]",
-    "NA": "Recovers HP by 100 every turn.\n Increases NP damage by 10%.",
+    "NA": "Restore 100 HP each turn & increase NP Strength by 10% for yourself [MAX]",
     "KR": "자신에게 매 턴 HP 100 회복 상태 부여&보구 위력 10% UP[최대해방]"
   },
   "自身に毎ターンHP100回復状態を付与＆毎ターンNP2%獲得状態を付与＆毎ターンスター2個獲得状態を付与[最大解放]": {
@@ -19027,7 +19125,7 @@
   },
   "自身に毎ターンHP50回復状態を付与＆Artsカード性能を2%アップ＆Busterカード性能を2%アップ": {
     "JP": null,
-    "CN": "付与自身每回合HP回复50的状态＆Arts指令卡性能提升2%＆Buster指令卡性能提升2%",
+    "CN": "付与自身每回合回复50生命值的状态＆Arts指令卡性能提升2%＆Buster指令卡性能提升2%",
     "TW": "賦予自身每回合HP回復50的狀態＆Arts指令卡性能提升2%＆Buster指令卡性能提升2%",
     "NA": "Recovers HP by 50 every turn.\n Increases Arts performance by 2%.\n Increases Buster performance by 2%.",
     "KR": null
@@ -19053,6 +19151,13 @@
     "NA": "Restore HP by 50 each turn & increase NP Gain by 5% for yourself",
     "KR": "자신에게 매 턴 HP 50 회복 상태 부여&NP 획득량 5% UP"
   },
+  "自身に毎ターンHP50回復状態を付与＆Quickカード性能を2%アップ＆Artsカード性能を2%アップ": {
+    "JP": null,
+    "CN": "付与自身每回合HP回复50的状态＆Quick指令卡性能提升2%＆Arts指令卡性能提升2%",
+    "TW": null,
+    "NA": "Recovers HP by 50 every turn.\n Increases Quick performance by 2%.\n Increases Arts performance by 2%.",
+    "KR": null
+  },
   "自身に毎ターンHP50回復状態を付与＆Quickカード性能を3%アップ": {
     "JP": null,
     "CN": "付与自身每回合生命值回复50的状态＆Quick指令卡性能提升3%",
@@ -19071,7 +19176,7 @@
     "JP": null,
     "CN": "付与自身每回合回复生命值50的状态＆宝具威力提升5%",
     "TW": "賦予自身每回合HP恢復50的狀態＆寶具威力提升5%",
-    "NA": "Recovers HP by 50 every turn.\n Increases NP damage by 5%.",
+    "NA": "Restore 50 HP each turn & increase NP Strength by 5% for yourself",
     "KR": "자신에게 매 턴 HP 50 회복 상태 부여&보구 위력 5% UP"
   },
   "自身に毎ターンHP50回復状態を付与＆毎ターンNP1%獲得状態を付与＆毎ターンスター1個獲得状態を付与": {
@@ -19302,7 +19407,7 @@
     "JP": null,
     "CN": "付与自身每回合获得NP3%的状态＆Arts指令卡性能提升3%＆NP获得量提升5%",
     "TW": "賦予自身每回合獲得NP3%的狀態＆Arts指令卡性能提升3%＆NP獲得量提升5%",
-    "NA": "Charges NP gauge by 3% every turn.\n Increases Arts performance by 3%.\n Increases NP generation rate by 5%.",
+    "NA": "Increase NP Gauge by 3% each turn & Arts Card effectiveness by 3% & NP Gain by 5% for yourself",
     "KR": "자신에게 매 턴 NP 3% 획득 상태 부여&아츠 카드 성능 3% UP&NP 획득량 5% UP"
   },
   "自身に毎ターンNP3%獲得状態を付与＆Artsカード性能を3%アップ＆クリティカル威力を10%アップ": {
@@ -19321,7 +19426,7 @@
   },
   "自身に毎ターンNP3%獲得状態を付与＆Artsカード性能を3%アップ＆弱体耐性を5%アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "付与自身每回合获得NP3%的状态＆Arts指令卡性能提升3%＆弱化耐性提升5%",
     "TW": null,
     "NA": "Charges own NP gauge by 3% every turn.\n Increases own Arts performance by 3%.\n Increases own debuff resistance by 5%.",
     "KR": null
@@ -19410,11 +19515,18 @@
     "NA": "Increase NP Gauge by 4% each turn & Arts Card effectiveness by 10% for yourself",
     "KR": "자신에게 매 턴 NP 4% 획득 상태 부여&아츠 카드 성능 10% UP"
   },
+  "自身に毎ターンNP4%獲得状態を付与＆Artsカード性能を3%アップ＆Busterカード性能を3%アップ＆NP獲得量を3%アップ": {
+    "JP": null,
+    "CN": "付与自身每回合获得NP4%的状态＆Arts指令卡性能提升3%＆Buster指令卡性能提升3%＆NP获得量提升3%",
+    "TW": null,
+    "NA": "Charges NP gauge by 4% every turn.\n Increases Arts performance by 3%.\n Increases Buster performance by 3%.\n Increases NP generation rate by 3%.",
+    "KR": null
+  },
   "自身に毎ターンNP4%獲得状態を付与＆Artsカード性能を5%アップ＆NP獲得量を10%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身每回合获得NP4%的状态＆Arts指令卡性能提升5%＆NP获得量提升10%[最大解放]",
     "TW": "賦予自身每回合獲得NP4%的狀態＆Arts指令卡性能提升5%＆NP獲得量提升10%[最大解放]",
-    "NA": "Charges NP gauge by 4% every turn.\n Increases Arts performance by 5%.\n Increases NP generation rate by 10%.",
+    "NA": "Increase NP Gauge by 4% each turn & Arts Card effectiveness by 5% & NP Gain by 10% for yourself [MAX]",
     "KR": "자신에게 매 턴 NP 4% 획득 상태 부여&아츠 카드 성능 5% UP&NP 획득량 10% UP[최대해방]"
   },
   "自身に毎ターンNP4%獲得状態を付与＆Artsカード性能を5%アップ＆クリティカル威力を15%アップ[最大解放]": {
@@ -19433,7 +19545,7 @@
   },
   "自身に毎ターンNP4%獲得状態を付与＆Artsカード性能を5%アップ＆弱体耐性を10%アップ[最大解放]": {
     "JP": null,
-    "CN": null,
+    "CN": "付与自身每回合获得NP4%的状态＆Arts指令卡性能提升5%＆弱化耐性提升10%[最大解放]",
     "TW": null,
     "NA": "Charges own NP gauge by 4% every turn.\n Increases own Arts performance by 5%.\n Increases own debuff resistance by 10%.",
     "KR": null
@@ -19639,6 +19751,13 @@
     "CN": "付与自身每回合获得NP5%的状态＆Arts指令卡性能提升10%＆宝具威力提升20%[最大解放]",
     "TW": "賦予自身每回合獲得NP5%的狀態＆Arts指令卡性能提升10%＆寶具威力提升20%[最大解放]",
     "NA": "Charges own NP gauge every turn by 5%.\n Increases Arts performance by 10%.\n Increases NP damage by 20%.",
+    "KR": null
+  },
+  "自身に毎ターンNP5%獲得状態を付与＆Artsカード性能を5%アップ＆Busterカード性能を5%アップ＆NP獲得量を5%アップ[最大解放]": {
+    "JP": null,
+    "CN": "付与自身每回合获得NP5%的状态＆Arts指令卡性能提升5%＆Buster指令卡性能提升5%＆NP获得量提升5%[最大解放]",
+    "TW": null,
+    "NA": "Charges NP gauge by 5% every turn.\n Increases Arts performance by 5%.\n Increases Buster performance by 5%.\n Increases NP generation rate by 5%.",
     "KR": null
   },
   "自身に毎ターンNP5%獲得状態を付与＆Artsカード性能を8%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]": {
@@ -19900,6 +20019,13 @@
     "NA": "Gain 1 C. Star each turn & increase NP Gain by 3% & NP Strength by 3% for yourself",
     "KR": "자신에게 매 턴 스타 1개 획득 상태 부여&NP 획득량 3% UP&보구 위력 3% UP"
   },
+  "自身に毎ターンスター1個獲得状態を付与＆NP獲得量を3%アップ＆被強化成功率を3%アップ": {
+    "JP": null,
+    "CN": "付与自身每回合获得1个暴击星的状态＆NP获得量提升3%＆被强化成功率提升3%",
+    "TW": null,
+    "NA": "Gain 1 critical star every turn.\n Increases NP generation rate by 3%.\n Increases received buff success rate by 3%.",
+    "KR": null
+  },
   "自身に毎ターンスター1個獲得状態を付与＆NP獲得量を5%アップ": {
     "JP": null,
     "CN": "付与自身每回合获得1个暴击星的状态＆NP获得量提升5%",
@@ -19926,7 +20052,7 @@
     "CN": "付与自身每回合获得1个暴击星的状态＆对〔龙〕8%的特攻状态",
     "TW": "賦予自身每回合獲得1個爆擊星的狀態＆對〔龍〕8%的特攻狀態",
     "NA": "Gain 1 C. Star each turn & apply 8% Special Attack [Dragon] for yourself",
-    "KR": "자신에게 매 턴 스타 1개 획득 상태 부여&[용] 특공 상태를 8% 부여"
+    "KR": "자신에게 매 턴 스타 1개 획득 상태 부여&[용] 특공 상태 8% 부여"
   },
   "自身に毎ターンスター1個獲得状態を付与＆クリティカル威力を3%アップ＆宝具威力を3%アップ": {
     "JP": null,
@@ -20005,6 +20131,13 @@
     "NA": "Gain 2 C. Star each turn & increase NP Gain by 5% & NP Strength by 5% for yourself [MAX]",
     "KR": "자신에게 매 턴 스타 2개 획득 상태 부여&NP 획득량 5% UP&보구 위력 5% UP[최대해방]"
   },
+  "自身に毎ターンスター2個獲得状態を付与＆NP獲得量を5%アップ＆被強化成功率を5%アップ[最大解放]": {
+    "JP": null,
+    "CN": "付与自身每回合获得2个暴击星的状态＆NP获得量提升5%＆被强化成功率提升5%[最大解放]",
+    "TW": null,
+    "NA": "Gain 2 critical stars every turn.\n Increases NP generation rate by 5%.\n Increases received buff success rate by 5%.",
+    "KR": null
+  },
   "自身に毎ターンスター2個獲得状態を付与＆Quickカード性能を3%アップ＆クリティカル威力を5%アップ[最大解放]": {
     "JP": null,
     "CN": "付与自身每回合获得2个暴击星的状态＆Quick指令卡性能提升3%＆暴击威力提升5%[最大解放]",
@@ -20024,7 +20157,7 @@
     "CN": "付与自身每回合获得2个暴击星的状态＆对〔龙〕10%的特攻状态[最大解放]",
     "TW": "賦予自身每回合獲得2個爆擊星的狀態＆對〔龍〕10%的特攻狀態[最大解放]",
     "NA": "Gain 2 C. Star each turn & apply 10% Special Attack [Dragon] [MAX] for yourself",
-    "KR": "자신에게 매 턴 스타 2개 획득 상태 부여&[용] 특공 상태를 10% 부여[최대해방]"
+    "KR": "자신에게 매 턴 스타 2개 획득 상태 부여&[용] 특공 상태 10% 부여[최대해방]"
   },
   "自身に毎ターンスター2個獲得状態を付与＆クリティカル威力を5%アップ＆宝具威力を5%アップ[最大解放]": {
     "JP": null,
@@ -20625,14 +20758,14 @@
     "JP": null,
     "CN": "付与自身无敌状态(2次)＆付与自身被伤害减免300的状态",
     "TW": "賦予自身無敵狀態(2次)＆賦予自身被傷害減免300的狀態",
-    "NA": "Grants Invincibility for 2 attacks.\n Reduces damage taken by 300.",
+    "NA": "Apply Invincible (2 times) & Damage Cut 300 for yourself",
     "KR": "자신에게 무적 상태(2회) 부여&받는 대미지 300 컷 상태 부여"
   },
   "自身に無敵状態(2回)を付与＆被ダメージを400カットする状態を付与[最大解放]": {
     "JP": null,
     "CN": "付与自身无敌状态(2次)＆付与自身被伤害减免400的状态[最大解放]",
     "TW": "賦予自身無敵狀態(2次)＆賦予自身被傷害減免400的狀態[最大解放]",
-    "NA": "Grants Invincibility for 2 attacks.\n Reduces damage taken by 400.",
+    "NA": "Apply Invincible (2 times) & Damage Cut 400 for yourself [MAX]",
     "KR": "자신에게 무적 상태(2회) 부여&받는 대미지 400 컷 상태 부여[최대해방]"
   },
   "自身に無敵状態(2回・5ターン)を付与＆防御力をアップ[{0}](3ターン)": {
@@ -20997,14 +21130,14 @@
     "CN": "付与自身无敌状态(3次·3回合)＆Quick指令卡性能提升[{0}](3回合)＆Arts指令卡性能提升[{0}](3回合)＆Buster指令卡性能提升[{0}](3回合)",
     "TW": "賦予自身無敵狀態(3次·3回合)＆Quick指令卡性能提升[{0}](3回合)＆Arts指令卡性能提升[{0}](3回合)＆Buster指令卡性能提升[{0}](3回合)",
     "NA": "Apply Invincible (3 times, 3 turns) & increase Quick Card effectiveness [{0}] (3 turns) & Arts Card effectiveness [{0}] (3 turns) & Buster Card effectiveness [{0}] (3 turns) for yourself",
-    "KR": null
+    "KR": "자신에게 무적 상태 부여(3회・3턴)&퀵 카드 성능 UP[{0}](3턴)&아츠 카드 성능 UP[{0}](3턴)&버스터 카드 성능 UP[{0}](3턴)"
   },
   "自身に無敵状態を付与(3回・3ターン)＆弱体無効状態を付与(3回・3ターン)＆被クリティカル発生耐性をアップ[{0}](3ターン)": {
     "JP": null,
     "CN": "付与自身无敌状态(3次·3回合)＆付与弱化无效状态(3次·3回合)＆被暴击发生耐性提升[{0}](3回合)",
     "TW": "賦予自身無敵狀態(3次·3回合)＆賦予弱化無效狀態(3次·3回合)＆被爆擊發生耐性提升[{0}](3回合)",
     "NA": "Apply Invincible (3 times, 3 turns) & apply Debuff Immune (3 times, 3 turns) & increase incoming Critical Resistance [{0}] (3 turns) for yourself",
-    "KR": null
+    "KR": "자신에게 무적 상태 부여(3회・3턴)&약화 무효 상태 부여(3회・3턴)&받는 크리티컬 발생 내성 UP[{0}](3턴)"
   },
   "自身に無敵状態を付与(3回・3ターン)＆毎ターン自身を除く味方全体からNPを吸収する状態を付与(3ターン) ＋ 自身を除く味方全体に無敵状態を付与(1回・3ターン)＆NP獲得量をアップ[{0}](3ターン)": {
     "JP": null,
@@ -21200,7 +21333,7 @@
     "CN": "付与自身无敌贯通状态＆Arts指令卡性能提升3%＆NP获得量提升15%",
     "TW": "賦予自身無敵貫通狀態＆Arts指令卡性能提升3%＆NP獲得量提升15%",
     "NA": "Ignores Invincibility.\n Increases Arts performance by 3%.\n Increases NP generation rate by 15%.",
-    "KR": null
+    "KR": "자신에게 무적 관통 상태 부여&아츠 카드 성능 3% UP&NP 획득량 15% UP"
   },
   "自身に無敵貫通状態を付与＆Artsカード性能を3%アップ＆宝具威力を15%アップ": {
     "JP": null,
@@ -21214,7 +21347,7 @@
     "CN": "付与自身无敌贯通状态＆Arts指令卡性能提升5%＆NP获得量提升20%[最大解放]",
     "TW": "賦予自身無敵貫通狀態＆Arts指令卡性能提升5%＆NP獲得量提升20%[最大解放]",
     "NA": "Ignores Invincibility.\n Increases Arts performance by 5%.\n Increases NP generation rate by 20%.",
-    "KR": null
+    "KR": "자신에게 무적 관통 상태 부여&아츠 카드 성능 5% UP&NP 획득량 20% UP[최대해방]"
   },
   "自身に無敵貫通状態を付与＆Artsカード性能を5%アップ＆宝具威力を20%アップ[最大解放]": {
     "JP": null,
@@ -21295,7 +21428,7 @@
   },
   "自身に無敵貫通状態を付与＆Quickカード性能を6%アップ＆Artsカード性能を6%アップ": {
     "JP": null,
-    "CN": null,
+    "CN": "付与自身无敌贯通状态＆Quick指令卡性能提升6%＆Arts指令卡性能提升6%",
     "TW": null,
     "NA": "Ignores Invincibility.\n Increases own Quick performance by 6%.\n Increases own Arts performance by 6%.",
     "KR": null
@@ -21309,7 +21442,7 @@
   },
   "自身に無敵貫通状態を付与＆Quickカード性能を8%アップ＆Artsカード性能を8%アップ[最大解放]": {
     "JP": null,
-    "CN": null,
+    "CN": "付与自身无敌贯通状态＆Quick指令卡性能提升8%＆Arts指令卡性能提升8%[最大解放]",
     "TW": null,
     "NA": "Ignores Invincibility.\n Increases own Quick performance by 8%.\n Increases own Arts performance by 8%.",
     "KR": null
@@ -21626,7 +21759,7 @@
     "JP": null,
     "CN": "付与自身无视防御状态＆Quick指令卡性能提升10%＆宝具威力提升20%[最大解放]",
     "TW": "賦予自身無視防御狀態＆Quick指令卡性能提升10%＆寶具威力提升20%[最大解放]",
-    "NA": "Ignores Defense.\n Increases Quick performance by 10%.\n Increases NP damage by 20%.",
+    "NA": "Apply Ignore DEF & increase Quick Card effectiveness by 10% & NP Strength by 20% for yourself [MAX]",
     "KR": "자신에게 방어 무시 상태 부여&퀵 카드 성능 10% UP&보구 위력 20% UP[최대해방]"
   },
   "自身に防御無視状態を付与＆Quickカード性能を4%アップ＆Artsカード性能を4%アップ＆NPを30%チャージした状態でバトルを開始する": {
@@ -21643,6 +21776,13 @@
     "NA": "Ignores Defense.\n Increases Quick performance by 4%.\n Increases Buster performance by 4%.\n Gains 3 critical stars every turn.",
     "KR": null
   },
+  "自身に防御無視状態を付与＆Quickカード性能を6%アップ＆Artsカード性能を6%アップ＆Busterカード性能を6%アップ": {
+    "JP": null,
+    "CN": "付与自身无视防御状态＆Quick指令卡性能提升6%＆Arts指令卡性能提升6%＆Buster指令卡性能提升6%",
+    "TW": null,
+    "NA": "Ignores Defense.\n Increases Quick performance by 6%.\n Increases Arts performance by 6%.\n Increases Buster performance by 6%.",
+    "KR": null
+  },
   "自身に防御無視状態を付与＆Quickカード性能を6%アップ＆Artsカード性能を6%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
     "CN": "付与自身无视防御状态＆Quick指令卡性能提升6%＆Arts指令卡性能提升6%＆以NP已达50%的状态开始战斗[最大解放]",
@@ -21657,6 +21797,13 @@
     "NA": "Ignores Defense.\n Increases Quick performance by 6%.\n Increases Buster performance by 6%.\n Gains 4 critical stars every turn.",
     "KR": null
   },
+  "自身に防御無視状態を付与＆Quickカード性能を8%アップ＆Artsカード性能を8%アップ＆Busterカード性能を8%アップ[最大解放]": {
+    "JP": null,
+    "CN": "付与自身无视防御状态＆Quick指令卡性能提升8%＆Arts指令卡性能提升8%＆Buster指令卡性能提升8%[最大解放]",
+    "TW": null,
+    "NA": "Ignores Defense.\n Increases Quick performance by 8%.\n Increases Arts performance by 8%.\n Increases Buster performance by 8%.",
+    "KR": null
+  },
   "自身に防御無視状態を付与＆Quickカード性能を8%アップ＆Busterカード性能を8%アップ": {
     "JP": null,
     "CN": "付与自身无视防御状态＆Quick指令卡性能提升8%＆Buster指令卡性能提升8%",
@@ -21668,7 +21815,7 @@
     "JP": null,
     "CN": "付与自身无视防御状态＆Quick指令卡性能提升8%＆宝具威力提升15%",
     "TW": "賦予自身無視防御狀態＆Quick指令卡性能提升8%＆寶具威力提升15%",
-    "NA": "Ignores Defense.\n Increases Quick performance by 8%.\n Increases NP damage by 15%.",
+    "NA": "Apply Ignore DEF & increase Quick Card effectiveness by 8% & NP Strength by 15% for yourself",
     "KR": "자신에게 방어 무시 상태 부여&퀵 카드 성능 8% UP&보구 위력 15% UP"
   },
   "自身に防御無視状態を付与＆〔バーサーカー〕クラスへの特攻状態を35%付与": {
@@ -21676,14 +21823,14 @@
     "CN": "付与自身无视防御状态＆付与对〔Berserker〕职阶35%的特攻状态",
     "TW": "賦予自身無視防禦狀態＆賦予對〔Berserker〕職階35%的特攻狀態",
     "NA": "Apply Ignore DEF & apply 35% Special Attack [Berserker] for yourself",
-    "KR": "자신에게 방어 무시 상태 부여&[버서커] 클래스에게 특공 상태를 35% 부여"
+    "KR": "자신에게 방어 무시 상태 부여&[버서커] 클래스에게 특공 상태 35% 부여"
   },
   "自身に防御無視状態を付与＆〔バーサーカー〕クラスへの特攻状態を40%付与[最大解放]": {
     "JP": null,
     "CN": "付与自身无视防御状态＆付与对〔Berserker〕职阶40%的特攻状态[最大解放]",
     "TW": "賦予自身無視防禦狀態＆賦予對〔Berserker〕職階40%的特攻狀態[最大解放]",
     "NA": "Apply Ignore DEF & apply 40% Special Attack [Berserker] for yourself [MAX]",
-    "KR": "자신에게 방어 무시 상태 부여&[버서커] 클래스에게 특공 상태를 40% 부여[최대해방]"
+    "KR": "자신에게 방어 무시 상태 부여&[버서커] 클래스에게 특공 상태 40% 부여[최대해방]"
   },
   "自身に魅了・混乱・恐怖・スキル封印無効状態を付与": {
     "JP": null,
@@ -21986,6 +22133,13 @@
     "NA": "Increase Arts Card & Buster Card effectiveness by 10% & NP Gain by 10% for yourself",
     "KR": "자신의 아츠 카드 성능 10% UP&버스터 카드 성능 10% UP&NP 획득량 10% UP"
   },
+  "自身のArtsカード性能を10%アップ＆Busterカード性能を10%アップ＆HP回復量を20%アップ[最大解放]": {
+    "JP": null,
+    "CN": "自身的Arts指令卡性能提升10%＆Buster指令卡性能提升10%＆HP回复量提升20%[最大解放]",
+    "TW": null,
+    "NA": "Increases Arts performance by 10%.\n Increases Buster performance by 10%.\n Increases healing received by 20%.",
+    "KR": null
+  },
   "自身のArtsカード性能を10%アップ＆Busterカード性能を10%アップ＆NPを20%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
     "CN": "自身的Arts指令卡性能提升10%＆Buster指令卡性能提升10%＆以NP已达20%的状态开始战斗[最大解放]",
@@ -22271,7 +22425,7 @@
     "CN": "自身的Arts指令卡性能提升10%＆暴击威力提升15%＆Arts指令卡的暴击星集中度提升100%",
     "TW": "自身的Arts指令卡性能提升10%＆爆擊威力提升15%＆Arts指令卡爆擊星集中度100%",
     "NA": "Increases Arts performance by 10%.\n Increases critical damage by 15%.\n Increases critical star absorption of  Arts Cards by 100%.",
-    "KR": null
+    "KR": "자신의 아츠 카드 성능 10% UP&크리티컬 위력 15% UP&아츠 카드의 스타 집중도 100% UP"
   },
   "自身のArtsカード性能を10%アップ＆クリティカル威力を15%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]": {
     "JP": null,
@@ -22502,7 +22656,7 @@
     "CN": "自身的Arts指令卡性能提升15%＆暴击威力提升20%＆Arts指令卡的暴击星集中度提升200%[最大解放]",
     "TW": "自身的Arts指令卡性能提升15%＆爆擊威力提升20%＆Arts指令卡爆擊星集中度200%[最大解放]",
     "NA": "Increases Arts performance by 15%.\n Increases critical damage by 20%.\n Increases critical star absorption of  Arts Cards by 200%.",
-    "KR": null
+    "KR": "자신의 아츠 카드 성능 15% UP&크리티컬 위력 20% UP&아츠 카드의 스타 집중도 200% UP[최대해방]"
   },
   "自身のArtsカード性能を15%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)": {
     "JP": null,
@@ -22649,7 +22803,7 @@
     "CN": "自身的Arts指令卡性能提升3%＆自身以NP已达10%的状态开始战斗",
     "TW": "自身的Arts指令卡性能提升3%＆以NP已達10%的狀態開始戰鬥",
     "NA": "Increases Arts performance by 3%.\n Starts battle with 10% NP gauge charged.",
-    "KR": null
+    "KR": "자신의 아츠 카드 성능 3% UP&NP를 10% 차지한 상태로 배틀을 개시"
   },
   "自身のArtsカード性能を3%アップ＆NP獲得量を5%アップ": {
     "JP": null,
@@ -22709,7 +22863,7 @@
   },
   "自身のArtsカード性能を3%アップ＆被ダメージを100カットする状態を付与＆宝具使用時にチャージ段階を1段階分上げる(1回)": {
     "JP": null,
-    "CN": "自身的Arts指令卡性能提升3%＆付与被伤害减免100的状态＆使用宝具时充能阶段上升1级(1次)",
+    "CN": "自身的Arts指令卡性能提升3%＆付与被伤害减免100的状态＆宝具使用时充能阶段上升1级(1次)",
     "TW": "自身的Arts指令卡性能提升3%＆賦予被傷害減免100的狀態＆使用寶具時Charge階段上升1級(1次)",
     "NA": "Increases Arts performance by 3%.\n Reduces damage taken by 100.\n Overcharges NP by 1 stage for 1 time.",
     "KR": null
@@ -22761,7 +22915,7 @@
     "CN": "自身的Arts指令卡性能提升5%＆自身以NP已达20%的状态开始战斗[最大解放]",
     "TW": "自身的Arts指令卡性能提升5%＆以NP已達20%的狀態開始戰鬥[最大解放]",
     "NA": "Increases Arts performance by 5%.\n Starts battle with 20% NP gauge charged.",
-    "KR": null
+    "KR": "자신의 아츠 카드 성능 5% UP&NP를 20% 차지한 상태로 배틀을 개시[최대해방]"
   },
   "自身のArtsカード性能を5%アップ＆NP獲得量を10%アップ[最大解放]": {
     "JP": null,
@@ -22828,7 +22982,7 @@
   },
   "自身のArtsカード性能を5%アップ＆被ダメージを200カットする状態を付与＆宝具使用時にチャージ段階を1段階分上げる(1回)[最大解放]": {
     "JP": null,
-    "CN": "自身的Arts指令卡性能提升5%＆付与被伤害减免200的状态＆使用宝具时充能阶段上升1级(1次)[最大解放]",
+    "CN": "自身的Arts指令卡性能提升5%＆付与被伤害减免200的状态＆宝具使用时充能阶段上升1级(1次)[最大解放]",
     "TW": "自身的Arts指令卡性能提升5%＆賦予被傷害減免200的狀態＆使用寶具時Charge階段上升1級(1次)[最大解放]",
     "NA": "Increases Arts performance by 5%.\n Reduces damage taken by 200.\n Overcharges NP by 1 stage for 1 time.",
     "KR": null
@@ -22851,7 +23005,7 @@
     "JP": null,
     "CN": "自身的Arts指令卡性能提升6%＆Buster指令卡性能提升6%＆使用宝具时充能阶段上升1级(1次)",
     "TW": "自身的Arts指令卡性能提升6%＆Buster指令卡性能提升6%＆使用寶具時Charge階段上升1級(1次)",
-    "NA": "Increases Arts performance by 6%.\n Increases Buster performance by 6%.\n Overcharges NP by 1 stage for 1 time.",
+    "NA": "Increase Arts Card effectiveness by 6% & Buster Card effectiveness by 6% & increase NP Charge by 1 level when using NP (1 time) for yourself",
     "KR": "자신의 아츠 카드 성능 6% UP&버스터 카드 성능 6% UP&보구 사용 시 차지 단계를 1단계 증가(1회)"
   },
   "自身のArtsカード性能を6%アップ＆Busterカード性能を6%アップ＆宝具威力を8%アップ＆NPを30%チャージした状態でバトルを開始する": {
@@ -22895,6 +23049,13 @@
     "TW": "自身的Arts指令卡性能提升8%＆Buster指令卡性能提升8%+登場時獲得15個爆擊星(1次)",
     "NA": "Increase Arts Card effectiveness by 8% & Buster Card effectiveness by 8% for yourself + Gain 15 C. Stars when entering the battle (1 time)",
     "KR": "자신의 아츠 카드 성능 8% UP&버스터 카드 성능 8% UP + 등장 시 스타 15개 획득(1회)"
+  },
+  "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆HP回復量を10%アップ": {
+    "JP": null,
+    "CN": "自身的Arts指令卡性能提升8%＆Buster指令卡性能提升8%＆HP回复量提升10%",
+    "TW": null,
+    "NA": "Increases Arts performance by 8%.\n Increases Buster performance by 8%.\n Increases healing received by 10%.",
+    "KR": null
   },
   "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆NPを10%チャージした状態でバトルを開始する": {
     "JP": null,
@@ -22970,7 +23131,7 @@
     "JP": null,
     "CN": "自身的Arts指令卡性能提升8%＆Buster指令卡性能提升8%＆使用宝具时充能阶段上升1级(1次)[最大解放]",
     "TW": "自身的Arts指令卡性能提升8%＆Buster指令卡性能提升8%＆使用寶具時Charge階段上升1級(1次)[最大解放]",
-    "NA": "Increases Arts performance by 8%.\n Increases Buster performance by 8%.\n Overcharges NP by 1 stage for 1 time.",
+    "NA": "Increase Arts Card effectiveness by 8% & Buster Card effectiveness by 8% & increase NP Charge by 1 level when using NP (1 time) for yourself [MAX]",
     "KR": "자신의 아츠 카드 성능 8% UP&버스터 카드 성능 8% UP&보구 사용 시 차지 단계를 1단계 증가(1회)[최대해방]"
   },
   "自身のArtsカード性能を8%アップ＆Busterカード性能を8%アップ＆宝具威力を10%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]": {
@@ -23245,6 +23406,13 @@
     "TW": "自身的Arts指令卡性能提升[{0}](1回合)＋獲得大量爆擊星[{0}]",
     "NA": "Increase your Arts Card effectiveness [{0}] (1 turn) + Gain a large amount of Critical Stars [{0}]",
     "KR": "자신의 아츠 카드 성능 UP[{0}](1턴) + 스타 대량 획득[{0}]"
+  },
+  "自身のArtsカード性能をアップ[{0}](1ターン)▲＆スター集中度をアップ[{0}](1ターン) ＋ スターを獲得[{0}]▲": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "自身のArtsカード性能をアップ[{0}](1ターン)＆Artsカードのスター集中度をアップ[{0}](1ターン)": {
     "JP": null,
@@ -23531,7 +23699,7 @@
     "CN": "自身的Arts指令卡性能提升[{0}](3回合)＆暴击威力提升[{0}](3回合)＋获得暴击星[{0}]",
     "TW": "自身的Arts指令卡性能提升[{0}](3回合)＆爆擊威力提升[{0}](3回合)＋爆擊星獲得[{0}]",
     "NA": "Increase Arts Card effectiveness [{0}] (3 turns) & increase Critical Strength [{0}] (3 turns) for yourself + Gain C. Stars [{0}]",
-    "KR": null
+    "KR": "자신의 아츠 카드 성능 UP[{0}](3턴)&크리티컬 위력 UP[{0}](3턴) + 스타 획득[{0}]"
   },
   "自身のArtsカード性能をアップ[{0}](3ターン)＆クリティカル威力をアップ[{0}](3ターン)＆「通常攻撃時に敵単体の被強化成功率をダウン(1ターン)する状態」を付与(3ターン)": {
     "JP": null,
@@ -23657,7 +23825,7 @@
     "CN": "自身的Arts指令卡性能提升＆暴击威力提升",
     "TW": "自身的Arts指令卡性能提升＆爆擊威力提升",
     "NA": "Increase Arts Card effectiveness & Critical Strength for yourself",
-    "KR": null
+    "KR": "자신의 아츠 카드 성능 UP&크리티컬 위력 UP"
   },
   "自身のArtsカード性能をアップ＆スター発生率をアップ": {
     "JP": null,
@@ -24084,7 +24252,7 @@
     "CN": "自身的Buster指令卡性能提升10%＆暴击威力提升15%＆Buster指令卡的暴击星集中度提升100%",
     "TW": "自身的Buster指令卡性能提升10%＆爆擊威力提升15%＆Buster指令卡爆擊星集中度100%",
     "NA": "Increases Buster performance by 10%.\n Increases critical damage by 15%.\n Increases critical star absorption of  Buster Cards by 100%.",
-    "KR": null
+    "KR": "자신의 버스터 카드 성능 10% UP&크리티컬 위력 15% UP&버스터 카드의 스타 집중도 100% UP"
   },
   "自身のBusterカード性能を10%アップ＆クリティカル威力を15%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]": {
     "JP": null,
@@ -24315,7 +24483,7 @@
     "CN": "自身的Buster指令卡性能提升15%＆暴击威力提升20%＆Buster指令卡的暴击星集中度提升200%[最大解放]",
     "TW": "自身的Buster指令卡性能提升15%＆爆擊威力提升20%＆Buster指令卡爆擊星集中度200%[最大解放]",
     "NA": "Increases Buster performance by 15%.\n Increases critical damage by 20%.\n Increases critical star absorption of  Buster Cards by 200%.",
-    "KR": null
+    "KR": "자신의 버스터 카드 성능 15% UP&크리티컬 위력 20% UP&버스터 카드의 스타 집중도 200% UP[최대해방]"
   },
   "自身のBusterカード性能を15%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)": {
     "JP": null,
@@ -24959,7 +25127,7 @@
     "CN": "自身的Buster指令卡性能提升[{0}](3回合)＆暴击威力提升[{0}](3回合)＋获得暴击星[{0}]",
     "TW": "自身Buster指令卡性能提升[{0}](3回合)＆爆擊威力提升[{0}](3回合)＋爆擊星獲得[{0}]",
     "NA": "Increase Buster Card effectiveness [{0}] (3 turns) & Critical Strength [{0}] (3 turns) for yourself + Gain C. Stars [{0}]",
-    "KR": null
+    "KR": "자신의 버스터 카드 성능 UP[{0}](3턴)&크리티컬 위력 UP[{0}](3턴) + 스타 획득[{0}]"
   },
   "自身のBusterカード性能をアップ[{0}](3ターン)＆スター集中度をアップ[{0}](1ターン)＆「クリティカル攻撃時に敵単体に〔ローマ〕特性を付与(5ターン)する状態」を付与(3ターン)": {
     "JP": null,
@@ -25395,6 +25563,13 @@
     "NA": "Begin battle with your NP charged at 10%",
     "KR": "자신의 NP를 10% 차지한 상태로 배틀을 개시"
   },
+  "自身のNPを10%チャージした状態でバトルを開始する＆Quickカード性能を2%アップ＆Artsカード性能を2%アップ": {
+    "JP": null,
+    "CN": "自身以NP已达10%的状态开始战斗＆Quick指令卡性能提升2%＆Arts指令卡性能提升2%",
+    "TW": null,
+    "NA": "Starts battle with 10% NP gauge charged.\n Increases Quick performance by 2%.\n Increases Arts performance by 2%.",
+    "KR": null
+  },
   "自身のNPを10%チャージした状態でバトルを開始する＆被ダメージ時のNP獲得量を15%アップ": {
     "JP": null,
     "CN": "自身以NP已达10%的状态开始战斗＆受击时的NP获得量提升15%",
@@ -25429,6 +25604,13 @@
     "TW": "自身以NP已達20%的狀態開始戰鬥＆NP獲得量提升10%",
     "NA": "Begin battle with NP charged at 20% & increase NP Gain by 10% for yourself",
     "KR": "자신의 NP를 20% 차지한 상태로 배틀을 개시&NP 획득량 10% UP"
+  },
+  "自身のNPを20%チャージした状態でバトルを開始する＆Quickカード性能を3%アップ＆Artsカード性能を3%アップ[最大解放]": {
+    "JP": null,
+    "CN": "自身以NP已达20%的状态开始战斗＆Quick指令卡性能提升3%＆Arts指令卡性能提升3%[最大解放]",
+    "TW": null,
+    "NA": "Starts battle with 20% NP gauge charged.\n Increases Quick performance by 3%.\n Increases Arts performance by 3%.",
+    "KR": null
   },
   "自身のNPを20%チャージした状態でバトルを開始する＆被ダメージ時のNP獲得量を20%アップ[最大解放]": {
     "JP": null,
@@ -25722,7 +25904,7 @@
     "CN": "自身的NP增加[{0}]＋付与己方全体使用宝具时充能阶段上升1级的状态(1次·3回合)",
     "TW": "自身的NP增加[{0}]＋賦予我方全體使用寶具時Charge階段上升1級的狀態(1次·3回合)",
     "NA": "Increase NP Gauge [{0}] for yourself + Increase NP Charge by 1 level when using NP (1 time, 3 turns) for all allies",
-    "KR": null
+    "KR": "자신의 NP 증가[{0}] + 아군 전체에게 보구 사용 시 차지 단계를 1단계 증가하는 상태 부여(1회・3턴)"
   },
   "自身のNPを増やす[{0}] ＋ 味方全体に毎ターンNP獲得状態を付与(5ターン)＆毎ターンHP回復状態を付与[{0}](5ターン)": {
     "JP": null,
@@ -25785,7 +25967,7 @@
     "CN": "自身的NP增加[{0}]＋己方全体的攻击力提升[{0}](3回合)＋〔魔性〕特性的己方全体暴击威力提升[{0}](3回合)",
     "TW": "自身的NP增加[{0}]＋我方全體的攻擊力提升[{0}](3回合)＋〔魔性〕特性的我方全體的爆擊威力提升[{0}](3回合)",
     "NA": "Increase NP Gauge [{0}] for yourself + Increase ATK [{0}] (3 turns) for all allies + Increase all [Demonic] allies' Critical Strength [{0}] (3 turns)",
-    "KR": null
+    "KR": "자신의 NP 증가[{0}] + 아군 전체의 공격력 UP[{0}](3턴) + [마성] 특성인 아군 전체의 크리티컬 위력 UP[{0}](3턴)"
   },
   "自身のNPを増やす[{0}] ＋ 味方単体のNPを増やす[{0}]": {
     "JP": null,
@@ -26017,6 +26199,13 @@
     "TW": "自身的NP增加[{0}]＆賦予〔焰〕狀態(普通攻擊時NP增加的狀態[{0}])(3回合)",
     "NA": "Increase NP Gauge [{0}] & apply [Flame] state (that increases NP Gauge during normal attacks [{0}]) (3 turns) for yourself",
     "KR": "자신의 NP 증가[{0}]&[불꽃] 상태(통상 공격 시 NP가 증가하는 상태[{0}]) 부여(3턴)"
+  },
+  "自身のNPを増やす[{0}]＆〔罪の刻印〕状態<特殊な弱体耐性ダウン状態・弱体解除で解除不能>を7つ付与(3ターン)【デメリット】＆「自身に〔罪の刻印〕状態が付与されている場合、攻撃時に対象の強化状態を1つ解除＆解除成功時、〔罪の刻印〕状態を1つ消費して自身の攻撃力をアップ(3ターン)する状態」を付与(3ターン)＆「ガッツ発動時、〔罪の刻印〕状態を1つ消費して自身の攻撃力をアップ(3ターン)する状態」を付与(3ターン)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
   },
   "自身のNPを増やす[{0}]＆クリティカル威力をアップ[{0}](3ターン)＆スター集中度をアップ[{0}](1ターン)": {
     "JP": null,
@@ -26398,7 +26587,7 @@
   },
   "自身のNP獲得量を15%アップ＆「ガッツ発動時に自身のNPを20%増やす状態」を付与＆NPを30%チャージした状態でバトルを開始する": {
     "JP": null,
-    "CN": null,
+    "CN": "自身的NP获得量提升15%＆付与「毅力发动时，自身NP增加20%」的状态＆以NP已达30%的状态开始战斗",
     "TW": null,
     "NA": "Increases own NP generation rate by 15%.\n Grants self {{On-Guts-Activate}} buff.\n( Charges own NP by 20% when Guts status is activated.)\n Starts battle with 30% NP gauge charged.",
     "KR": null
@@ -26531,7 +26720,7 @@
   },
   "自身のNP獲得量を20%アップ＆「ガッツ発動時に自身のNPを20%増やす状態」を付与＆NPを50%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
-    "CN": null,
+    "CN": "自身的NP获得量提升20%＆付与「毅力发动时，自身NP增加20%」的状态＆以NP已达50%的状态开始战斗[最大解放]",
     "TW": null,
     "NA": "Increases own NP generation rate by 20%.\n Grants self {{On-Guts-Activate}} buff.\n( Charges own NP by 20% when Guts status is activated.)\n Starts battle with 50% NP gauge charged.",
     "KR": null
@@ -27164,7 +27353,7 @@
     "CN": "自身的Quick指令卡性能提升10%＆Arts指令卡性能提升10%",
     "TW": "自身的Quick指令卡性能提升10%＆Arts指令卡性能提升10%",
     "NA": "Increases Quick performance by 10%.\n Increases Arts performance by 10%.",
-    "KR": null
+    "KR": "자신의 퀵 카드 성능 10% UP&아츠 카드 성능 10% UP"
   },
   "自身のQuickカード性能を10%アップ＆Artsカード性能を10%アップ ＋ 登場時にスターを20個獲得(1回)[最大解放]": {
     "JP": null,
@@ -27214,6 +27403,13 @@
     "TW": "自身的Quick指令卡性能提升10%＆Arts指令卡性能提升10%＆NP獲得量提升10%[最大解放]",
     "NA": "Increase Quick Card effectiveness by 10% & Arts Card effectiveness by 10% & NP Gain by 10% for yourself [MAX]",
     "KR": "자신의 퀵 카드 성능 10% UP&아츠 카드 성능 10% UP&NP 획득량 10% UP[최대해방]"
+  },
+  "自身のQuickカード性能を10%アップ＆Artsカード性能を10%アップ＆NP獲得量を10%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)[最大解放]": {
+    "JP": null,
+    "CN": "自身的Quick指令卡性能提升10%＆Arts指令卡性能提升10%＆NP获得量提升10%＆使用宝具时充能阶段上升2级(1次)[最大解放]",
+    "TW": null,
+    "NA": "Increases Quick performance by 10%.\n Increases Arts performance by 10%.\n Increases NP generation rate by 10%.\n Overcharges NP by 2 stage for 1 time.",
+    "KR": null
   },
   "自身のQuickカード性能を10%アップ＆Artsカード性能を10%アップ＆NP獲得量を8%アップ＆NPを50%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
@@ -27577,7 +27773,7 @@
     "CN": "自身的Quick指令卡性能提升15%＆Arts指令卡性能提升15%[最大解放]",
     "TW": "自身的Quick指令卡性能提升15%＆Arts指令卡性能提升15%[最大解放]",
     "NA": "Increases Quick performance by 15%.\n Increases Arts performance by 15%.",
-    "KR": null
+    "KR": "자신의 퀵 카드 성능 15% UP&아츠 카드 성능 15% UP[최대해방]"
   },
   "自身のQuickカード性能を15%アップ＆Artsカード性能を15%アップ＆HP回復量を30%アップ[最大解放]": {
     "JP": null,
@@ -27864,7 +28060,7 @@
     "CN": "自身的Quick指令卡性能提升4%＆Arts指令卡性能提升4%＆付与每回合获得2个暴击星的状态",
     "TW": "自身Quick指令卡性能提升4%＆自身Arts指令卡性能提升4%＆賦予每回合獲得2個爆擊星狀態",
     "NA": "Increases Quick performance by 4%.\n Increases Arts performance by 4%.\n Gains 2 critical stars every turn.",
-    "KR": null
+    "KR": "자신의 퀵 카드 성능 4% UP&아츠 카드 성능 4% UP&매 턴 스타 2개 획득 상태 부여"
   },
   "自身のQuickカード性能を4%アップ＆Busterカード性能を4%アップ": {
     "JP": null,
@@ -27983,7 +28179,7 @@
     "CN": "自身的Quick指令卡性能提升6%＆Arts指令卡性能提升6%＆付与每回合获得3个暴击星的状态[最大解放]",
     "TW": "自身Quick指令卡性能提升6%＆自身Arts指令卡性能提升6%＆賦予每回合獲得3個爆擊星狀態[最大解放]",
     "NA": "Increases Quick performance by 6%.\n Increases Arts performance by 6%.\n Gains 3 critical stars every turn.",
-    "KR": null
+    "KR": "자신의 퀵 카드 성능 6% UP&아츠 카드 성능 6% UP&매 턴 스타 3개 획득 상태 부여[최대해방]"
   },
   "自身のQuickカード性能を6%アップ＆Busterカード性能を6%アップ[最大解放]": {
     "JP": null,
@@ -28068,6 +28264,13 @@
     "TW": "自身的Quick指令卡性能提升8%＆Arts指令卡性能提升8%＆NP獲得量提升8%",
     "NA": "Increase Quick Card effectiveness by 8% & Arts Card effectiveness by 8% & NP Gain by 8% for yourself",
     "KR": "자신의 퀵 카드 성능 8% UP&아츠 카드 성능 8% UP&NP 획득량 8% UP"
+  },
+  "自身のQuickカード性能を8%アップ＆Artsカード性能を8%アップ＆NP獲得量を8%アップ＆宝具使用時にチャージ段階を2段階分上げる(1回)": {
+    "JP": null,
+    "CN": "自身的Quick指令卡性能提升8%＆Arts指令卡性能提升8%＆NP获得量提升8%＆使用宝具时充能阶段上升2级(1次)",
+    "TW": null,
+    "NA": "Increases Quick performance by 8%.\n Increases Arts performance by 8%.\n Increases NP generation rate by 8%.\n Overcharges NP by 2 stage for 1 time.",
+    "KR": null
   },
   "自身のQuickカード性能を8%アップ＆Artsカード性能を8%アップ＆クリティカル威力を3%アップ＆宝具威力を3%アップ＆NPを30%チャージした状態でバトルを開始する": {
     "JP": null,
@@ -28405,6 +28608,13 @@
     "NA": "Increase Quick Card effectiveness [{0}] (3 turns) ▲ & Arts Card effectiveness [{0}] (3 turns) ▲ & Critical Strength [{0}] (3 turns) ▲ & greatly increase C. Star Drop Rate [{0}] (3 turns) for yourself",
     "KR": "자신의 퀵 카드 성능 UP[{0}](3턴)▲&아츠 카드 성능 UP[{0}](3턴)▲&크리티컬 위력 UP[{0}](3턴)▲&스타 발생률 크게 UP[{0}](3턴)"
   },
+  "自身のQuickカード性能をアップ[{0}](3ターン)▲＆Busterカード性能をアップ[{0}](3ターン▲)＆宝具威力をアップ[{0}](3ターン▲)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "自身のQuickカード性能をアップ[{0}](3ターン)▲＆クリティカル威力をアップ[{0}](3ターン)▲＆スター発生率をアップ▲[{0}](3ターン)": {
     "JP": null,
     "CN": "自身的Quick指令卡性能提升[{0}](3回合)▲＆暴击威力提升[{0}](3回合)▲＆暴击星掉落率提升▲[{0}](3回合)",
@@ -28444,6 +28654,13 @@
     "JP": null,
     "CN": null,
     "TW": "自身的Quick指令卡性能提升[{0}](3回合)＆Arts指令卡性能提升[{0}](3回合)＆Buster指令卡性能提升[{0}](3回合)＆「Quick通常攻擊時賦予自身回避(1回合)的狀態」(2次・3回合)＆「Arts通常攻擊時賦予自身NP增加的狀態」(3回合)＆「Buster通常攻擊時賦予自身爆擊威力提升的狀態」(3回合)",
+    "NA": null,
+    "KR": null
+  },
+  "自身のQuickカード性能をアップ[{0}](3ターン)＆Artsカード性能をアップ[{0}](3ターン)＆Busterカード性能をアップ[{0}](3ターン)＆ガッツ状態を付与(1回・3ターン)": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -28716,7 +28933,7 @@
   "自身のQuickカード性能をアップ[{0}](3ターン)＆攻撃力をアップ[{0}](3ターン)＆「Quick通常攻撃時に自身のNPを増やす[{0}]状態」を付与(3ターン) ": {
     "JP": null,
     "CN": "自身的Quick指令卡性能提升[{0}](3回合)＆攻击力提升[{0}](3回合)＆付与「迅普通攻击时自身的NP增加[{0}]的状态」(3回合)",
-    "TW": "自身的Quick指令卡性能提升[{0}](3回合)＆攻擊力提升[{0}](3回合)＆賦予「Quick普通攻擊時自身的NP增加[{0}]狀態」的狀態(3回合)",
+    "TW": "自身的Quick指令卡性能提升[{0}](3回合)＆攻擊力提升[{0}](3回合)＆賦予「Quick普通攻擊時自身的NP增加[{0}]的狀態」(3回合)",
     "NA": "Increase Quick Card effectiveness [{0}] (3 turns) & increase ATK [{0}] (3 turns) & Apply a state that\"Increase own NP Gauge [{0}] during Quick normal attacks\" (3 turns)",
     "KR": "자신의 퀵 카드 성능 UP[{0}](3턴)&공격력 UP[{0}](3턴)&‘퀵 통상 공격 시 자신의 NP 증가[{0}] 상태’ 부여(3턴) "
   },
@@ -28741,6 +28958,13 @@
     "NA": "Increase Quick Card effectiveness [{0}] (3 turns) & apply Invincible (1 turn) for yourself + Apply Evade (1 time) for all allies + Decrease 500 HP for all allies excluding yourself [Demerit]",
     "KR": "자신의 퀵 카드 성능 UP[{0}](3턴)&무적 상태 부여(1턴) + 아군 전체에게 회피 상태 부여(1회) + 자신을 제외한 아군 전체의 HP 500감소【단점】"
   },
+  "自身のQuickカード性能をアップ[{0}](3ターン▲)＆Artsカード性能をアップ[{0}](3ターン)▲＆精神異常耐性を大アップ(3ターン)＆NPを増やす[{0}]▲": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "自身のQuickカード性能をアップ[{0}](3回・3ターン)＆Busterカード性能をアップ[{0}](3回・3ターン)＆クリティカル威力をアップ[{0}](3ターン)": {
     "JP": null,
     "CN": "自身的Quick指令卡性能提升[{0}](3次·3回合)＆Buster指令卡性能提升[{0}](3次·3回合)＆暴击威力提升[{0}](3回合)",
@@ -28759,7 +28983,7 @@
     "JP": null,
     "CN": "自身的Quick指令卡性能提升[{0}](3次·3回合▲)＆Arts指令卡性能提升[{0}](3次·3回合▲)＆Buster指令卡性能提升[{0}](3次·3回合▲)＆NP增加[{0}]▲",
     "TW": "自身的Quick指令卡性能提升[{0}](3次．3回合▲)＆Arts指令卡性能提升[{0}](3次．3回合▲)＆Buster指令卡性能提升[{0}](3次．3回合▲)＆NP增加[{0}]▲",
-    "NA": "Increase Quick Card effectiveness [{0}] (3 times, 3 turns▲) & increase Arts Card effectiveness [{0}] (3 times, 3 turns▲)  & increase Buster Card effectiveness [{0}] (3 times, 3 turns▲) & increase NP Gauge [{0}]▲ for yourself",
+    "NA": "Increase Quick [{0}] (3 times, 3 turns ▲) & Arts [{0}] (3 times, 3 turns ▲) & Buster [{0}] (3 times, 3 turns ▲) Card effectiveness & increase NP Gauge [{0}] ▲ for yourself",
     "KR": "자신의 퀵 카드 성능 UP[{0}](3회・3턴▲)&아츠 카드 성능 UP[{0}](3회・3턴▲)&버스터 카드 성능 UP[{0}](3회・3턴▲)&NP 증가[{0}]▲"
   },
   "自身のQuickカード性能をアップ[{0}](3回・5ターン)＆スター発生率をアップ[{0}](3回・5ターン)": {
@@ -28948,35 +29172,35 @@
     "JP": null,
     "CN": "自身在『CBC2024 迦勒底重工故事』中的攻击威力提升100%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "自身在『CBC2024 迦勒底重工故事』中的攻擊威力提升100%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase ATK Strength by 100% for yourself in \"CBC2023 Tales of Chaldean Heavy Industries\" [MAX] [Event Only]",
+    "NA": "Increase ATK Strength by 100% for yourself in \"CBC 2025: The Story of Chaldea Heavy Industries\" [Event Only]",
     "KR": "“CBC 2024 칼데아 중공 이야기” 에서 자신의 공격 위력 100% UP[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "自身の『CBC2023 カルデア重工物語』における攻撃の威力を50%アップ【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『CBC2024 迦勒底重工故事』中的攻击威力提升50%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "自身在『CBC2024 迦勒底重工故事』中的攻擊威力提升50%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase ATK Strength by 50% for yourself in \"CBC2023 Tales of Chaldean Heavy Industries\" [MAX] [Event Only]",
+    "NA": "Increase ATK Strength by 50% for yourself in \"CBC 2025: The Story of Chaldea Heavy Industries\" [Event Only]",
     "KR": "“CBC 2024 칼데아 중공 이야기” 에서 자신의 공격 위력 50% UP[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "自身の『CBC2023 カルデア重工物語』のクエストクリア時に得られる絆を20%増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『CBC2024 迦勒底重工故事』关卡通关时获得的牵绊值提升20%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "自身在『CBC2024 迦勒底重工故事』任務通關時獲得的羈絆點數提升20%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Bond gained when completing quests in \"CBC2023 Tales of Chaldean Heavy Industries\" by 20% for yourself [Event Only]",
+    "NA": "Increase Bond gained when completing quests in \"CBC 2025: The Story of Chaldea Heavy Industries\" by 20% for yourself [Event Only]",
     "KR": "자신의 “CBC 2024 칼데아 중공 이야기” 의 퀘스트 클리어 시 얻는 인연포인트 20% 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "自身の『CBC2023 カルデア重工物語』のクエストクリア時に得られる絆を30%増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『CBC2024 迦勒底重工故事』关卡通关时获得的牵绊值提升30%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "自身在『CBC2024 迦勒底重工故事』任務通關時獲得的羈絆點數提升30%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Bond gained when completing quests in \"CBC2023 Tales of Chaldean Heavy Industries\" by 30% for yourself [Event Only]",
+    "NA": "Increase Bond gained when completing quests in \"CBC 2025: The Story of Chaldea Heavy Industries\" by 30% for yourself [Event Only]",
     "KR": "자신의 “CBC 2024 칼데아 중공 이야기” 의 퀘스트 클리어 시 얻는 인연포인트 30% 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "自身の『CBC2023 カルデア重工物語』のクエストクリア時に得られる絆を50%増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『CBC2024 迦勒底重工故事』关卡通关时获得的牵绊值提升50%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "自身在『CBC2024 迦勒底重工故事』任務通關時獲得的羈絆點數提升50%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Bond gained when completing quests in \"CBC2023 Tales of Chaldean Heavy Industries\" by 50% for yourself [Event Only]",
+    "NA": "Increase Bond gained when completing quests in \"CBC 2025: The Story of Chaldea Heavy Industries\" by 50% for yourself [Event Only]",
     "KR": "자신의 “CBC 2024 칼데아 중공 이야기” 의 퀘스트 클리어 시 얻는 인연포인트 50% 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "自身の『CBC2024 シャルルマーニュのモンジョワ・騎士道！』における攻撃の威力を100%アップ【『CBC2024 シャルルマーニュのモンジョワ・騎士道！』イベント期間限定】": {
@@ -29011,6 +29235,48 @@
     "JP": null,
     "CN": "自身在『CBC2025 查理曼的蒙茹瓦骑士道！』关卡通关时获得的牵绊值提升50%【『CBC2025 查理曼的蒙茹瓦骑士道！』活动限定】",
     "TW": "自身在『CBC2024 查理曼的Montjoie騎士道！』中的羈絆值提升50%【『CBC2024 查理曼的Montjoie騎士道！』活動限定】",
+    "NA": null,
+    "KR": null
+  },
+  "自身の『CBC2025 彼の名はダンテ』における攻撃の威力を100%アップ【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": "自身在『CBC2025 他名为但丁』中的攻击威力提升100%【『CBC2025 他名为但丁』活动限定】",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『CBC2025 彼の名はダンテ』における攻撃の威力を30%アップ【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": "自身在『CBC2025 他名为但丁』中的攻击威力提升30%【『CBC2025 他名为但丁』活动限定】",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『CBC2025 彼の名はダンテ』における攻撃の威力を50%アップ【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": "自身在『CBC2025 他名为但丁』中的攻击威力提升50%【『CBC2025 他名为但丁』活动限定】",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『CBC2025 彼の名はダンテ』のクエストクリア時に得られる絆を20%増やす【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『CBC2025 彼の名はダンテ』のクエストクリア時に得られる絆を30%増やす【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『CBC2025 彼の名はダンテ』のクエストクリア時に得られる絆を50%増やす【『CBC2025 彼の名はダンテ』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -29579,14 +29845,14 @@
     "CN": "自身在『魔眼·交响曲』中的关卡通关时获得的牵绊值提升100%(作为助战时无效)【『魔眼·交响曲』活动限定】",
     "TW": "自身在『魔眼交響曲』任務通關時獲得的羈絆點數提升100%(作為支援時無效)【『魔眼交響曲』活動限定】",
     "NA": "Increase Bond gained when completing quests in \"Mystic Eyes Symphony\" by 100% for yourself (No effect when Support) [Event Only]",
-    "KR": null
+    "KR": "자신의 “미스틱 아이즈 심포니” 이벤트 퀘스트 클리어 시 얻는 인연 포인트 100% 증가(서포트 시는 무효)[“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "自身の『ミスティックアイズ・シンフォニー』のクエストクリア時に得られる絆を200%増やす(サポート時は無効)[最大解放]【『ミスティックアイズ・シンフォニー』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『魔眼·交响曲』中的关卡通关时获得的牵绊值提升200%(作为助战时无效)[最大解放]【『魔眼·交响曲』活动限定】",
     "TW": "自身在『魔眼交響曲』任務通關時獲得的羈絆點數提升200%(作為支援時無效)[最大解放]【『魔眼交響曲』活動限定】",
     "NA": "Increase Bond gained when completing quests in \"Mystic Eyes Symphony\" by 100% for yourself (No effect when Support) [MAX] [Event Only]",
-    "KR": null
+    "KR": "자신의 “미스틱 아이즈 심포니” 이벤트 퀘스트 클리어 시 얻는 인연 포인트 200% 증가(서포트 시는 무효)[최대해방][“미스틱 아이즈 심포니” 이벤트 기간한정]"
   },
   "自身の『メイキング・クリスマス・パーティー！』における攻撃の威力を100%アップ＆クエストクリア時に得られる絆を50%増やす【『メイキング・クリスマス・パーティー！』イベント期間限定】": {
     "JP": null,
@@ -29667,22 +29933,43 @@
   },
   "自身の『妖精双六虫籠遊戯』における攻撃の威力を100%アップ＆クエストクリア時に得られる絆を50%増やす【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "自身在『妖精双六虫笼游戏』中的攻击威力提升100%＆关卡通关时获得的牵绊值提升50%【『妖精双六虫笼游戏』活动限定】",
     "TW": "自身在『妖精雙六蟲籠遊戲』中的攻擊威力提升100%＆任務通關時獲得的羈絆點數提升50%【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "自身の『妖精双六虫籠遊戯』における攻撃の威力を30%アップ＆クエストクリア時に得られる絆を20%増やす【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "自身在『妖精双六虫笼游戏』中的攻击威力提升30%＆关卡通关时获得的牵绊值提升20%【『妖精双六虫笼游戏』活动限定】",
     "TW": "自身在『妖精雙六蟲籠遊戲』中的攻擊威力提升30%＆任務通關時獲得的羈絆點數提升20%【『妖精雙六蟲籠遊戲』活動限定】",
     "NA": null,
     "KR": null
   },
   "自身の『妖精双六虫籠遊戯』における攻撃の威力を50%アップ＆クエストクリア時に得られる絆を20%増やす【『妖精双六虫籠遊戯』イベント期間限定】": {
     "JP": null,
-    "CN": null,
+    "CN": "自身在『妖精双六虫笼游戏』中的攻击威力提升50%＆关卡通关时获得的牵绊值提升20%【『妖精双六虫笼游戏』活动限定】",
     "TW": "自身在『妖精雙六蟲籠遊戲』中的攻擊威力提升50%＆任務通關時獲得的羈絆點數提升20%【『妖精雙六蟲籠遊戲』活動限定】",
+    "NA": null,
+    "KR": null
+  },
+  "自身の『小野小町古今抄』におけるArtsカードの威力を50%アップ＆クエストクリア時に得られる絆を50%増やす【『小野小町古今抄』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『小野小町古今抄』におけるBusterカードの威力を50%アップ＆クエストクリア時に得られる絆を50%増やす【『小野小町古今抄』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
+  "自身の『小野小町古今抄』におけるQuickカードの威力を50%アップ＆クエストクリア時に得られる絆を50%増やす【『小野小町古今抄』イベント期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
     "NA": null,
     "KR": null
   },
@@ -29690,21 +29977,21 @@
     "JP": null,
     "CN": "自身在『小野小町古今抄』中的攻击威力提升100%＆关卡通关时获得的牵绊值提升50%【『小野小町古今抄』活动限定】",
     "TW": null,
-    "NA": null,
+    "NA": "Increase your ATK Strength by 100% in \"Ono-no-Komachi: Annotated Edition\" & increase Bond gained when completing quests by 50% [Event Only]",
     "KR": null
   },
   "自身の『小野小町古今抄』における攻撃の威力を30%アップ＆クエストクリア時に得られる絆を20%増やす【『小野小町古今抄』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『小野小町古今抄』中的攻击威力提升30%＆关卡通关时获得的牵绊值提升20%【『小野小町古今抄』活动限定】",
     "TW": null,
-    "NA": null,
+    "NA": "Increase your ATK Strength by 30% in \"Ono-no-Komachi: Annotated Edition\" & increase Bond gained when completing quests by 20% [Event Only]",
     "KR": null
   },
   "自身の『小野小町古今抄』における攻撃の威力を50%アップ＆クエストクリア時に得られる絆を20%増やす【『小野小町古今抄』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『小野小町古今抄』中的攻击威力提升50%＆关卡通关时获得的牵绊值提升20%【『小野小町古今抄』活动限定】",
     "TW": null,
-    "NA": null,
+    "NA": "Increase your ATK Strength by 50% in \"Ono-no-Komachi: Annotated Edition\" & increase Bond gained when completing quests by 20% [Event Only]",
     "KR": null
   },
   "自身の『影の国の舞闘会 ～ネコとバニーと聖杯戦争～』のフリークエストにおける攻撃の威力を20%アップ【『影の国の舞闘会 ～ネコとバニーと聖杯戦争～』イベント期間限定】": {
@@ -30305,14 +30592,14 @@
   "自身の『風雲からくりイリヤ城』における攻撃の威力を100%アップ＆クエストクリア時に得られる絆を50%増やす【『風雲からくりイリヤ城』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『风云机关伊莉雅城』中的攻击威力提升100%＆关卡通关时获得的牵绊值提升50%【『风云机关伊莉雅城』活动限定】",
-    "TW": "自身在『風雲機關伊莉雅城』中的攻擊威力提升100%＆關卡通關時獲得的羈絆值提升50%【『風雲機關伊莉雅城』活動限定】",
+    "TW": "自身在『風雲機關伊莉雅城』中的攻擊威力提升100%＆任務通關時獲得的羈絆點數提升50%【『風雲機關伊莉雅城』活動限定】",
     "NA": "Increase ATK Strength by 100% for yourself in \"Fuun Karakuri Illya's Castle\" & increase Bond gained when completing quests by 50% [Event Only]",
     "KR": "“풍운 꼭두각시 이리야성” 에서 자신의 공격 위력 100% UP&퀘스트 클리어 시 얻는 인연 포인트 50% 증가[“풍운 꼭두각시 이리야성” 이벤트 기간한정]"
   },
   "自身の『風雲からくりイリヤ城』における攻撃の威力を50%アップ＆クエストクリア時に得られる絆を20%増やす【『風雲からくりイリヤ城』イベント期間限定】": {
     "JP": null,
     "CN": "自身在『风云机关伊莉雅城』中的攻击威力提升50%＆关卡通关时获得的牵绊值提升20%【『风云机关伊莉雅城』活动限定】",
-    "TW": "自身在『風雲機關伊莉雅城』中的攻擊威力提升50%＆關卡通關時獲得的羈絆值提升20%【『風雲機關伊莉雅城』活動限定】",
+    "TW": "自身在『風雲機關伊莉雅城』中的攻擊威力提升50%＆任務通關時獲得的羈絆點數提升20%【『風雲機關伊莉雅城』活動限定】",
     "NA": "Increase ATK Strength by 50% for yourself in \"Fuun Karakuri Illya's Castle\" & increase Bond gained when completing quests by 20% [Event Only]",
     "KR": "“풍운 꼭두각시 이리야성” 에서 자신의 공격 위력 50% UP&퀘스트 클리어 시 얻는 인연 포인트 20% 증가[“풍운 꼭두각시 이리야성” 이벤트 기간한정]"
   },
@@ -31412,7 +31699,7 @@
     "JP": null,
     "CN": "自身的暴击星集中度提升100%＆付与每回合获得1个暴击星的状态",
     "TW": "自身的爆擊星集中提升100%＆賦予每回合獲得1個爆擊星的狀態",
-    "NA": "Increases critical star absorption by 100%.\n Gains 1 critical star every turn.",
+    "NA": "Increase C. Star Gather Rate by 100% & gain 1 C. Star each turn for yourself",
     "KR": "자신의 스타 집중도 100% UP&매 턴 스타 1개 획득 상태 부여"
   },
   "自身のスター集中度を200%アップ": {
@@ -31510,7 +31797,7 @@
     "JP": null,
     "CN": "自身的暴击星集中度提升200%＆付与每回合获得2个暴击星的状态[最大解放]",
     "TW": "自身的爆擊星集中提升200%＆賦予每回合獲得2個爆擊星的狀態[最大解放]",
-    "NA": "Increases critical star absorption by 200%.\n Gains 2 critical stars every turn.",
+    "NA": "Increase C. Star Gather Rate by 200% & gain 2 C. Stars each turn for yourself [MAX]",
     "KR": "자신의 스타 집중도 200% UP&매 턴 스타 2개 획득 상태 부여[최대해방]"
   },
   "自身のスター集中度を300%アップ(3ターン)＆弱体耐性を15%アップ(3ターン)": {
@@ -31547,6 +31834,13 @@
     "TW": "自身的爆擊星集中提升300%＆Arts指令卡性能提升8%",
     "NA": "Increase C. Star Gather Rate by 300% & Arts Card effectiveness by 8% for yourself",
     "KR": "자신의 스타 집중도 300% UP&아츠 카드 성능 8% UP"
+  },
+  "自身のスター集中度を300%アップ＆Busterカード性能を3%アップ＆クリティカル威力を5%アップ": {
+    "JP": null,
+    "CN": "自身的暴击星集中度提升300%＆Buster指令卡性能提升3%＆暴击威力提升5%",
+    "TW": null,
+    "NA": "Increases critical star absorption by 300%.\n Increases Buster performance by 3%.\n Increases critical damage by 5%.",
+    "KR": null
   },
   "自身のスター集中度を300%アップ＆NP獲得量を10%アップ": {
     "JP": null,
@@ -31631,6 +31925,13 @@
     "TW": "自身的爆擊星集中提升400%＆Buster指令卡性能提升10%",
     "NA": "Increase C. Star Gather Rate by 400% & Buster Card effectiveness by 10% for yourself",
     "KR": "자신의 스타 집중도 400% UP&버스터 카드 성능 10% UP"
+  },
+  "自身のスター集中度を400%アップ＆Busterカード性能を5%アップ＆クリティカル威力を10%アップ[最大解放]": {
+    "JP": null,
+    "CN": "自身的暴击星集中度提升400%＆Buster指令卡性能提升5%＆暴击威力提升10%[最大解放]",
+    "TW": null,
+    "NA": "Increases critical star absorption by 400%.\n Increases Buster performance by 5%.\n Increases critical damage by 10%.",
+    "KR": null
   },
   "自身のスター集中度を400%アップ＆NP獲得量を15%アップ[最大解放]": {
     "JP": null,
@@ -32645,7 +32946,7 @@
     "CN": "自身的宝具威力提升[{0}](3回合)＆所有指令卡变更为技类型(1回合)＆付与无敌贯通状态(1回合)",
     "TW": "自身寶具威力提升[{0}](3回合)＆所有指令卡變更為Arts類型(1回合)＆無敵貫通狀態(1回合)",
     "NA": "Increase NP Strength [{0}] (3 turns) & change all Command Cards to Arts type (1 turn) & apply Ignore Invincible (1 turn) for yourself",
-    "KR": null
+    "KR": "자신의 보구 위력 UP[{0}](3턴)&모든 커맨드 카드를 아츠 타입으로 변경(1턴)&무적 관통 상태 부여(1턴)"
   },
   "自身の宝具威力をアップ[{0}](3ターン)＆宝具チェンジ状態<宝具を全体攻撃宝具から単体攻撃宝具に変化させる状態>を付与(3ターン)【チェンジするか選択可能】＆〔超巨大〕特性を付与(3ターン)": {
     "JP": null,
@@ -32677,7 +32978,7 @@
   },
   "自身の弱体付与成功率を10%アップ＆NPを20%チャージした状態でバトルを開始する[最大解放]": {
     "JP": null,
-    "CN": null,
+    "CN": "自身的弱化付与成功率提升10%＆以NP已达20%的状态开始战斗[最大解放]",
     "TW": null,
     "NA": "Increases own debuff success rate by 10%.\n Starts battle with 20% NP gauge charged.",
     "KR": null
@@ -32733,7 +33034,7 @@
   },
   "自身の弱体付与成功率を5%アップ＆NPを10%チャージした状態でバトルを開始する": {
     "JP": null,
-    "CN": null,
+    "CN": "自身的弱化付与成功率提升5% ＆以NP已达10%的状态开始战斗",
     "TW": null,
     "NA": "Increases own debuff success rate by 5%.\n Starts battle with 10% NP gauge charged.",
     "KR": null
@@ -32776,7 +33077,7 @@
   "自身の弱体付与成功率を少しアップ＆Quickカード性能を少しアップ": {
     "JP": null,
     "CN": "自身的弱化付与成功率小幅提升＆Quick指令卡性能小幅提升",
-    "TW": "自身的弱化狀態成功率小幅提升＆Quick指令卡性能小幅提升",
+    "TW": "自身的弱化賦予成功率小幅提升＆Quick指令卡性能小幅提升",
     "NA": "Slightly increase Debuff Success Rate & Arts Card effectiveness for yourself",
     "KR": "자신의 약화 부여 성공률을 조금 UP&퀵 카드 성능 조금 UP"
   },
@@ -33116,6 +33417,13 @@
     "NA": null,
     "KR": null
   },
+  "自身の攻撃の威力を50%アップ【巡霊の祝祭 第10弾期間限定】": {
+    "JP": null,
+    "CN": null,
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "自身の攻撃の威力を50%アップ【巡霊の祝祭 第1弾期間限定】": {
     "JP": null,
     "CN": "自身的攻击威力提升50%【巡灵的祝祭 第1弹限定】",
@@ -33135,7 +33443,7 @@
     "CN": "自身的攻击威力提升50%【巡灵的祝祭 第3弹限定】",
     "TW": "自身的攻擊威力提升50%【巡靈的祝祭 第3彈期間限定】",
     "NA": "Increase ATK Strength by 50% for yourself [During Evocation Festival Part 3]",
-    "KR": null
+    "KR": "자신의 공격 위력 50% UP [순령의 축제 제3탄 캠페인 기간]"
   },
   "自身の攻撃の威力を50%アップ【巡霊の祝祭 第4弾期間限定】": {
     "JP": null,
@@ -33226,7 +33534,7 @@
     "CN": "自身的攻击力提升25%(3回合)＆被暴击发生耐性提升25%(3回合)",
     "TW": "自身的攻擊力提升25%(3回合)＆被爆擊發生耐性提升25%(3回合)",
     "NA": "Increases attack by 25% for 3 turns.\n Increases critical attack chance resistance by 25% for 3 turns.",
-    "KR": null
+    "KR": "자신의 공격력 25% UP(3턴)&받는 크리티컬 발생 내성 25% UP(3턴)"
   },
   "自身の攻撃力を25%アップ(3ターン)＆防御力を25%アップ(3ターン)": {
     "JP": null,
@@ -33240,7 +33548,7 @@
     "CN": "自身的攻击力提升30%(3回合)＆被暴击发生耐性提升30%(3回合)[最大解放]",
     "TW": "自身的攻擊力提升30%(3回合)＆被爆擊發生耐性提升30%(3回合)[最大解放]",
     "NA": "Increases attack by 30% for 3 turns.\n Increases critical attack chance resistance by 30% for 3 turns.",
-    "KR": null
+    "KR": "자신의 공격력 30% UP(3턴)&받는 크리티컬 발생 내성 30% UP(3턴)[최대해방]"
   },
   "自身の攻撃力を30%アップ(3ターン)＆防御力を30%アップ(3ターン)[最大解放]": {
     "JP": null,
@@ -33387,7 +33695,7 @@
     "CN": "自身的攻击力提升[{0}](3回合)＆付与「Quick攻击造成伤害前自身的暴击威力提升(3回合)的状态」(3回合)＆付与「Buster攻击时获得暴击星的状态」(3回合)",
     "TW": "自身的攻擊力提升[{0}](3回合)＆賦予「Quick攻擊造成傷害前，自身的爆擊威力提升(3回合)」的狀態(3回合)＆賦予「Buster攻擊時獲得爆擊星」的狀態(3回合)",
     "NA": "Increase ATK [{0}] (3 turns) & apply a state \"increase your Critical Strength before inflicting damage when attacking with a Quick Card (3 turns)\" (3 turns) &apply a state \"gain C. Star when attacking with a Buster Card\" (3 turns)",
-    "KR": null
+    "KR": "자신의 공격력 UP[{0}](3턴)&‘퀵 공격 시 대미지 전에 자신의 크리티컬 위력 UP(3턴) 하는 상태’ 부여(3턴)&‘버스터 공격 시 스타를 획득하는 상태’ 부여(3턴)"
   },
   "自身の攻撃力をアップ[{0}](3ターン)＆「攻撃時にやけど状態(3ターン)を付与する状態」を付与(3ターン)＆毒無効状態を付与(3ターン)＆弱体無効状態を付与(3回・3ターン)": {
     "JP": null,
@@ -35114,14 +35422,14 @@
   "風雲からくりイリヤ城通行手形のドロップ獲得数を1個増やす【『風雲からくりイリヤ城』イベント期間限定】": {
     "JP": null,
     "CN": "风云机关伊莉雅城通关符的掉落获得数增加1个【『风云机关伊莉雅城』活动限定】",
-    "TW": "風雲機關伊莉雅城通行證的掉落獲得數增加1個【『風雲機關伊莉雅城』活動限定】",
+    "TW": "風雲機關伊莉雅城通行牌的掉落獲得數增加1個【『風雲機關伊莉雅城』活動限定】",
     "NA": "Increase Fuun Karakuri Illya's Castle Pass amount per drop by 1 [Event Only]",
     "KR": "풍운 꼭두각시 이리야성 통행증의 획득 개수 1개 증가[“풍운 꼭두각시 이리야성” 이벤트 기간한정]"
   },
   "風雲からくりイリヤ城通行手形のドロップ獲得数を2個増やす[最大解放]【『風雲からくりイリヤ城』イベント期間限定】": {
     "JP": null,
     "CN": "风云机关伊莉雅城通关符的掉落获得数增加2个[最大解放]【『风云机关伊莉雅城』活动限定】",
-    "TW": "風雲機關伊莉雅城通行證的掉落獲得數增加2個[最大解放]【『風雲機關伊莉雅城』活動限定】",
+    "TW": "風雲機關伊莉雅城通行牌的掉落獲得數增加2個[最大解放]【『風雲機關伊莉雅城』活動限定】",
     "NA": "Increase Fuun Karakuri Illya's Castle Pass amount per drop by 2 [MAX] [Event Only]",
     "KR": "풍운 꼭두각시 이리야성 통행증의 획득 개수 2개 증가[최대해방][“풍운 꼭두각시 이리야성” 이벤트 기간한정]"
   },
@@ -35255,56 +35563,56 @@
     "JP": null,
     "CN": "XIASHAN茶的掉落获得数增加1个【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "SAYAMA茶的掉落獲得數增加1個【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase SAYAMA Ocha amount per drop by 1 [Event Only]",
+    "NA": "Increase SAYAMA Tea amount per drop by 1 [Event Only]",
     "KR": "이벤트 퀘스트에서 SAYAMA 차의 획득 개수 1개 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＳＡＹＡＭＡ茶のドロップ獲得数を2個増やす[最大解放]【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "XIASHAN茶的掉落获得数增加2个[最大解放]【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "SAYAMA茶的掉落獲得數增加2個[最大解放]【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase SAYAMA Ocha amount per drop by 2 [MAX] [Event Only]",
+    "NA": "Increase SAYAMA Tea amount per drop by 2 [MAX] [Event Only]",
     "KR": "이벤트 퀘스트에서 SAYAMA 차의 획득 개수 2개 증가[최대해방][“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＡＫＡＳＵＧＩポイントのドロップ獲得量を10%増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "GAOSHAN点数的掉落获得量提升10%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "TAKASUGI點數的掉落獲得量提升10%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Takasugi Point amount per drop by 10% [Event Only]",
+    "NA": "Increase TAKASUGI Points amount per drop by 10% [Event Only]",
     "KR": "이벤트 퀘스트에서 TAKASUGI 포인트의 획득량 10% 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＡＫＡＳＵＧＩポイントのドロップ獲得量を20%増やす[最大解放]【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "GAOSHAN点数的掉落获得量提升20%[最大解放]【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "TAKASUGI點數的掉落獲得量提升20%[最大解放]【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Takasugi Point amount per drop by 20% [MAX] [Event Only]",
+    "NA": "Increase TAKASUGI Points amount per drop by 20% [MAX] [Event Only]",
     "KR": "이벤트 퀘스트에서 TAKASUGI 포인트의 획득량 20% 증가[최대해방][“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＡＫＡＳＵＧＩポイントのドロップ獲得量を20%増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "GAOSHAN点数的掉落获得量提升20%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "TAKASUGI點數的掉落獲得量提升20%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Takasugi Point amount per drop by 20% [Event Only]",
+    "NA": "Increase TAKASUGI Points amount per drop by 20% [Event Only]",
     "KR": "이벤트 퀘스트에서 TAKASUGI 포인트의 획득량 20% 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＡＫＡＳＵＧＩポイントのドロップ獲得量を30%増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "GAOSHAN点数的掉落获得量提升30%【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "TAKASUGI點數的掉落獲得量提升30%【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Takasugi Point amount per drop by 30% [Event Only]",
+    "NA": "Increase TAKASUGI Points amount per drop by 30% [Event Only]",
     "KR": "이벤트 퀘스트에서 TAKASUGI 포인트의 획득량 30% 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＡＫＡＳＵＧＩポイントのドロップ獲得量を40%増やす[最大解放]【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "GAOSHAN点数的掉落获得量提升40%[最大解放]【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "TAKASUGI點數的掉落獲得量提升40%[最大解放]【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Takasugi Point amount per drop by 40% [MAX] [Event Only]",
+    "NA": "Increase TAKASUGI Points amount per drop by 40% [MAX] [Event Only]",
     "KR": "이벤트 퀘스트에서 TAKASUGI 포인트의 획득량 40% 증가[최대해방][“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＡＫＡＳＵＧＩポイントのドロップ獲得量を60%増やす[最大解放]【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "GAOSHAN点数的掉落获得量提升60%[最大解放]【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "TAKASUGI點數的掉落獲得量提升60%[最大解放]【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase Takasugi Point amount per drop by 60% [MAX] [Event Only]",
+    "NA": "Increase TAKASUGI Points amount per drop by 60% [MAX] [Event Only]",
     "KR": "이벤트 퀘스트에서 TAKASUGI 포인트의 획득량 60% 증가[최대해방][“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＴＹＰＥ Ｉ系のエネミーの追加出現率を20%アップ【『Fate/EXTRA CCC スペシャルイベント復刻版』イベント期間限定】": {
@@ -35339,28 +35647,28 @@
     "JP": null,
     "CN": "CAOXIE猪排饭的掉落获得数增加1个【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "WARAJI豬排飯的掉落獲得數增加1個【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase WARAJI Katsudon amount per drop by 1 [Event Only]",
+    "NA": "Increase WARAJI Katsu Don amount per drop by 1 [Event Only]",
     "KR": "이벤트 퀘스트에서 WARAJI 카츠동의 획득 개수 1개 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＷＡＲＡＪＩカツ丼のドロップ獲得数を2個増やす[最大解放]【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "CAOXIE猪排饭的掉落获得数增加2个[最大解放]【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "WARAJI豬排飯的掉落獲得數增加2個[最大解放]【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase WARAJI Katsudon amount per drop by 2 [MAX] [Event Only]",
+    "NA": "Increase WARAJI Katsu Don amount per drop by 2 [MAX] [Event Only]",
     "KR": "이벤트 퀘스트에서 WARAJI 카츠동의 획득 개수 2개 증가[최대해방][“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＺＥＲＹフライのドロップ獲得数を1個増やす【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "ZERY豆饼的掉落获得数增加1个【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "ZERY可樂餅的掉落獲得數增加1個【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase ZERY Deep-Fry amount per drop by 1 [Event Only]",
+    "NA": "Increase ZELLY Fry amount per drop by 1 [Event Only]",
     "KR": "이벤트 퀘스트에서 ZERY 프라이의 획득 개수 1개 증가[“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   },
   "ＺＥＲＹフライのドロップ獲得数を2個増やす[最大解放]【『CBC2023 カルデア重工物語』イベント期間限定】": {
     "JP": null,
     "CN": "ZERY豆饼的掉落获得数增加2个[最大解放]【『CBC2024 迦勒底重工故事』活动限定】",
     "TW": "ZERY可樂餅的掉落獲得數增加2個[最大解放]【『CBC2024 迦勒底重工故事』活動限定】",
-    "NA": "Increase ZERY Deep-Fry amount per drop by 2 [MAX] [Event Only]",
+    "NA": "Increase ZELLY Fry amount per drop by 2 [MAX] [Event Only]",
     "KR": "이벤트 퀘스트에서 ZERY 프라이의 획득 개수 2개 증가[최대해방][“CBC 2024 칼데아 중공 이야기” 이벤트 기간한정]"
   }
 }

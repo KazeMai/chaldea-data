@@ -86,7 +86,7 @@
   "からくりげほう・ししふんじん": {
     "JP": null,
     "CN": "Karakurigehou Shishifunjin",
-    "TW": null,
+    "TW": "Karakurigehou Shishifunjin",
     "NA": "Mechanical Heterodox Art - Ferocious like a Lion",
     "KR": "꼭두각시 외법・사자분신"
   },
@@ -430,7 +430,7 @@
     "JP": null,
     "CN": "Choukyuuishin Kiheitai",
     "TW": "Choukyuuishin Kiheitai",
-    "NA": "Ultra-Advanced Reformation - Kiheitai",
+    "NA": "Super Restoration, Kiheitai",
     "KR": "초급유신・기병대"
   },
   "つばめがえし": {
@@ -1432,7 +1432,7 @@
     "CN": "Chrysaor",
     "TW": null,
     "NA": "Chrysaor",
-    "KR": null
+    "KR": "크리사오르"
   },
   "クリード・コインヘン": {
     "JP": null,
@@ -1677,7 +1677,7 @@
     "CN": "Samhara Kali",
     "TW": null,
     "NA": "Samhara Kali",
-    "KR": null
+    "KR": "삼하라・칼리"
   },
   "ザジガーニエ・アンリマユ": {
     "JP": null,
@@ -1747,7 +1747,7 @@
     "CN": "Jai Kaurava",
     "TW": null,
     "NA": "Jai Kaurava",
-    "KR": null
+    "KR": "자이 카우라바"
   },
   "ジュワユーズ・オルドル": {
     "JP": null,
@@ -2643,7 +2643,7 @@
     "CN": "Mahisasuramardini",
     "TW": null,
     "NA": "Mahisasuramardini",
-    "KR": null
+    "KR": "마히샤수라 마르디니"
   },
   "マリア・ザ・リッパー": {
     "JP": null,
@@ -2692,7 +2692,7 @@
     "CN": "Maruti Vayuputra",
     "TW": null,
     "NA": "Maruthi Vayuputra",
-    "KR": null
+    "KR": "마루티 바유푸트라"
   },
   "メタボ・ピグレッツ": {
     "JP": null,
@@ -2799,6 +2799,13 @@
     "NA": "Ragnarök Lífþrasir",
     "KR": "라그나로크・리브스라시르"
   },
+  "ラシャーテ・オーニ・スペランツァ、ヴォイ・ケントラーテ": {
+    "JP": null,
+    "CN": "Lasciate ogne speranza, voi ch'intrate",
+    "TW": null,
+    "NA": null,
+    "KR": null
+  },
   "ラストサン・シバルバー": {
     "JP": null,
     "CN": "Last Sun Xibalba",
@@ -2901,7 +2908,7 @@
     "JP": null,
     "CN": "Legendum Papa Thronus",
     "TW": "Legendum Papa Thronus",
-    "NA": "Legendum Papal Thronus",
+    "NA": "Legendum Papa Thronus",
     "KR": "레전덤・파파・트로누스"
   },
   "レベリオン・ウ・モンド": {

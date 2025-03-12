@@ -930,6 +930,13 @@
     "NA": "Southern African Area",
     "KR": null
   },
+  "アメリカ中央部エリア": {
+    "JP": null,
+    "CN": "美洲中部地区",
+    "TW": null,
+    "NA": "Central United States Area",
+    "KR": null
+  },
   "アメリカ南部エリア": {
     "JP": null,
     "CN": "美洲南部区域",
@@ -949,7 +956,7 @@
     "CN": "美洲西部区域",
     "TW": "美洲西部地區",
     "NA": "Western United States Area",
-    "KR": null
+    "KR": "서아메리카 에어리어"
   },
   "アラビアエリア": {
     "JP": null,
@@ -1131,7 +1138,7 @@
     "CN": "埃及区域",
     "TW": "埃及地區",
     "NA": "Egyptian Area",
-    "KR": null
+    "KR": "이집트 에어리어"
   },
   "エディンバラ": {
     "JP": null,
@@ -1159,7 +1166,7 @@
     "CN": "错误点",
     "TW": "錯誤點",
     "NA": "Error Point",
-    "KR": null
+    "KR": "에러 포인트"
   },
   "エリス島": {
     "JP": null,
@@ -1194,7 +1201,7 @@
     "CN": "大洋洲北部区域",
     "TW": "大洋洲北部地區",
     "NA": "Northern Oceania Area",
-    "KR": null
+    "KR": "오세아니아 북부 에어리어"
   },
   "オセアニア南部エリア": {
     "JP": null,
@@ -2538,7 +2545,7 @@
     "CN": "夏威夷区域",
     "TW": "夏威夷地區",
     "NA": "Hawaiian Area",
-    "KR": null
+    "KR": "하와이 에어리어"
   },
   "ハーバーストリート": {
     "JP": null,
@@ -3420,7 +3427,7 @@
     "CN": "俄罗斯区域",
     "TW": "俄羅斯地區",
     "NA": "Russian Area",
-    "KR": null
+    "KR": "러시아 에어리어"
   },
   "ロスト・エルサレム": {
     "JP": null,
@@ -3868,21 +3875,21 @@
     "CN": "修理部内区",
     "TW": "修理部內部區域",
     "NA": "Repair Department Inner Section",
-    "KR": null
+    "KR": "수리부 내 구획"
   },
   "修理部本部": {
     "JP": null,
     "CN": "修理部总部",
     "TW": "修理部總部",
     "NA": "Repair Department Headquarters",
-    "KR": null
+    "KR": "수리부 본부"
   },
   "修理部郊外": {
     "JP": null,
     "CN": "修理部郊外",
     "TW": "修理部郊外",
     "NA": "Repair Department Suburbs",
-    "KR": null
+    "KR": "수리부 교외"
   },
   "修行惑星ケルトント": {
     "JP": null,
@@ -4701,7 +4708,7 @@
     "CN": "外围部",
     "TW": "外周部",
     "NA": "Outer Perimeter",
-    "KR": null
+    "KR": "외주부"
   },
   "夢うつつな廊下": {
     "JP": null,
@@ -5086,7 +5093,7 @@
     "CN": "宝物库",
     "TW": "寶物庫",
     "NA": "Treasury",
-    "KR": "보물 창고"
+    "KR": "보물창고"
   },
   "宝物神殿": {
     "JP": null,
@@ -6052,7 +6059,7 @@
     "CN": "日本区域",
     "TW": "日本地區",
     "NA": "Japan Area",
-    "KR": null
+    "KR": "일본 에어리어"
   },
   "日本橋": {
     "JP": null,
@@ -6549,7 +6556,7 @@
     "CN": "东欧区域",
     "TW": "東歐地區",
     "NA": "Eastern European Area",
-    "KR": null
+    "KR": "동유럽 에어리어"
   },
   "東海道覇王": {
     "JP": null,
@@ -6724,7 +6731,7 @@
     "CN": "构筑部本部",
     "TW": "構築部總部",
     "NA": "Build Department Headquarters",
-    "KR": null
+    "KR": "구축부 본부"
   },
   "横須賀": {
     "JP": null,
@@ -7526,7 +7533,7 @@
   },
   "特別航路": {
     "JP": null,
-    "CN": null,
+    "CN": "特别航路",
     "TW": null,
     "NA": "Special Route",
     "KR": null
@@ -7683,14 +7690,14 @@
     "CN": "生产部本部",
     "TW": "生產部總部",
     "NA": "Grow Department Headquarters",
-    "KR": null
+    "KR": "생산부 본부"
   },
   "生産部農地": {
     "JP": null,
     "CN": "生产部农地",
     "TW": "生產部農田",
     "NA": "Grow Department Farmland",
-    "KR": null
+    "KR": "생산부 농지"
   },
   "田んぼ": {
     "JP": null,
@@ -8075,7 +8082,7 @@
     "CN": "转运部本部",
     "TW": "移送部總部",
     "NA": "Transfer Department Headquarters",
-    "KR": null
+    "KR": "이송부 본부"
   },
   "稲荷神社": {
     "JP": null,
@@ -8467,14 +8474,14 @@
     "CN": "维持部商业街",
     "TW": "維持部步道",
     "NA": "Keep Department Mall",
-    "KR": null
+    "KR": "유지부 상점가"
   },
   "維持部本部": {
     "JP": null,
     "CN": "维持部本部",
     "TW": "維持部總部",
     "NA": "Keep Department Headquarters",
-    "KR": null
+    "KR": "유지부 본부"
   },
   "綺麗な廊下": {
     "JP": null,
@@ -8488,7 +8495,7 @@
     "CN": "紧急避难区",
     "TW": "緊急避難區域",
     "NA": "Emergency Evacuation Area",
-    "KR": null
+    "KR": "긴급피난 에어리어"
   },
   "緊縛の廊下": {
     "JP": null,
@@ -9160,7 +9167,7 @@
     "CN": "角形岩山",
     "TW": "角形岩山",
     "NA": "Jagged Mountains",
-    "KR": "뿔 같은 바위산"
+    "KR": "현자의 은신처"
   },
   "訓練場": {
     "JP": null,
@@ -9202,21 +9209,21 @@
     "CN": "警防部边缘",
     "TW": "警防部外緣",
     "NA": "Defend Department Outskirts",
-    "KR": null
+    "KR": "경방부 외곽"
   },
   "警防部広場": {
     "JP": null,
     "CN": "警防部广场",
     "TW": "警防部廣場",
     "NA": "Defend Department Plaza",
-    "KR": null
+    "KR": "경방부 광장"
   },
   "警防部本部": {
     "JP": null,
     "CN": "警防部总部",
     "TW": "警防部總部",
     "NA": "Defend Department Headquarters",
-    "KR": null
+    "KR": "경방부 본부"
   },
   "豊かな海": {
     "JP": null,

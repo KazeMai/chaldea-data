@@ -1,4 +1,63 @@
 [{
+  "id": -8919530,
+  "name": "CBC2025(カルデアボーイズコレクション2025)",
+  "mcLink": "CBC2025(迦勒底男性精选2025)",
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/a/a2/CBC2025_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/cbc2025_cp_khfqj/top_banner.png"
+  },
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/cbc2025_cp/"
+  }
+}, {
+  "id": -8909737,
+  "name": "「奏章Ⅲ」クリア応援キャンペーン",
+  "mcLink": "「奏章Ⅲ」通关应援活动",
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/6/63/「奏章Ⅲ」通关应援活动_jp.png"
+  },
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/ordeal_call_3_clear_cp/"
+  }
+}, {
+  "id": -8907372,
+  "name": "「大統領特異点」クリア応援キャンペーン",
+  "mcLink": "「大总统特异点」通关应援活动",
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/1/1e/「大总统特异点」通关应援活动_jp.png"
+  },
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/olgamally_quest_clear_cp/"
+  }
+}, {
+  "id": -8902545,
+  "name": "巡霊の祝祭 第10弾",
+  "mcLink": "巡灵的祝祭_第10弹",
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/3/36/巡灵的祝祭_第10弹_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/feasts_cp10_eftgd/top_banner.png"
+  },
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/feasts_cp10/"
+  }
+}, {
+  "id": -8900702,
+  "name": "リリース3500日突破キャンペーン",
+  "mcLink": "上线3500日纪念活动",
+  "titleBanner": {
+    "JP": "https://media.fgo.wiki/7/7d/上线3500日_jp.png"
+  },
+  "officialBanner": {
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2025/3500days_epafs/top_banner.png"
+  },
+  "noticeLink": {
+    "JP": "https://news.fate-go.jp/2025/3500days/"
+  }
+}, {
   "id": -8854530,
   "name": "「FGO カルデア･サテライトステーション 2024-2025」岡山会場開催記念キャンペーン",
   "mcLink": "「FGO_迦勒底卫星基站_2024-2025」冈山会场举办纪念活动",
@@ -572,23 +631,43 @@
   "name": "カルデアボーイズコレクション2024",
   "mcLink": "迦勒底男性精选2024",
   "titleBanner": {
-    "JP": "https://media.fgo.wiki/f/fb/CBC2024_jp.png"
+    "JP": "https://media.fgo.wiki/f/fb/CBC2024_jp.png",
+    "CN": "https://media.fgo.wiki/0/04/CBC2025.png"
   },
   "officialBanner": {
-    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/cbc2024_cp_gfqda/top_banner.png"
+    "JP": "https://news.fate-go.jp/wp-content/uploads/2024/cbc2024_cp_gfqda/top_banner.png",
+    "CN": "https://i0.hdslb.com/bfs/game/127c7b92b4c2964b112f31c20a5dc90a851f21ad.png"
   },
   "noticeLink": {
-    "JP": "https://news.fate-go.jp/2024/cbc2024_cp/"
+    "JP": "https://news.fate-go.jp/2024/cbc2024_cp/",
+    "CN": "15214"
+  },
+  "startTime": {
+    "CN": 1741258800
+  },
+  "endTime": {
+    "CN": 1743055140
   }
 }, {
   "id": -8028955,
   "name": "「奏章Ⅱ」開幕直前キャンペーン",
   "mcLink": "「奏章Ⅱ」开幕前夕纪念活动",
   "titleBanner": {
-    "JP": "https://media.fgo.wiki/c/c3/「奏章Ⅱ」开幕前夕纪念活动_jp.png"
+    "JP": "https://media.fgo.wiki/c/c3/「奏章Ⅱ」开幕前夕纪念活动_jp.png",
+    "CN": "https://media.fgo.wiki/1/1a/「奏章Ⅱ」开幕前夕纪念活动.png"
+  },
+  "officialBanner": {
+    "CN": "https://i0.hdslb.com/bfs/game/1497a79a15275d9392aa2f7dbd3973e9d934cd90.png"
   },
   "noticeLink": {
-    "JP": "https://news.fate-go.jp/2024/new_chapter_cp/"
+    "JP": "https://news.fate-go.jp/2024/new_chapter_cp/",
+    "CN": "15175"
+  },
+  "startTime": {
+    "CN": 1740654000
+  },
+  "endTime": {
+    "CN": 1743436740
   }
 }, {
   "id": -7978565,
